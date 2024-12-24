@@ -39,12 +39,12 @@ def calcular_voto(votante, pesos):
 
     # Decidir voto
     if probabilidad_democrata > probabilidad_republicano:
-        return "democrat"
+        return "democrata"
     elif probabilidad_republicano > probabilidad_democrata:
-        return "republican"
+        return "republicano"
     # Empate
     else:
-        return random.choice(["democrat", "republican"])
+        return random.choice(["democrata", "republicano"])
 
 
 
@@ -55,7 +55,7 @@ def generar_votantes(turno, jugador, num_votantes=250):
 
     # Cada turno avanza 30 dias
     fecha_voto = fecha_inicial + timedelta(days=(turno - 1) * 30)
-    jugador_folder = os.path.join(output_folder, f"jugador_{jugador}")
+    jugador_folder = os.path.join(output_folder, f"jugador_{jugador.strip().lower()}")
     os.makedirs(jugador_folder, exist_ok=True)
 
 
