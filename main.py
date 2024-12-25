@@ -3,16 +3,29 @@
 import time
 import select
 import sys
-
 import random
+# import cleanup
+
 from acciones import accion_analisis, acciones_democratas, acciones_republicanas
 from players import Player
 from generador import generar_votantes
+from config import fecha_inicial
+
 from collections import Counter
+from datetime import datetime, timedelta
 
-# Duracion del turno. Estándar: 5 minutos
+
+
+
+# INCIO LIMPIO: Borrar las carpetas del juego anterior
+# cleanup.borrar_carpetas()
+
+# Variables globales (MAYUS) y no tan globales (minus) del juego
+# Estandar: 5 Minutos
 MINUTOS = 1
-
+TURNOS_TOTALES = 8
+dias_entre_turnos = 30
+fechas_turnos = [fecha_inicial + timedelta(days=i * dias_entre_turnos) for i in range(TURNOS_TOTALES)]
 
 
 
@@ -90,6 +103,8 @@ def ejecutar_analisis(jugador, coste):
             time.sleep(1)
 
             # Mensajes al jugador
+            if remaining == MINUTOS*60:
+                print(f"¡Tempus Fugit! ¡Comienza la cuenta atrás! - Tiempo: {MINUTOS} minutos")
             if remaining == 60:
                 print("Tic, tac, quedan 60 segundos")
             if remaining == 1:
@@ -120,7 +135,6 @@ def ejecutar_analisis(jugador, coste):
     
 
 
-
 def ejecutar_accion_especial(jugador, accion_especial):
     """Ejecutar lógica para acciones especiales."""
 
@@ -128,6 +142,8 @@ def ejecutar_accion_especial(jugador, accion_especial):
     numero_aleatorio = random.randint(1, 100)
     print(f"Numero: {numero_aleatorio}")
     print("Adivina un número entre 1 y 100 (1 intento):")
+
+    votantes_extra = []
 
     try:
         adivinanza = int(input("> "))
@@ -137,27 +153,36 @@ def ejecutar_accion_especial(jugador, accion_especial):
 
             if accion_especial["impacto"]["especial"] == "trump_assasination_attempt":
                 # Generar 1000 votantes demócratas
-                jugador.add_score(1000)
-                # votantes_extra = generar_votantes(turno, "Democrata", num_votantes=1000)
+                # jugador.add_score(1000)
+                # num_votantes=750 + 250 que se generan po defecto
+                votantes_extra = generar_votantes(turno, jugador.name, num_votantes=750, impacto=accion_especial["impacto"])
             elif accion_especial["impacto"]["especial"] == "russian_hacking_attempt":
                 # Generar 1000 votantes republicanos
-                jugador.add_score(1000)
-                # votantes_extra = generar_votantes(turno, "Republicano", num_votantes=1000)
+                # jugador.add_score(1000)
+                # num_votantes=750 + 250 que se generan po defecto
+                votantes_extra = generar_votantes(turno, jugador.name, num_votantes=750, impacto=accion_especial["impacto"])
             
             print("¡Votantes adicionales generados con éxito!")
+            return votantes_extra
                 
         else:
             print(f"No es correcto. El número era {numero_aleatorio}. \nGracias por jugar, más suerte la próxima vez.")
+            print("(Aunque fallaste, la controversia generó atención.)")
+            votantes_radicales = generar_votantes(turno, jugador.name, num_votantes=44, impacto=accion_especial["impacto"])
+            return votantes_radicales
     
     except ValueError:
         print(f"Entrada no válida. El número era {numero_aleatorio}. \nGracias por jugar, más suerte la próxima vez.")
+
+    # Retornar lista vacía si falla
+    return votantes_extra
 
 
 
 
 def manejar_turno(turno, jugador):
     turno_jugador(jugador, turno)
-    input(f"Turno del jugador {jugador.name} completado. Presiona ENTER para que juegue el rival...")
+    input(f"Turno del jugador {jugador.name.capitalize()} completado. Presiona ENTER para que juegue el rival...")
 
 
 
@@ -166,6 +191,7 @@ def turno_jugador(jugador, turno):
     """Lógica principal para un turno de un jugador."""
 
     print(f"\n\n\n**** TURNO {turno}: JUGADOR {jugador.name.upper()} ****")
+    print(f"Fecha: {fechas_turnos[turno - 1].strftime('%d/%m/%Y')}")
     print(f"Presupuesto actual: ${jugador.money}")
 
     # Generar opciones una vez por turno
@@ -173,6 +199,7 @@ def turno_jugador(jugador, turno):
 
     # Bandera para controlar el flujo del turno
     flag_turno = True
+    votantes_extra = []
 
     # Permitir repetir si el jugador elige análisis
     while flag_turno:
@@ -181,9 +208,10 @@ def turno_jugador(jugador, turno):
 
         # El jugador pasa el turno
         if accion_seleccionada is None:
-            print(f"{jugador.name.capitalize()} ha pasado este turno.")
+            print(f"{jugador.name.capitalize()} ha pasado este turno. El impacto de esta medida será aleatorio")
             flag_turno = False
-            continue
+            votantes_aleatorios = generar_votantes(turno, jugador.name, num_votantes=random.randint(1,300))
+            return votantes_aleatorios
 
         # Procesar la acción seleccionada
         if accion_seleccionada["nombre"] == "Análisis de datos":
@@ -200,7 +228,7 @@ def turno_jugador(jugador, turno):
         print(accion_seleccionada["descripcion"])
 
         if "especial" in accion_seleccionada["impacto"]:
-            ejecutar_accion_especial(jugador, accion_seleccionada)
+            votantes_extra = ejecutar_accion_especial(jugador, accion_seleccionada)
 
         # Salir del bucle tras ejecutar una acción válida
         flag_turno = False
@@ -208,16 +236,28 @@ def turno_jugador(jugador, turno):
 
     print(f"\nPresupuesto restante: ${jugador.money}")
 
-    # Generar votantes sin aplicar impacto
-    votantes = generar_votantes(turno, jugador.name, num_votantes=250)
-    # Generar votantes aplicando impacto
-    # generar_votantes(turno, jugador.name, accion_seleccionada["impacto"])
+    
+    # Generar votantes aplicando impacto o lista vacia para especial o pasar turno
+    if accion_seleccionada:
+        if "especial" not in accion_seleccionada["impacto"]:
+            # Acción estándar: generar votantes con el impacto de la acción
+            votantes = generar_votantes(turno, jugador.name, num_votantes=250, impacto=accion_seleccionada["impacto"])
+        else:
+            # Acción especial: no generar votantes regulares aquí
+            votantes = []
+    else:
+        # Caso donde el jugador pasa turno
+        votantes = []
+
+    # Unir votantes normales y votantes adicionales (si existen)
+    votantes_totales = votantes + votantes_extra
     print("¡Votantes generados con éxito!")
 
     # Procesar y mostrar votos
-    procesar_votos(votantes, democrata, republicano)
+    procesar_votos(votantes_totales, democrata, republicano)
     
     return votantes
+
 
 
 
@@ -238,8 +278,10 @@ def procesar_votos(votantes, democrata, republicano):
 
 
 
+
 print("**** Bienvenido a mis Primeras Elecciones EEUU ****")
-print("(con clara del rey analytica)\n")
+print("\t(con clara del rey analytica)")
+print()
 
 # Crear jugadores: 1M$ inicial
 democrata = Player("Democrata", 1000000)  
@@ -247,7 +289,7 @@ republicano = Player("Republicano", 1000000)
 
 
 # Bucle de turnos
-for turno in range(1, 9):
+for turno in range(1, TURNOS_TOTALES + 1):
 
     if turno % 2 != 0:
         manejar_turno(turno, democrata)
@@ -255,7 +297,8 @@ for turno in range(1, 9):
         manejar_turno(turno, republicano)
 
 
-print("\n\n\n**** PARTIDA FINALIZADA ****")
+print("\n\n\n**** PARTIDA FINALIZADA: RESULTADOS ELECTORALES ****")
+print("Fecha: 5 de Noviembre de 2024")
 print(f"{democrata.name}: {democrata.score}")
 print(f"{republicano.name}: {republicano.score}")
 

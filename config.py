@@ -124,6 +124,73 @@ pesos_votos = {
 
 
 
+########################
+######## STATES ########
+########################
+
+# 12
+estados_democratas = [
+    "California",
+    "Connecticut",
+    "Delaware",
+    "Hawaii",
+    "Illinois",
+    "Maryland",
+    "Massachusetts",
+    "New Jersey",
+    "New York",
+    "Oregon",
+    "Vermont",
+    "Washington"
+]
+
+# 12
+estados_republicanos = [
+    "Alabama", 
+    "Arkansas",
+    "Florida", 
+    "Idaho", 
+    "Louisiana", 
+    "Mississippi", 
+    "North Dakota", 
+    "Oklahoma", 
+    "South Carolina", 
+    "Tennessee", 
+    "Texas", 
+    "Wyoming", 
+]
+
+# 26
+estados_bisagra = [
+    'Alaska', 
+    'Arizona', 
+    'Colorado', 
+    'Georgia', 
+    'Indiana', 
+    'Iowa', 
+    'Kansas', 
+    'Kentucky', 
+    'Maine', 
+    'Michigan', 
+    'Minnesota', 
+    'Missouri', 
+    'Montana', 
+    'Nebraska', 
+    'Nevada', 
+    'New Hampshire', 
+    'New Mexico', 
+    'North Carolina', 
+    'Ohio', 
+    'Pennsylvania', 
+    'Rhode Island', 
+    'South Dakota', 
+    'Utah', 
+    'Virginia', 
+    'West Virginia', 
+    'Wisconsin'
+]
+
+
 #############################
 ########## MODELOS ##########
 #############################
@@ -178,7 +245,7 @@ modelo_republicano = {
         "Wyoming", 
     ],
     # Adultos mayores y generaciones tradicionales
-    "edad": range(35, 100),
+    "edad": range(35, 99),
     # Estereotipo: masculino
     "sexo": ["masculino"],
     # Religion cristiana dominante

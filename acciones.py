@@ -1,6 +1,7 @@
 # Date: 24/12/2024
 
 from config import modelo_democrata, modelo_republicano
+from config import estados_democratas, estados_republicanos, estados_bisagra
 
 
 # TODO
@@ -33,9 +34,9 @@ acciones_democratas = [
         "descripcion": "Kamala sube al escenario y suelta un discurso que hasta hace llorar a las piedras. \nImpacta especialmente a mujeres y jóvenes idealistas.",
         "impacto": {
             "sexo": ["femenino"],
-            "edad": range(18, 40),
+            "edad": range(18, 45),
         },
-        "coste": 150*1000
+        "coste": 200*1000
     },
     # 1
     {
@@ -59,8 +60,9 @@ acciones_democratas = [
         "nombre": "Celebrities, ¡respaldadme!",
         "descripcion": "Lady Gaga, Brad Pitt y Beyoncé te dan su bendición en Instagram. \n¿Quién necesita más?",
         "impacto": {
-            "edad": range(18, 35),
-            "estado": ["California", "New York", "Illinois"],
+            "edad": range(18, 40),
+            # "estado": ["California", "New York", "Illinois"],
+            "estado": estados_democratas + estados_bisagra,
         },
         "coste": 250*1000
     },
@@ -78,8 +80,16 @@ acciones_democratas = [
         "nombre": "Ataque terrorista a Trump",
         "descripcion": "Un plan descabellado: organizas un ataque terrorista con el objetivo de eliminar a Trump.",
         "impacto": {
-            "especial": "trump_assasination_attempt",  # Representa un caso especial 
-            "modelo": modelo_democrata,
+            # Representa un caso especial 
+            "especial": "trump_assasination_attempt",  
+            # Parámetros del modelo democrata
+            "estado": modelo_democrata["estado"],
+            "edad": modelo_democrata["edad"],
+            "sexo": modelo_democrata["sexo"],
+            "religion": modelo_democrata["religion"],
+            "etnia": modelo_democrata["etnia"],
+            "salario": modelo_democrata["salario"],
+            "estudios": modelo_democrata["estudios"],
         },
         "coste": 450*1000  # Alto costo por el riesgo
     },
@@ -91,7 +101,7 @@ acciones_democratas = [
             "edad": range(18, 35),
             "sexo": ["femenino"],
         },
-        "coste": 230*1000
+        "coste": 280*1000
     },
     # 7
     {
@@ -107,7 +117,8 @@ acciones_democratas = [
         "nombre": "¡No somos fascistas!",
         "descripcion": "Lanzas una campaña para dejar claro que el fascismo no va contigo. \n¡Todos a la izquierda, camaradas, maaaarchen!",
         "impacto": {
-            "estado": ["California", "New York", "Massachusetts"],
+            # "estado": ["California", "New York", "Massachusetts"],
+            "estado": estados_democratas + estados_bisagra,
             
         },
         "coste": 250*1000
@@ -156,9 +167,9 @@ acciones_republicanas = [
         "descripcion": "Trump toma el micrófono y entrega un discurso que hace que los patriotas lloren lágrimas de águila. \n¡Viva América!",
         "impacto": {
             "sexo": ["masculino"],
-            "edad": range(35, 99),
+            "edad": range(30, 99),
         },
-        "coste": 150*1000
+        "coste": 200*1000
     },
     # 1
     {
@@ -192,7 +203,8 @@ acciones_republicanas = [
         "nombre": "Ocupar el Capitolio",
         "descripcion": "Movilizas una protesta 'pacífica' en el Capitolio. \nLos patriotas están preparados para dar guerra.",
         "impacto": {
-            "estado": ["Texas", "Florida", "Alabama", "Wyoming"],
+            # "estado": ["Texas", "Florida", "Alabama", "Wyoming"],
+            "estado": estados_republicanos + estados_bisagra,
         },
         "coste": 250*1000
     },
@@ -210,8 +222,16 @@ acciones_republicanas = [
         "nombre": "Intervención rusa",
         "descripcion": "¿Teléfono rojo? Volamos hacia Moscú. \nLlamas al Kremlin y consigues un escuadrón de hackers de élite. \n¡La elección podría ser tuya!",
         "impacto": {
-            "especial": "russian_hacking_attempt",  # Representa un caso especial 
-            "modelo": modelo_republicano,
+            # Representa un caso especial
+            "especial": "russian_hacking_attempt",
+            # Parámetros del modelo republicano
+            "estado": modelo_republicano["estado"],
+            "edad": modelo_republicano["edad"],
+            "sexo": modelo_republicano["sexo"],
+            "religion": modelo_republicano["religion"],
+            "etnia": modelo_republicano["etnia"],
+            "salario": modelo_republicano["salario"],
+            "estudios": modelo_republicano["estudios"],
         },
         "coste": 450*1000  # Alto costo por el riesgo
     },
@@ -223,14 +243,15 @@ acciones_republicanas = [
             "edad": range(35, 99),
             "sexo": ["masculino"],
         },
-        "coste": 230*1000
+        "coste": 250*1000
     },
     # 8
     {
         "nombre": "¡No somos comunistas!",
         "descripcion": "Lanzas una campaña para dejar claro que la derecha no tiene nada que ver con el comunismo. \nLos votantes respiran aliviados.",
         "impacto": {
-            "estado": ["Alabama", "Arkansas", "Mississippi"],
+            # "estado": ["Alabama", "Arkansas", "Mississippi"],
+            "estado": estados_republicanos + estados_bisagra,
         },
         "coste": 250*1000
     },
@@ -259,7 +280,8 @@ acciones_republicanas = [
         "nombre": "Tormenta en X",
         "descripcion": "Elon Musk se desata en X con una campaña masiva a favor de Trump. Las redes explotan (literalmente).",
         "impacto": {
-            "edad": range(18, 45),
+            "edad": range(18, 55),
+            "sexo": ["masculino"],
         },
         "coste": 200*1000
     },

@@ -14,6 +14,7 @@ os.makedirs(output_folder, exist_ok=True)
 
 # Funcion para calcular el voto basado en los modelos:
 def calcular_voto(votante, pesos):
+    """Fórmula para calcular la probabilidad de que un votante sea democrata o republicano"""
 
     probabilidad_democrata = (
         pesos["estado"] * (1 if votante["estado"] in modelo_democrata["estado"] else 0) +
@@ -49,12 +50,15 @@ def calcular_voto(votante, pesos):
 
 
 # Generar votantes:
-def generar_votantes(turno, jugador, num_votantes=250):
+def generar_votantes(turno, jugador, num_votantes=250, impacto=None):
+    """Generar votantes con opción de aplicar impacto específico."""
 
     votantes = []
 
     # Cada turno avanza 30 dias
     fecha_voto = fecha_inicial + timedelta(days=(turno - 1) * 30)
+
+    # Crear el directorio del jugador
     jugador_folder = os.path.join(output_folder, f"jugador_{jugador.strip().lower()}")
     os.makedirs(jugador_folder, exist_ok=True)
 
@@ -70,14 +74,16 @@ def generar_votantes(turno, jugador, num_votantes=250):
             # 30dias * 24h * 60min * 60s = 2592000s
             "fecha_voto": (fecha_voto + timedelta(seconds=random.randint(0, 30*24*60*60))).strftime("%Y-%m-%d"),
 
-            # Atributos del votante generados aleatoriamente
-            "estado": random.choice(estados),
-            "etnia": random.choice(etnias),
-            "edad": random.randint(18, 99),
-            "sexo": random.choice(sexo),
-            "salario": random.randint(30*1000, 250*1000),
-            "estudios": random.choice(estudios),
-            "religion": random.choice(religiones),
+            # Atributos del votante generados aleatoriamente o basados en impacto
+            "estado": random.choice(impacto["estado"] if impacto and "estado" in impacto else estados),
+            "etnia": random.choice(impacto["etnia"] if impacto and "etnia" in impacto else etnias),
+            "edad": random.choice(impacto["edad"] if impacto and "edad" in impacto else range(18, 99)),
+            "sexo": random.choice(impacto["sexo"] if impacto and "sexo" in impacto else sexo),
+            "salario": random.randint(min(impacto["salario"]), max(impacto["salario"])) if impacto and "salario" in impacto else random.randint(30 * 1000, 250 * 1000),
+            "estudios": random.choice(impacto["estudios"] if impacto and "estudios" in impacto else estudios),
+            "religion": random.choice(impacto["religion"] if impacto and "religion" in impacto else religiones),
+
+            # Atributos generados aleatoriamente (no han sido parametrizados para tener impacto)
             "casado": random.choice([True, False]),
             "hijos": random.randint(0, 5)
         }
