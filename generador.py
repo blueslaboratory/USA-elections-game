@@ -4,12 +4,15 @@ import os
 import json
 import random
 from datetime import datetime, timedelta
-from config import fecha_inicial, output_folder, estados, sexo, religiones, etnias, estudios
+from config import fecha_inicial, fecha_final, output_folder, estados, sexo, religiones, etnias, estudios
 from config import pesos_votos, modelo_democrata, modelo_republicano
+from config import TURNOS_TOTALES 
+
 
 
 # Crear carpetas para guardar datos:
 os.makedirs(output_folder, exist_ok=True)
+
 
 
 # Funcion para calcular el voto basado en los modelos:
@@ -55,8 +58,13 @@ def generar_votantes(turno, jugador, num_votantes=250, impacto=None):
 
     votantes = []
 
-    # Cada turno avanza 30 dias
-    fecha_voto = fecha_inicial + timedelta(days=(turno - 1) * 30)
+    # Cada turno avanza intervalo_dias
+    intervalo_dias = ((fecha_final - fecha_inicial).days) // (TURNOS_TOTALES - 1)
+    # print("intervalo_dias:", intervalo_dias)
+
+    inicio_turno = fecha_inicial + timedelta(days=intervalo_dias * (turno - 1))
+    fin_turno = min(inicio_turno + timedelta(days=intervalo_dias), fecha_final + timedelta(hours=23, minutes=59, seconds=59))
+    # print("inicio_turno:", inicio_turno.date(), "fin_turno:", fin_turno.date())
 
     # Crear el directorio del jugador
     jugador_folder = os.path.join(output_folder, f"jugador_{jugador.strip().lower()}")
@@ -64,6 +72,15 @@ def generar_votantes(turno, jugador, num_votantes=250, impacto=None):
 
 
     for i in range(num_votantes):
+        
+        fecha_voto_random = (inicio_turno + timedelta(seconds=random.randint(0, (fin_turno - inicio_turno).total_seconds())))
+        
+        # Asegurar que no exceda la fecha final
+        if fecha_voto_random > fecha_final: 
+            fecha_voto_random = fecha_final
+
+        fecha_voto_random = fecha_voto_random.strftime("%Y-%m-%d")
+        # print("fecha_voto_random:", fecha_voto_random)
 
         votante = {
             # ID único del votante
@@ -71,8 +88,7 @@ def generar_votantes(turno, jugador, num_votantes=250, impacto=None):
             "id": i+1 + (turno-1)*num_votantes,
 
             # Fecha de voto con variación aleatoria dentro del mes
-            # 30dias * 24h * 60min * 60s = 2592000s
-            "fecha_voto": (fecha_voto + timedelta(seconds=random.randint(0, 30*24*60*60))).strftime("%Y-%m-%d"),
+            "fecha_voto": fecha_voto_random,
 
             # Atributos del votante generados aleatoriamente o basados en impacto
             "estado": random.choice(impacto["estado"] if impacto and "estado" in impacto else estados),

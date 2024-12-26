@@ -2,18 +2,50 @@
 
 from datetime import datetime
 
+#############################
+####### OUTPUT FOLDER #######
+#############################
+output_folder = "datos_votantes"
+
+
 
 
 #############################
-### FECHA Y OUTPUT FOLDER ###
+##### PARAMETROS JUEGO ######
+#############################
+# Recomendado: Turnos (8), Minutos (5)
+TURNOS_TOTALES = 8
+MINUTOS_ANALISIS = 1
+
+
+
+
+#############################
+##### FECHAS DEL JUEGO ######
 #############################
 
 # 8 turnos, 4 por jugador
-# Fecha inicial: (8 meses) antes del 5 de noviembre de 2024
-# Resta: 5/11/2024 - 5/3/2024 --> 11 - 3 = 8
-fecha_inicial = datetime(2024, 3, 5)
+# Fecha inicial: Antes del 5 de noviembre de 2024: (Celebracion de las elecciones)
+# 1 de Enero de 2024:
+fecha_inicial = datetime(2024, 1, 1)
+# 5 de Noviembre de 2024: 
+fecha_final = datetime(2024, 11, 5)
 
-output_folder = "datos_votantes"
+# Diccionario para mapear los meses en español
+MESES = {
+    1: "Enero", 
+    2: "Febrero", 
+    3: "Marzo", 
+    4: "Abril", 
+    5: "Mayo", 
+    6: "Junio",
+    7: "Julio", 
+    8: "Agosto", 
+    9: "Septiembre", 
+    10: "Octubre", 
+    11: "Noviembre", 
+    12: "Diciembre"
+}
 
 
 
@@ -189,6 +221,7 @@ estados_bisagra = [
     'West Virginia', 
     'Wisconsin'
 ]
+
 
 
 #############################

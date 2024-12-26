@@ -9,7 +9,9 @@ import random
 from acciones import accion_analisis, acciones_democratas, acciones_republicanas
 from players import Player
 from generador import generar_votantes
-from config import fecha_inicial
+from config import TURNOS_TOTALES, MINUTOS_ANALISIS
+from config import fecha_inicial, fecha_final, MESES
+from utilities import formatear_fecha, formatear_numero
 
 from collections import Counter
 from datetime import datetime, timedelta
@@ -20,12 +22,23 @@ from datetime import datetime, timedelta
 # INCIO LIMPIO: Borrar las carpetas del juego anterior
 # cleanup.borrar_carpetas()
 
-# Variables globales (MAYUS) y no tan globales (minus) del juego
-# Estandar: 5 Minutos
-MINUTOS = 1
-TURNOS_TOTALES = 8
-dias_entre_turnos = 30
-fechas_turnos = [fecha_inicial + timedelta(days=i * dias_entre_turnos) for i in range(TURNOS_TOTALES)]
+
+
+
+def calcular_fechas_turnos(fecha_inicial, fecha_final):
+    """ Genera una lista de fechas equitativamente distribuidas entre fecha_inicial y fecha_final. """
+    
+    # Calcular el intervalo de días entre turnos
+    intervalo_dias = (fecha_final - fecha_inicial).days // (TURNOS_TOTALES - 1)
+
+    # Generar las fechas de los turnos
+    fechas_turnos = [fecha_inicial + timedelta(days = i*intervalo_dias) for i in range(TURNOS_TOTALES)]
+
+    # Asegurar que la última fecha no sobrepase fecha_final
+    fechas_turnos[-1] = min(fechas_turnos[-1], fecha_final)
+
+    return [fecha.date() for fecha in fechas_turnos]
+
 
 
 
@@ -43,15 +56,15 @@ def elegir_accion(jugador, acciones_turno):
     """Permitir al jugador elegir una acción."""
 
     # Mostrar opciones al jugador
-    print("\nOpciones disponibles:")
+    print("\nOpciones disponibles para la campaña:")
     for i, accion in enumerate(acciones_turno):
         # Determinar el formato del coste
         if accion['coste'] < 0:
             # Formato para costes negativos
-            coste_formateado = f"(Ingreso: +{abs(accion['coste'])}$)"
+            coste_formateado = f"(Ingreso: +{formatear_numero(abs(accion['coste']))}$)"
         else:
             # Formato para costes positivos
-            coste_formateado = f"(Coste: {accion['coste']}$)"
+            coste_formateado = f"(Coste: {formatear_numero(accion['coste'])}$)"
 
         # Imprimir la opción con el formato adecuado
         print(f"{i + 1}. {accion['nombre']} - {coste_formateado}")
@@ -69,7 +82,8 @@ def elegir_accion(jugador, acciones_turno):
 
             # Verificar si tiene suficiente dinero
             if accion_seleccionada["coste"] > jugador.money:
-                print(f"No tienes dinero suficiente para esta acción. Dinero actual: ${jugador.money}. \n¿Quieres pasar? (yes/no)")
+                # Dinero insuficiente
+                print(f"No tienes dinero suficiente para esta acción. Dinero actual: ${formatear_numero(jugador.money)}. \n¿Quieres pasar? (yes/no)")
                 pasar = input("> ").strip().lower()
                 if pasar == "yes":
                     print("Has pasado este turno.")
@@ -78,6 +92,7 @@ def elegir_accion(jugador, acciones_turno):
                 else:
                     print("Selecciona otra opción.")
             else:
+                # Dinero suficiente
                 jugador_elija = False
                 return accion_seleccionada
 
@@ -94,17 +109,17 @@ def ejecutar_analisis(jugador, coste):
 
     print("\n¡Has elegido: Análisis! (El análisis no consume turno)")
     print("\nProcesando los datos de los votantes...")
-    print(f"Tienes {MINUTOS} minutos para procesar los datos con NiFi, realizar consultas en MongoDB \no consultar gráficos y estadísticas en Jupyter/Spark")
+    print(f"Tienes {MINUTOS_ANALISIS} minutos para procesar los datos con NiFi, realizar consultas en MongoDB \no consultar gráficos y estadísticas en Jupyter/Spark")
     input("\nPresiona ENTER para comenzar. Si acabas antes de tiempo vuelve a presionar ENTER...")
 
     try:
-        for remaining in range(MINUTOS*60, 0, -1):
+        for remaining in range(MINUTOS_ANALISIS*60, 0, -1):
             # Pausa de 1 segundo
             time.sleep(1)
 
             # Mensajes al jugador
-            if remaining == MINUTOS*60:
-                print(f"¡Tempus Fugit! ¡Comienza la cuenta atrás! - Tiempo: {MINUTOS} minutos")
+            if remaining == MINUTOS_ANALISIS*60:
+                print(f"¡Tempus Fugit! ¡Comienza la cuenta atrás! - Tiempo restante: {MINUTOS_ANALISIS} minutos")
             if remaining == 60:
                 print("Tic, tac, quedan 60 segundos")
             if remaining == 1:
@@ -191,8 +206,12 @@ def turno_jugador(jugador, turno):
     """Lógica principal para un turno de un jugador."""
 
     print(f"\n\n\n**** TURNO {turno}: JUGADOR {jugador.name.upper()} ****")
-    print(f"Fecha: {fechas_turnos[turno - 1].strftime('%d/%m/%Y')}")
-    print(f"Presupuesto actual: ${jugador.money}")
+    # print(f"Fecha: {fechas_turnos[turno - 1].strftime('%Y/%m/%d')}")
+    # Formatear la fecha: "5 de Noviembre de 2024"
+    fecha_formateada = formatear_fecha(fechas_turnos[turno - 1])
+    
+    print(f"Fecha: {fecha_formateada}")
+    print(f"Presupuesto actual: ${formatear_numero(jugador.money)}")
 
     # Generar opciones una vez por turno
     acciones_turno = mostrar_opciones(jugador)
@@ -218,7 +237,7 @@ def turno_jugador(jugador, turno):
             ejecutar_analisis(jugador, accion_seleccionada["coste"])
 
             # Mostrar presupuesto actualizado tras análisis
-            print(f"\nPresupuesto actualizado tras análisis: ${jugador.money}")
+            print(f"\nPresupuesto actualizado tras análisis: ${formatear_numero(jugador.money)}")
 
             # Permitir elegir nuevamente
             continue
@@ -234,7 +253,7 @@ def turno_jugador(jugador, turno):
         flag_turno = False
 
 
-    print(f"\nPresupuesto restante: ${jugador.money}")
+    print(f"\nPresupuesto restante: ${formatear_numero(jugador.money)}")
 
     
     # Generar votantes aplicando impacto o lista vacia para especial o pasar turno
@@ -283,9 +302,14 @@ print("**** Bienvenido a mis Primeras Elecciones EEUU ****")
 print("\t(con clara del rey analytica)")
 print()
 
+
 # Crear jugadores: 1M$ inicial
 democrata = Player("Democrata", 1000000)  
 republicano = Player("Republicano", 1000000)
+
+
+# Fechas turnos distribuidas equitativamente
+fechas_turnos = calcular_fechas_turnos(fecha_inicial, fecha_final)
 
 
 # Bucle de turnos

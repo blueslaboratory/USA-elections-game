@@ -4,8 +4,7 @@ from config import modelo_democrata, modelo_republicano
 from config import estados_democratas, estados_republicanos, estados_bisagra
 
 
-# TODO
-# [] Incluir una accion de tipo shoot my own foot, lo que vendria a ser un false friend que beneficie al enemigo pero que se camufle bien
+
 
 #############################
 ###### ACCION: ANALISIS #####
@@ -21,7 +20,7 @@ accion_analisis = {
 
 
 
-# Casar los nombres de las claves con los nombres de las claves de modelos de config.py
+# Nombres de las claves del diccionario casados con los nombres de las claves de config.py
 
 #############################
 #### ACCIONES DEMOCRATAS ####
@@ -34,7 +33,7 @@ acciones_democratas = [
         "descripcion": "Kamala sube al escenario y suelta un discurso que hasta hace llorar a las piedras. \nImpacta especialmente a mujeres y jóvenes idealistas.",
         "impacto": {
             "sexo": ["femenino"],
-            "edad": range(18, 45),
+            "edad": range(18, 55),
         },
         "coste": 200*1000
     },
@@ -151,6 +150,28 @@ acciones_democratas = [
         },
         "coste": 200*1000
     },
+    # 12 (accion trampa)
+    {
+        "nombre": "Reforma agraria progresista",
+        "descripcion": "Prometes apoyo masivo a las áreas rurales con subsidios ecológicos. \n¡Con mi hoz y mi martillo, siembro lechugas y coloco ladrillos!",
+        "impacto": {
+            "estado": estados_bisagra + estados_republicanos,
+            "edad": range(30, 99),
+            "etnia": ["white", "hispanic", "black", "illegal"],
+        },
+        "coste": 300*1000
+    },
+    # 13 (accion trampa)
+    {
+        "nombre": "Impuesto a la riqueza",
+        "descripcion": "Propones un impuesto adicional a las rentas más altas. \nSuena justo, los ricos se movilizan, ¿qué tramarán?...",
+        "impacto": {
+            "salario": range(100*1000, 400*1000),
+            "sexo": "masculino",
+        },
+        "coste": 200*1000
+    },
+
 ]
 
 
@@ -284,5 +305,26 @@ acciones_republicanas = [
             "sexo": ["masculino"],
         },
         "coste": 200*1000
+    },
+    # 13 (accion trampa republicana)
+    {
+        "nombre": "Prohibición de TikTok",
+        "descripcion": "TikTok es declarado una amenaza para la seguridad nacional. \nTras 1 hora de desconexión digital, los adolescentes tienen síndrome de abstinencia.",
+        "impacto": {
+            "edad": range(12, 25),
+            "estado": estados_democratas + estados_bisagra,
+        },
+        "coste": 240*1000
+    },
+    # 14 (accion trampa republicana)
+    {
+        "nombre": "¡Armas gratis para todos!",
+        "descripcion": "Lanzas un programa piloto que regala armas de fuego en los supermercados. \nLas ventas se disparan, ¡los niños las llevan a clase los viernes!",
+        "impacto": {
+            "edad": range(10, 55),
+            "sexo": ["masculino", "femenino"],
+            "estado": estados_bisagra + estados_democratas,
+        },
+        "coste": 300*1000
     },
 ]
