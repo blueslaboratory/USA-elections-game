@@ -1,6 +1,6 @@
-datos_votantes/
-__pycache__/
 *.pyc
 *.log
 .vscode/
-
+__pycache__/
+datos_procesados/
+datos_votantes/

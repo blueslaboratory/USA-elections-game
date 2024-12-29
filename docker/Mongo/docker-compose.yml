@@ -1,0 +1,38 @@
+services:
+
+  mongo:
+
+    image: mongo:4.4
+
+    container_name: mongodb
+    network_mode: host # Compartir la red del host
+    ports: # Puerto por defecto de MongoDB
+      - "27017:27017" 
+    volumes: # Persistencia de datos
+      - /home/alumno/Escritorio/EEUU_Elections_Game/datos_procesados/MongoDB:/data/db 
+
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: 1234
+
+    restart: always
+    
+    
+  mongo-express:
+  
+    image: mongo-express
+    
+    container_name: mongo-express
+    network_mode: host
+    ports:
+      - "8081:8081"  # Mapea el puerto 8081 del contenedor al host
+      
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: admin
+      ME_CONFIG_MONGODB_ADMINPASSWORD: 1234
+      ME_CONFIG_MONGODB_SERVER: localhost
+      
+    depends_on:
+      - mongo
+      
+    restart: always

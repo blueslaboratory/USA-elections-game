@@ -1,0 +1,20 @@
+services:
+
+  nifi:
+
+    image: apache/nifi:1.28.1
+    container_name: nifi
+    network_mode: host
+    ports:
+      - "8080:8080" # Puerto de NiFi
+
+    volumes:
+      - /home/alumno/Escritorio/EEUU_Elections_Game/datos_votantes/jugador_democrata:/opt/nifi/input/democrata
+      - /home/alumno/Escritorio/EEUU_Elections_Game/datos_votantes/jugador_republicano:/opt/nifi/input/republicano
+      - /home/alumno/Escritorio/EEUU_Elections_Game/datos_procesados:/opt/nifi/output
+
+    environment:
+      - NIFI_WEB_HTTP_PORT=8080
+
+    restart: always
+
