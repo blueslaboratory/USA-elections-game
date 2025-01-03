@@ -1,0 +1,14 @@
+{
+    "id": 5,
+    "fecha_voto": "2024-01-01",
+    "estado": "Maryland",
+    "etnia": "indian",
+    "edad": 78,
+    "sexo": "s",
+    "salario": 298606,
+    "estudios": "masters",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
+}

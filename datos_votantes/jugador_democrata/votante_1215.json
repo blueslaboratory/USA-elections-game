@@ -1,0 +1,14 @@
+{
+    "id": 1215,
+    "fecha_voto": "2024-07-01",
+    "estado": "Indiana",
+    "etnia": "hispanic",
+    "edad": 26,
+    "sexo": "femenino",
+    "salario": 140722,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
+}

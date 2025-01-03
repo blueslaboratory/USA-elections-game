@@ -1,0 +1,14 @@
+{
+    "id": 1121,
+    "fecha_voto": "2024-07-07",
+    "estado": "Wyoming",
+    "etnia": "white",
+    "edad": 34,
+    "sexo": "masculino",
+    "salario": 42136,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 3,
+    "voto": "republicano"
+}

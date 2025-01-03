@@ -1,0 +1,14 @@
+{
+    "id": 1701,
+    "fecha_voto": "2024-09-23",
+    "estado": "California",
+    "etnia": "white",
+    "edad": 20,
+    "sexo": "femenino",
+    "salario": 230108,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
+}

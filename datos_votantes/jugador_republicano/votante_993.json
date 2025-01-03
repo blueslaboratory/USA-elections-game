@@ -1,0 +1,14 @@
+{
+    "id": 993,
+    "fecha_voto": "2024-05-23",
+    "estado": "Illinois",
+    "etnia": "white",
+    "edad": 23,
+    "sexo": "masculino",
+    "salario": 231264,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
+}

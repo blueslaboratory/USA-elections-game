@@ -1,0 +1,14 @@
+{
+    "id": 42,
+    "fecha_voto": "2024-01-26",
+    "estado": "Nebraska",
+    "etnia": "indian",
+    "edad": 78,
+    "sexo": "l",
+    "salario": 198377,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
+}

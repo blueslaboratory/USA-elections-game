@@ -1,0 +1,14 @@
+{
+    "id": 505,
+    "fecha_voto": "2024-05-01",
+    "estado": "Nebraska",
+    "etnia": "hispanic",
+    "edad": 51,
+    "sexo": "femenino",
+    "salario": 149054,
+    "estudios": "graduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 2,
+    "voto": "republicano"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 1600,
+    "fecha_voto": "2024-10-10",
+    "estado": "Alabama",
+    "etnia": "white",
+    "edad": 31,
+    "sexo": "femenino",
+    "salario": 233430,
+    "estudios": "masters",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
+}

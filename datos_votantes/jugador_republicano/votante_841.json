@@ -1,0 +1,14 @@
+{
+    "id": 841,
+    "fecha_voto": "2024-05-20",
+    "estado": "Arizona",
+    "etnia": "hispanic",
+    "edad": 36,
+    "sexo": "masculino",
+    "salario": 123743,
+    "estudios": "undergraduate",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "republicano"
+}

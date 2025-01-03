@@ -1,0 +1,14 @@
+{
+    "id": 400,
+    "fecha_voto": "2024-03-12",
+    "estado": "Pennsylvania",
+    "etnia": "illegal",
+    "edad": 79,
+    "sexo": "femenino",
+    "salario": 50702,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
+}

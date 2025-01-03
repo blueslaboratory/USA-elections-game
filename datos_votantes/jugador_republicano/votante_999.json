@@ -1,0 +1,14 @@
+{
+    "id": 999,
+    "fecha_voto": "2024-05-15",
+    "estado": "Massachusetts",
+    "etnia": "indian",
+    "edad": 37,
+    "sexo": "masculino",
+    "salario": 146938,
+    "estudios": "undergraduate",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
+}

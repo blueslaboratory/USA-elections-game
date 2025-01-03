@@ -1,0 +1,14 @@
+{
+    "id": 114,
+    "fecha_voto": "2024-01-04",
+    "estado": "Ohio",
+    "etnia": "hispanic",
+    "edad": 45,
+    "sexo": "s",
+    "salario": 372135,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 592,
+    "fecha_voto": "2024-04-08",
+    "estado": "California",
+    "etnia": "hispanic",
+    "edad": 60,
+    "sexo": "masculino",
+    "salario": 38371,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "democrata"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 375,
+    "fecha_voto": "2024-02-16",
+    "estado": "New Hampshire",
+    "etnia": "hispanic",
+    "edad": 42,
+    "sexo": "masculino",
+    "salario": 50849,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
+}

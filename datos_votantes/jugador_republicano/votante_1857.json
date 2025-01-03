@@ -1,0 +1,14 @@
+{
+    "id": 1857,
+    "fecha_voto": "2024-11-05",
+    "estado": "Florida",
+    "etnia": "white",
+    "edad": 50,
+    "sexo": "masculino",
+    "salario": 123298,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 2,
+    "voto": "republicano"
+}

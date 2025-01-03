@@ -1,0 +1,14 @@
+{
+    "id": 3,
+    "fecha_voto": "2024-01-30",
+    "estado": "Montana",
+    "etnia": "hispanic",
+    "edad": 93,
+    "sexo": "l",
+    "salario": 280630,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "republicano"
+}

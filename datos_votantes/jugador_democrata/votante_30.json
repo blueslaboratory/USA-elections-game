@@ -1,0 +1,14 @@
+{
+    "id": 30,
+    "fecha_voto": "2024-01-27",
+    "estado": "Montana",
+    "etnia": "white",
+    "edad": 42,
+    "sexo": "m",
+    "salario": 389094,
+    "estudios": "doctor",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 1202,
+    "fecha_voto": "2024-07-29",
+    "estado": "Wisconsin",
+    "etnia": "indian",
+    "edad": 37,
+    "sexo": "masculino",
+    "salario": 123953,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
+}

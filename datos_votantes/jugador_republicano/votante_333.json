@@ -1,0 +1,14 @@
+{
+    "id": 333,
+    "fecha_voto": "2024-02-20",
+    "estado": "New Hampshire",
+    "etnia": "indian",
+    "edad": 86,
+    "sexo": "femenino",
+    "salario": 152105,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "democrata"
+}

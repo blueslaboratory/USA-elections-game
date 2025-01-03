@@ -1,0 +1,14 @@
+{
+    "id": 770,
+    "fecha_voto": "2024-05-20",
+    "estado": "Oregon",
+    "etnia": "black",
+    "edad": 42,
+    "sexo": "masculino",
+    "salario": 65928,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "democrata"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 123,
+    "fecha_voto": "2024-01-04",
+    "estado": "Wyoming",
+    "etnia": "black",
+    "edad": 47,
+    "sexo": "m",
+    "salario": 259884,
+    "estudios": "graduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 2,
+    "voto": "republicano"
+}

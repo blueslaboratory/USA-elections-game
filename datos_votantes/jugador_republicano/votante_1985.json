@@ -1,0 +1,14 @@
+{
+    "id": 1985,
+    "fecha_voto": "2024-11-05",
+    "estado": "Indiana",
+    "etnia": "black",
+    "edad": 42,
+    "sexo": "femenino",
+    "salario": 159024,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
+}

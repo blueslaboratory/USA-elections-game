@@ -2,5 +2,4 @@
 *.log
 .vscode/
 __pycache__/
-datos_procesados/
-datos_votantes/
+datos_procesados/MongoDB/*

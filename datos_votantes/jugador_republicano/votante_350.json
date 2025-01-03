@@ -1,0 +1,14 @@
+{
+    "id": 350,
+    "fecha_voto": "2024-03-08",
+    "estado": "Pennsylvania",
+    "etnia": "illegal",
+    "edad": 21,
+    "sexo": "femenino",
+    "salario": 123037,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "democrata"
+}

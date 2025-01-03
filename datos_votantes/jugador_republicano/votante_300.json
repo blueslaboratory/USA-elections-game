@@ -1,0 +1,14 @@
+{
+    "id": 300,
+    "fecha_voto": "2024-03-06",
+    "estado": "Wisconsin",
+    "etnia": "indian",
+    "edad": 35,
+    "sexo": "masculino",
+    "salario": 68533,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 0,
+    "voto": "democrata"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 555,
+    "fecha_voto": "2024-04-10",
+    "estado": "Ohio",
+    "etnia": "hispanic",
+    "edad": 64,
+    "sexo": "masculino",
+    "salario": 186215,
+    "estudios": "graduate",
+    "religion": "other",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
+}

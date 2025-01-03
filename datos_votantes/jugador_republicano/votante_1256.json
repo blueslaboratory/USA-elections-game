@@ -1,0 +1,14 @@
+{
+    "id": 1256,
+    "fecha_voto": "2024-08-17",
+    "estado": "Pennsylvania",
+    "etnia": "white",
+    "edad": 24,
+    "sexo": "masculino",
+    "salario": 95226,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
+}

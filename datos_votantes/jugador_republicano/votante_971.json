@@ -1,0 +1,14 @@
+{
+    "id": 971,
+    "fecha_voto": "2024-06-20",
+    "estado": "Texas",
+    "etnia": "black",
+    "edad": 24,
+    "sexo": "masculino",
+    "salario": 123209,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 21,
+    "fecha_voto": "2024-01-13",
+    "estado": "Florida",
+    "etnia": "indian",
+    "edad": 80,
+    "sexo": "n",
+    "salario": 330962,
+    "estudios": "undergraduate",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
+}

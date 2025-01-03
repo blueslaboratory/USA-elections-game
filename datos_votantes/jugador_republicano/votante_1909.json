@@ -1,0 +1,14 @@
+{
+    "id": 1909,
+    "fecha_voto": "2024-11-04",
+    "estado": "Pennsylvania",
+    "etnia": "hispanic",
+    "edad": 42,
+    "sexo": "masculino",
+    "salario": 55935,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
+}

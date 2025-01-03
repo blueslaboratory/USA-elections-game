@@ -1,0 +1,14 @@
+{
+    "id": 264,
+    "fecha_voto": "2024-03-19",
+    "estado": "Montana",
+    "etnia": "asian",
+    "edad": 20,
+    "sexo": "masculino",
+    "salario": 101320,
+    "estudios": "undergraduate",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "democrata"
+}

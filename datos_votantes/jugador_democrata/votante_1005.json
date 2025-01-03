@@ -1,0 +1,14 @@
+{
+    "id": 1005,
+    "fecha_voto": "2024-07-11",
+    "estado": "Massachusetts",
+    "etnia": "black",
+    "edad": 47,
+    "sexo": "masculino",
+    "salario": 33833,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
+}

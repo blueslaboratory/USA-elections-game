@@ -1,0 +1,14 @@
+{
+    "id": 1053,
+    "fecha_voto": "2024-08-01",
+    "estado": "Nevada",
+    "etnia": "asian",
+    "edad": 34,
+    "sexo": "femenino",
+    "salario": 234245,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
+}

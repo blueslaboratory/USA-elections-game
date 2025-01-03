@@ -1,0 +1,14 @@
+{
+    "id": 101,
+    "fecha_voto": "2024-02-11",
+    "estado": "Virginia",
+    "etnia": "black",
+    "edad": 73,
+    "sexo": "l",
+    "salario": 207284,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
+}

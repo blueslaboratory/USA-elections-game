@@ -1,0 +1,14 @@
+{
+    "id": 701,
+    "fecha_voto": "2024-04-06",
+    "estado": "Florida",
+    "etnia": "hispanic",
+    "edad": 34,
+    "sexo": "masculino",
+    "salario": 109009,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
+}

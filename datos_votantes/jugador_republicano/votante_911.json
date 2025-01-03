@@ -1,0 +1,14 @@
+{
+    "id": 911,
+    "fecha_voto": "2024-05-16",
+    "estado": "California",
+    "etnia": "white",
+    "edad": 32,
+    "sexo": "masculino",
+    "salario": 108292,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
+}

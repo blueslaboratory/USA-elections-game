@@ -1,0 +1,14 @@
+{
+    "id": 321,
+    "fecha_voto": "2024-03-14",
+    "estado": "Arizona",
+    "etnia": "white",
+    "edad": 91,
+    "sexo": "masculino",
+    "salario": 215142,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
+}

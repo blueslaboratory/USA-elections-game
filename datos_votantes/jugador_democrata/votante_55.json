@@ -1,0 +1,14 @@
+{
+    "id": 55,
+    "fecha_voto": "2024-01-27",
+    "estado": "Arkansas",
+    "etnia": "white",
+    "edad": 50,
+    "sexo": "s",
+    "salario": 244444,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
+}

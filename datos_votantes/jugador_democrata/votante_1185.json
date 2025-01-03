@@ -1,0 +1,14 @@
+{
+    "id": 1185,
+    "fecha_voto": "2024-06-30",
+    "estado": "Oklahoma",
+    "etnia": "black",
+    "edad": 39,
+    "sexo": "masculino",
+    "salario": 123314,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
+}

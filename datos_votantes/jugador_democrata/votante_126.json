@@ -1,0 +1,14 @@
+{
+    "id": 126,
+    "fecha_voto": "2024-01-03",
+    "estado": "Virginia",
+    "etnia": "indian",
+    "edad": 25,
+    "sexo": "s",
+    "salario": 149680,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
+}

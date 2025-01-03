@@ -1,0 +1,14 @@
+{
+    "id": 460,
+    "fecha_voto": "2024-02-16",
+    "estado": "Texas",
+    "etnia": "white",
+    "edad": 27,
+    "sexo": "masculino",
+    "salario": 131443,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
+}

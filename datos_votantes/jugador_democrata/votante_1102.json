@@ -1,0 +1,14 @@
+{
+    "id": 1102,
+    "fecha_voto": "2024-07-27",
+    "estado": "Kansas",
+    "etnia": "black",
+    "edad": 23,
+    "sexo": "masculino",
+    "salario": 112305,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
+}

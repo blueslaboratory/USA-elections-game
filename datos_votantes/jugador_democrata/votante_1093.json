@@ -1,0 +1,14 @@
+{
+    "id": 1093,
+    "fecha_voto": "2024-07-07",
+    "estado": "Pennsylvania",
+    "etnia": "white",
+    "edad": 24,
+    "sexo": "masculino",
+    "salario": 125532,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
+}

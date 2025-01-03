@@ -1,0 +1,14 @@
+{
+    "id": 777,
+    "fecha_voto": "2024-05-26",
+    "estado": "Delaware",
+    "etnia": "white",
+    "edad": 49,
+    "sexo": "masculino",
+    "salario": 200473,
+    "estudios": "high school",
+    "religion": "other",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
+}

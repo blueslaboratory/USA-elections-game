@@ -9,7 +9,7 @@ import random
 from acciones import accion_analisis, acciones_democratas, acciones_republicanas
 from players import Player
 from generador import generar_votantes
-from config import TURNOS_TOTALES, MINUTOS_ANALISIS
+from config import TURNOS_TOTALES, MINUTOS_ANALISIS, DINERO_INICIAL
 from config import fecha_inicial, fecha_final, MESES
 from utilities import formatear_fecha, formatear_numero
 
@@ -155,7 +155,7 @@ def ejecutar_accion_especial(jugador, accion_especial):
 
     print("\n¡Acción especial activada!")
     numero_aleatorio = random.randint(1, 100)
-    print(f"Numero: {numero_aleatorio}")
+    # print(f"Numero: {numero_aleatorio}")
     print("Adivina un número entre 1 y 100 (1 intento):")
 
     votantes_extra = []
@@ -285,14 +285,14 @@ def procesar_votos(votantes, democrata, republicano):
 
     # Contar votos del turno
     votos = Counter([votante["voto"] for votante in votantes])
-    print("\n==== PUNTUACIÓN ====")
-    print(f"Resultados del turno: \n{votos}")
+    # print("\n==== PUNTUACIÓN ====")
+    # print(f"Resultados del turno: \n{votos}")
 
     # Asignar puntaje al jugador
     democrata.add_score(votos['democrata'])
     republicano.add_score(votos['republicano'])
-    print(f"Puntuación actual: \n{republicano.name}: {republicano.score} - {democrata.name}: {democrata.score}")
-    print("====================")
+    # print(f"Puntuación actual: \n{republicano.name}: {republicano.score} - {democrata.name}: {democrata.score}")
+    # print("====================")
     return votos
 
 
@@ -303,9 +303,9 @@ print("\t(con clara del rey analytica)")
 print()
 
 
-# Crear jugadores: 1M$ inicial
-democrata = Player("Democrata", 1000000)  
-republicano = Player("Republicano", 1000000)
+# Crear jugadores: 125.000$ * TURNOS_TOTALES inicial
+democrata = Player("Democrata", DINERO_INICIAL)  
+republicano = Player("Republicano", DINERO_INICIAL)
 
 
 # Fechas turnos distribuidas equitativamente

@@ -1,0 +1,14 @@
+{
+    "id": 522,
+    "fecha_voto": "2024-05-05",
+    "estado": "Oregon",
+    "etnia": "hispanic",
+    "edad": 67,
+    "sexo": "masculino",
+    "salario": 123704,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 2,
+    "voto": "republicano"
+}

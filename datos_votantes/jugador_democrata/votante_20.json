@@ -1,0 +1,14 @@
+{
+    "id": 20,
+    "fecha_voto": "2024-02-02",
+    "estado": "New York",
+    "etnia": "hispanic",
+    "edad": 18,
+    "sexo": "m",
+    "salario": 188629,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
+}

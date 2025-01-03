@@ -1,0 +1,14 @@
+{
+    "id": 1000,
+    "fecha_voto": "2024-05-17",
+    "estado": "Connecticut",
+    "etnia": "indian",
+    "edad": 40,
+    "sexo": "masculino",
+    "salario": 49813,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
+}

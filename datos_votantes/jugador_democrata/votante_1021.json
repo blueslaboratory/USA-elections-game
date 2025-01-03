@@ -1,0 +1,14 @@
+{
+    "id": 1021,
+    "fecha_voto": "2024-08-01",
+    "estado": "Minnesota",
+    "etnia": "hispanic",
+    "edad": 33,
+    "sexo": "femenino",
+    "salario": 155795,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
+}

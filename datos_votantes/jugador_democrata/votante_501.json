@@ -1,0 +1,14 @@
+{
+    "id": 501,
+    "fecha_voto": "2024-04-10",
+    "estado": "California",
+    "etnia": "illegal",
+    "edad": 30,
+    "sexo": "masculino",
+    "salario": 142005,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 2,
+    "voto": "democrata"
+}

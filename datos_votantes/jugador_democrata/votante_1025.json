@@ -1,0 +1,14 @@
+{
+    "id": 1025,
+    "fecha_voto": "2024-07-07",
+    "estado": "Alabama",
+    "etnia": "black",
+    "edad": 27,
+    "sexo": "masculino",
+    "salario": 128751,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
+}

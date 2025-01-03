@@ -1,0 +1,14 @@
+{
+    "id": 1012,
+    "fecha_voto": "2024-08-01",
+    "estado": "Pennsylvania",
+    "etnia": "white",
+    "edad": 27,
+    "sexo": "femenino",
+    "salario": 217832,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 5,
+    "voto": "democrata"
+}

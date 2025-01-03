@@ -1,0 +1,14 @@
+{
+    "id": 1456,
+    "fecha_voto": "2024-09-02",
+    "estado": "Nebraska",
+    "etnia": "white",
+    "edad": 30,
+    "sexo": "femenino",
+    "salario": 214739,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "democrata"
+}

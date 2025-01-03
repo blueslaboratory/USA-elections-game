@@ -1,0 +1,14 @@
+{
+    "id": 1003,
+    "fecha_voto": "2024-06-25",
+    "estado": "Georgia",
+    "etnia": "black",
+    "edad": 32,
+    "sexo": "masculino",
+    "salario": 220152,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
+}

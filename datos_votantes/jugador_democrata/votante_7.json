@@ -1,0 +1,14 @@
+{
+    "id": 7,
+    "fecha_voto": "2024-02-01",
+    "estado": "Oregon",
+    "etnia": "hispanic",
+    "edad": 37,
+    "sexo": "c",
+    "salario": 263644,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 1111,
+    "fecha_voto": "2024-07-13",
+    "estado": "Nebraska",
+    "etnia": "black",
+    "edad": 44,
+    "sexo": "femenino",
+    "salario": 126207,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
+}

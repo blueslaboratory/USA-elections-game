@@ -1,0 +1,14 @@
+{
+    "id": 1099,
+    "fecha_voto": "2024-08-01",
+    "estado": "New York",
+    "etnia": "hispanic",
+    "edad": 26,
+    "sexo": "masculino",
+    "salario": 174920,
+    "estudios": "doctor",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
+}

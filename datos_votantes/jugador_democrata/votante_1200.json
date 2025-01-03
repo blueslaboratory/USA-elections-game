@@ -1,0 +1,14 @@
+{
+    "id": 1200,
+    "fecha_voto": "2024-06-29",
+    "estado": "Kentucky",
+    "etnia": "asian",
+    "edad": 18,
+    "sexo": "femenino",
+    "salario": 237234,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "democrata"
+}

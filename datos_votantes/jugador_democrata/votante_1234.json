@@ -1,0 +1,14 @@
+{
+    "id": 1234,
+    "fecha_voto": "2024-06-27",
+    "estado": "Mississippi",
+    "etnia": "hispanic",
+    "edad": 39,
+    "sexo": "femenino",
+    "salario": 194495,
+    "estudios": "masters",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 2,
+    "voto": "republicano"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 987,
+    "fecha_voto": "2024-06-09",
+    "estado": "North Dakota",
+    "etnia": "white",
+    "edad": 41,
+    "sexo": "masculino",
+    "salario": 50640,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 1210,
+    "fecha_voto": "2024-06-25",
+    "estado": "Illinois",
+    "etnia": "hispanic",
+    "edad": 43,
+    "sexo": "masculino",
+    "salario": 204834,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
+}

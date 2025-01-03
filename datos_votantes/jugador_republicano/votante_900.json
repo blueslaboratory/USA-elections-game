@@ -1,0 +1,14 @@
+{
+    "id": 900,
+    "fecha_voto": "2024-05-18",
+    "estado": "Kentucky",
+    "etnia": "white",
+    "edad": 29,
+    "sexo": "masculino",
+    "salario": 188410,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
+}

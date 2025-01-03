@@ -1,0 +1,14 @@
+{
+    "id": 789,
+    "fecha_voto": "2024-05-28",
+    "estado": "Idaho",
+    "etnia": "black",
+    "edad": 35,
+    "sexo": "masculino",
+    "salario": 198210,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
+}

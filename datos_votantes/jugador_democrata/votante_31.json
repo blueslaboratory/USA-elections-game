@@ -1,0 +1,14 @@
+{
+    "id": 31,
+    "fecha_voto": "2024-02-05",
+    "estado": "Illinois",
+    "etnia": "indian",
+    "edad": 30,
+    "sexo": "s",
+    "salario": 220358,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
+}

@@ -1,0 +1,14 @@
+{
+    "id": 32,
+    "fecha_voto": "2024-02-12",
+    "estado": "Virginia",
+    "etnia": "hispanic",
+    "edad": 45,
+    "sexo": "o",
+    "salario": 291073,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
+}

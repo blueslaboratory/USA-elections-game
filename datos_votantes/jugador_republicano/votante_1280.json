@@ -1,0 +1,14 @@
+{
+    "id": 1280,
+    "fecha_voto": "2024-09-03",
+    "estado": "Kentucky",
+    "etnia": "white",
+    "edad": 38,
+    "sexo": "masculino",
+    "salario": 110010,
+    "estudios": "graduate",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
+}

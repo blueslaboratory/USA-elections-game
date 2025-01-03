@@ -1,0 +1,14 @@
+{
+    "id": 1010,
+    "fecha_voto": "2024-07-10",
+    "estado": "Vermont",
+    "etnia": "white",
+    "edad": 28,
+    "sexo": "masculino",
+    "salario": 44865,
+    "estudios": "graduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
+}

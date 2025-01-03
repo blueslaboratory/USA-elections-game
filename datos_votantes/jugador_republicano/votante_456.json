@@ -1,0 +1,14 @@
+{
+    "id": 456,
+    "fecha_voto": "2024-03-19",
+    "estado": "Tennessee",
+    "etnia": "asian",
+    "edad": 95,
+    "sexo": "masculino",
+    "salario": 232147,
+    "estudios": "masters",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
+}

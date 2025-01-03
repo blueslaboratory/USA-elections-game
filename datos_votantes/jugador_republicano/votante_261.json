@@ -1,0 +1,14 @@
+{
+    "id": 261,
+    "fecha_voto": "2024-03-11",
+    "estado": "Pennsylvania",
+    "etnia": "white",
+    "edad": 30,
+    "sexo": "masculino",
+    "salario": 110039,
+    "estudios": "doctor",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
+}

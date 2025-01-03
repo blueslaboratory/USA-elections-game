@@ -1,0 +1,14 @@
+{
+    "id": 1442,
+    "fecha_voto": "2024-09-01",
+    "estado": "Florida",
+    "etnia": "hispanic",
+    "edad": 63,
+    "sexo": "masculino",
+    "salario": 110008,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
+}

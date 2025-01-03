@@ -1,0 +1,14 @@
+{
+    "id": 4,
+    "fecha_voto": "2024-01-17",
+    "estado": "Maryland",
+    "etnia": "white",
+    "edad": 56,
+    "sexo": "n",
+    "salario": 338522,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
+}

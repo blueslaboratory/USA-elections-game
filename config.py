@@ -13,9 +13,10 @@ output_folder = "datos_votantes"
 #############################
 ##### PARAMETROS JUEGO ######
 #############################
-# Recomendado: Turnos (8), Minutos (5)
+# Recomendado: Turnos (16), Minutos (10)
 TURNOS_TOTALES = 8
-MINUTOS_ANALISIS = 1
+MINUTOS_ANALISIS = 10
+DINERO_INICIAL = 125000*TURNOS_TOTALES
 
 
 

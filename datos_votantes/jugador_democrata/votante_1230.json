@@ -1,0 +1,14 @@
+{
+    "id": 1230,
+    "fecha_voto": "2024-08-02",
+    "estado": "Wisconsin",
+    "etnia": "black",
+    "edad": 34,
+    "sexo": "masculino",
+    "salario": 95259,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
+}

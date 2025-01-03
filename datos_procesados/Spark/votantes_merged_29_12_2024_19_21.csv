@@ -1,0 +1,2001 @@
+id,fecha_voto,estado,etnia,edad,sexo,salario,estudios,religion,casado,hijos,voto
+76,2024-01-28,Oklahoma,black,37,masculino,39354,undergraduate,islam,true,4,republicano
+589,2024-05-10,Texas,black,91,masculino,87377,masters,islam,false,4,republicano
+644,2024-05-05,Oklahoma,hispanic,75,masculino,60316,doctor,hinduism,true,4,republicano
+659,2024-04-03,West Virginia,hispanic,22,femenino,236552,graduate,atheism,false,0,democrata
+159,2024-01-05,Oklahoma,black,36,femenino,129401,doctor,christianism,false,5,democrata
+1168,2024-06-27,Connecticut,illegal,53,femenino,196263,doctor,christianism,true,3,democrata
+162,2024-01-02,South Carolina,white,98,masculino,243818,doctor,christianism,true,0,republicano
+1537,2024-09-27,Idaho,illegal,54,masculino,177976,graduate,islam,true,1,republicano
+1053,2024-07-15,New Hampshire,indian,33,femenino,184455,graduate,islam,false,2,democrata
+1653,2024-10-13,Tennessee,illegal,40,femenino,177956,high school,other,false,3,republicano
+192,2024-01-26,Nebraska,white,35,masculino,104926,graduate,atheism,false,0,republicano
+531,2024-04-26,Utah,asian,41,masculino,189337,doctor,atheism,true,5,republicano
+232,2024-01-16,Alaska,hispanic,41,femenino,83857,doctor,judaism,true,2,democrata
+177,2024-01-05,New Mexico,black,79,masculino,52261,doctor,hinduism,true,2,democrata
+1055,2024-07-11,Nebraska,white,25,femenino,63135,masters,christianism,false,1,democrata
+662,2024-03-30,Missouri,white,90,femenino,127631,masters,judaism,true,1,democrata
+709,2024-04-17,New Mexico,illegal,30,femenino,183942,masters,judaism,false,1,democrata
+1151,2024-08-01,Oregon,white,36,femenino,108129,doctor,other,true,4,democrata
+144,2024-01-31,Alabama,illegal,72,masculino,234414,graduate,judaism,true,3,republicano
+28,2024-01-02,Tennessee,illegal,40,femenino,220808,high school,judaism,true,3,republicano
+6,2024-01-25,Mississippi,white,56,masculino,176147,high school,judaism,false,4,republicano
+1738,2024-09-29,South Dakota,hispanic,70,masculino,198145,masters,atheism,false,3,republicano
+1708,2024-10-13,North Dakota,hispanic,55,masculino,230478,masters,atheism,true,4,republicano
+574,2024-03-29,Nevada,white,87,femenino,224096,graduate,islam,false,1,republicano
+739,2024-04-27,Connecticut,asian,94,masculino,214699,graduate,hinduism,false,5,democrata
+1540,2024-10-26,Georgia,hispanic,48,femenino,112424,undergraduate,other,true,3,republicano
+250,2024-01-21,Colorado,white,46,femenino,124336,undergraduate,other,false,5,republicano
+1633,2024-09-25,New York,illegal,25,femenino,135440,masters,atheism,false,3,democrata
+556,2024-05-05,Mississippi,hispanic,91,masculino,192222,masters,hinduism,true,2,republicano
+1020,2024-08-05,Hawaii,asian,48,femenino,46765,graduate,islam,false,0,democrata
+1741,2024-11-02,Vermont,illegal,72,femenino,46908,undergraduate,hinduism,false,2,democrata
+742,2024-04-22,Hawaii,illegal,20,masculino,173210,masters,hinduism,true,0,democrata
+1133,2024-08-03,Alabama,indian,26,femenino,52092,high school,judaism,false,4,democrata
+11,2024-01-01,Kansas,white,50,masculino,216337,high school,islam,false,3,republicano
+679,2024-05-09,Washington,indian,86,femenino,111977,masters,atheism,false,4,democrata
+1148,2024-07-09,Massachusetts,hispanic,35,femenino,175481,masters,christianism,false,5,democrata
+18,2024-01-16,Pennsylvania,hispanic,32,masculino,129796,undergraduate,judaism,true,1,democrata
+134,2024-01-03,Colorado,black,90,femenino,61259,masters,other,false,3,democrata
+94,2024-01-04,Iowa,illegal,59,femenino,160109,masters,atheism,false,5,democrata
+1643,2024-10-24,Texas,illegal,46,masculino,148882,high school,other,false,1,republicano
+1246,2024-07-19,Nebraska,indian,29,femenino,227927,doctor,other,true,4,democrata
+1221,2024-07-31,Nebraska,white,24,femenino,234829,undergraduate,christianism,false,3,democrata
+546,2024-04-15,Oklahoma,asian,88,femenino,204691,doctor,christianism,true,4,republicano
+1668,2024-10-15,Connecticut,illegal,30,femenino,185182,undergraduate,atheism,true,4,democrata
+1731,2024-09-30,Georgia,hispanic,37,femenino,138782,graduate,hinduism,false,5,democrata
+1555,2024-10-12,Pennsylvania,hispanic,82,femenino,180693,graduate,christianism,true,1,republicano
+1520,2024-10-14,California,illegal,75,femenino,177153,high school,judaism,true,4,democrata
+732,2024-04-11,Maine,black,28,femenino,112816,graduate,islam,true,1,democrata
+669,2024-04-27,Missouri,illegal,87,femenino,193381,doctor,hinduism,true,5,democrata
+1035,2024-07-28,Mississippi,asian,19,femenino,158579,graduate,judaism,false,5,democrata
+1158,2024-08-06,Illinois,black,27,femenino,152329,masters,atheism,false,0,democrata
+247,2024-02-01,Idaho,black,45,masculino,189174,masters,islam,true,4,republicano
+21,2024-02-07,Nevada,hispanic,61,femenino,49544,high school,atheism,true,2,republicano
+1661,2024-10-29,North Carolina,illegal,26,masculino,174618,graduate,christianism,false,5,democrata
+1100,2024-08-04,Michigan,black,29,femenino,49469,doctor,christianism,false,3,democrata
+84,2024-02-09,Nebraska,hispanic,37,femenino,74500,masters,atheism,true,0,democrata
+170,2024-02-05,Tennessee,illegal,46,masculino,233700,doctor,hinduism,false,4,republicano
+1176,2024-08-05,Alaska,black,25,femenino,67874,graduate,hinduism,false,2,democrata
+167,2024-01-12,Idaho,black,95,femenino,186879,high school,hinduism,true,1,republicano
+1061,2024-07-04,Louisiana,indian,32,femenino,87628,doctor,other,true,3,democrata
+1030,2024-06-25,Montana,illegal,42,femenino,152425,graduate,hinduism,false,1,democrata
+1545,2024-10-19,New Jersey,hispanic,91,masculino,60762,doctor,judaism,false,0,democrata
+184,2024-01-11,Wyoming,illegal,40,masculino,134777,high school,christianism,false,5,republicano
+618,2024-04-08,Nebraska,asian,26,femenino,104934,graduate,atheism,false,4,democrata
+69,2024-01-05,Nebraska,white,71,femenino,141539,high school,atheism,false,3,republicano
+654,2024-05-10,West Virginia,white,39,femenino,135431,masters,islam,false,3,democrata
+1063,2024-07-22,Rhode Island,asian,29,femenino,152436,graduate,christianism,true,3,democrata
+249,2024-01-30,West Virginia,illegal,58,masculino,193000,high school,atheism,false,3,republicano
+596,2024-04-13,New Hampshire,asian,28,femenino,117196,masters,other,true,0,democrata
+582,2024-04-29,Idaho,hispanic,61,masculino,214217,graduate,other,true,2,republicano
+240,2024-01-28,Nebraska,black,52,femenino,106055,doctor,judaism,true,1,democrata
+1191,2024-07-05,New Hampshire,black,51,femenino,152541,doctor,judaism,true,5,democrata
+169,2024-01-26,North Dakota,illegal,46,masculino,51831,masters,other,true,2,republicano
+621,2024-04-09,Alabama,asian,24,femenino,206620,masters,other,false,5,democrata
+717,2024-04-19,Idaho,hispanic,96,masculino,184246,masters,judaism,false,5,republicano
+1658,2024-10-04,Montana,illegal,89,masculino,133683,graduate,christianism,false,3,republicano
+36,2024-02-09,Colorado,hispanic,35,masculino,143834,high school,other,true,1,republicano
+136,2024-01-21,Michigan,illegal,72,masculino,70013,doctor,other,true,5,democrata
+1143,2024-07-12,New Hampshire,asian,35,femenino,88960,graduate,christianism,false,1,republicano
+1716,2024-10-15,Connecticut,illegal,40,femenino,38556,undergraduate,islam,false,0,democrata
+1625,2024-10-26,Rhode Island,hispanic,52,femenino,136164,masters,judaism,true,4,democrata
+1578,2024-10-23,Missouri,hispanic,97,femenino,248744,undergraduate,judaism,true,5,democrata
+1733,2024-11-02,Utah,illegal,97,femenino,156633,undergraduate,hinduism,false,3,democrata
+1595,2024-10-04,Colorado,illegal,70,femenino,210897,high school,islam,true,3,republicano
+611,2024-04-21,New York,white,47,femenino,212196,masters,hinduism,false,1,democrata
+1547,2024-10-20,Kansas,illegal,73,femenino,220101,undergraduate,hinduism,false,1,democrata
+109,2024-01-26,Maine,white,31,femenino,87624,high school,judaism,false,0,republicano
+51,2024-01-15,Colorado,hispanic,84,femenino,186375,masters,judaism,false,4,democrata
+541,2024-04-22,Oklahoma,illegal,90,masculino,188143,masters,christianism,true,4,republicano
+548,2024-04-26,Illinois,black,87,femenino,112606,doctor,judaism,false,2,democrata
+687,2024-05-06,Wisconsin,black,23,masculino,47486,graduate,hinduism,true,4,democrata
+126,2024-01-18,Florida,illegal,56,masculino,240640,masters,other,true,1,republicano
+1118,2024-07-01,Oklahoma,white,53,femenino,165761,doctor,islam,true,4,republicano
+242,2024-01-28,New Mexico,white,57,femenino,143667,masters,hinduism,false,3,democrata
+26,2024-01-31,North Carolina,white,79,masculino,71571,undergraduate,christianism,false,3,republicano
+579,2024-04-01,California,indian,66,femenino,184787,doctor,islam,false,4,democrata
+734,2024-05-11,Iowa,indian,70,femenino,192444,graduate,judaism,true,2,democrata
+1248,2024-07-07,West Virginia,asian,22,femenino,102930,doctor,atheism,false,3,democrata
+1603,2024-10-12,Michigan,hispanic,58,femenino,92602,graduate,atheism,true,4,democrata
+1027,2024-07-20,Georgia,white,51,femenino,69499,undergraduate,islam,false,2,republicano
+1588,2024-11-02,Montana,illegal,25,masculino,137101,graduate,hinduism,false,2,democrata
+604,2024-04-26,Michigan,hispanic,89,masculino,99307,masters,hinduism,false,3,republicano
+1166,2024-08-04,Idaho,illegal,27,femenino,152384,undergraduate,atheism,true,4,democrata
+1512,2024-10-12,Rhode Island,illegal,74,masculino,79237,doctor,hinduism,false,0,democrata
+1141,2024-06-26,Michigan,asian,43,femenino,243846,masters,judaism,true,1,democrata
+86,2024-01-05,Nebraska,hispanic,55,femenino,162320,masters,christianism,true,5,democrata
+538,2024-04-23,Louisiana,hispanic,60,masculino,128488,graduate,hinduism,true,5,republicano
+119,2024-02-01,Missouri,white,90,femenino,89751,doctor,atheism,false,0,democrata
+1005,2024-06-29,Mississippi,asian,46,femenino,130830,high school,judaism,true,2,republicano
+724,2024-04-13,California,asian,40,masculino,146639,masters,christianism,false,3,democrata
+652,2024-04-04,Nebraska,asian,53,masculino,67769,masters,atheism,true,1,republicano
+1651,2024-10-05,New York,hispanic,58,femenino,77843,graduate,other,true,4,democrata
+1213,2024-07-30,Washington,hispanic,37,femenino,233965,doctor,judaism,false,0,democrata
+239,2024-02-06,North Dakota,white,78,femenino,165093,graduate,islam,false,5,republicano
+1522,2024-10-28,New Hampshire,illegal,80,masculino,38451,high school,other,false,5,republicano
+1070,2024-08-01,Michigan,indian,30,femenino,178485,masters,islam,true,4,democrata
+1184,2024-06-27,South Carolina,white,20,femenino,103146,graduate,hinduism,true,2,republicano
+661,2024-05-02,Ohio,hispanic,82,masculino,223238,doctor,atheism,false,3,republicano
+200,2024-01-25,Oklahoma,black,74,femenino,133309,undergraduate,christianism,true,0,republicano
+1206,2024-07-13,Nebraska,black,26,femenino,180282,masters,islam,true,3,democrata
+59,2024-01-03,Arizona,black,45,femenino,40545,graduate,christianism,true,3,democrata
+514,2024-03-30,Arkansas,indian,64,femenino,237365,masters,hinduism,true,0,democrata
+627,2024-04-28,Iowa,illegal,73,femenino,45028,masters,christianism,false,3,democrata
+1684,2024-10-07,South Carolina,illegal,53,masculino,197512,graduate,christianism,false,3,republicano
+1223,2024-07-12,Minnesota,asian,46,femenino,111321,undergraduate,hinduism,false,1,democrata
+1706,2024-10-03,California,hispanic,67,femenino,169129,high school,hinduism,true,2,democrata
+61,2024-02-02,South Dakota,illegal,79,masculino,147724,undergraduate,islam,false,0,republicano
+1183,2024-07-08,Alabama,hispanic,48,femenino,202492,undergraduate,other,false,3,republicano
+700,2024-04-06,Wisconsin,hispanic,22,femenino,192851,masters,christianism,false,1,democrata
+1037,2024-07-18,Utah,white,53,femenino,96418,masters,other,false,2,democrata
+215,2024-02-05,North Carolina,white,94,masculino,143026,doctor,atheism,true,0,republicano
+176,2024-01-18,Idaho,white,61,masculino,189137,doctor,other,true,1,republicano
+1618,2024-09-29,Ohio,illegal,20,masculino,229217,masters,islam,false,4,democrata
+1685,2024-11-02,Mississippi,illegal,46,femenino,70912,masters,atheism,false,4,democrata
+515,2024-04-25,Missouri,white,26,masculino,154704,doctor,other,true,0,democrata
+1538,2024-10-30,California,illegal,74,femenino,88405,masters,other,true,5,democrata
+44,2024-01-27,Indiana,hispanic,89,masculino,58190,doctor,other,true,4,republicano
+590,2024-04-03,Pennsylvania,black,49,masculino,200412,doctor,christianism,true,5,democrata
+1110,2024-07-23,New Mexico,illegal,47,femenino,172887,masters,judaism,false,5,democrata
+193,2024-01-12,Ohio,white,78,femenino,232793,doctor,hinduism,false,1,democrata
+1071,2024-07-01,Washington,illegal,45,femenino,61959,masters,atheism,true,3,democrata
+701,2024-04-17,Minnesota,white,18,femenino,97602,graduate,other,true,3,democrata
+588,2024-04-30,Arizona,black,26,femenino,232558,graduate,christianism,true,4,democrata
+1004,2024-06-27,Florida,asian,28,femenino,116076,high school,islam,true,5,republicano
+1108,2024-08-05,Iowa,indian,18,femenino,107368,doctor,islam,true,0,democrata
+1724,2024-10-19,Nevada,hispanic,74,masculino,214677,masters,islam,true,2,republicano
+216,2024-01-18,Florida,white,46,masculino,133530,masters,other,true,5,republicano
+1505,2024-10-28,Maryland,illegal,66,masculino,125905,doctor,christianism,false,3,democrata
+694,2024-05-02,Delaware,black,43,femenino,113988,masters,atheism,false,3,democrata
+77,2024-01-29,Virginia,white,42,femenino,165941,masters,other,false,1,democrata
+539,2024-04-07,Iowa,asian,29,masculino,212141,graduate,atheism,false,0,democrata
+160,2024-02-07,Colorado,illegal,66,femenino,110012,high school,judaism,true,1,republicano
+572,2024-04-10,Washington,white,41,femenino,95035,doctor,other,false,0,democrata
+111,2024-01-28,Virginia,hispanic,86,masculino,208304,doctor,atheism,true,2,republicano
+1095,2024-06-25,Tennessee,indian,29,femenino,64670,graduate,hinduism,true,5,democrata
+716,2024-04-27,Indiana,asian,68,masculino,89969,graduate,judaism,true,3,republicano
+1117,2024-07-07,New Mexico,illegal,34,femenino,110565,undergraduate,hinduism,false,4,democrata
+1239,2024-07-28,Nebraska,illegal,42,femenino,192509,high school,islam,true,4,republicano
+1602,2024-09-25,Kentucky,illegal,24,femenino,186583,high school,hinduism,true,1,democrata
+725,2024-04-15,Missouri,hispanic,89,masculino,61154,masters,christianism,false,2,republicano
+1617,2024-11-03,Georgia,hispanic,94,femenino,108106,high school,islam,true,0,republicano
+603,2024-05-01,Minnesota,asian,65,femenino,66317,graduate,atheism,false,3,democrata
+1126,2024-08-03,Ohio,hispanic,24,femenino,248136,doctor,judaism,true,1,democrata
+1587,2024-10-05,Kentucky,illegal,83,masculino,213574,masters,atheism,true,3,democrata
+581,2024-03-31,Nevada,black,26,femenino,93416,masters,hinduism,false,0,democrata
+707,2024-04-17,Texas,asian,52,femenino,130116,masters,other,false,0,republicano
+118,2024-01-21,Montana,illegal,50,femenino,172784,graduate,atheism,false,4,democrata
+1611,2024-10-05,Rhode Island,illegal,48,masculino,79261,undergraduate,hinduism,false,5,republicano
+1580,2024-11-02,South Dakota,illegal,76,femenino,110463,graduate,other,false,0,democrata
+1003,2024-07-26,Missouri,illegal,29,femenino,118716,graduate,atheism,true,1,democrata
+695,2024-04-12,Texas,asian,79,masculino,203673,graduate,christianism,true,3,republicano
+1504,2024-10-27,Idaho,hispanic,38,masculino,183156,masters,other,true,4,republicano
+1571,2024-10-27,Michigan,illegal,90,masculino,204387,graduate,other,false,2,republicano
+612,2024-03-30,Washington,white,73,femenino,141292,masters,atheism,true,5,democrata
+1013,2024-07-15,Montana,asian,42,femenino,31195,graduate,other,false,5,republicano
+1086,2024-07-13,Texas,indian,22,femenino,101091,masters,hinduism,true,1,democrata
+685,2024-04-27,Maryland,hispanic,71,masculino,108217,doctor,atheism,false,3,democrata
+127,2024-01-08,Pennsylvania,illegal,80,masculino,119021,graduate,islam,false,2,republicano
+1715,2024-10-26,New Mexico,hispanic,60,masculino,214286,undergraduate,judaism,true,4,republicano
+43,2024-02-07,Tennessee,illegal,63,masculino,137556,undergraduate,hinduism,false,3,republicano
+102,2024-02-02,Florida,white,60,masculino,235104,undergraduate,christianism,false,4,republicano
+1101,2024-07-14,Idaho,asian,36,femenino,55462,high school,atheism,false,1,republicano
+194,2024-02-06,Michigan,black,55,femenino,233335,undergraduate,christianism,false,3,democrata
+1199,2024-07-27,Kansas,asian,24,femenino,61401,graduate,judaism,false,3,democrata
+1205,2024-07-29,Utah,black,35,femenino,40025,high school,other,true,1,republicano
+597,2024-05-03,Mississippi,white,54,femenino,40171,masters,atheism,false,4,republicano
+1596,2024-09-24,Massachusetts,illegal,63,femenino,231953,high school,other,false,3,democrata
+1019,2024-07-13,Ohio,white,41,femenino,197703,undergraduate,atheism,true,2,republicano
+628,2024-04-02,Connecticut,asian,33,masculino,118476,masters,hinduism,false,5,democrata
+1627,2024-09-24,Wyoming,hispanic,66,femenino,132711,graduate,islam,false,1,republicano
+1045,2024-07-01,Alaska,indian,27,femenino,34153,doctor,hinduism,false,1,democrata
+636,2024-05-01,South Carolina,black,32,masculino,36213,masters,islam,false,3,democrata
+1214,2024-07-04,Utah,indian,52,femenino,226086,undergraduate,islam,false,5,democrata
+68,2024-01-04,Montana,illegal,90,masculino,177876,masters,atheism,true,1,democrata
+1192,2024-07-03,Nevada,black,43,femenino,219937,high school,islam,true,5,republicano
+1231,2024-07-05,North Carolina,hispanic,40,femenino,180916,masters,atheism,true,4,democrata
+619,2024-05-05,Hawaii,hispanic,52,femenino,84176,doctor,other,true,4,democrata
+1062,2024-07-24,Tennessee,hispanic,32,femenino,71715,graduate,judaism,false,0,democrata
+1028,2024-08-05,Virginia,illegal,44,femenino,98632,doctor,hinduism,false,1,democrata
+1175,2024-07-22,Nevada,illegal,39,femenino,195679,high school,christianism,false,0,republicano
+653,2024-04-27,Nebraska,asian,22,femenino,49767,masters,atheism,false,3,democrata
+749,2024-05-06,Montana,hispanic,26,femenino,57256,graduate,atheism,true,4,democrata
+670,2024-04-25,New Jersey,illegal,28,masculino,74165,masters,christianism,true,2,democrata
+1659,2024-10-27,West Virginia,hispanic,96,masculino,187313,high school,judaism,false,4,republicano
+1529,2024-09-22,New York,illegal,54,femenino,87307,doctor,islam,true,4,democrata
+523,2024-04-13,Hawaii,illegal,42,femenino,203229,graduate,other,true,0,democrata
+1530,2024-10-11,Texas,hispanic,95,masculino,141303,undergraduate,other,true,5,republicano
+168,2024-01-10,Mississippi,hispanic,76,femenino,245988,undergraduate,hinduism,true,5,republicano
+1546,2024-09-28,Georgia,illegal,32,masculino,221253,masters,hinduism,false,2,democrata
+52,2024-01-13,South Carolina,illegal,82,masculino,57287,high school,hinduism,false,5,republicano
+185,2024-02-07,Rhode Island,hispanic,93,femenino,191541,graduate,judaism,true,4,democrata
+1626,2024-10-23,Mississippi,illegal,87,femenino,56230,undergraduate,islam,false,3,republicano
+224,2024-01-27,Kentucky,illegal,65,femenino,195612,graduate,islam,false,4,democrata
+1660,2024-10-26,Wisconsin,illegal,26,masculino,240033,undergraduate,christianism,false,4,democrata
+1247,2024-08-06,Nevada,white,24,femenino,58079,undergraduate,atheism,false,4,democrata
+1012,2024-07-10,Massachusetts,white,37,femenino,149038,masters,judaism,false,1,democrata
+85,2024-01-03,South Carolina,hispanic,65,femenino,62680,graduate,hinduism,false,4,republicano
+506,2024-04-28,Delaware,asian,80,femenino,98874,masters,other,false,0,democrata
+1513,2024-10-08,Oklahoma,illegal,36,femenino,181876,undergraduate,atheism,true,3,republicano
+152,2024-01-27,Colorado,white,30,masculino,147579,high school,atheism,false,5,republicano
+1732,2024-10-22,Texas,illegal,77,masculino,236844,graduate,atheism,true,5,republicano
+1693,2024-10-12,Maryland,illegal,43,femenino,128416,masters,hinduism,false,5,democrata
+1739,2024-10-31,Maryland,hispanic,91,femenino,39273,undergraduate,other,false,3,democrata
+708,2024-04-11,North Dakota,white,25,masculino,53997,doctor,christianism,true,2,republicano
+1134,2024-06-28,Illinois,white,25,femenino,51101,doctor,christianism,true,1,democrata
+733,2024-04-26,South Dakota,black,27,femenino,247126,graduate,atheism,true,5,democrata
+686,2024-05-01,New York,white,29,femenino,220623,doctor,islam,true,4,democrata
+248,2024-01-15,West Virginia,hispanic,93,femenino,219697,masters,judaism,true,2,democrata
+1125,2024-07-21,Rhode Island,asian,53,femenino,241666,undergraduate,hinduism,true,0,democrata
+564,2024-03-31,Alabama,hispanic,53,masculino,194522,masters,atheism,false,3,republicano
+1579,2024-09-26,Nevada,illegal,28,femenino,94188,graduate,hinduism,false,3,democrata
+1748,2024-10-22,New Mexico,hispanic,38,femenino,80404,high school,christianism,false,2,republicano
+1078,2024-07-27,Connecticut,indian,51,femenino,248220,high school,hinduism,false,2,democrata
+1609,2024-10-14,Kansas,hispanic,94,masculino,46679,doctor,other,true,2,republicano
+573,2024-04-25,Massachusetts,illegal,32,femenino,245530,masters,other,false,0,democrata
+750,2024-04-20,Utah,white,43,femenino,218969,graduate,hinduism,false,1,republicano
+207,2024-01-05,Colorado,black,45,masculino,100942,undergraduate,atheism,false,4,republicano
+1238,2024-07-07,Maine,asian,45,femenino,194471,undergraduate,islam,false,4,democrata
+620,2024-04-12,New Jersey,hispanic,86,masculino,167149,graduate,other,true,2,republicano
+1021,2024-07-20,Indiana,illegal,24,femenino,125703,graduate,islam,false,2,democrata
+1563,2024-10-06,Florida,hispanic,61,masculino,135511,doctor,atheism,true,0,republicano
+1723,2024-10-12,Hawaii,hispanic,19,femenino,201448,high school,atheism,false,0,democrata
+1676,2024-10-16,North Dakota,hispanic,74,masculino,110153,doctor,hinduism,false,3,republicano
+135,2024-01-08,Oklahoma,black,58,masculino,101338,doctor,atheism,true,3,republicano
+1610,2024-10-23,New Hampshire,hispanic,36,femenino,180439,graduate,other,true,3,republicano
+677,2024-04-22,North Carolina,illegal,55,femenino,80224,doctor,other,false,5,democrata
+35,2024-01-15,Idaho,black,38,femenino,185084,masters,hinduism,true,4,democrata
+1635,2024-10-19,Indiana,illegal,52,masculino,87737,undergraduate,atheism,false,5,republicano
+1667,2024-10-24,Maryland,illegal,95,masculino,37545,masters,christianism,true,1,democrata
+1722,2024-10-30,West Virginia,illegal,42,femenino,84941,graduate,hinduism,true,0,democrata
+575,2024-04-29,North Dakota,black,43,femenino,148348,masters,other,false,4,democrata
+228,2024-01-24,Maine,white,81,masculino,74460,graduate,atheism,true,5,republicano
+1006,2024-07-29,Vermont,illegal,32,femenino,192868,graduate,christianism,false,2,democrata
+100,2024-01-04,Minnesota,white,64,femenino,73068,high school,islam,true,5,republicano
+1170,2024-07-09,Florida,indian,37,femenino,149232,graduate,judaism,false,4,republicano
+1697,2024-10-25,Kansas,illegal,64,femenino,166534,graduate,atheism,true,5,democrata
+1536,2024-09-30,Connecticut,hispanic,74,femenino,119376,masters,judaism,true,1,democrata
+1036,2024-07-14,Kansas,indian,45,femenino,231258,undergraduate,islam,false,2,democrata
+545,2024-05-04,Vermont,illegal,30,masculino,155663,graduate,hinduism,false,5,democrata
+600,2024-04-24,Delaware,indian,68,masculino,87357,doctor,judaism,false,4,democrata
+1506,2024-11-01,Iowa,hispanic,44,femenino,31266,high school,atheism,false,4,republicano
+1167,2024-07-06,Rhode Island,illegal,41,femenino,98549,high school,hinduism,true,5,republicano
+731,2024-04-14,Arkansas,white,59,femenino,31814,graduate,other,false,4,republicano
+1222,2024-06-30,Utah,illegal,39,femenino,246053,masters,christianism,true,4,democrata
+231,2024-01-29,Texas,black,49,femenino,182646,masters,judaism,false,1,democrata
+1604,2024-10-01,Massachusetts,hispanic,90,femenino,76743,graduate,hinduism,false,2,democrata
+1124,2024-07-06,New Jersey,illegal,26,femenino,232157,high school,islam,true,3,democrata
+1069,2024-07-18,Delaware,illegal,28,femenino,78937,doctor,christianism,true,1,democrata
+512,2024-05-11,Louisiana,white,25,femenino,75665,doctor,other,false,3,democrata
+60,2024-02-12,Alaska,illegal,93,femenino,81015,doctor,atheism,true,2,democrata
+30,2024-02-03,Missouri,white,45,masculino,208932,doctor,christianism,true,5,republicano
+1197,2024-07-22,Oklahoma,white,52,femenino,189155,undergraduate,judaism,true,5,republicano
+643,2024-04-30,Virginia,white,31,femenino,79140,doctor,islam,true,0,democrata
+1082,2024-07-17,Illinois,white,31,femenino,190123,masters,islam,true,5,democrata
+509,2024-05-03,New Jersey,asian,61,femenino,46204,masters,other,false,5,democrata
+1099,2024-07-15,North Carolina,hispanic,41,femenino,118383,high school,atheism,true,0,republicano
+133,2024-02-10,Rhode Island,illegal,58,masculino,60685,masters,hinduism,true,2,democrata
+728,2024-04-27,Maryland,white,36,masculino,232994,masters,judaism,true,5,democrata
+47,2024-01-16,New Mexico,black,43,femenino,148592,high school,hinduism,true,0,republicano
+93,2024-01-29,Indiana,black,87,masculino,42610,graduate,other,true,1,republicano
+163,2024-02-02,Colorado,hispanic,66,femenino,46706,doctor,hinduism,false,1,democrata
+1719,2024-10-05,Georgia,illegal,77,femenino,102100,high school,other,false,4,republicano
+1079,2024-07-04,New Hampshire,hispanic,30,femenino,97987,high school,other,true,4,democrata
+1187,2024-06-25,Wyoming,illegal,50,femenino,64909,high school,atheism,false,5,republicano
+741,2024-05-02,Idaho,black,54,masculino,194348,graduate,judaism,true,2,republicano
+1702,2024-10-31,Kansas,illegal,73,femenino,107678,doctor,islam,true,2,democrata
+17,2024-01-14,Idaho,illegal,69,femenino,209263,graduate,hinduism,false,2,republicano
+1634,2024-09-23,Utah,illegal,41,masculino,241444,undergraduate,christianism,false,5,republicano
+738,2024-05-05,Tennessee,indian,88,femenino,198041,doctor,hinduism,true,3,democrata
+1709,2024-10-02,Louisiana,illegal,87,masculino,212422,graduate,christianism,false,4,republicano
+673,2024-03-29,Vermont,illegal,41,masculino,79085,masters,atheism,true,5,democrata
+1026,2024-07-12,Oklahoma,illegal,37,femenino,87666,high school,judaism,false,5,republicano
+1687,2024-10-18,Pennsylvania,illegal,48,femenino,32232,masters,christianism,true,4,democrata
+1526,2024-10-02,Vermont,hispanic,83,masculino,200144,masters,hinduism,true,1,democrata
+1180,2024-07-04,Nevada,asian,20,femenino,63160,masters,judaism,true,3,democrata
+50,2024-02-03,Nebraska,white,74,femenino,103277,masters,hinduism,false,2,democrata
+218,2024-02-04,Alabama,hispanic,96,femenino,202501,graduate,hinduism,false,3,republicano
+1712,2024-10-01,New Mexico,hispanic,61,masculino,136438,doctor,other,true,1,republicano
+1599,2024-10-22,Indiana,hispanic,59,femenino,219571,masters,hinduism,false,2,democrata
+565,2024-05-01,South Carolina,illegal,32,femenino,95216,masters,hinduism,false,3,democrata
+27,2024-01-01,New Mexico,white,88,femenino,129401,high school,other,true,1,republicano
+748,2024-04-10,New Mexico,white,60,femenino,241905,doctor,atheism,true,2,democrata
+1104,2024-08-06,North Carolina,black,28,femenino,160589,masters,christianism,false,2,democrata
+1089,2024-07-29,West Virginia,illegal,27,femenino,65988,high school,hinduism,false,4,democrata
+143,2024-01-20,South Dakota,illegal,46,femenino,112882,undergraduate,atheism,true,0,democrata
+1202,2024-07-02,Colorado,asian,28,femenino,133195,doctor,christianism,false,5,democrata
+1190,2024-07-09,Maine,asian,33,femenino,238344,undergraduate,hinduism,true,2,democrata
+241,2024-01-24,Kentucky,black,79,femenino,87080,undergraduate,christianism,true,2,democrata
+40,2024-02-08,Tennessee,illegal,95,femenino,56597,graduate,islam,true,3,republicano
+502,2024-05-04,Texas,indian,60,masculino,188672,graduate,judaism,false,4,republicano
+663,2024-04-25,Arkansas,asian,90,masculino,146822,doctor,hinduism,false,1,republicano
+1016,2024-07-18,Arizona,indian,51,femenino,162099,undergraduate,islam,true,0,democrata
+1177,2024-06-28,Georgia,illegal,48,femenino,107434,masters,other,true,1,democrata
+1624,2024-10-31,New York,illegal,20,femenino,228109,masters,judaism,false,0,democrata
+705,2024-04-11,Georgia,white,66,masculino,59388,masters,judaism,false,5,republicano
+153,2024-01-19,Tennessee,black,71,femenino,139102,masters,christianism,true,3,democrata
+1114,2024-07-21,Michigan,indian,38,femenino,129372,graduate,christianism,false,3,democrata
+519,2024-04-28,Arkansas,asian,63,masculino,49692,doctor,islam,true,0,republicano
+1092,2024-08-01,Wyoming,illegal,20,femenino,78279,graduate,hinduism,false,0,democrata
+70,2024-01-20,Colorado,illegal,61,masculino,139286,doctor,judaism,false,4,democrata
+1644,2024-10-29,Nevada,illegal,61,femenino,234441,masters,judaism,false,4,democrata
+683,2024-05-02,Hawaii,white,88,femenino,187385,graduate,hinduism,false,0,democrata
+522,2024-03-29,Nebraska,asian,34,masculino,36955,graduate,christianism,true,0,republicano
+67,2024-02-04,New Hampshire,white,45,masculino,116177,undergraduate,judaism,false,5,republicano
+1745,2024-10-16,South Dakota,hispanic,63,masculino,93871,masters,other,false,5,republicano
+1576,2024-11-03,Maryland,hispanic,97,femenino,139861,undergraduate,atheism,false,3,democrata
+1229,2024-07-26,Alaska,illegal,30,femenino,73416,undergraduate,judaism,true,3,democrata
+598,2024-05-07,New Hampshire,asian,79,femenino,71646,graduate,other,false,3,republicano
+1029,2024-07-23,Tennessee,hispanic,44,femenino,221439,doctor,atheism,true,2,democrata
+1559,2024-09-27,Florida,illegal,53,masculino,234840,graduate,islam,false,5,republicano
+637,2024-05-04,Wyoming,white,70,masculino,225187,masters,islam,true,4,republicano
+623,2024-05-07,Pennsylvania,white,83,femenino,193274,masters,christianism,false,2,democrata
+53,2024-01-26,Nevada,illegal,84,masculino,234897,undergraduate,other,true,1,republicano
+107,2024-02-06,Nebraska,black,73,femenino,197861,masters,islam,false,5,democrata
+1601,2024-10-20,Alaska,illegal,71,femenino,190957,high school,islam,true,3,republicano
+640,2024-04-06,Louisiana,illegal,66,femenino,54968,masters,hinduism,false,1,democrata
+196,2024-01-21,Wisconsin,white,33,masculino,217987,graduate,islam,false,5,republicano
+1215,2024-06-28,Maine,illegal,43,femenino,233225,doctor,atheism,false,1,democrata
+1157,2024-08-05,Indiana,black,52,femenino,32482,undergraduate,hinduism,true,3,democrata
+1516,2024-10-08,Missouri,hispanic,68,femenino,64664,graduate,judaism,false,3,democrata
+1562,2024-10-08,New Mexico,illegal,26,masculino,137905,graduate,hinduism,true,3,democrata
+208,2024-01-24,South Carolina,black,42,femenino,157089,masters,atheism,false,3,democrata
+1690,2024-09-28,Michigan,hispanic,97,masculino,157122,undergraduate,atheism,true,5,republicano
+221,2024-01-11,Pennsylvania,black,51,masculino,133329,graduate,christianism,true,2,republicano
+1677,2024-10-20,Ohio,hispanic,80,femenino,195627,undergraduate,judaism,false,2,democrata
+555,2024-05-01,Connecticut,hispanic,72,masculino,234429,doctor,atheism,false,3,democrata
+20,2024-01-14,Tennessee,illegal,59,femenino,36071,masters,islam,true,1,democrata
+211,2024-01-24,West Virginia,black,87,masculino,79693,high school,islam,true,1,republicano
+633,2024-04-11,Wisconsin,asian,86,masculino,151488,doctor,other,true,2,republicano
+1150,2024-07-04,Hawaii,white,29,femenino,221752,doctor,hinduism,true,3,democrata
+1242,2024-08-07,Michigan,illegal,18,femenino,150829,masters,hinduism,false,0,democrata
+103,2024-02-04,Arizona,white,42,masculino,122472,masters,islam,true,1,republicano
+1225,2024-07-14,Nevada,black,41,femenino,133455,undergraduate,hinduism,false,4,democrata
+7,2024-02-09,Indiana,black,71,femenino,86999,high school,atheism,true,0,republicano
+57,2024-01-10,Louisiana,white,92,masculino,34851,doctor,other,true,3,republicano
+120,2024-01-02,Kentucky,black,74,femenino,171438,doctor,islam,true,1,democrata
+1572,2024-10-05,Georgia,illegal,33,femenino,192706,graduate,hinduism,true,3,democrata
+1056,2024-07-25,Arizona,black,51,femenino,239669,masters,christianism,false,3,democrata
+715,2024-04-04,New York,white,59,masculino,169976,masters,islam,false,4,democrata
+1680,2024-10-27,Arkansas,illegal,91,femenino,197294,high school,judaism,true,5,republicano
+10,2024-01-29,Alabama,illegal,83,masculino,68584,high school,hinduism,true,4,republicano
+693,2024-04-29,Mississippi,hispanic,90,femenino,186636,masters,hinduism,true,3,republicano
+1654,2024-10-18,Arizona,illegal,18,femenino,199291,graduate,christianism,false,0,democrata
+80,2024-01-07,Georgia,hispanic,96,masculino,237476,masters,other,false,1,republicano
+529,2024-03-30,Georgia,illegal,25,masculino,156636,doctor,islam,true,2,democrata
+532,2024-04-26,Mississippi,indian,38,masculino,235836,doctor,christianism,false,5,republicano
+1160,2024-07-05,Missouri,hispanic,48,femenino,111828,doctor,hinduism,false,3,democrata
+1147,2024-07-09,Washington,black,48,femenino,204389,high school,islam,true,3,democrata
+1046,2024-08-05,Vermont,hispanic,33,femenino,123854,masters,judaism,false,5,democrata
+186,2024-01-06,North Carolina,hispanic,67,femenino,229496,doctor,hinduism,false,2,democrata
+1566,2024-10-15,Tennessee,illegal,46,femenino,54644,undergraduate,christianism,false,2,republicano
+110,2024-02-06,Idaho,white,42,masculino,185963,undergraduate,islam,false,3,republicano
+1219,2024-08-04,Wisconsin,illegal,24,femenino,50815,masters,atheism,true,4,democrata
+1232,2024-07-11,Georgia,indian,34,femenino,129118,doctor,christianism,false,0,democrata
+1569,2024-10-03,Alabama,hispanic,50,masculino,99101,high school,other,false,5,republicano
+1553,2024-11-02,Minnesota,hispanic,97,masculino,238229,undergraduate,hinduism,true,4,republicano
+744,2024-05-03,Arizona,white,53,masculino,138770,masters,atheism,true,3,republicano
+630,2024-04-12,North Carolina,hispanic,56,femenino,233451,doctor,atheism,true,1,democrata
+1705,2024-10-04,Washington,hispanic,21,masculino,39488,doctor,islam,true,0,democrata
+1023,2024-08-05,Vermont,hispanic,26,femenino,43159,undergraduate,atheism,false,3,democrata
+214,2024-01-29,Virginia,illegal,86,masculino,78835,undergraduate,christianism,false,3,republicano
+130,2024-02-11,Rhode Island,illegal,97,masculino,172165,undergraduate,atheism,false,4,republicano
+1022,2024-07-31,Montana,black,38,femenino,116290,high school,atheism,false,5,republicano
+1683,2024-09-28,Kentucky,illegal,27,masculino,32204,high school,atheism,false,2,republicano
+1637,2024-09-22,Florida,hispanic,51,femenino,237779,undergraduate,atheism,false,2,republicano
+676,2024-05-01,Iowa,black,29,masculino,205619,masters,hinduism,true,1,democrata
+592,2024-04-16,Maine,hispanic,31,femenino,41960,doctor,christianism,false,3,democrata
+1749,2024-10-25,Alabama,illegal,50,femenino,106937,doctor,judaism,true,0,democrata
+646,2024-04-11,New Jersey,asian,89,masculino,212915,doctor,islam,false,5,democrata
+1052,2024-07-04,Rhode Island,black,31,femenino,199212,high school,other,false,2,democrata
+1607,2024-10-15,Alaska,hispanic,55,femenino,90863,undergraduate,other,false,5,republicano
+33,2024-01-14,Arkansas,hispanic,59,masculino,208184,masters,other,true,4,republicano
+1620,2024-10-26,Oregon,illegal,21,femenino,49070,masters,other,false,0,democrata
+1039,2024-07-06,Delaware,hispanic,21,femenino,69725,doctor,atheism,false,2,democrata
+1096,2024-08-07,Alabama,indian,50,femenino,166539,graduate,other,false,1,republicano
+63,2024-02-11,Maine,black,95,masculino,33444,doctor,judaism,false,1,democrata
+613,2024-04-17,Mississippi,hispanic,29,femenino,75777,masters,hinduism,false,3,democrata
+558,2024-05-03,Pennsylvania,asian,95,femenino,31271,doctor,other,false,2,democrata
+1519,2024-10-17,Virginia,hispanic,86,femenino,188601,graduate,atheism,true,0,democrata
+1140,2024-08-06,North Carolina,indian,26,femenino,222742,masters,other,false,1,democrata
+1085,2024-07-01,Kansas,hispanic,30,femenino,184896,masters,atheism,false,1,democrata
+150,2024-01-24,Georgia,illegal,70,masculino,56641,undergraduate,hinduism,false,4,republicano
+578,2024-04-05,Utah,indian,55,masculino,152555,masters,hinduism,true,3,democrata
+225,2024-02-04,Pennsylvania,illegal,64,masculino,123037,graduate,islam,false,5,republicano
+1009,2024-06-29,Alabama,indian,20,femenino,225046,graduate,judaism,true,2,democrata
+34,2024-02-04,Wisconsin,black,51,masculino,231614,graduate,other,true,1,republicano
+117,2024-01-01,Nebraska,black,42,masculino,194808,masters,islam,true,4,democrata
+1725,2024-09-26,Nevada,illegal,45,masculino,92139,high school,islam,false,5,republicano
+1650,2024-10-24,Illinois,hispanic,18,masculino,171263,high school,hinduism,false,5,democrata
+1120,2024-08-07,Connecticut,illegal,50,femenino,220221,graduate,christianism,true,4,democrata
+1539,2024-09-29,North Carolina,illegal,40,masculino,31774,graduate,hinduism,true,5,republicano
+234,2024-01-28,Arizona,hispanic,63,femenino,183904,doctor,judaism,true,4,democrata
+1694,2024-10-27,Florida,hispanic,76,femenino,194886,high school,atheism,true,5,republicano
+1586,2024-09-23,West Virginia,illegal,37,masculino,134609,masters,other,false,3,democrata
+1111,2024-07-29,New Mexico,white,37,femenino,178093,graduate,atheism,true,1,republicano
+1164,2024-06-29,Vermont,indian,33,femenino,133937,doctor,atheism,true,2,democrata
+87,2024-01-04,New Hampshire,black,69,masculino,181984,graduate,judaism,false,4,republicano
+146,2024-01-08,Maine,illegal,77,masculino,67040,masters,other,false,5,democrata
+549,2024-04-22,Colorado,hispanic,66,masculino,30686,doctor,hinduism,false,0,republicano
+1174,2024-07-04,New Mexico,black,43,femenino,59776,graduate,islam,true,0,democrata
+1249,2024-08-05,Arizona,indian,44,femenino,78409,doctor,atheism,false,5,democrata
+1107,2024-07-18,Arkansas,hispanic,27,femenino,240824,doctor,hinduism,false,0,democrata
+562,2024-03-29,Wisconsin,asian,85,femenino,168504,doctor,hinduism,true,3,democrata
+1552,2024-10-18,Vermont,illegal,51,femenino,183133,doctor,christianism,true,3,democrata
+1523,2024-10-15,Arkansas,illegal,56,femenino,184928,doctor,hinduism,true,4,democrata
+660,2024-04-09,South Carolina,indian,34,femenino,61672,graduate,islam,true,4,democrata
+591,2024-05-09,Delaware,asian,85,femenino,195161,graduate,christianism,true,0,democrata
+735,2024-04-26,Massachusetts,asian,46,femenino,139207,masters,hinduism,false,4,democrata
+1193,2024-07-14,Ohio,hispanic,52,femenino,232181,graduate,atheism,true,3,democrata
+1621,2024-10-02,New Hampshire,illegal,54,masculino,135334,undergraduate,hinduism,false,4,republicano
+505,2024-04-27,Wisconsin,black,36,masculino,145146,masters,hinduism,false,0,democrata
+1608,2024-10-25,Indiana,hispanic,40,masculino,222813,high school,islam,true,2,republicano
+24,2024-01-10,New Mexico,white,36,femenino,126501,high school,atheism,false,3,republicano
+647,2024-04-27,Tennessee,asian,86,masculino,136090,graduate,judaism,true,3,republicano
+1245,2024-08-05,Arizona,indian,37,femenino,94794,doctor,atheism,false,3,democrata
+37,2024-02-09,New Hampshire,hispanic,66,femenino,134515,graduate,christianism,false,4,republicano
+1059,2024-08-06,Michigan,hispanic,37,femenino,205523,graduate,other,true,5,republicano
+667,2024-05-07,Mississippi,illegal,60,masculino,61942,doctor,hinduism,false,3,republicano
+1228,2024-06-27,Colorado,white,32,femenino,231371,graduate,christianism,false,3,democrata
+1589,2024-09-27,Connecticut,hispanic,22,masculino,51162,masters,judaism,false,4,democrata
+54,2024-02-05,Alaska,white,74,masculino,210090,undergraduate,other,true,1,republicano
+1628,2024-09-30,Vermont,hispanic,27,femenino,84343,doctor,christianism,true,5,democrata
+1076,2024-07-06,Nevada,hispanic,35,femenino,100101,masters,hinduism,true,2,democrata
+137,2024-01-10,Utah,hispanic,60,masculino,33730,masters,atheism,true,2,republicano
+1600,2024-10-27,Arkansas,illegal,81,femenino,157928,masters,atheism,true,2,democrata
+718,2024-04-18,Louisiana,illegal,47,femenino,33501,masters,judaism,false,0,democrata
+1161,2024-07-07,Virginia,indian,54,femenino,124374,graduate,islam,true,2,democrata
+599,2024-04-24,Missouri,asian,21,femenino,248333,graduate,islam,true,2,democrata
+1127,2024-07-01,Rhode Island,indian,38,femenino,161419,high school,other,false,2,republicano
+1674,2024-09-22,Minnesota,illegal,66,femenino,86241,masters,christianism,true,2,democrata
+104,2024-01-10,Missouri,white,36,femenino,145771,high school,islam,true,0,republicano
+1746,2024-11-03,Arkansas,illegal,66,femenino,202368,graduate,other,true,4,republicano
+238,2024-01-06,Michigan,hispanic,31,masculino,193671,high school,other,false,0,republicano
+1194,2024-07-03,South Dakota,hispanic,34,femenino,54328,masters,judaism,false,1,democrata
+199,2024-01-29,Idaho,hispanic,57,femenino,86711,high school,christianism,false,5,republicano
+1573,2024-10-30,Utah,hispanic,73,femenino,85329,undergraduate,hinduism,true,4,democrata
+1212,2024-07-26,Connecticut,black,47,femenino,139986,undergraduate,other,true,5,democrata
+205,2024-02-10,Oklahoma,black,32,masculino,122539,masters,atheism,true,3,democrata
+166,2024-01-27,Idaho,black,51,femenino,145565,high school,christianism,true,0,republicano
+571,2024-05-01,New York,asian,68,femenino,66334,doctor,judaism,false,4,democrata
+610,2024-04-03,Alabama,asian,92,femenino,150568,graduate,atheism,true,3,republicano
+66,2024-01-15,Maine,white,86,femenino,238942,high school,other,true,1,republicano
+1532,2024-10-23,Wyoming,hispanic,45,femenino,119852,doctor,atheism,false,0,democrata
+525,2024-04-16,Maryland,asian,43,masculino,91677,graduate,judaism,true,5,republicano
+680,2024-04-20,Minnesota,illegal,95,femenino,65751,masters,islam,true,1,democrata
+1173,2024-07-19,Mississippi,white,24,femenino,94822,graduate,other,false,1,republicano
+711,2024-04-14,Minnesota,hispanic,25,femenino,102146,doctor,islam,true,2,democrata
+542,2024-04-19,Nevada,black,28,femenino,109808,masters,islam,true,5,democrata
+1742,2024-09-21,Missouri,hispanic,55,masculino,196773,undergraduate,islam,false,5,republicano
+1641,2024-10-30,Idaho,illegal,38,masculino,51232,doctor,other,false,5,republicano
+1241,2024-06-25,South Carolina,asian,32,femenino,30142,undergraduate,other,false,3,democrata
+595,2024-05-08,Missouri,black,26,masculino,69876,graduate,christianism,true,1,democrata
+1556,2024-10-11,California,hispanic,84,femenino,147891,masters,christianism,false,0,democrata
+1503,2024-10-07,Nevada,illegal,78,femenino,183482,masters,other,true,2,democrata
+1072,2024-07-20,Maryland,hispanic,18,femenino,32359,undergraduate,judaism,false,0,democrata
+626,2024-05-10,Vermont,black,85,masculino,37595,masters,judaism,false,4,democrata
+201,2024-01-06,Nebraska,illegal,79,masculino,160709,undergraduate,atheism,false,2,republicano
+1657,2024-09-23,Arizona,hispanic,76,femenino,70506,graduate,hinduism,false,5,democrata
+1585,2024-10-07,Hawaii,illegal,54,femenino,249323,masters,atheism,false,2,democrata
+1582,2024-10-15,Nevada,hispanic,53,masculino,82237,doctor,other,true,1,republicano
+1729,2024-10-16,South Carolina,hispanic,66,masculino,96069,masters,judaism,true,4,republicano
+1002,2024-07-10,Louisiana,indian,44,femenino,207000,high school,atheism,false,0,republicano
+1144,2024-07-13,Vermont,asian,34,femenino,73943,high school,other,false,2,democrata
+696,2024-04-08,Pennsylvania,illegal,37,femenino,203199,doctor,atheism,true,5,democrata
+83,2024-01-01,Missouri,hispanic,68,masculino,211594,undergraduate,christianism,false,3,republicano
+1043,2024-07-13,North Carolina,black,42,femenino,136175,graduate,judaism,true,4,democrata
+617,2024-04-02,Maryland,white,87,masculino,172815,doctor,hinduism,true,5,democrata
+183,2024-01-30,Georgia,hispanic,76,masculino,63204,masters,other,false,3,republicano
+1670,2024-11-01,Kentucky,illegal,38,femenino,188344,masters,hinduism,true,4,democrata
+516,2024-04-29,Alaska,hispanic,86,masculino,206403,doctor,other,false,1,republicano
+113,2024-01-23,Montana,black,57,masculino,89075,undergraduate,atheism,false,0,republicano
+116,2024-01-04,North Dakota,black,80,masculino,74513,masters,atheism,true,3,republicano
+1216,2024-07-22,California,asian,39,femenino,160010,high school,other,true,0,democrata
+702,2024-04-16,West Virginia,black,81,masculino,189266,masters,judaism,false,2,democrata
+13,2024-02-11,Florida,illegal,71,masculino,188923,high school,atheism,true,4,republicano
+689,2024-04-12,Mississippi,black,25,femenino,125140,masters,christianism,true,3,democrata
+114,2024-02-10,Wyoming,white,57,femenino,86072,doctor,atheism,false,3,republicano
+1736,2024-11-01,Utah,illegal,54,femenino,139500,doctor,atheism,true,2,democrata
+31,2024-01-07,South Carolina,white,66,femenino,240583,undergraduate,judaism,false,0,republicano
+230,2024-02-08,West Virginia,illegal,91,masculino,166736,high school,judaism,true,1,republicano
+714,2024-04-08,California,black,20,femenino,96502,masters,hinduism,false,4,democrata
+1123,2024-06-29,Illinois,black,37,femenino,69534,doctor,christianism,false,2,democrata
+4,2024-01-03,North Carolina,black,75,femenino,173937,graduate,judaism,false,5,democrata
+614,2024-04-09,Mississippi,indian,60,femenino,239399,doctor,hinduism,false,2,democrata
+1236,2024-07-16,South Dakota,black,23,femenino,135900,graduate,other,true,1,democrata
+229,2024-01-21,Louisiana,hispanic,85,femenino,36491,graduate,hinduism,true,5,republicano
+1583,2024-10-30,Missouri,illegal,22,femenino,91723,undergraduate,islam,true,4,democrata
+129,2024-01-17,South Dakota,illegal,30,femenino,137740,graduate,atheism,false,3,democrata
+1153,2024-07-28,South Dakota,indian,28,femenino,65312,masters,other,true,5,democrata
+1098,2024-07-28,Illinois,hispanic,37,femenino,218255,doctor,other,false,1,democrata
+1598,2024-10-23,Wyoming,hispanic,97,femenino,194737,graduate,judaism,false,1,republicano
+1698,2024-10-18,Colorado,hispanic,30,masculino,235121,graduate,christianism,true,3,republicano
+1083,2024-07-15,Utah,white,35,femenino,230155,graduate,christianism,true,5,republicano
+692,2024-04-18,South Dakota,indian,32,masculino,110994,doctor,islam,false,0,democrata
+576,2024-04-26,Idaho,asian,21,femenino,162216,masters,judaism,false,2,democrata
+501,2024-05-03,North Dakota,white,37,masculino,133225,doctor,judaism,true,2,republicano
+712,2024-04-24,Georgia,indian,40,masculino,59335,doctor,islam,false,1,democrata
+1138,2024-07-22,Maryland,asian,39,femenino,180713,high school,christianism,true,4,republicano
+1671,2024-10-19,Delaware,hispanic,35,femenino,94267,high school,judaism,true,0,democrata
+1007,2024-08-01,Illinois,white,20,femenino,150230,high school,judaism,true,1,democrata
+1623,2024-10-15,Wisconsin,illegal,33,masculino,64945,high school,atheism,false,4,republicano
+227,2024-01-03,Virginia,black,98,masculino,148528,undergraduate,judaism,false,4,republicano
+1565,2024-10-09,Indiana,illegal,37,femenino,71665,undergraduate,atheism,true,5,democrata
+1510,2024-11-03,Montana,hispanic,93,masculino,248259,high school,islam,true,1,republicano
+190,2024-01-30,North Carolina,illegal,36,femenino,39541,high school,other,true,3,republicano
+1105,2024-07-02,Maryland,hispanic,24,femenino,229913,high school,atheism,false,5,democrata
+1721,2024-10-26,Wisconsin,illegal,95,femenino,196964,high school,other,true,5,republicano
+528,2024-04-12,New Mexico,black,40,femenino,233019,doctor,christianism,false,3,democrata
+74,2024-01-28,Montana,illegal,80,masculino,96241,graduate,islam,true,5,republicano
+202,2024-02-10,Idaho,black,62,femenino,180609,graduate,islam,false,3,republicano
+1535,2024-10-11,Michigan,illegal,41,masculino,152184,high school,other,true,1,republicano
+1696,2024-10-13,Maryland,illegal,78,femenino,229143,high school,islam,true,4,democrata
+1181,2024-07-03,Mississippi,asian,37,femenino,77110,high school,other,true,2,republicano
+747,2024-04-21,Arizona,indian,39,femenino,118835,graduate,other,true,5,democrata
+672,2024-04-07,Wisconsin,illegal,29,femenino,123394,graduate,other,true,4,democrata
+1517,2024-10-26,Maryland,hispanic,49,masculino,81938,undergraduate,atheism,false,4,republicano
+1678,2024-10-04,Maryland,illegal,76,femenino,233171,high school,atheism,true,0,democrata
+508,2024-04-09,Tennessee,asian,86,masculino,42405,doctor,islam,true,2,republicano
+1681,2024-10-20,Delaware,hispanic,51,masculino,158550,high school,islam,true,3,republicano
+616,2024-05-03,Idaho,indian,85,femenino,119359,graduate,other,true,2,republicano
+511,2024-05-04,Michigan,white,89,femenino,112088,masters,christianism,true,3,democrata
+1073,2024-07-16,Illinois,indian,41,femenino,144370,doctor,islam,true,1,democrata
+172,2024-01-15,Indiana,illegal,93,femenino,61995,undergraduate,other,true,3,democrata
+56,2024-01-13,Idaho,illegal,52,femenino,88590,graduate,islam,false,2,republicano
+1218,2024-07-24,Arkansas,indian,33,femenino,70673,undergraduate,christianism,false,3,democrata
+1025,2024-07-10,Maryland,black,33,femenino,164301,undergraduate,islam,false,0,democrata
+1186,2024-07-07,Alabama,white,35,femenino,244962,doctor,christianism,true,4,republicano
+187,2024-01-29,Maine,white,76,femenino,113727,undergraduate,islam,true,4,republicano
+634,2024-04-20,New Hampshire,asian,54,femenino,57881,masters,other,true,4,democrata
+212,2024-02-07,Arkansas,hispanic,89,femenino,230579,high school,hinduism,true,3,republicano
+1703,2024-09-29,Vermont,hispanic,86,masculino,144509,high school,hinduism,false,4,republicano
+1211,2024-07-17,Vermont,illegal,29,femenino,170981,high school,atheism,false,1,democrata
+1010,2024-06-26,Arizona,asian,29,femenino,143550,undergraduate,atheism,false,5,democrata
+518,2024-05-09,Washington,indian,67,masculino,151493,doctor,christianism,true,4,democrata
+729,2024-05-11,California,illegal,59,femenino,63154,doctor,judaism,true,2,democrata
+1718,2024-10-15,Michigan,illegal,66,femenino,102341,graduate,other,true,3,democrata
+149,2024-01-18,Rhode Island,illegal,75,femenino,32597,graduate,hinduism,false,2,democrata
+682,2024-04-18,Alabama,asian,88,masculino,189329,masters,christianism,false,1,republicano
+1171,2024-07-11,New Mexico,illegal,18,femenino,133932,graduate,other,false,5,democrata
+124,2024-01-25,South Carolina,illegal,56,masculino,117142,undergraduate,atheism,false,2,republicano
+1507,2024-10-13,Minnesota,illegal,80,femenino,108995,graduate,christianism,true,0,democrata
+606,2024-04-08,Delaware,black,77,masculino,84831,masters,hinduism,true,1,democrata
+1196,2024-08-07,Oklahoma,illegal,30,femenino,39349,undergraduate,hinduism,true,1,democrata
+197,2024-02-07,Montana,illegal,87,masculino,244454,graduate,islam,true,4,republicano
+521,2024-04-27,Alaska,hispanic,26,femenino,199282,doctor,hinduism,false,3,democrata
+46,2024-02-09,Maine,white,85,masculino,123331,graduate,islam,true,2,republicano
+1208,2024-07-07,Indiana,indian,22,femenino,57137,graduate,islam,true,2,democrata
+1605,2024-10-26,Georgia,illegal,56,masculino,106484,graduate,atheism,false,1,republicano
+209,2024-02-11,Indiana,black,83,femenino,39732,masters,atheism,false,3,democrata
+594,2024-05-09,Alaska,white,37,masculino,161511,masters,atheism,false,1,republicano
+1593,2024-10-25,Minnesota,illegal,80,masculino,187169,doctor,atheism,true,5,democrata
+1145,2024-07-01,Minnesota,illegal,49,femenino,195766,doctor,christianism,false,4,democrata
+536,2024-04-01,Wisconsin,asian,86,masculino,68148,masters,christianism,true,3,republicano
+722,2024-04-17,Pennsylvania,hispanic,37,masculino,53640,graduate,islam,true,0,republicano
+1128,2024-07-31,New York,black,46,femenino,247320,high school,christianism,false,0,democrata
+1131,2024-07-26,New York,illegal,46,femenino,192598,doctor,atheism,false,5,democrata
+122,2024-01-20,Mississippi,black,68,masculino,155091,undergraduate,judaism,true,4,republicano
+1728,2024-10-16,Nevada,hispanic,71,femenino,151423,doctor,atheism,false,4,democrata
+719,2024-04-19,Virginia,illegal,56,femenino,126534,masters,christianism,true,2,democrata
+1015,2024-07-18,Alabama,white,44,femenino,164321,high school,hinduism,true,4,republicano
+1075,2024-08-03,Missouri,indian,21,femenino,61798,undergraduate,hinduism,false,5,democrata
+584,2024-04-23,Vermont,hispanic,69,femenino,237223,masters,christianism,false,0,democrata
+237,2024-01-07,West Virginia,illegal,91,masculino,183016,high school,christianism,true,1,republicano
+649,2024-05-11,Mississippi,hispanic,95,masculino,211910,doctor,other,false,1,republicano
+1591,2024-10-19,Mississippi,illegal,81,masculino,223074,graduate,atheism,true,0,republicano
+1630,2024-10-11,Wisconsin,hispanic,57,masculino,46283,undergraduate,atheism,false,5,republicano
+1543,2024-10-02,Maryland,illegal,18,masculino,51404,undergraduate,atheism,true,0,democrata
+1058,2024-08-05,New Jersey,asian,49,femenino,233407,graduate,atheism,false,5,democrata
+182,2024-01-25,Oklahoma,illegal,98,masculino,132424,doctor,other,true,4,republicano
+720,2024-05-01,Utah,hispanic,21,femenino,146614,masters,christianism,true,2,democrata
+1663,2024-10-05,Alabama,hispanic,39,femenino,175692,masters,christianism,true,3,republicano
+1557,2024-10-23,Indiana,illegal,27,femenino,200754,high school,other,false,5,democrata
+1244,2024-07-31,New York,white,53,femenino,133844,undergraduate,other,true,5,democrata
+41,2024-01-25,Oklahoma,white,61,femenino,94004,masters,judaism,true,5,republicano
+1615,2024-11-02,Indiana,illegal,24,masculino,111134,graduate,other,true,1,democrata
+235,2024-02-05,Arkansas,black,63,femenino,82401,doctor,other,true,0,democrata
+1502,2024-10-20,Kentucky,illegal,86,femenino,214965,doctor,atheism,true,5,democrata
+9,2024-01-20,Kentucky,white,36,femenino,246707,high school,atheism,true,1,republicano
+569,2024-05-08,Alabama,indian,67,masculino,214488,masters,hinduism,false,0,republicano
+1201,2024-06-26,Nebraska,asian,46,femenino,131560,graduate,judaism,false,3,democrata
+96,2024-01-10,Florida,black,55,femenino,44151,doctor,judaism,true,4,democrata
+697,2024-04-05,Oklahoma,white,23,femenino,151914,masters,christianism,true,3,democrata
+82,2024-02-10,Indiana,illegal,31,masculino,112291,graduate,judaism,false,2,democrata
+1743,2024-10-26,Michigan,illegal,19,femenino,41202,doctor,hinduism,true,4,democrata
+79,2024-02-03,Michigan,illegal,93,femenino,38456,high school,christianism,true,2,republicano
+608,2024-04-04,West Virginia,black,50,femenino,210313,doctor,other,false,3,democrata
+586,2024-03-29,Washington,indian,98,masculino,66344,graduate,christianism,false,4,democrata
+1550,2024-09-27,Arizona,illegal,68,femenino,220632,doctor,other,false,4,democrata
+1017,2024-06-27,Tennessee,asian,25,femenino,232712,undergraduate,other,true,3,democrata
+48,2024-01-14,Iowa,hispanic,36,femenino,215344,high school,christianism,false,2,republicano
+664,2024-04-11,North Carolina,indian,40,femenino,165425,masters,judaism,false,4,democrata
+1065,2024-06-28,Missouri,illegal,47,femenino,248200,undergraduate,hinduism,false,5,democrata
+503,2024-04-21,New York,black,21,femenino,225181,graduate,atheism,true,1,democrata
+1178,2024-07-23,Virginia,indian,47,femenino,246742,doctor,islam,true,2,democrata
+179,2024-01-29,Texas,white,98,femenino,196582,high school,judaism,false,5,republicano
+180,2024-02-09,Arkansas,hispanic,90,femenino,69471,high school,other,false,1,republicano
+642,2024-04-18,New Jersey,black,74,masculino,87236,doctor,islam,false,3,democrata
+1509,2024-09-22,New Mexico,illegal,86,masculino,103539,masters,other,false,0,democrata
+157,2024-01-17,Indiana,black,39,femenino,62314,graduate,other,true,1,democrata
+1203,2024-07-13,New Jersey,asian,19,femenino,196393,graduate,christianism,true,4,democrata
+1648,2024-10-16,New Jersey,hispanic,95,femenino,119817,undergraduate,judaism,false,0,democrata
+526,2024-04-25,Alaska,hispanic,98,masculino,233882,doctor,christianism,true,2,republicano
+699,2024-03-30,Oklahoma,white,20,femenino,34311,doctor,christianism,true,2,democrata
+690,2024-04-24,Colorado,hispanic,78,femenino,152800,graduate,hinduism,false,4,democrata
+132,2024-01-10,Wisconsin,white,65,femenino,70824,high school,hinduism,false,2,republicano
+204,2024-01-07,Florida,hispanic,73,masculino,220474,undergraduate,christianism,false,0,republicano
+1726,2024-10-16,North Dakota,illegal,45,masculino,138273,undergraduate,islam,false,3,republicano
+38,2024-01-01,New Mexico,illegal,93,masculino,160531,undergraduate,hinduism,false,1,republicano
+1560,2024-10-30,New Hampshire,illegal,91,femenino,126179,doctor,christianism,false,3,democrata
+551,2024-04-23,Connecticut,illegal,97,femenino,181682,masters,christianism,true,5,democrata
+1673,2024-09-29,Wyoming,illegal,50,femenino,91217,high school,hinduism,true,2,republicano
+1613,2024-09-23,Georgia,hispanic,40,masculino,66195,undergraduate,islam,false,5,republicano
+1188,2024-07-31,Kansas,white,35,femenino,202272,undergraduate,christianism,false,0,republicano
+1040,2024-07-28,Nevada,hispanic,30,femenino,106657,graduate,other,false,1,democrata
+639,2024-04-25,New Mexico,asian,31,femenino,137792,graduate,hinduism,true,1,democrata
+730,2024-04-02,Rhode Island,asian,55,masculino,133325,masters,christianism,true,4,republicano
+1567,2024-10-08,New Mexico,illegal,78,masculino,58108,masters,judaism,true,1,democrata
+1622,2024-10-01,Idaho,hispanic,81,femenino,165902,graduate,islam,true,3,republicano
+561,2024-04-02,Iowa,illegal,25,femenino,214506,graduate,islam,false,0,democrata
+14,2024-01-03,Kentucky,hispanic,82,masculino,80214,doctor,christianism,false,0,republicano
+559,2024-03-29,New Hampshire,illegal,37,femenino,135048,graduate,other,false,1,democrata
+245,2024-01-31,Mississippi,illegal,72,femenino,70527,high school,judaism,false,5,republicano
+15,2024-01-25,Iowa,hispanic,61,femenino,61854,high school,judaism,true,3,republicano
+745,2024-03-31,North Carolina,white,60,femenino,245075,doctor,atheism,true,1,democrata
+1137,2024-07-15,California,hispanic,51,femenino,248574,high school,atheism,false,5,democrata
+131,2024-01-23,Oklahoma,illegal,75,masculino,167179,graduate,other,true,3,republicano
+1549,2024-10-18,Montana,hispanic,95,femenino,44265,graduate,other,true,4,republicano
+1066,2024-07-01,Alaska,illegal,22,femenino,159964,high school,judaism,false,1,democrata
+1121,2024-06-27,Kentucky,black,45,femenino,171292,doctor,judaism,true,3,democrata
+657,2024-04-11,Washington,illegal,58,femenino,163366,graduate,hinduism,true,5,democrata
+1041,2024-06-25,Missouri,asian,37,femenino,235122,graduate,atheism,true,3,democrata
+1655,2024-10-10,North Dakota,illegal,92,femenino,206575,high school,islam,false,2,republicano
+3,2024-01-23,Utah,black,63,masculino,203628,undergraduate,other,true,3,republicano
+88,2024-02-01,Oklahoma,illegal,96,masculino,119446,doctor,christianism,false,1,republicano
+1154,2024-08-01,Washington,illegal,31,femenino,169856,masters,atheism,false,3,democrata
+577,2024-04-03,Indiana,illegal,43,femenino,152181,masters,hinduism,true,3,democrata
+632,2024-03-29,Washington,hispanic,83,femenino,225433,masters,christianism,true,3,democrata
+544,2024-05-07,Oregon,white,94,femenino,230480,masters,islam,true,1,democrata
+1735,2024-10-29,South Carolina,hispanic,86,masculino,235849,masters,judaism,false,3,republicano
+1551,2024-10-30,Pennsylvania,illegal,31,femenino,204649,doctor,other,true,0,democrata
+90,2024-01-18,Michigan,white,77,masculino,112815,graduate,atheism,false,0,republicano
+147,2024-01-27,Nebraska,black,75,femenino,55043,masters,islam,true,1,democrata
+156,2024-01-22,Tennessee,illegal,75,masculino,50774,high school,hinduism,false,2,republicano
+1042,2024-08-01,California,illegal,32,femenino,50501,undergraduate,christianism,true,2,democrata
+641,2024-05-07,Wyoming,black,66,femenino,169054,doctor,judaism,true,1,democrata
+1533,2024-10-29,North Dakota,hispanic,93,masculino,127694,undergraduate,other,true,1,republicano
+1234,2024-07-06,Oklahoma,illegal,27,femenino,82401,masters,atheism,true,5,democrata
+1542,2024-10-04,Oregon,illegal,34,masculino,63798,doctor,islam,true,1,democrata
+81,2024-01-30,Nebraska,black,74,femenino,114446,undergraduate,other,true,3,democrata
+656,2024-04-04,Oklahoma,hispanic,34,masculino,48154,doctor,christianism,false,3,republicano
+165,2024-01-14,Nevada,illegal,61,femenino,244707,high school,judaism,true,5,republicano
+72,2024-01-22,Nevada,illegal,77,masculino,73693,masters,hinduism,false,3,democrata
+650,2024-04-25,Arizona,asian,58,femenino,67901,doctor,other,false,0,democrata
+1656,2024-09-26,Iowa,hispanic,54,femenino,203454,doctor,hinduism,true,0,democrata
+1048,2024-07-11,West Virginia,black,45,femenino,207758,undergraduate,atheism,true,4,democrata
+1640,2024-09-24,Nevada,illegal,32,masculino,119445,masters,christianism,true,4,democrata
+97,2024-01-01,Texas,hispanic,91,masculino,103713,graduate,islam,true,3,republicano
+1646,2024-10-20,Minnesota,illegal,95,masculino,94434,high school,hinduism,true,2,republicano
+140,2024-01-19,Nevada,hispanic,93,masculino,178225,doctor,islam,false,4,republicano
+2,2024-01-10,West Virginia,illegal,71,masculino,82283,masters,judaism,true,3,democrata
+1155,2024-06-27,New Jersey,white,23,femenino,47870,doctor,hinduism,true,4,democrata
+543,2024-04-17,Virginia,illegal,57,masculino,57823,doctor,christianism,true,4,democrata
+244,2024-01-14,New Mexico,black,45,masculino,67864,doctor,judaism,true,3,democrata
+666,2024-05-09,Missouri,indian,33,masculino,161450,masters,christianism,true,4,democrata
+1057,2024-06-27,Montana,white,44,femenino,194316,high school,atheism,true,0,republicano
+1558,2024-11-03,South Dakota,hispanic,62,femenino,108414,graduate,islam,true,2,democrata
+1243,2024-07-20,New Hampshire,black,22,femenino,211827,high school,hinduism,false,5,democrata
+1032,2024-07-13,Nebraska,asian,31,femenino,201633,high school,judaism,true,4,democrata
+23,2024-01-22,Nebraska,illegal,90,femenino,132444,graduate,hinduism,false,1,democrata
+1744,2024-10-01,Tennessee,illegal,45,femenino,223793,undergraduate,judaism,false,1,republicano
+106,2024-01-19,Florida,illegal,53,femenino,129890,doctor,judaism,false,2,democrata
+1592,2024-10-19,Florida,hispanic,28,femenino,235118,graduate,christianism,true,5,republicano
+1129,2024-07-30,Utah,indian,34,femenino,151807,undergraduate,christianism,false,1,democrata
+1130,2024-07-16,Michigan,black,37,femenino,173188,high school,atheism,true,2,republicano
+1631,2024-09-27,Illinois,hispanic,23,masculino,147623,graduate,christianism,true,5,democrata
+123,2024-01-07,Florida,illegal,64,masculino,205291,high school,atheism,true,1,republicano
+698,2024-05-05,Nevada,white,36,masculino,192895,masters,atheism,false,5,republicano
+704,2024-04-13,Florida,white,86,masculino,128046,doctor,islam,false,1,republicano
+1614,2024-09-22,Nevada,illegal,82,femenino,113979,graduate,judaism,false,4,democrata
+1575,2024-10-01,Kentucky,illegal,24,masculino,176363,high school,christianism,false,0,republicano
+568,2024-04-21,Oklahoma,asian,97,femenino,118859,doctor,hinduism,true,3,democrata
+1113,2024-07-24,Oklahoma,indian,34,femenino,45778,doctor,other,false,2,democrata
+585,2024-05-01,Washington,asian,68,femenino,205641,doctor,other,false,4,democrata
+665,2024-04-24,Texas,black,54,femenino,199369,masters,atheism,true,1,democrata
+552,2024-05-11,Delaware,black,74,femenino,113340,doctor,christianism,true,5,democrata
+624,2024-05-11,Oklahoma,indian,60,femenino,106790,graduate,islam,false,2,republicano
+219,2024-01-13,Rhode Island,illegal,81,femenino,219556,high school,atheism,false,0,republicano
+1727,2024-11-03,South Dakota,hispanic,67,masculino,43627,undergraduate,christianism,true,5,republicano
+1146,2024-07-01,South Dakota,illegal,46,femenino,243565,high school,other,false,2,republicano
+39,2024-01-01,Iowa,black,73,masculino,94933,graduate,christianism,true,1,republicano
+1074,2024-07-22,Wisconsin,illegal,50,femenino,229630,doctor,atheism,false,1,democrata
+139,2024-01-19,Minnesota,illegal,70,masculino,161930,high school,christianism,true,2,republicano
+1688,2024-09-28,Missouri,hispanic,73,femenino,71160,doctor,christianism,true,4,democrata
+73,2024-02-04,Idaho,illegal,54,femenino,245138,doctor,islam,false,3,democrata
+1525,2024-10-10,Mississippi,illegal,89,femenino,186783,masters,hinduism,true,1,democrata
+1209,2024-07-02,Nevada,asian,51,femenino,206784,high school,islam,false,2,republicano
+1179,2024-06-30,Tennessee,illegal,27,femenino,236060,doctor,islam,false,0,democrata
+1647,2024-09-26,Connecticut,illegal,89,masculino,173740,masters,islam,true,1,democrata
+164,2024-01-25,Oklahoma,white,39,femenino,57552,doctor,other,true,1,republicano
+648,2024-04-09,Virginia,black,32,masculino,148302,masters,judaism,false,5,democrata
+1033,2024-07-17,Kentucky,illegal,51,femenino,85620,masters,christianism,false,5,democrata
+220,2024-01-29,Rhode Island,white,63,femenino,174173,undergraduate,islam,false,5,republicano
+1534,2024-10-01,New Jersey,hispanic,54,masculino,94410,graduate,christianism,true,4,republicano
+1226,2024-07-24,Michigan,white,49,femenino,160957,high school,christianism,false,0,republicano
+64,2024-01-20,Mississippi,hispanic,80,femenino,152850,masters,other,false,4,republicano
+1050,2024-07-29,Minnesota,asian,32,femenino,154487,doctor,atheism,true,4,democrata
+173,2024-02-12,South Carolina,white,60,masculino,159357,undergraduate,atheism,true,3,republicano
+607,2024-05-01,Virginia,illegal,52,femenino,100520,graduate,christianism,false,0,democrata
+1664,2024-10-09,Virginia,illegal,32,masculino,213436,high school,christianism,true,0,republicano
+1711,2024-09-24,Massachusetts,hispanic,20,masculino,141226,masters,christianism,true,4,democrata
+1235,2024-06-25,Michigan,illegal,48,femenino,190569,graduate,christianism,true,3,democrata
+1024,2024-08-04,New Jersey,black,25,femenino,148979,masters,other,false,5,democrata
+1163,2024-07-12,Georgia,white,18,femenino,200900,undergraduate,islam,true,1,democrata
+737,2024-05-01,Vermont,hispanic,83,femenino,158497,graduate,judaism,true,3,democrata
+1091,2024-07-24,Idaho,indian,41,femenino,51699,high school,christianism,true,1,republicano
+1720,2024-10-02,South Carolina,illegal,88,masculino,200178,high school,christianism,true,5,republicano
+1049,2024-06-25,Alaska,indian,49,femenino,85408,graduate,christianism,false,3,democrata
+1210,2024-07-24,Colorado,illegal,36,femenino,239817,doctor,judaism,false,4,democrata
+89,2024-01-14,Tennessee,white,80,femenino,178819,doctor,other,true,4,republicano
+535,2024-04-18,Virginia,asian,65,femenino,135561,graduate,islam,false,3,republicano
+189,2024-01-23,South Carolina,white,73,masculino,228131,doctor,other,false,5,republicano
+721,2024-04-20,Idaho,illegal,39,masculino,60523,graduate,other,false,0,republicano
+674,2024-04-22,Oregon,asian,20,femenino,70311,masters,atheism,true,5,democrata
+236,2024-02-06,New Mexico,white,59,femenino,82885,undergraduate,judaism,false,5,republicano
+1638,2024-10-29,Nevada,illegal,96,femenino,76403,masters,atheism,true,2,democrata
+1084,2024-07-14,Arizona,hispanic,45,femenino,227614,doctor,christianism,false,0,democrata
+161,2024-01-23,New Hampshire,hispanic,44,masculino,195183,high school,hinduism,true,2,republicano
+1584,2024-09-29,Oregon,hispanic,58,masculino,143304,undergraduate,hinduism,false,2,republicano
+691,2024-04-06,Delaware,illegal,67,femenino,120822,masters,other,false,3,democrata
+530,2024-04-10,Massachusetts,asian,85,femenino,105476,graduate,atheism,true,2,democrata
+1606,2024-10-09,Connecticut,hispanic,84,masculino,111951,undergraduate,islam,true,1,republicano
+1652,2024-10-06,Massachusetts,illegal,88,masculino,168650,masters,judaism,false,3,democrata
+645,2024-05-04,Maryland,black,71,femenino,133299,doctor,atheism,true,5,democrata
+1737,2024-09-24,Wyoming,hispanic,77,femenino,120884,doctor,atheism,true,0,democrata
+1122,2024-07-27,New Hampshire,indian,50,femenino,117383,high school,judaism,false,1,republicano
+1237,2024-07-21,Oregon,black,45,femenino,173941,doctor,judaism,false,1,democrata
+115,2024-01-22,West Virginia,hispanic,41,masculino,186308,undergraduate,other,true,5,republicano
+45,2024-01-05,Arkansas,black,81,femenino,39761,undergraduate,judaism,true,5,republicano
+246,2024-01-18,North Carolina,black,54,femenino,166527,high school,atheism,false,4,republicano
+593,2024-05-11,Florida,white,23,femenino,42504,masters,hinduism,false,0,democrata
+1740,2024-10-12,Rhode Island,hispanic,70,femenino,236795,graduate,other,false,3,republicano
+1682,2024-10-30,Rhode Island,illegal,88,femenino,49798,high school,islam,true,2,republicano
+1554,2024-10-01,Nebraska,illegal,22,masculino,94810,doctor,christianism,false,2,democrata
+1149,2024-08-07,Colorado,hispanic,49,femenino,151053,masters,christianism,false,1,democrata
+188,2024-01-04,Texas,hispanic,49,masculino,146363,undergraduate,judaism,false,4,republicano
+1207,2024-07-18,Alabama,asian,51,femenino,70501,graduate,other,true,2,republicano
+560,2024-04-05,New Jersey,white,68,femenino,75194,doctor,christianism,false,5,democrata
+213,2024-02-07,Pennsylvania,white,58,femenino,45510,doctor,other,false,5,democrata
+1669,2024-10-06,Montana,illegal,22,femenino,137857,doctor,atheism,true,1,democrata
+158,2024-01-02,Arkansas,white,38,masculino,64310,masters,christianism,false,4,republicano
+1508,2024-10-13,Mississippi,illegal,87,masculino,217279,high school,hinduism,true,5,republicano
+1119,2024-07-24,Louisiana,indian,50,femenino,198276,doctor,judaism,false,4,democrata
+1521,2024-11-01,Hawaii,illegal,74,masculino,44387,undergraduate,other,false,2,democrata
+547,2024-04-20,Minnesota,black,42,femenino,141912,doctor,christianism,false,2,democrata
+1639,2024-09-24,Pennsylvania,hispanic,26,masculino,220386,masters,hinduism,false,1,democrata
+1217,2024-07-18,Indiana,indian,46,femenino,112065,masters,other,true,0,democrata
+1142,2024-07-07,Minnesota,asian,37,femenino,171412,doctor,hinduism,true,2,democrata
+1250,2024-07-07,Vermont,black,39,femenino,245653,graduate,hinduism,false,3,democrata
+1750,2024-10-15,South Carolina,hispanic,27,femenino,138587,graduate,atheism,true,1,democrata
+678,2024-05-03,Connecticut,white,66,femenino,75690,doctor,atheism,false,5,democrata
+181,2024-01-03,West Virginia,hispanic,92,masculino,143986,doctor,christianism,true,4,republicano
+65,2024-01-25,Arizona,illegal,31,femenino,213889,high school,atheism,true,4,democrata
+12,2024-01-31,Mississippi,hispanic,73,masculino,180879,graduate,atheism,false,3,republicano
+1747,2024-09-22,Montana,illegal,37,femenino,54880,high school,judaism,false,3,republicano
+625,2024-04-13,Minnesota,indian,53,masculino,208901,doctor,judaism,false,0,democrata
+178,2024-02-04,Louisiana,illegal,87,femenino,92286,undergraduate,christianism,true,0,republicano
+203,2024-02-02,Arizona,illegal,64,masculino,186984,graduate,judaism,true,1,republicano
+703,2024-05-03,Utah,white,57,masculino,38770,graduate,atheism,true,1,republicano
+550,2024-04-10,Wyoming,white,60,femenino,160383,masters,judaism,true,4,republicano
+1564,2024-10-15,Arizona,hispanic,98,masculino,203219,high school,islam,false,0,republicano
+1511,2024-10-12,North Carolina,hispanic,85,femenino,157063,high school,atheism,false,3,republicano
+1672,2024-10-23,Delaware,hispanic,29,femenino,92429,high school,islam,true,5,democrata
+1064,2024-07-21,Idaho,white,34,femenino,40188,high school,atheism,false,1,republicano
+1649,2024-09-29,New York,hispanic,39,femenino,206104,masters,hinduism,true,0,democrata
+615,2024-05-11,Illinois,illegal,67,femenino,119062,masters,judaism,false,3,democrata
+540,2024-04-01,California,black,50,femenino,144059,doctor,islam,true,0,democrata
+1501,2024-09-28,Kentucky,hispanic,64,femenino,198011,high school,atheism,false,5,republicano
+5,2024-02-07,Florida,white,94,masculino,173190,masters,islam,false,0,republicano
+1574,2024-10-20,Vermont,illegal,31,masculino,234820,high school,atheism,false,4,democrata
+191,2024-02-04,Oklahoma,white,91,femenino,249465,undergraduate,judaism,true,1,republicano
+75,2024-01-13,New Mexico,hispanic,50,femenino,48448,masters,other,false,0,democrata
+688,2024-05-02,Louisiana,asian,49,masculino,220167,masters,hinduism,true,1,republicano
+1152,2024-07-08,Georgia,black,39,femenino,235942,high school,judaism,true,3,republicano
+1139,2024-07-21,New York,indian,33,femenino,183827,masters,judaism,false,0,democrata
+105,2024-01-31,South Carolina,black,80,femenino,247749,high school,christianism,true,0,republicano
+527,2024-04-30,Vermont,indian,31,masculino,183698,doctor,christianism,false,2,democrata
+1662,2024-10-07,Vermont,hispanic,88,femenino,98462,undergraduate,hinduism,true,5,democrata
+1054,2024-07-02,Alaska,illegal,39,femenino,236526,undergraduate,islam,false,1,democrata
+713,2024-04-26,Kentucky,white,95,femenino,209831,doctor,christianism,false,0,democrata
+1240,2024-07-17,Arkansas,white,53,femenino,204199,doctor,hinduism,true,3,republicano
+1227,2024-07-10,California,indian,48,femenino,146577,masters,christianism,true,1,democrata
+1159,2024-06-29,Montana,black,47,femenino,113810,high school,atheism,true,3,republicano
+1528,2024-10-21,Maryland,hispanic,95,femenino,154411,masters,hinduism,true,0,democrata
+198,2024-01-14,Missouri,illegal,38,masculino,130616,high school,atheism,true,1,republicano
+736,2024-03-31,Indiana,white,42,femenino,48762,graduate,other,false,5,republicano
+1514,2024-09-26,New Hampshire,hispanic,93,masculino,118741,doctor,other,false,5,republicano
+1675,2024-10-27,Georgia,hispanic,36,masculino,118221,masters,hinduism,false,1,republicano
+1689,2024-09-28,Idaho,hispanic,94,masculino,84722,masters,other,true,3,republicano
+206,2024-01-21,Pennsylvania,black,56,femenino,214366,masters,other,false,2,democrata
+567,2024-04-25,Tennessee,asian,93,femenino,202396,graduate,judaism,false,1,republicano
+1531,2024-10-23,Maine,hispanic,85,masculino,194058,doctor,hinduism,true,4,republicano
+1692,2024-10-07,Massachusetts,hispanic,74,femenino,197997,undergraduate,christianism,false,5,democrata
+22,2024-01-14,Rhode Island,black,78,femenino,190981,high school,judaism,true,3,republicano
+570,2024-05-08,Indiana,black,81,femenino,210370,doctor,hinduism,true,5,democrata
+1230,2024-07-04,Maryland,illegal,34,femenino,174742,doctor,judaism,true,2,democrata
+553,2024-04-03,Iowa,white,82,masculino,105186,masters,islam,true,0,republicano
+1700,2024-10-24,West Virginia,illegal,57,femenino,122457,graduate,judaism,false,3,democrata
+1714,2024-09-26,Wyoming,illegal,90,masculino,77108,undergraduate,islam,false,4,republicano
+98,2024-02-09,Wyoming,illegal,90,femenino,45127,masters,christianism,true,0,democrata
+1629,2024-10-26,West Virginia,hispanic,66,femenino,122097,high school,christianism,true,2,republicano
+223,2024-01-11,New Mexico,hispanic,94,masculino,153289,graduate,islam,false,0,republicano
+668,2024-03-30,Alaska,asian,98,masculino,165838,graduate,islam,true,3,republicano
+55,2024-01-26,Utah,white,94,masculino,191517,doctor,islam,false,2,republicano
+1102,2024-07-29,Montana,white,33,femenino,197815,doctor,atheism,true,0,democrata
+1044,2024-07-17,Missouri,asian,36,femenino,145521,doctor,atheism,true,3,democrata
+635,2024-05-09,Maine,white,29,masculino,81148,masters,other,true,4,democrata
+141,2024-01-11,Utah,illegal,37,femenino,167757,doctor,judaism,false,3,democrata
+1001,2024-06-29,Alabama,hispanic,43,femenino,45691,doctor,christianism,false,0,republicano
+1162,2024-07-11,Massachusetts,illegal,20,femenino,137098,doctor,judaism,false,2,democrata
+1090,2024-07-06,Maine,indian,45,femenino,61960,masters,hinduism,false,3,democrata
+517,2024-04-13,Hawaii,indian,79,masculino,82726,masters,other,true,5,democrata
+1116,2024-07-31,Oregon,indian,43,femenino,43916,high school,atheism,true,3,democrata
+1077,2024-07-10,North Dakota,illegal,53,femenino,166161,masters,hinduism,false,2,democrata
+155,2024-01-27,North Dakota,hispanic,80,femenino,44209,masters,christianism,false,1,republicano
+1087,2024-08-01,Texas,asian,26,femenino,237687,masters,judaism,false,4,democrata
+1195,2024-07-19,Alaska,hispanic,43,femenino,135189,undergraduate,atheism,false,3,democrata
+1109,2024-07-25,Maine,black,43,femenino,172044,masters,other,true,0,democrata
+1034,2024-07-15,Hawaii,asian,30,femenino,167951,doctor,hinduism,true,2,democrata
+580,2024-05-08,North Dakota,white,37,femenino,172071,masters,christianism,false,4,republicano
+233,2024-02-04,Rhode Island,hispanic,89,femenino,157815,masters,judaism,true,0,democrata
+148,2024-01-01,New Hampshire,white,67,masculino,171766,graduate,christianism,false,4,republicano
+1220,2024-06-27,North Carolina,hispanic,30,femenino,180192,high school,judaism,true,5,democrata
+1172,2024-07-07,Utah,hispanic,43,femenino,93283,high school,hinduism,false,4,republicano
+681,2024-04-30,Tennessee,white,94,femenino,207039,doctor,christianism,false,4,republicano
+1541,2024-11-02,Wyoming,hispanic,48,masculino,203016,graduate,islam,true,3,republicano
+1679,2024-10-20,Oregon,hispanic,85,masculino,158468,doctor,atheism,true,0,democrata
+1642,2024-10-04,Washington,illegal,70,femenino,158159,undergraduate,atheism,true,0,democrata
+507,2024-05-08,Missouri,black,53,masculino,60559,graduate,islam,true,4,republicano
+1011,2024-07-16,Tennessee,white,23,femenino,200069,masters,islam,false,3,democrata
+520,2024-04-27,Kansas,black,32,femenino,123642,masters,atheism,true,3,democrata
+1094,2024-08-02,New York,hispanic,18,femenino,220637,doctor,other,true,2,democrata
+138,2024-02-09,Nevada,illegal,41,femenino,140070,masters,islam,false,2,democrata
+1704,2024-09-26,Pennsylvania,illegal,36,femenino,189707,undergraduate,atheism,true,4,democrata
+557,2024-05-06,Wyoming,black,23,femenino,59190,graduate,hinduism,true,4,democrata
+19,2024-01-14,Nevada,white,34,masculino,191592,doctor,atheism,false,3,democrata
+1518,2024-10-15,Washington,hispanic,92,masculino,188986,high school,judaism,true,3,republicano
+746,2024-04-02,Colorado,white,89,masculino,181358,doctor,other,false,4,republicano
+743,2024-04-23,Connecticut,asian,67,femenino,50992,graduate,christianism,true,3,democrata
+151,2024-01-15,South Carolina,illegal,74,femenino,75107,undergraduate,islam,true,1,republicano
+1707,2024-09-29,Louisiana,illegal,82,femenino,31217,masters,judaism,false,5,democrata
+1112,2024-07-23,Pennsylvania,black,30,femenino,177189,high school,judaism,false,2,democrata
+32,2024-01-03,Montana,hispanic,78,femenino,176706,graduate,other,true,0,republicano
+658,2024-04-07,Florida,indian,24,femenino,163959,masters,judaism,false,3,democrata
+510,2024-05-02,North Dakota,white,78,masculino,216012,doctor,christianism,true,3,republicano
+671,2024-04-10,Pennsylvania,hispanic,35,femenino,197411,graduate,atheism,true,4,democrata
+1632,2024-10-25,North Dakota,illegal,57,femenino,144726,masters,christianism,false,2,democrata
+1169,2024-07-14,Mississippi,indian,46,femenino,188776,undergraduate,hinduism,false,0,republicano
+1619,2024-10-01,Arizona,hispanic,66,masculino,204225,undergraduate,other,true,1,republicano
+1008,2024-08-01,Michigan,asian,30,femenino,122681,undergraduate,judaism,false,3,democrata
+1198,2024-07-05,Nebraska,illegal,40,femenino,151242,graduate,other,false,2,democrata
+1106,2024-06-26,Kansas,white,32,femenino,205318,high school,other,false,0,republicano
+128,2024-02-03,Virginia,black,92,femenino,219215,undergraduate,hinduism,false,1,democrata
+675,2024-04-11,Utah,illegal,39,femenino,100228,masters,other,true,3,democrata
+145,2024-01-18,Virginia,hispanic,90,femenino,172033,doctor,islam,true,1,democrata
+175,2024-02-07,Utah,black,86,femenino,157940,doctor,christianism,true,5,democrata
+1136,2024-08-07,Kentucky,indian,42,femenino,85263,doctor,judaism,false,0,democrata
+1068,2024-07-17,West Virginia,black,23,femenino,163505,undergraduate,other,false,1,democrata
+727,2024-04-15,West Virginia,hispanic,54,masculino,116235,doctor,hinduism,true,4,republicano
+1636,2024-09-29,Tennessee,hispanic,60,femenino,200000,undergraduate,islam,false,4,republicano
+62,2024-01-09,Alaska,white,91,masculino,82586,undergraduate,islam,false,0,republicano
+1597,2024-10-05,Texas,illegal,98,femenino,234954,high school,other,true,2,republicano
+1067,2024-07-24,Utah,white,35,femenino,175249,masters,islam,false,4,democrata
+92,2024-02-09,Colorado,illegal,94,femenino,193074,high school,judaism,false,5,republicano
+29,2024-01-05,Florida,hispanic,49,femenino,165383,undergraduate,other,false,2,republicano
+631,2024-05-03,Tennessee,asian,58,femenino,65141,doctor,hinduism,false,3,democrata
+174,2024-02-13,Tennessee,illegal,74,masculino,111682,graduate,other,false,3,republicano
+629,2024-04-19,West Virginia,white,54,femenino,205955,graduate,hinduism,false,1,republicano
+1699,2024-10-20,Montana,hispanic,74,masculino,197074,high school,islam,false,5,republicano
+101,2024-01-12,New Hampshire,white,40,femenino,203662,masters,hinduism,false,4,democrata
+1204,2024-07-16,South Dakota,black,25,femenino,141967,high school,hinduism,true,0,democrata
+243,2024-01-28,Wisconsin,black,92,femenino,227518,masters,hinduism,true,2,democrata
+1568,2024-09-23,Pennsylvania,hispanic,96,femenino,186370,undergraduate,other,false,2,republicano
+1710,2024-09-29,Nevada,illegal,97,femenino,102604,doctor,other,true,1,democrata
+1666,2024-10-02,Georgia,illegal,54,masculino,157513,undergraduate,other,false,0,republicano
+1570,2024-10-31,Hawaii,illegal,58,masculino,119761,undergraduate,hinduism,true,2,democrata
+1524,2024-10-11,Georgia,hispanic,49,masculino,32426,doctor,atheism,false,4,republicano
+602,2024-04-27,Kentucky,hispanic,94,masculino,143102,doctor,other,true,0,republicano
+58,2024-01-01,Arizona,illegal,71,masculino,57539,masters,atheism,true,2,democrata
+563,2024-04-06,Indiana,white,40,masculino,125725,masters,islam,true,2,republicano
+1135,2024-07-13,West Virginia,hispanic,40,femenino,55000,graduate,judaism,false,4,democrata
+1561,2024-09-27,Delaware,hispanic,95,masculino,33964,undergraduate,other,false,0,republicano
+1200,2024-07-22,Arkansas,illegal,32,femenino,113858,high school,judaism,true,1,democrata
+605,2024-04-28,Montana,indian,22,femenino,117860,doctor,islam,false,2,democrata
+1031,2024-06-27,Arizona,indian,48,femenino,132736,doctor,atheism,true,4,democrata
+1730,2024-09-24,Arkansas,illegal,83,femenino,201432,masters,hinduism,true,1,democrata
+583,2024-04-17,Alaska,asian,90,masculino,220020,graduate,other,true,0,republicano
+622,2024-04-17,New Mexico,indian,44,masculino,48568,graduate,islam,true,1,republicano
+222,2024-02-02,Minnesota,illegal,98,masculino,67426,graduate,atheism,false,4,republicano
+1544,2024-09-25,South Dakota,illegal,63,masculino,220172,undergraduate,islam,false,2,republicano
+99,2024-02-09,Pennsylvania,black,75,femenino,77526,high school,islam,false,4,republicano
+684,2024-04-10,Montana,illegal,79,masculino,233761,doctor,atheism,false,1,democrata
+1691,2024-10-07,Indiana,hispanic,51,femenino,45411,doctor,islam,false,1,democrata
+537,2024-05-04,Ohio,black,43,femenino,221604,masters,judaism,false,4,democrata
+1645,2024-10-17,North Dakota,illegal,45,femenino,42287,high school,islam,false,2,republicano
+1014,2024-07-30,Michigan,illegal,37,femenino,228668,undergraduate,islam,false,5,democrata
+723,2024-04-28,Ohio,black,37,masculino,135039,doctor,other,false,5,democrata
+171,2024-01-11,New Hampshire,illegal,87,femenino,182375,masters,christianism,true,3,democrata
+651,2024-05-05,Vermont,hispanic,76,masculino,241451,doctor,other,true,3,democrata
+504,2024-04-09,Alabama,black,94,femenino,102940,doctor,other,true,0,democrata
+1047,2024-07-12,Missouri,black,39,femenino,112209,masters,atheism,false,1,democrata
+1612,2024-09-24,California,illegal,31,femenino,161615,doctor,judaism,true,3,democrata
+706,2024-05-01,Alaska,hispanic,78,femenino,169077,masters,atheism,false,5,democrata
+1189,2024-06-29,Nevada,illegal,24,femenino,241698,masters,judaism,false,5,democrata
+1060,2024-07-30,New Mexico,asian,35,femenino,192876,high school,hinduism,false,3,republicano
+71,2024-01-28,New Hampshire,white,70,femenino,194684,graduate,islam,false,1,republicano
+566,2024-04-30,Rhode Island,illegal,39,femenino,172404,masters,other,false,1,democrata
+25,2024-01-04,New Hampshire,black,51,femenino,196464,doctor,hinduism,true,4,democrata
+1713,2024-09-30,Louisiana,illegal,77,femenino,164253,doctor,atheism,false,1,democrata
+1088,2024-06-25,Oklahoma,white,42,femenino,206690,undergraduate,hinduism,true,5,republicano
+1132,2024-07-27,Maryland,black,31,femenino,184238,graduate,judaism,false,2,democrata
+1093,2024-07-12,Wyoming,white,30,femenino,157791,high school,hinduism,true,4,republicano
+1527,2024-10-21,South Dakota,hispanic,75,femenino,107012,doctor,other,true,1,democrata
+210,2024-01-15,Pennsylvania,black,84,masculino,199485,undergraduate,christianism,true,3,republicano
+195,2024-02-09,Florida,black,81,femenino,185296,graduate,other,true,4,republicano
+533,2024-03-30,Kentucky,illegal,44,femenino,42630,doctor,islam,true,1,democrata
+1695,2024-10-19,Montana,illegal,77,femenino,68378,high school,judaism,true,0,republicano
+217,2024-02-12,Rhode Island,illegal,95,femenino,192836,graduate,islam,false,0,democrata
+1,2024-01-31,Indiana,hispanic,95,masculino,189738,undergraduate,christianism,true,5,republicano
+125,2024-02-06,Tennessee,illegal,67,masculino,39350,high school,atheism,false,5,republicano
+1686,2024-10-23,Montana,illegal,62,masculino,241500,high school,judaism,false,1,republicano
+1581,2024-10-14,Wisconsin,hispanic,20,femenino,74973,masters,other,false,4,democrata
+1081,2024-07-27,North Dakota,hispanic,46,femenino,191966,graduate,islam,true,5,republicano
+1165,2024-08-01,Hawaii,white,19,femenino,115548,high school,hinduism,true,0,democrata
+1594,2024-10-18,Arizona,hispanic,68,femenino,201660,high school,islam,true,1,republicano
+1233,2024-07-22,Maryland,white,49,femenino,99281,undergraduate,islam,true,5,democrata
+49,2024-02-04,Kentucky,black,62,femenino,89146,undergraduate,islam,true,5,democrata
+638,2024-04-25,Idaho,black,56,femenino,37995,graduate,hinduism,false,5,republicano
+1018,2024-07-24,Oklahoma,black,48,femenino,159774,graduate,islam,false,2,republicano
+587,2024-05-04,Maine,asian,23,femenino,128654,doctor,atheism,false,4,democrata
+1717,2024-10-04,Arizona,hispanic,81,femenino,184023,high school,islam,true,4,republicano
+112,2024-01-05,New Hampshire,hispanic,97,femenino,137984,graduate,islam,true,4,democrata
+1734,2024-09-27,Indiana,illegal,30,masculino,146552,masters,other,false,2,democrata
+142,2024-01-26,Rhode Island,white,91,masculino,185007,masters,other,true,0,republicano
+42,2024-01-24,Nevada,black,32,masculino,115720,doctor,christianism,true,4,democrata
+1080,2024-07-07,Illinois,white,45,femenino,161433,masters,atheism,true,5,democrata
+1103,2024-06-26,Colorado,white,36,femenino,210452,high school,hinduism,true,5,republicano
+1548,2024-10-06,Nebraska,illegal,37,femenino,139810,masters,islam,true,4,democrata
+8,2024-02-06,Virginia,white,77,femenino,213198,graduate,islam,true,5,republicano
+95,2024-01-13,Tennessee,black,96,masculino,50327,doctor,christianism,true,4,republicano
+226,2024-02-01,Louisiana,white,98,femenino,41283,doctor,other,true,5,republicano
+534,2024-04-15,Washington,black,94,femenino,179257,doctor,atheism,false,3,democrata
+1156,2024-07-08,Minnesota,indian,19,femenino,203195,high school,hinduism,false,0,democrata
+16,2024-02-02,Virginia,white,87,masculino,195898,doctor,other,true,4,republicano
+554,2024-05-01,Connecticut,indian,70,femenino,109244,graduate,other,false,2,democrata
+726,2024-04-25,Nevada,black,70,femenino,31393,graduate,judaism,true,4,democrata
+1038,2024-07-12,Maine,hispanic,53,femenino,225159,high school,hinduism,false,2,republicano
+1701,2024-11-01,Louisiana,illegal,82,masculino,31117,doctor,christianism,false,1,republicano
+121,2024-01-07,Colorado,hispanic,44,masculino,135921,masters,atheism,true,4,republicano
+601,2024-05-05,North Carolina,illegal,49,masculino,168245,doctor,atheism,false,0,democrata
+1665,2024-09-21,Hawaii,hispanic,80,femenino,201951,masters,christianism,true,0,democrata
+154,2024-01-26,Indiana,hispanic,37,masculino,145377,high school,hinduism,true,2,republicano
+740,2024-04-08,California,black,46,femenino,93213,masters,judaism,false,5,democrata
+1097,2024-07-06,Nevada,indian,42,femenino,181543,undergraduate,other,true,2,democrata
+1115,2024-07-07,Rhode Island,illegal,26,femenino,135927,doctor,hinduism,true,5,democrata
+1515,2024-10-18,Illinois,illegal,18,masculino,93387,high school,judaism,true,5,democrata
+91,2024-01-06,Nevada,black,42,masculino,208401,masters,judaism,false,2,democrata
+78,2024-01-02,West Virginia,illegal,97,femenino,241805,doctor,other,false,0,democrata
+1051,2024-07-04,Maryland,white,31,femenino,113868,high school,hinduism,false,3,democrata
+1616,2024-09-28,Tennessee,hispanic,46,masculino,115190,doctor,hinduism,true,3,republicano
+524,2024-04-18,Alabama,illegal,61,masculino,106491,doctor,islam,true,4,republicano
+108,2024-01-14,Iowa,hispanic,39,masculino,72848,undergraduate,christianism,false,3,republicano
+1182,2024-07-29,Rhode Island,illegal,43,femenino,73773,undergraduate,other,false,5,democrata
+513,2024-04-12,Virginia,hispanic,40,femenino,165562,doctor,atheism,true,2,democrata
+609,2024-05-09,Hawaii,asian,51,femenino,69755,masters,islam,false,4,democrata
+1590,2024-10-21,Utah,illegal,29,femenino,77404,undergraduate,other,false,1,democrata
+710,2024-05-02,New Hampshire,illegal,30,femenino,30075,doctor,christianism,true,4,democrata
+655,2024-04-18,Kentucky,black,67,masculino,183781,masters,other,false,1,democrata
+1185,2024-07-01,Maryland,illegal,38,femenino,232659,graduate,hinduism,true,4,democrata
+1577,2024-10-05,Utah,hispanic,57,femenino,165110,high school,judaism,false,3,republicano
+1224,2024-07-15,Connecticut,black,44,femenino,165456,undergraduate,hinduism,true,5,democrata
+1341,2024-08-21,Colorado,asian,84,masculino,193458,undergraduate,christianism,true,4,republicano
+284,2024-02-15,New Hampshire,indian,52,femenino,75192,high school,judaism,false,2,republicano
+1308,2024-08-25,Kansas,illegal,48,masculino,121463,doctor,atheism,true,0,democrata
+997,2024-06-07,Oklahoma,hispanic,75,femenino,79901,undergraduate,christianism,true,4,republicano
+1755,2024-11-04,Missouri,black,83,masculino,71682,undergraduate,christianism,true,3,republicano
+306,2024-02-29,Arizona,hispanic,49,masculino,142711,high school,judaism,false,3,republicano
+470,2024-03-05,Maine,illegal,38,femenino,117676,masters,hinduism,true,5,democrata
+1908,2024-11-04,Pennsylvania,white,76,masculino,184343,graduate,islam,false,2,republicano
+866,2024-06-16,Missouri,white,66,femenino,191796,undergraduate,christianism,false,4,republicano
+1868,2024-11-04,Tennessee,indian,34,masculino,170635,masters,hinduism,true,2,democrata
+419,2024-02-18,Hawaii,white,38,masculino,82136,high school,christianism,false,1,republicano
+452,2024-03-21,North Carolina,illegal,24,masculino,207690,high school,atheism,true,2,republicano
+1999,2024-11-04,Montana,black,95,masculino,85833,masters,hinduism,true,4,democrata
+1454,2024-09-16,Alabama,asian,88,femenino,50920,high school,christianism,false,1,republicano
+266,2024-03-03,New Jersey,hispanic,38,femenino,169042,graduate,other,false,4,democrata
+954,2024-06-03,Louisiana,white,36,masculino,188116,masters,other,false,4,republicano
+1268,2024-09-17,Michigan,asian,56,femenino,144133,doctor,judaism,true,4,democrata
+899,2024-06-17,Minnesota,white,85,masculino,213121,masters,christianism,true,2,republicano
+1956,2024-11-04,Virginia,asian,40,masculino,242350,undergraduate,christianism,false,0,republicano
+768,2024-06-05,Alaska,white,21,masculino,37922,doctor,other,false,1,democrata
+751,2024-05-22,Florida,hispanic,73,femenino,40605,graduate,christianism,false,0,republicano
+1753,2024-11-05,Alabama,indian,87,masculino,191975,undergraduate,christianism,false,2,republicano
+286,2024-03-14,Illinois,hispanic,40,masculino,173036,doctor,hinduism,false,0,democrata
+404,2024-03-19,Washington,illegal,17,femenino,236213,masters,other,true,3,democrata
+379,2024-03-15,Nebraska,white,37,masculino,55671,graduate,islam,true,1,republicano
+1271,2024-08-16,Oklahoma,black,39,masculino,214540,graduate,atheism,false,4,republicano
+472,2024-03-03,Pennsylvania,white,35,femenino,200686,graduate,other,false,2,republicano
+906,2024-06-22,Connecticut,hispanic,74,femenino,244521,masters,christianism,false,4,democrata
+979,2024-06-04,New Jersey,hispanic,74,masculino,70685,masters,other,true,4,democrata
+1406,2024-08-18,Mississippi,asian,24,masculino,128268,doctor,christianism,false,2,republicano
+972,2024-05-15,Rhode Island,hispanic,96,femenino,242752,masters,other,false,4,democrata
+1974,2024-11-04,Missouri,asian,30,masculino,179796,doctor,other,true,1,democrata
+1489,2024-09-12,Kentucky,asian,58,masculino,244967,masters,christianism,true,4,republicano
+364,2024-03-01,Virginia,asian,13,femenino,112987,doctor,judaism,true,2,democrata
+1366,2024-09-19,Alaska,white,33,masculino,36370,doctor,christianism,true,5,democrata
+786,2024-05-13,Massachusetts,white,63,masculino,195882,doctor,christianism,true,4,republicano
+1858,2024-11-04,Connecticut,hispanic,69,masculino,168993,masters,christianism,true,2,democrata
+1474,2024-09-13,Arkansas,indian,34,femenino,141005,high school,atheism,true,0,democrata
+1851,2024-11-05,Nebraska,asian,71,masculino,207448,graduate,other,false,3,republicano
+1288,2024-09-19,Nevada,black,62,femenino,89819,high school,christianism,false,0,republicano
+251,2024-02-21,Ohio,white,36,femenino,127371,masters,hinduism,true,0,democrata
+1351,2024-09-06,North Dakota,hispanic,93,femenino,71494,undergraduate,christianism,false,4,republicano
+771,2024-06-23,Washington,white,66,masculino,184751,masters,other,true,2,republicano
+1788,2024-11-04,North Dakota,illegal,68,masculino,55454,doctor,atheism,true,0,republicano
+374,2024-02-14,New Hampshire,black,43,masculino,62146,masters,other,false,3,democrata
+808,2024-06-15,Maryland,hispanic,59,masculino,61753,doctor,other,false,4,democrata
+969,2024-05-25,North Carolina,hispanic,40,masculino,208148,high school,christianism,true,3,republicano
+316,2024-03-28,Michigan,indian,24,femenino,118764,high school,christianism,true,2,democrata
+1376,2024-08-29,New Hampshire,white,53,masculino,221512,graduate,islam,false,4,republicano
+1773,2024-11-05,Utah,hispanic,92,masculino,205389,high school,judaism,true,2,republicano
+1861,2024-11-04,Pennsylvania,illegal,36,masculino,145423,undergraduate,atheism,true,2,republicano
+399,2024-03-13,Iowa,illegal,50,femenino,40018,undergraduate,judaism,false,0,democrata
+1886,2024-11-05,Oklahoma,asian,69,masculino,68753,graduate,hinduism,false,3,republicano
+1464,2024-09-05,Minnesota,indian,63,femenino,211957,undergraduate,islam,true,3,democrata
+884,2024-05-19,Oklahoma,white,19,femenino,232708,doctor,other,true,3,democrata
+1253,2024-09-20,Iowa,white,52,femenino,127206,doctor,judaism,false,5,democrata
+276,2024-03-01,Iowa,white,20,masculino,209379,graduate,islam,true,4,republicano
+487,2024-02-26,North Carolina,illegal,22,femenino,187294,doctor,islam,false,4,democrata
+1278,2024-09-08,Louisiana,asian,20,masculino,161027,doctor,judaism,true,4,democrata
+889,2024-06-04,New Hampshire,hispanic,19,femenino,32728,doctor,other,false,4,democrata
+1316,2024-09-16,Virginia,illegal,68,masculino,159975,high school,judaism,true,4,republicano
+314,2024-02-26,New Mexico,black,25,masculino,77039,graduate,other,true,4,democrata
+1480,2024-08-16,Montana,black,54,masculino,214493,doctor,christianism,true,0,democrata
+292,2024-03-14,Minnesota,indian,22,femenino,191799,undergraduate,islam,false,3,democrata
+1263,2024-08-24,Louisiana,white,22,femenino,66618,doctor,judaism,true,2,democrata
+444,2024-03-03,Maine,white,10,masculino,229097,graduate,atheism,false,2,republicano
+427,2024-02-23,Michigan,black,30,femenino,85723,doctor,hinduism,false,5,democrata
+1916,2024-11-04,Delaware,white,96,masculino,110091,high school,atheism,true,5,republicano
+858,2024-06-15,Massachusetts,hispanic,27,femenino,173499,doctor,christianism,false,2,democrata
+1446,2024-08-21,Idaho,indian,62,femenino,157587,high school,judaism,true,1,republicano
+1801,2024-11-05,Montana,black,38,masculino,56228,masters,christianism,true,2,democrata
+258,2024-03-02,Minnesota,hispanic,17,femenino,131411,undergraduate,hinduism,true,1,democrata
+477,2024-02-16,West Virginia,asian,46,femenino,150477,high school,hinduism,true,5,republicano
+1803,2024-11-04,South Dakota,illegal,71,masculino,202832,graduate,christianism,true,4,republicano
+1964,2024-11-04,Louisiana,hispanic,86,masculino,137116,doctor,judaism,false,1,republicano
+1931,2024-11-04,Indiana,indian,92,masculino,194337,graduate,judaism,false,4,republicano
+294,2024-03-23,Nevada,black,31,masculino,67564,undergraduate,other,false,0,democrata
+1479,2024-08-26,Utah,indian,60,femenino,74549,undergraduate,islam,false,1,democrata
+1318,2024-08-29,Michigan,asian,65,masculino,140090,undergraduate,islam,true,3,republicano
+801,2024-05-31,New York,hispanic,18,masculino,30867,graduate,christianism,false,3,democrata
+962,2024-06-16,North Carolina,white,45,femenino,58320,high school,christianism,true,3,republicano
+480,2024-03-09,Maine,hispanic,54,femenino,200626,undergraduate,atheism,false,0,democrata
+914,2024-06-04,New York,hispanic,43,femenino,235233,graduate,other,true,3,democrata
+776,2024-06-08,Arkansas,hispanic,26,femenino,130061,masters,other,true,2,democrata
+856,2024-05-22,Arizona,white,23,masculino,112039,undergraduate,other,false,0,republicano
+261,2024-03-05,Hawaii,white,22,masculino,195260,doctor,other,false,1,democrata
+500,2024-02-22,Missouri,black,43,femenino,164218,high school,islam,false,3,republicano
+429,2024-03-22,Delaware,hispanic,48,masculino,196440,high school,hinduism,true,4,republicano
+1778,2024-11-04,Virginia,asian,60,masculino,188220,high school,atheism,true,0,republicano
+778,2024-06-14,Nevada,hispanic,79,femenino,107001,masters,other,true,3,democrata
+1261,2024-09-14,New Hampshire,indian,46,masculino,192062,graduate,other,false,4,republicano
+1966,2024-11-04,Hawaii,indian,86,masculino,236264,masters,hinduism,true,3,democrata
+1374,2024-09-10,Tennessee,black,92,masculino,105972,high school,judaism,true,0,republicano
+1343,2024-08-13,Louisiana,white,64,masculino,69534,high school,christianism,true,1,republicano
+1482,2024-09-03,Utah,hispanic,46,femenino,177609,masters,christianism,true,4,democrata
+324,2024-02-18,Connecticut,asian,12,masculino,242542,graduate,hinduism,false,2,democrata
+1296,2024-08-12,South Dakota,white,40,masculino,76654,doctor,atheism,true,4,republicano
+1853,2024-11-04,Vermont,white,57,masculino,163166,high school,christianism,false,4,republicano
+1781,2024-11-05,Maryland,black,88,masculino,110490,undergraduate,christianism,false,4,democrata
+851,2024-06-15,New Mexico,hispanic,98,masculino,103917,doctor,christianism,true,2,republicano
+1368,2024-09-18,Texas,white,43,masculino,85503,high school,christianism,false,5,republicano
+454,2024-03-09,Oregon,asian,42,masculino,230438,graduate,christianism,true,4,republicano
+904,2024-05-24,North Carolina,hispanic,76,masculino,180370,undergraduate,other,true,4,republicano
+479,2024-03-11,Utah,black,40,masculino,155681,undergraduate,judaism,false,4,republicano
+1941,2024-11-05,Wyoming,white,52,masculino,70141,doctor,atheism,true,3,republicano
+806,2024-06-11,Maine,white,96,masculino,158768,high school,other,false,1,republicano
+268,2024-03-17,South Dakota,black,34,masculino,143021,undergraduate,atheism,true,4,democrata
+331,2024-03-08,Vermont,white,34,femenino,189011,high school,atheism,false,0,democrata
+892,2024-05-25,Montana,white,95,femenino,116955,masters,christianism,false,4,democrata
+1456,2024-09-15,South Dakota,asian,41,femenino,99609,masters,christianism,false,5,democrata
+372,2024-03-12,Montana,black,24,femenino,185848,doctor,other,true,0,democrata
+1906,2024-11-05,Texas,illegal,66,masculino,66238,masters,christianism,true,4,republicano
+964,2024-05-25,Oklahoma,hispanic,44,femenino,133831,undergraduate,christianism,false,1,republicano
+753,2024-06-04,New Jersey,hispanic,45,femenino,56902,high school,other,true,2,republicano
+1894,2024-11-04,Mississippi,illegal,78,masculino,124160,high school,christianism,true,5,republicano
+1333,2024-08-29,Montana,asian,53,masculino,132966,masters,hinduism,false,1,republicano
+1286,2024-09-06,Wyoming,white,36,masculino,89084,undergraduate,judaism,false,0,republicano
+1924,2024-11-04,Maine,illegal,70,masculino,200951,doctor,other,false,1,democrata
+1810,2024-11-04,Kansas,hispanic,53,masculino,163594,masters,other,true,3,republicano
+1771,2024-11-04,Maryland,indian,51,masculino,67128,doctor,judaism,true,1,democrata
+922,2024-05-15,Delaware,white,19,femenino,118947,doctor,other,false,3,democrata
+436,2024-02-28,West Virginia,hispanic,50,masculino,209708,high school,christianism,true,2,republicano
+1310,2024-08-21,South Carolina,hispanic,61,masculino,41486,graduate,judaism,true,4,republicano
+921,2024-05-21,Maryland,white,69,femenino,162914,undergraduate,christianism,true,2,democrata
+1923,2024-11-04,Louisiana,black,57,masculino,158939,doctor,islam,true,3,republicano
+397,2024-02-20,Hawaii,indian,32,masculino,198203,masters,other,false,5,democrata
+1438,2024-08-30,Montana,illegal,66,femenino,96975,doctor,christianism,true,4,democrata
+1399,2024-08-17,Tennessee,white,49,femenino,193352,masters,christianism,false,1,republicano
+421,2024-02-18,Nebraska,white,44,masculino,202275,doctor,christianism,false,4,republicano
+882,2024-06-13,New Mexico,white,52,femenino,88771,graduate,christianism,false,1,republicano
+1884,2024-11-04,California,hispanic,95,masculino,65948,masters,judaism,false,2,democrata
+1811,2024-11-04,New Hampshire,hispanic,63,masculino,95934,graduate,islam,false,5,republicano
+1490,2024-08-26,Kentucky,white,76,femenino,131205,undergraduate,hinduism,false,4,republicano
+341,2024-03-27,New Hampshire,hispanic,54,masculino,44396,high school,hinduism,true,2,republicano
+1326,2024-09-19,Mississippi,white,73,femenino,132931,masters,atheism,false,0,republicano
+1439,2024-09-16,North Carolina,hispanic,52,femenino,72801,masters,other,false,0,democrata
+995,2024-05-24,Virginia,white,64,femenino,57035,doctor,christianism,true,5,democrata
+848,2024-06-16,Montana,hispanic,22,femenino,79184,masters,christianism,false,2,democrata
+1422,2024-09-13,South Dakota,hispanic,18,masculino,223612,undergraduate,judaism,true,3,democrata
+420,2024-03-07,Alaska,indian,19,femenino,129940,undergraduate,christianism,false,1,democrata
+1997,2024-11-04,Hawaii,white,70,masculino,237698,graduate,hinduism,true,3,republicano
+437,2024-03-02,Missouri,asian,43,masculino,185458,doctor,atheism,true,4,republicano
+1383,2024-08-30,South Dakota,black,38,femenino,88356,graduate,christianism,false,3,democrata
+1835,2024-11-05,Georgia,indian,41,masculino,206344,graduate,atheism,false,5,republicano
+833,2024-05-27,New Mexico,hispanic,53,masculino,132712,masters,christianism,false,1,republicano
+1990,2024-11-04,Kansas,asian,77,masculino,82525,doctor,judaism,true,3,republicano
+1392,2024-09-04,Wyoming,illegal,67,masculino,33446,high school,atheism,true,2,republicano
+1826,2024-11-05,Tennessee,hispanic,36,masculino,232243,doctor,christianism,false,0,republicano
+824,2024-05-22,Louisiana,hispanic,38,femenino,61131,masters,christianism,false,5,republicano
+1496,2024-09-07,Virginia,indian,65,femenino,195490,doctor,atheism,false,1,democrata
+339,2024-03-05,Alaska,asian,43,femenino,76761,undergraduate,atheism,true,1,democrata
+390,2024-03-13,Kansas,illegal,31,femenino,71117,masters,christianism,true,4,democrata
+793,2024-06-18,Missouri,hispanic,26,masculino,191711,high school,other,true,3,republicano
+1981,2024-11-04,Connecticut,hispanic,80,masculino,108067,undergraduate,islam,false,2,republicano
+1423,2024-09-12,New Hampshire,asian,58,femenino,141338,masters,judaism,true,5,democrata
+1939,2024-11-05,Mississippi,indian,44,masculino,91119,graduate,christianism,true,5,republicano
+849,2024-06-11,Illinois,hispanic,27,masculino,71785,doctor,christianism,true,2,democrata
+1795,2024-11-05,Washington,asian,85,masculino,67580,doctor,atheism,true,3,democrata
+1325,2024-08-28,North Dakota,white,82,femenino,184860,undergraduate,judaism,true,1,republicano
+323,2024-03-02,Indiana,illegal,32,masculino,242090,graduate,islam,false,4,democrata
+348,2024-03-04,New Jersey,asian,43,masculino,30993,graduate,judaism,true,3,republicano
+937,2024-06-10,Kansas,hispanic,78,masculino,143743,undergraduate,christianism,true,5,republicano
+428,2024-03-21,New Jersey,illegal,52,femenino,53720,doctor,atheism,true,4,democrata
+1932,2024-11-04,Nebraska,black,55,masculino,197166,masters,judaism,true,0,democrata
+761,2024-06-19,Washington,white,51,masculino,89402,doctor,christianism,true,3,republicano
+930,2024-06-23,Washington,hispanic,20,masculino,204529,doctor,christianism,true,0,democrata
+1763,2024-11-04,Connecticut,white,79,masculino,57219,high school,other,false,3,republicano
+259,2024-03-09,California,hispanic,24,masculino,200372,masters,christianism,false,0,democrata
+1447,2024-08-13,Oklahoma,indian,72,femenino,159705,undergraduate,other,true,1,republicano
+293,2024-03-11,New Jersey,black,18,masculino,159567,doctor,hinduism,true,0,democrata
+389,2024-02-19,Utah,illegal,26,femenino,63582,masters,hinduism,true,5,democrata
+462,2024-03-26,Minnesota,illegal,33,femenino,43160,masters,atheism,true,2,democrata
+1915,2024-11-05,Rhode Island,hispanic,76,masculino,153476,high school,atheism,false,1,republicano
+1893,2024-11-04,Wyoming,white,30,masculino,89154,graduate,hinduism,true,4,republicano
+913,2024-05-31,Utah,hispanic,55,femenino,79370,masters,other,true,4,democrata
+1481,2024-08-11,Arkansas,hispanic,91,femenino,51970,undergraduate,christianism,true,4,republicano
+874,2024-06-13,Maine,hispanic,34,femenino,117421,high school,other,true,2,democrata
+1301,2024-08-14,South Carolina,illegal,45,femenino,42529,undergraduate,judaism,true,3,republicano
+332,2024-02-27,Vermont,asian,49,masculino,127581,undergraduate,islam,false,2,republicano
+1262,2024-08-08,South Carolina,indian,57,femenino,100671,undergraduate,hinduism,false,1,republicano
+1948,2024-11-04,South Dakota,hispanic,60,masculino,229366,undergraduate,hinduism,false,5,republicano
+946,2024-06-10,West Virginia,white,67,femenino,201896,doctor,other,false,0,democrata
+412,2024-03-14,Washington,indian,24,femenino,99693,masters,christianism,true,1,democrata
+1876,2024-11-05,Arizona,white,84,masculino,228574,masters,hinduism,false,5,republicano
+1295,2024-09-15,Florida,asian,83,masculino,194385,masters,christianism,false,1,republicano
+1334,2024-09-19,Florida,indian,72,masculino,42421,doctor,christianism,true,1,republicano
+891,2024-06-04,West Virginia,hispanic,28,femenino,34049,high school,christianism,true,3,democrata
+987,2024-05-15,Mississippi,white,71,femenino,232842,high school,other,true,3,republicano
+1989,2024-11-04,Indiana,hispanic,36,masculino,217285,masters,christianism,false,5,republicano
+1780,2024-11-05,South Dakota,hispanic,36,masculino,57305,masters,atheism,true,3,republicano
+1375,2024-08-10,Utah,hispanic,33,femenino,173146,undergraduate,christianism,true,2,democrata
+445,2024-03-02,California,white,33,femenino,67705,graduate,hinduism,true,5,democrata
+1414,2024-08-28,Arizona,black,51,masculino,43698,graduate,islam,true,1,republicano
+495,2024-03-13,New Hampshire,asian,10,femenino,82028,graduate,other,true,0,democrata
+356,2024-03-20,California,illegal,16,masculino,212408,high school,hinduism,false,2,democrata
+1358,2024-08-20,Wyoming,white,67,femenino,86604,high school,hinduism,false,4,republicano
+1497,2024-09-10,Virginia,indian,44,masculino,68946,high school,islam,true,0,republicano
+1860,2024-11-05,South Dakota,indian,52,masculino,94939,high school,atheism,true,4,republicano
+980,2024-05-20,Georgia,hispanic,90,masculino,41251,graduate,other,false,1,republicano
+1982,2024-11-05,South Carolina,black,67,masculino,155447,undergraduate,islam,false,3,republicano
+794,2024-06-19,Arizona,hispanic,96,femenino,227383,high school,christianism,true,0,republicano
+841,2024-06-02,New York,hispanic,72,masculino,242706,graduate,other,false,0,republicano
+486,2024-03-03,Ohio,hispanic,41,femenino,182903,high school,christianism,true,5,republicano
+1818,2024-11-04,Indiana,black,58,masculino,116166,graduate,other,false,0,republicano
+1488,2024-08-24,Wisconsin,indian,48,masculino,199998,graduate,other,false,0,republicano
+1796,2024-11-04,Montana,asian,56,masculino,219553,doctor,christianism,false,1,republicano
+971,2024-05-25,Florida,hispanic,25,femenino,155719,undergraduate,other,true,0,democrata
+469,2024-03-21,Massachusetts,black,46,femenino,126189,graduate,judaism,false,2,democrata
+1973,2024-11-04,Tennessee,indian,71,masculino,116554,undergraduate,hinduism,false,2,republicano
+816,2024-05-21,Florida,hispanic,26,masculino,39510,undergraduate,christianism,true,0,republicano
+1843,2024-11-04,Arkansas,hispanic,66,masculino,39799,undergraduate,atheism,true,0,republicano
+382,2024-02-15,Virginia,white,18,femenino,234006,undergraduate,islam,false,2,democrata
+785,2024-05-29,Texas,white,66,masculino,133496,doctor,other,true,2,republicano
+1998,2024-11-04,Oklahoma,white,69,masculino,35231,doctor,islam,false,4,republicano
+1431,2024-09-04,Montana,indian,55,masculino,191593,doctor,atheism,false,4,democrata
+857,2024-05-25,Michigan,hispanic,91,femenino,81552,high school,christianism,false,0,republicano
+929,2024-05-15,Tennessee,white,56,masculino,90242,high school,christianism,false,5,republicano
+1859,2024-11-04,New Mexico,asian,84,masculino,166015,undergraduate,islam,false,1,republicano
+996,2024-05-18,Maryland,white,27,femenino,75426,masters,other,true,0,democrata
+252,2024-03-15,Rhode Island,asian,34,masculino,246027,graduate,islam,true,2,republicano
+1384,2024-08-11,Georgia,illegal,30,femenino,69095,masters,islam,false,5,democrata
+1787,2024-11-05,Missouri,indian,31,masculino,71196,graduate,other,true,0,democrata
+1802,2024-11-05,North Dakota,black,51,masculino,202807,graduate,atheism,false,2,republicano
+315,2024-02-26,West Virginia,illegal,43,femenino,146156,high school,islam,true,0,republicano
+1472,2024-08-22,Florida,illegal,34,masculino,49579,high school,other,true,0,republicano
+800,2024-05-21,Delaware,white,98,femenino,224506,doctor,christianism,true,3,democrata
+1317,2024-09-03,West Virginia,hispanic,94,femenino,71187,masters,christianism,false,1,democrata
+898,2024-05-31,Delaware,white,41,masculino,37621,doctor,other,false,2,republicano
+905,2024-06-21,Indiana,hispanic,91,masculino,152101,masters,christianism,false,5,republicano
+1455,2024-08-08,Missouri,illegal,45,femenino,139757,masters,atheism,true,5,democrata
+1272,2024-08-20,Maine,white,78,femenino,146387,graduate,islam,false,5,republicano
+1824,2024-11-04,Arizona,asian,60,masculino,178291,undergraduate,hinduism,true,4,republicano
+1985,2024-11-05,South Dakota,white,65,masculino,198633,undergraduate,islam,true,2,republicano
+1769,2024-11-04,Delaware,black,59,masculino,155154,masters,hinduism,true,4,democrata
+1955,2024-11-04,Arkansas,asian,92,masculino,129590,masters,other,true,0,republicano
+883,2024-06-11,Vermont,white,29,femenino,103906,undergraduate,other,true,0,democrata
+1269,2024-08-29,Alabama,black,54,femenino,224760,doctor,hinduism,true,4,democrata
+752,2024-06-08,New Jersey,white,62,femenino,134543,high school,other,false,5,republicano
+935,2024-05-15,Mississippi,hispanic,81,masculino,48158,undergraduate,christianism,false,5,republicano
+1340,2024-09-03,Ohio,white,54,masculino,173323,graduate,atheism,true,0,republicano
+340,2024-03-20,Rhode Island,illegal,51,femenino,49650,masters,hinduism,true,0,democrata
+285,2024-03-12,Missouri,indian,26,masculino,77621,undergraduate,judaism,true,5,democrata
+1799,2024-11-04,Connecticut,white,48,masculino,104504,graduate,judaism,false,5,republicano
+1870,2024-11-05,Arizona,indian,88,masculino,177584,graduate,other,false,3,republicano
+405,2024-03-11,Washington,hispanic,39,femenino,145546,high school,hinduism,true,2,democrata
+1337,2024-09-03,Idaho,black,31,masculino,145032,graduate,hinduism,false,2,republicano
+968,2024-06-10,South Carolina,white,65,femenino,34613,doctor,other,true,4,republicano
+1498,2024-08-14,Colorado,black,68,masculino,62801,graduate,other,false,1,republicano
+820,2024-06-20,Iowa,hispanic,92,masculino,229950,high school,christianism,false,4,republicano
+807,2024-05-13,Mississippi,white,52,femenino,102414,graduate,christianism,true,3,republicano
+1887,2024-11-05,Texas,illegal,55,masculino,232364,graduate,christianism,false,4,republicano
+1367,2024-08-20,Colorado,indian,63,femenino,213332,undergraduate,atheism,true,4,democrata
+981,2024-06-04,Vermont,white,66,femenino,91471,undergraduate,other,false,1,democrata
+1425,2024-09-06,Kentucky,black,31,femenino,41157,high school,atheism,true,1,democrata
+1772,2024-11-05,Georgia,indian,37,masculino,224735,masters,other,false,5,democrata
+850,2024-05-15,New Jersey,hispanic,79,masculino,48565,undergraduate,other,true,0,republicano
+448,2024-02-29,Colorado,illegal,20,femenino,226710,high school,other,true,4,democrata
+795,2024-06-12,Wisconsin,hispanic,21,masculino,112931,doctor,other,true,3,democrata
+837,2024-06-11,Arizona,hispanic,62,femenino,68740,high school,christianism,true,0,republicano
+998,2024-06-07,Utah,hispanic,78,masculino,200053,masters,christianism,false,1,republicano
+295,2024-03-09,Indiana,black,30,femenino,247408,high school,other,false,3,democrata
+481,2024-03-05,Alaska,hispanic,49,masculino,175690,graduate,islam,false,1,republicano
+373,2024-03-01,Vermont,indian,32,masculino,55232,doctor,atheism,true,0,democrata
+925,2024-06-13,Hawaii,white,26,masculino,42580,high school,christianism,false,1,republicano
+478,2024-03-16,Indiana,indian,43,femenino,44512,high school,other,false,2,republicano
+317,2024-03-17,West Virginia,black,10,masculino,38310,masters,atheism,false,3,democrata
+817,2024-05-17,Tennessee,hispanic,60,femenino,42436,masters,christianism,false,5,republicano
+1782,2024-11-04,Tennessee,hispanic,78,masculino,49916,undergraduate,atheism,false,1,republicano
+978,2024-06-07,Arizona,hispanic,66,femenino,229494,high school,other,true,0,republicano
+1890,2024-11-04,Kansas,hispanic,64,masculino,235638,graduate,christianism,true,5,republicano
+1965,2024-11-05,Oklahoma,black,44,masculino,116100,undergraduate,christianism,false,4,republicano
+1857,2024-11-05,Washington,black,55,masculino,135119,doctor,islam,true,4,democrata
+1804,2024-11-04,Florida,asian,86,masculino,135506,masters,judaism,true,3,republicano
+1357,2024-08-24,Colorado,hispanic,77,masculino,69852,graduate,judaism,true,2,republicano
+1435,2024-08-30,Missouri,hispanic,25,masculino,117828,undergraduate,hinduism,true,3,democrata
+310,2024-03-27,Kansas,black,13,femenino,106418,undergraduate,christianism,false,3,democrata
+1370,2024-08-24,Florida,illegal,30,masculino,33978,doctor,hinduism,false,2,democrata
+840,2024-06-20,Michigan,hispanic,31,masculino,54519,masters,other,true,5,democrata
+471,2024-03-05,North Carolina,white,34,femenino,111652,masters,other,false,4,democrata
+915,2024-06-12,Wyoming,white,97,masculino,241660,graduate,christianism,false,1,republicano
+307,2024-03-28,Massachusetts,illegal,54,femenino,83874,high school,christianism,true,5,democrata
+1445,2024-09-18,New Hampshire,white,45,masculino,82764,masters,other,true,5,republicano
+1792,2024-11-04,Wyoming,indian,52,masculino,217865,high school,atheism,false,5,republicano
+1779,2024-11-04,Oregon,asian,48,masculino,113289,graduate,christianism,false,3,republicano
+383,2024-02-29,Iowa,indian,48,femenino,157774,doctor,christianism,true,1,democrata
+320,2024-02-14,Washington,illegal,49,femenino,160975,undergraduate,atheism,false,2,democrata
+1360,2024-09-17,Oklahoma,illegal,44,masculino,174797,high school,atheism,false,1,republicano
+1880,2024-11-04,South Dakota,illegal,97,masculino,166260,graduate,hinduism,false,1,republicano
+468,2024-03-07,Nevada,hispanic,39,masculino,213410,high school,atheism,false,2,republicano
+1867,2024-11-04,New Hampshire,hispanic,64,masculino,234886,doctor,judaism,false,4,republicano
+1259,2024-08-31,Texas,white,34,masculino,244416,undergraduate,hinduism,true,4,republicano
+830,2024-05-14,Wyoming,white,86,masculino,105967,graduate,christianism,false,5,republicano
+1877,2024-11-05,New Mexico,white,83,masculino,158632,undergraduate,atheism,false,3,republicano
+991,2024-05-25,North Carolina,hispanic,93,femenino,124536,masters,christianism,false,2,democrata
+928,2024-05-18,West Virginia,hispanic,72,masculino,179898,high school,other,true,0,republicano
+1347,2024-08-17,New Mexico,black,82,masculino,80646,graduate,hinduism,false,1,republicano
+458,2024-03-03,Connecticut,indian,49,masculino,189795,masters,christianism,false,2,democrata
+988,2024-05-16,Pennsylvania,hispanic,92,masculino,148088,masters,christianism,false,0,republicano
+827,2024-05-28,Arkansas,hispanic,67,masculino,186005,masters,other,false,2,republicano
+1415,2024-08-09,Arizona,asian,90,femenino,207263,masters,other,true,5,democrata
+1432,2024-08-09,Alabama,black,98,masculino,194295,high school,atheism,true,5,republicano
+393,2024-03-06,Nevada,hispanic,13,femenino,239567,masters,atheism,true,2,democrata
+1762,2024-11-04,Delaware,black,56,masculino,178838,graduate,hinduism,false,5,democrata
+1759,2024-11-05,Texas,hispanic,86,masculino,102115,high school,islam,false,1,republicano
+1817,2024-11-04,Tennessee,white,55,masculino,130733,graduate,christianism,true,3,republicano
+343,2024-03-15,Kentucky,black,10,femenino,165850,high school,judaism,false,0,democrata
+1465,2024-08-15,Nebraska,asian,22,femenino,193540,graduate,atheism,false,5,democrata
+360,2024-03-07,Wisconsin,indian,34,masculino,114409,masters,atheism,true,0,democrata
+1945,2024-11-05,Florida,indian,81,masculino,77785,graduate,judaism,true,5,republicano
+1282,2024-08-20,North Carolina,hispanic,44,femenino,220603,undergraduate,atheism,false,5,democrata
+357,2024-03-15,Nevada,indian,10,masculino,140619,masters,atheism,true,5,democrata
+762,2024-06-17,New Hampshire,hispanic,53,femenino,201422,undergraduate,other,false,3,republicano
+415,2024-03-10,Nevada,indian,17,masculino,105223,graduate,christianism,false,5,republicano
+1350,2024-09-11,Louisiana,illegal,49,femenino,158835,graduate,judaism,false,5,republicano
+1279,2024-08-10,Ohio,asian,32,masculino,236907,high school,hinduism,true,4,republicano
+494,2024-03-03,Michigan,black,41,femenino,54074,doctor,hinduism,false,4,democrata
+1902,2024-11-04,Mississippi,white,65,masculino,40384,undergraduate,christianism,false,1,republicano
+275,2024-03-19,Rhode Island,white,15,masculino,224177,doctor,christianism,true,0,republicano
+1830,2024-11-04,North Carolina,white,36,masculino,65967,high school,other,false,1,republicano
+1844,2024-11-05,Hawaii,illegal,91,masculino,184492,doctor,christianism,false,0,democrata
+1978,2024-11-04,New Hampshire,illegal,94,masculino,237257,high school,hinduism,true,5,republicano
+880,2024-06-09,Vermont,hispanic,68,femenino,39890,graduate,christianism,true,1,democrata
+1991,2024-11-05,Michigan,illegal,61,masculino,38453,graduate,islam,true,2,republicano
+300,2024-03-04,Maine,black,18,femenino,145347,high school,christianism,false,0,democrata
+461,2024-03-07,Indiana,asian,47,femenino,186972,graduate,hinduism,false,4,democrata
+350,2024-02-18,Kentucky,asian,48,masculino,228135,graduate,judaism,false,0,republicano
+1935,2024-11-05,Connecticut,asian,38,masculino,60832,graduate,atheism,false,0,democrata
+1289,2024-09-19,Texas,asian,67,femenino,84398,graduate,hinduism,true,2,republicano
+1397,2024-08-20,Florida,asian,36,masculino,127211,undergraduate,hinduism,false,3,republicano
+1752,2024-11-04,Georgia,hispanic,62,masculino,36495,high school,other,true,5,republicano
+1827,2024-11-05,Vermont,black,90,masculino,202787,undergraduate,other,true,5,democrata
+772,2024-06-01,Pennsylvania,white,70,masculino,207285,doctor,christianism,false,1,republicano
+1988,2024-11-04,South Dakota,illegal,84,masculino,200150,doctor,atheism,true,4,democrata
+425,2024-03-03,South Dakota,hispanic,47,femenino,243542,doctor,hinduism,true,4,democrata
+1405,2024-08-27,Nebraska,illegal,75,masculino,90600,graduate,christianism,false,4,republicano
+938,2024-06-02,Vermont,hispanic,38,masculino,158916,masters,other,false,4,democrata
+1292,2024-08-23,Tennessee,hispanic,38,femenino,31791,high school,judaism,false,1,republicano
+1304,2024-09-07,Wyoming,asian,69,femenino,112915,undergraduate,hinduism,false,0,republicano
+347,2024-02-21,Vermont,black,31,masculino,232567,doctor,islam,true,2,democrata
+863,2024-06-03,Missouri,hispanic,62,masculino,63528,graduate,other,false,2,republicano
+769,2024-06-08,Georgia,white,32,masculino,31380,high school,other,true,5,republicano
+451,2024-02-27,Utah,black,24,masculino,232887,graduate,islam,false,2,democrata
+1912,2024-11-04,Connecticut,hispanic,32,masculino,102596,undergraduate,christianism,false,4,democrata
+955,2024-06-15,New Hampshire,white,27,masculino,157735,undergraduate,other,false,4,republicano
+1995,2024-11-04,Delaware,asian,34,masculino,33510,doctor,christianism,true,1,democrata
+1393,2024-08-24,Montana,white,54,masculino,112083,graduate,atheism,true,2,republicano
+1500,2024-09-06,Mississippi,indian,83,femenino,158958,graduate,judaism,false,2,republicano
+1834,2024-11-04,Idaho,asian,78,masculino,34269,undergraduate,atheism,false,0,republicano
+873,2024-06-17,New Jersey,white,22,femenino,51136,graduate,other,false,5,democrata
+265,2024-03-03,Delaware,illegal,32,femenino,162599,graduate,hinduism,true,1,democrata
+759,2024-05-15,Iowa,hispanic,92,masculino,43861,graduate,christianism,true,5,republicano
+1909,2024-11-05,Wisconsin,indian,84,masculino,35189,undergraduate,judaism,false,2,republicano
+945,2024-06-09,Kentucky,white,73,masculino,55204,doctor,christianism,false,4,republicano
+1314,2024-09-10,South Dakota,indian,82,femenino,246116,undergraduate,hinduism,false,3,democrata
+1475,2024-08-20,Iowa,indian,91,femenino,49647,masters,christianism,true,5,democrata
+1441,2024-08-30,Pennsylvania,illegal,77,femenino,223065,doctor,islam,false,5,democrata
+1971,2024-11-04,Maryland,indian,77,masculino,190015,undergraduate,islam,true,1,democrata
+298,2024-03-24,Massachusetts,illegal,27,masculino,172284,high school,judaism,true,1,democrata
+484,2024-03-09,Massachusetts,asian,42,masculino,149342,high school,hinduism,false,1,republicano
+919,2024-05-30,West Virginia,white,38,masculino,160858,masters,other,false,5,republicano
+1807,2024-11-04,New Hampshire,illegal,72,masculino,65373,doctor,atheism,false,1,democrata
+422,2024-03-05,Arizona,illegal,29,femenino,112020,undergraduate,islam,true,3,democrata
+367,2024-02-22,New York,indian,49,masculino,145422,doctor,judaism,true,3,democrata
+897,2024-05-24,Michigan,hispanic,40,masculino,231007,high school,other,false,0,republicano
+867,2024-06-15,Rhode Island,white,70,femenino,79923,doctor,other,true,0,democrata
+1324,2024-08-20,Ohio,hispanic,78,masculino,84223,doctor,other,true,3,republicano
+1471,2024-08-19,West Virginia,black,61,masculino,100110,masters,hinduism,false,2,democrata
+1255,2024-08-26,Oklahoma,white,56,masculino,71555,undergraduate,judaism,true,1,republicano
+1307,2024-09-03,South Carolina,hispanic,44,masculino,153649,doctor,atheism,true,4,republicano
+1808,2024-11-05,New Jersey,illegal,34,masculino,166330,doctor,other,false,2,democrata
+1285,2024-08-17,Georgia,black,86,femenino,144630,graduate,atheism,false,2,democrata
+1785,2024-11-04,North Dakota,asian,72,masculino,190389,masters,other,true,4,republicano
+1854,2024-11-04,Arizona,illegal,36,masculino,192815,high school,atheism,true,4,republicano
+366,2024-02-29,New York,illegal,36,masculino,207674,undergraduate,other,true,3,democrata
+1938,2024-11-05,New York,indian,52,masculino,59227,masters,other,true,3,democrata
+485,2024-03-17,Utah,white,17,femenino,126725,graduate,hinduism,false,4,democrata
+896,2024-05-31,Utah,hispanic,37,femenino,137938,undergraduate,christianism,true,1,republicano
+823,2024-05-21,Missouri,white,95,masculino,168131,graduate,other,true,4,republicano
+1756,2024-11-05,Connecticut,asian,85,masculino,151078,doctor,atheism,true,0,democrata
+1905,2024-11-05,Arizona,illegal,39,masculino,201717,undergraduate,christianism,false,1,republicano
+965,2024-05-15,Indiana,white,41,femenino,162838,doctor,other,false,5,democrata
+299,2024-03-17,Georgia,illegal,18,femenino,248493,undergraduate,judaism,true,1,democrata
+1942,2024-11-05,Michigan,illegal,46,masculino,114274,high school,judaism,false,5,republicano
+1353,2024-08-09,Virginia,black,35,femenino,184559,masters,other,true,5,democrata
+1972,2024-11-05,New Mexico,white,30,masculino,33988,undergraduate,islam,false,2,republicano
+779,2024-06-20,Maine,white,44,masculino,205601,undergraduate,other,true,0,republicano
+834,2024-05-19,Pennsylvania,white,91,femenino,209260,doctor,other,true,0,democrata
+418,2024-03-12,New Hampshire,indian,25,femenino,77811,high school,hinduism,false,2,democrata
+1786,2024-11-04,Wyoming,illegal,51,masculino,56582,high school,hinduism,false,0,republicano
+1949,2024-11-05,Delaware,asian,34,masculino,220465,undergraduate,christianism,true,1,democrata
+411,2024-03-17,New York,indian,33,femenino,96097,undergraduate,judaism,true,0,democrata
+1344,2024-09-12,Nevada,hispanic,54,masculino,143012,undergraduate,hinduism,false,2,republicano
+1419,2024-08-09,South Carolina,illegal,36,masculino,90184,undergraduate,judaism,true,5,republicano
+902,2024-05-15,West Virginia,white,91,masculino,121807,graduate,other,false,4,republicano
+994,2024-06-01,Minnesota,white,46,masculino,167257,high school,christianism,true,5,republicano
+941,2024-06-08,Montana,white,63,masculino,189511,high school,christianism,false,1,republicano
+333,2024-03-27,Montana,white,15,masculino,53035,high school,atheism,true,4,republicano
+1458,2024-09-14,Mississippi,black,41,femenino,95997,undergraduate,christianism,true,4,republicano
+1874,2024-11-05,North Carolina,hispanic,34,masculino,223451,undergraduate,atheism,false,5,democrata
+1958,2024-11-05,New Mexico,asian,72,masculino,52081,doctor,hinduism,true,1,republicano
+402,2024-02-27,New Mexico,illegal,32,masculino,173902,graduate,islam,false,4,democrata
+396,2024-03-12,Kentucky,hispanic,53,masculino,139799,doctor,islam,false,5,republicano
+455,2024-02-28,California,white,47,femenino,151638,masters,other,true,0,democrata
+755,2024-05-24,Utah,white,59,femenino,125455,undergraduate,other,false,4,republicano
+1820,2024-11-05,Georgia,black,74,masculino,173818,graduate,other,true,4,republicano
+269,2024-02-26,Illinois,black,28,masculino,104291,doctor,islam,false,0,democrata
+985,2024-06-20,South Dakota,hispanic,64,femenino,130507,undergraduate,christianism,false,3,republicano
+890,2024-06-01,Idaho,white,42,masculino,172290,undergraduate,christianism,false,3,republicano
+282,2024-03-05,Alaska,asian,10,masculino,85215,doctor,judaism,true,2,democrata
+912,2024-06-04,Oklahoma,hispanic,23,masculino,167565,doctor,christianism,false,0,republicano
+799,2024-06-14,Connecticut,white,73,femenino,216957,doctor,other,true,3,democrata
+843,2024-06-07,New Mexico,white,43,masculino,106525,high school,christianism,false,2,republicano
+918,2024-05-22,Kentucky,hispanic,38,femenino,179095,graduate,christianism,true,0,republicano
+1373,2024-08-11,Minnesota,black,65,masculino,179949,masters,islam,false,2,democrata
+1448,2024-09-01,Maine,white,58,masculino,70951,high school,other,true,3,republicano
+1300,2024-08-31,Arkansas,black,84,masculino,237569,doctor,hinduism,true,2,republicano
+1429,2024-09-03,Wyoming,black,36,femenino,160690,high school,atheism,false,5,republicano
+1442,2024-08-19,Kansas,white,90,masculino,42838,undergraduate,atheism,true,1,republicano
+304,2024-02-24,Alaska,indian,51,masculino,75116,graduate,christianism,true,2,republicano
+380,2024-02-22,Alaska,indian,28,masculino,128887,high school,judaism,false,4,republicano
+931,2024-05-17,Indiana,hispanic,18,femenino,90596,masters,other,false,1,democrata
+1256,2024-09-02,West Virginia,white,95,masculino,109374,masters,judaism,false,2,republicano
+814,2024-06-06,Wyoming,hispanic,75,femenino,232910,high school,other,true,3,republicano
+1883,2024-11-05,Iowa,white,60,masculino,111026,doctor,islam,true,2,republicano
+1394,2024-08-28,Arizona,black,82,masculino,220006,masters,other,false,3,democrata
+944,2024-06-24,Minnesota,hispanic,84,masculino,82364,masters,christianism,false,2,republicano
+775,2024-05-29,Colorado,white,75,masculino,112405,high school,christianism,false,5,republicano
+1416,2024-08-10,Ohio,asian,59,masculino,65816,graduate,atheism,false,5,republicano
+792,2024-05-26,Kentucky,hispanic,96,femenino,86180,graduate,christianism,false,0,republicano
+1929,2024-11-04,Montana,black,38,masculino,169449,high school,other,false,2,republicano
+262,2024-02-15,Indiana,hispanic,20,masculino,201034,high school,judaism,true,5,republicano
+860,2024-06-13,Missouri,white,21,femenino,128069,doctor,christianism,true,4,democrata
+1377,2024-08-20,South Dakota,illegal,24,masculino,157178,undergraduate,atheism,false,0,democrata
+313,2024-03-15,Arizona,indian,21,masculino,227490,high school,other,false,2,republicano
+758,2024-06-14,Alabama,white,94,masculino,241060,masters,christianism,true,0,republicano
+1462,2024-08-19,Arizona,illegal,97,masculino,32163,high school,judaism,false,1,republicano
+1800,2024-11-05,Idaho,white,77,masculino,92712,doctor,islam,true,4,republicano
+893,2024-06-12,Wyoming,white,36,femenino,114687,doctor,christianism,true,0,republicano
+1320,2024-08-14,Montana,white,59,femenino,78901,high school,islam,false,3,republicano
+488,2024-02-14,Connecticut,black,22,masculino,84790,high school,atheism,false,3,democrata
+1828,2024-11-04,West Virginia,hispanic,60,masculino,232241,masters,atheism,false,1,republicano
+363,2024-02-25,Vermont,white,38,femenino,236081,undergraduate,islam,false,2,democrata
+1276,2024-08-29,Kansas,asian,37,masculino,195052,graduate,other,true,2,republicano
+291,2024-03-25,Kansas,hispanic,21,femenino,102189,doctor,christianism,false,1,democrata
+1495,2024-08-25,Kansas,black,85,femenino,41577,masters,judaism,false,3,democrata
+346,2024-03-22,Indiana,hispanic,40,femenino,142344,high school,atheism,true,1,republicano
+330,2024-03-22,Rhode Island,illegal,48,femenino,56897,masters,judaism,true,4,democrata
+1000,2024-06-21,Arizona,white,97,masculino,58187,high school,other,false,2,republicano
+431,2024-03-22,Delaware,asian,12,masculino,198148,masters,other,false,4,democrata
+1789,2024-11-05,Tennessee,white,44,masculino,222068,graduate,hinduism,false,3,republicano
+1428,2024-09-07,Oklahoma,illegal,95,femenino,188200,high school,other,false,5,republicano
+911,2024-05-15,Minnesota,white,86,masculino,57618,high school,christianism,false,0,republicano
+387,2024-02-17,Minnesota,illegal,39,masculino,88133,doctor,judaism,false,3,democrata
+1833,2024-11-05,Rhode Island,asian,64,masculino,124381,undergraduate,other,true,3,republicano
+1975,2024-11-04,Connecticut,indian,47,masculino,122502,undergraduate,other,true,3,democrata
+939,2024-06-13,Idaho,hispanic,39,femenino,139580,masters,christianism,false,0,republicano
+1252,2024-09-04,South Carolina,black,98,femenino,99437,high school,judaism,true,1,republicano
+864,2024-05-17,New Jersey,white,39,masculino,113185,graduate,other,false,1,republicano
+464,2024-02-14,Kentucky,black,51,masculino,230416,masters,hinduism,true,0,democrata
+847,2024-06-20,New York,hispanic,94,femenino,51130,graduate,christianism,true,1,democrata
+1421,2024-08-10,Michigan,white,85,femenino,184642,undergraduate,other,true,0,republicano
+278,2024-02-26,North Carolina,indian,27,femenino,38213,high school,islam,true,1,democrata
+1821,2024-11-05,Delaware,black,57,masculino,236887,undergraduate,atheism,true,3,democrata
+409,2024-03-14,Nevada,black,50,femenino,178504,graduate,atheism,false,3,democrata
+1449,2024-09-01,Indiana,asian,81,masculino,166106,doctor,hinduism,false,1,republicano
+1951,2024-11-05,West Virginia,indian,49,masculino,89894,undergraduate,atheism,false,5,republicano
+810,2024-06-15,North Carolina,hispanic,48,masculino,67695,high school,christianism,true,1,republicano
+1765,2024-11-04,Florida,white,81,masculino,205764,graduate,hinduism,false,1,republicano
+1327,2024-08-31,Kentucky,indian,64,femenino,238467,high school,hinduism,false,1,republicano
+1412,2024-08-30,Alabama,hispanic,78,masculino,194465,undergraduate,christianism,true,2,republicano
+932,2024-06-23,Minnesota,hispanic,60,masculino,128296,doctor,other,true,3,republicano
+1992,2024-11-04,Washington,asian,76,masculino,34380,masters,other,false,2,democrata
+435,2024-02-14,Massachusetts,illegal,52,masculino,36956,doctor,judaism,false,1,democrata
+1390,2024-08-29,Utah,hispanic,69,masculino,168347,doctor,atheism,true,2,republicano
+1837,2024-11-04,New Hampshire,hispanic,71,masculino,231449,masters,judaism,true,0,republicano
+1979,2024-11-04,North Dakota,asian,95,masculino,116953,masters,islam,false,5,republicano
+1850,2024-11-05,Connecticut,illegal,31,masculino,167566,graduate,judaism,false,3,democrata
+438,2024-03-26,Connecticut,black,37,masculino,78745,masters,christianism,true,4,democrata
+1311,2024-09-06,Louisiana,indian,37,femenino,92187,high school,atheism,false,1,republicano
+876,2024-05-17,Vermont,white,20,masculino,182638,undergraduate,other,false,2,democrata
+948,2024-05-13,Wisconsin,hispanic,45,masculino,66095,undergraduate,other,true,1,republicano
+334,2024-03-15,California,white,19,femenino,136033,masters,hinduism,true,4,democrata
+1922,2024-11-05,Kansas,white,91,masculino,71245,doctor,atheism,false,4,republicano
+1491,2024-08-20,Maine,asian,35,femenino,244306,masters,christianism,false,1,democrata
+961,2024-05-30,Illinois,hispanic,74,masculino,133578,high school,other,false,3,republicano
+1925,2024-11-04,Missouri,black,45,masculino,160567,high school,hinduism,false,2,republicano
+337,2024-02-26,Kansas,black,36,masculino,127539,masters,hinduism,true,4,democrata
+1478,2024-08-16,Missouri,indian,55,femenino,106706,doctor,islam,true,4,democrata
+1386,2024-09-18,Alaska,illegal,49,masculino,82939,high school,other,true,0,republicano
+836,2024-06-19,New York,white,56,masculino,35055,masters,christianism,true,4,republicano
+467,2024-02-15,South Dakota,asian,39,femenino,82603,graduate,judaism,false,5,democrata
+1838,2024-11-05,Maryland,white,60,masculino,115099,doctor,christianism,true,4,republicano
+384,2024-02-26,Kentucky,indian,12,femenino,60523,high school,judaism,true,5,democrata
+1469,2024-09-08,North Dakota,black,87,masculino,216549,undergraduate,other,true,4,republicano
+952,2024-05-20,Tennessee,white,79,masculino,96306,masters,christianism,false,4,republicano
+336,2024-02-29,West Virginia,black,51,femenino,136164,undergraduate,other,true,4,democrata
+406,2024-03-09,Rhode Island,black,21,masculino,220676,undergraduate,other,false,0,democrata
+1408,2024-09-12,Rhode Island,asian,87,masculino,221223,graduate,other,true,1,republicano
+1871,2024-11-04,Alaska,indian,40,masculino,75329,high school,hinduism,false,1,republicano
+497,2024-02-22,Wisconsin,indian,28,masculino,42985,undergraduate,other,false,2,democrata
+821,2024-05-13,Florida,hispanic,63,masculino,103981,graduate,christianism,true,0,republicano
+766,2024-05-29,Oregon,white,46,masculino,211157,undergraduate,christianism,true,4,republicano
+1768,2024-11-04,Nevada,hispanic,68,masculino,155241,undergraduate,judaism,true,1,republicano
+1823,2024-11-04,Virginia,asian,40,masculino,129522,undergraduate,christianism,true,3,republicano
+1338,2024-08-29,Pennsylvania,illegal,24,femenino,242785,graduate,islam,false,3,democrata
+1954,2024-11-04,Ohio,asian,57,masculino,206626,graduate,judaism,true,3,republicano
+982,2024-06-22,Wyoming,white,45,masculino,188686,high school,other,true,1,republicano
+1499,2024-09-03,Iowa,white,60,femenino,156224,high school,islam,true,3,republicano
+321,2024-03-27,North Carolina,asian,42,masculino,39570,masters,christianism,true,4,republicano
+818,2024-06-24,Vermont,white,98,femenino,179125,masters,other,true,4,democrata
+1273,2024-09-12,Alaska,illegal,95,masculino,128303,undergraduate,hinduism,true,3,republicano
+1323,2024-09-06,Tennessee,asian,24,femenino,87902,graduate,hinduism,false,5,democrata
+1484,2024-09-01,Ohio,hispanic,30,masculino,123518,masters,judaism,true,1,democrata
+949,2024-06-09,Idaho,hispanic,28,femenino,162577,doctor,christianism,false,5,democrata
+354,2024-03-19,New York,indian,27,masculino,96621,graduate,judaism,true,0,democrata
+434,2024-03-15,Kentucky,white,42,masculino,199898,graduate,christianism,false,0,republicano
+1298,2024-08-29,Indiana,hispanic,97,masculino,96309,masters,atheism,false,2,republicano
+1436,2024-09-12,West Virginia,white,34,masculino,242477,undergraduate,judaism,false,0,republicano
+1356,2024-09-07,Rhode Island,black,85,femenino,127426,high school,other,false,5,republicano
+1411,2024-08-19,Pennsylvania,white,56,femenino,32252,graduate,hinduism,false,0,republicano
+1783,2024-11-05,New Mexico,illegal,37,masculino,171386,undergraduate,atheism,true,2,republicano
+1841,2024-11-05,Nevada,asian,68,masculino,243731,undergraduate,hinduism,false,3,republicano
+311,2024-02-18,Vermont,hispanic,39,femenino,190911,doctor,other,false,5,democrata
+439,2024-02-21,Vermont,asian,41,femenino,54807,masters,other,true,2,democrata
+1813,2024-11-04,Arkansas,illegal,56,masculino,46752,high school,hinduism,false,0,republicano
+894,2024-05-23,Georgia,white,29,masculino,201629,masters,christianism,false,0,democrata
+1313,2024-09-16,Colorado,hispanic,41,masculino,120012,masters,islam,true,2,republicano
+1921,2024-11-04,Nevada,black,78,masculino,33535,undergraduate,atheism,true,2,republicano
+1492,2024-09-03,Louisiana,hispanic,75,femenino,247744,graduate,judaism,false,2,republicano
+924,2024-06-17,Rhode Island,white,39,femenino,165716,masters,christianism,false,3,democrata
+1926,2024-11-04,Georgia,black,72,masculino,214443,high school,hinduism,false,4,republicano
+1896,2024-11-04,Nebraska,asian,32,masculino,160471,doctor,hinduism,true,2,democrata
+424,2024-03-08,Alaska,white,11,femenino,109336,high school,christianism,true,4,republicano
+490,2024-02-24,Iowa,illegal,17,masculino,65081,doctor,other,true,5,democrata
+1798,2024-11-04,Nevada,illegal,49,masculino,199901,graduate,hinduism,true,1,republicano
+449,2024-02-24,Connecticut,asian,33,femenino,32630,masters,christianism,true,0,democrata
+1911,2024-11-05,West Virginia,indian,35,masculino,201535,masters,islam,true,2,democrata
+1848,2024-11-04,Louisiana,asian,71,masculino,231792,masters,hinduism,true,5,republicano
+796,2024-05-14,Oregon,white,43,masculino,149289,doctor,christianism,true,2,republicano
+1984,2024-11-04,Oklahoma,black,68,masculino,87341,high school,christianism,false,2,republicano
+846,2024-05-26,Louisiana,white,69,femenino,160839,high school,other,true,3,republicano
+301,2024-03-12,Nevada,asian,38,femenino,70948,high school,judaism,false,2,republicano
+1426,2024-08-22,Minnesota,hispanic,74,femenino,208446,high school,judaism,true,2,republicano
+326,2024-03-07,Georgia,illegal,14,femenino,63342,high school,islam,true,3,democrata
+959,2024-05-14,Michigan,hispanic,92,femenino,90768,doctor,christianism,false,5,democrata
+1328,2024-08-14,Colorado,asian,45,femenino,55712,graduate,other,false,3,republicano
+1936,2024-11-05,Illinois,hispanic,76,masculino,144811,graduate,hinduism,true,5,republicano
+811,2024-05-31,Vermont,hispanic,89,femenino,88753,undergraduate,christianism,false,1,democrata
+934,2024-06-09,Minnesota,white,55,masculino,123526,undergraduate,christianism,false,5,republicano
+1303,2024-08-08,Wisconsin,illegal,91,masculino,100774,undergraduate,islam,false,3,republicano
+1291,2024-08-30,Texas,hispanic,70,femenino,247268,masters,christianism,true,3,republicano
+328,2024-03-16,Colorado,white,46,femenino,86845,doctor,christianism,true,1,democrata
+1494,2024-08-13,Georgia,indian,22,femenino,116227,graduate,christianism,true,4,democrata
+359,2024-03-18,Michigan,illegal,19,femenino,209555,masters,christianism,true,0,democrata
+1863,2024-11-04,Iowa,black,92,masculino,193479,high school,other,false,2,republicano
+492,2024-02-20,Missouri,illegal,42,masculino,244673,graduate,atheism,true,2,republicano
+844,2024-06-09,Kansas,white,88,femenino,229794,masters,other,false,4,democrata
+475,2024-03-01,New York,black,15,masculino,153851,high school,hinduism,true,2,democrata
+362,2024-03-15,Nebraska,hispanic,33,masculino,241466,high school,judaism,true,2,republicano
+1793,2024-11-04,Kentucky,hispanic,49,masculino,170001,masters,judaism,true,2,republicano
+289,2024-03-25,Maryland,white,53,masculino,132300,high school,hinduism,false,5,republicano
+960,2024-05-24,New York,hispanic,90,femenino,162480,undergraduate,christianism,true,1,democrata
+1381,2024-08-30,Idaho,asian,25,masculino,177677,high school,islam,false,0,republicano
+1477,2024-08-14,Nebraska,illegal,36,femenino,80831,graduate,atheism,false,5,democrata
+1976,2024-11-05,Maine,indian,88,masculino,57324,masters,christianism,true,0,democrata
+489,2024-03-22,Ohio,indian,35,femenino,179099,masters,islam,true,0,democrata
+1815,2024-11-04,Tennessee,asian,44,masculino,249360,high school,hinduism,true,3,republicano
+774,2024-05-27,Virginia,white,30,femenino,156022,high school,other,true,5,republicano
+1846,2024-11-04,Louisiana,black,37,masculino,101871,undergraduate,atheism,false,0,republicano
+1962,2024-11-04,Pennsylvania,hispanic,80,masculino,153853,graduate,atheism,true,2,republicano
+1401,2024-08-11,West Virginia,asian,82,femenino,172784,masters,islam,true,1,democrata
+974,2024-06-22,Massachusetts,white,76,masculino,75380,masters,other,false,3,republicano
+813,2024-05-27,Maryland,white,20,masculino,192407,undergraduate,other,false,0,democrata
+1959,2024-11-05,Missouri,asian,93,masculino,153051,undergraduate,hinduism,true,0,republicano
+1265,2024-08-13,Colorado,indian,69,masculino,136190,doctor,other,false,3,democrata
+1403,2024-09-08,Texas,illegal,44,femenino,143895,undergraduate,atheism,true,4,republicano
+1331,2024-08-21,Georgia,white,96,masculino,72223,undergraduate,islam,true,3,republicano
+401,2024-03-24,New Jersey,hispanic,32,femenino,153380,high school,islam,false,1,democrata
+909,2024-06-15,Tennessee,white,93,femenino,245969,graduate,christianism,false,1,republicano
+957,2024-06-02,South Carolina,hispanic,44,femenino,167249,undergraduate,other,false,4,republicano
+376,2024-03-05,Minnesota,white,47,femenino,59180,undergraduate,other,false,1,republicano
+1364,2024-08-09,South Carolina,indian,21,masculino,45575,graduate,atheism,true,1,republicano
+442,2024-02-18,Massachusetts,indian,54,femenino,108184,graduate,christianism,true,0,democrata
+1378,2024-08-15,North Carolina,hispanic,82,femenino,102845,doctor,atheism,false,5,democrata
+861,2024-06-02,Alaska,hispanic,36,femenino,121380,doctor,other,true,3,democrata
+1791,2024-11-05,Connecticut,black,30,masculino,169819,high school,hinduism,true,3,democrata
+256,2024-03-07,Maine,indian,51,femenino,220660,masters,hinduism,false,3,democrata
+1444,2024-09-07,South Carolina,indian,69,femenino,104691,high school,atheism,false,5,republicano
+1321,2024-08-11,Tennessee,hispanic,50,masculino,73591,graduate,atheism,false,2,republicano
+1918,2024-11-04,Maine,illegal,88,masculino,150781,graduate,other,true,0,republicano
+1805,2024-11-05,Montana,asian,35,masculino,222521,undergraduate,atheism,true,3,republicano
+1258,2024-09-16,Idaho,hispanic,45,femenino,143436,high school,islam,true,4,republicano
+781,2024-05-27,Wyoming,hispanic,54,masculino,102017,masters,other,false,5,republicano
+296,2024-03-26,Montana,black,54,femenino,115114,graduate,judaism,true,4,democrata
+369,2024-03-12,North Carolina,indian,17,masculino,249401,doctor,hinduism,false,3,democrata
+916,2024-05-27,Washington,hispanic,34,femenino,100158,undergraduate,christianism,true,1,democrata
+482,2024-02-15,Connecticut,illegal,27,femenino,148340,graduate,other,false,3,democrata
+1251,2024-09-02,Minnesota,indian,93,masculino,181101,high school,judaism,false,5,republicano
+432,2024-02-16,Rhode Island,white,17,femenino,195734,graduate,judaism,false,2,democrata
+926,2024-05-25,North Dakota,white,70,femenino,127517,graduate,christianism,false,0,republicano
+1434,2024-09-18,Georgia,black,36,femenino,160101,masters,judaism,false,1,democrata
+854,2024-05-13,Mississippi,hispanic,74,masculino,240543,masters,christianism,false,0,republicano
+1856,2024-11-05,Illinois,illegal,39,masculino,84234,graduate,islam,false,2,democrata
+788,2024-06-18,New Hampshire,white,46,masculino,89594,high school,other,true,5,republicano
+1928,2024-11-04,Arizona,white,31,masculino,219804,masters,christianism,true,4,democrata
+271,2024-02-16,California,illegal,39,femenino,161378,high school,hinduism,true,4,democrata
+791,2024-06-23,Vermont,white,66,femenino,91447,undergraduate,christianism,true,2,democrata
+1371,2024-09-19,Louisiana,hispanic,96,masculino,217586,undergraduate,atheism,false,1,republicano
+803,2024-06-10,Kentucky,white,67,femenino,164875,masters,other,false,2,democrata
+318,2024-02-14,Pennsylvania,hispanic,46,femenino,89697,doctor,atheism,false,4,democrata
+879,2024-06-16,Pennsylvania,white,83,femenino,68314,masters,christianism,true,2,democrata
+1355,2024-08-19,Utah,indian,34,masculino,105942,high school,judaism,false,5,republicano
+353,2024-03-06,Maine,indian,42,masculino,188448,doctor,christianism,false,4,democrata
+1855,2024-11-04,North Dakota,hispanic,50,masculino,58450,masters,christianism,false,0,republicano
+967,2024-05-13,Washington,hispanic,55,masculino,149013,graduate,christianism,false,0,republicano
+1969,2024-11-05,Kentucky,indian,78,masculino,109242,undergraduate,atheism,false,4,republicano
+370,2024-02-24,Virginia,white,33,femenino,199774,high school,judaism,true,3,republicano
+1485,2024-08-10,Ohio,asian,50,femenino,30796,doctor,christianism,false,4,democrata
+319,2024-03-12,Wisconsin,black,10,masculino,172550,undergraduate,other,false,1,republicano
+1968,2024-11-05,Massachusetts,black,33,masculino,44480,undergraduate,islam,true,5,democrata
+1840,2024-11-05,New Jersey,indian,84,masculino,238739,graduate,other,true,2,democrata
+385,2024-03-27,Oregon,black,43,femenino,239363,undergraduate,hinduism,false,2,democrata
+466,2024-03-08,Missouri,black,46,masculino,108360,masters,judaism,false,2,democrata
+1970,2024-11-05,Wyoming,illegal,40,masculino,205160,undergraduate,hinduism,true,0,republicano
+1299,2024-08-23,Idaho,illegal,81,femenino,232068,doctor,atheism,false,3,democrata
+819,2024-06-10,North Dakota,white,49,masculino,204318,doctor,christianism,false,1,republicano
+1354,2024-08-15,Alabama,white,67,masculino,163477,doctor,judaism,false,5,republicano
+782,2024-05-23,Kansas,white,26,masculino,203365,undergraduate,christianism,true,5,republicano
+966,2024-06-06,California,white,24,femenino,234213,masters,other,false,1,democrata
+1953,2024-11-04,Wisconsin,white,71,masculino,114348,undergraduate,judaism,false,4,republicano
+407,2024-02-25,Indiana,hispanic,40,masculino,224664,undergraduate,judaism,true,2,republicano
+951,2024-06-16,Georgia,hispanic,53,masculino,102468,undergraduate,christianism,true,1,republicano
+297,2024-03-17,Hawaii,illegal,42,masculino,76125,doctor,hinduism,false,1,democrata
+765,2024-05-23,Alaska,hispanic,85,masculino,173413,masters,christianism,false,0,republicano
+499,2024-02-23,Maryland,hispanic,22,femenino,167777,graduate,judaism,false,3,democrata
+352,2024-02-14,Wisconsin,asian,24,masculino,212494,masters,atheism,false,1,democrata
+1468,2024-08-16,Nevada,white,66,masculino,244164,undergraduate,atheism,true,5,republicano
+804,2024-05-21,Arkansas,white,91,femenino,116510,graduate,other,true,5,republicano
+483,2024-03-23,Massachusetts,white,24,femenino,50756,high school,judaism,true,5,democrata
+917,2024-05-15,Michigan,white,43,masculino,97803,undergraduate,other,false,1,republicano
+1986,2024-11-04,Arkansas,black,94,masculino,203007,masters,christianism,true,4,republicano
+272,2024-02-26,Arizona,hispanic,30,femenino,107054,undergraduate,christianism,true,0,democrata
+984,2024-06-18,South Dakota,white,87,masculino,168940,doctor,christianism,false,5,republicano
+368,2024-03-22,Maine,hispanic,40,masculino,47761,graduate,hinduism,false,0,republicano
+1372,2024-08-10,North Carolina,asian,45,masculino,96535,high school,atheism,true,3,republicano
+1767,2024-11-04,Colorado,indian,80,masculino,50655,high school,judaism,true,5,republicano
+798,2024-06-06,Oklahoma,white,38,femenino,183116,undergraduate,christianism,true,0,republicano
+853,2024-05-12,Utah,white,59,masculino,97863,undergraduate,christianism,false,5,republicano
+1409,2024-08-26,Tennessee,white,61,masculino,135295,graduate,atheism,false,5,republicano
+1806,2024-11-04,Ohio,black,32,masculino,157094,masters,atheism,true,2,democrata
+908,2024-06-12,Connecticut,white,92,femenino,165074,masters,christianism,false,0,democrata
+1452,2024-09-10,Kentucky,indian,27,femenino,104306,doctor,other,true,3,democrata
+1760,2024-11-05,Hawaii,illegal,61,masculino,84900,graduate,other,true,4,democrata
+764,2024-05-24,Wisconsin,white,93,femenino,72359,graduate,other,false,0,republicano
+273,2024-03-15,Rhode Island,white,15,femenino,38066,graduate,christianism,true,0,republicano
+1266,2024-09-20,Mississippi,illegal,32,femenino,81279,graduate,islam,false,5,democrata
+1766,2024-11-05,Nebraska,illegal,46,masculino,209353,graduate,judaism,true,5,republicano
+878,2024-06-13,Georgia,hispanic,96,femenino,65122,graduate,other,false,3,republicano
+1388,2024-09-15,Kentucky,white,93,masculino,170694,undergraduate,hinduism,true,2,republicano
+1751,2024-11-04,Iowa,illegal,58,masculino,75157,masters,judaism,false,1,democrata
+386,2024-02-22,Michigan,white,16,masculino,151470,graduate,atheism,true,0,republicano
+1451,2024-09-13,Ohio,black,58,femenino,129798,high school,islam,false,3,republicano
+871,2024-06-03,Hawaii,hispanic,68,masculino,56315,graduate,christianism,true,4,republicano
+1873,2024-11-04,Arkansas,hispanic,96,masculino,58719,high school,other,true,2,republicano
+408,2024-03-06,New York,illegal,12,femenino,42360,doctor,hinduism,true,5,democrata
+877,2024-06-05,West Virginia,hispanic,90,masculino,220311,undergraduate,other,false,2,republicano
+377,2024-03-16,Virginia,white,26,femenino,153825,doctor,other,false,3,democrata
+263,2024-03-11,South Dakota,indian,30,masculino,160946,high school,christianism,true,2,republicano
+1379,2024-09-05,Louisiana,hispanic,40,masculino,135442,masters,atheism,true,2,republicano
+1776,2024-11-05,Arizona,asian,89,masculino,50879,doctor,islam,true,5,republicano
+862,2024-06-03,Arkansas,hispanic,55,masculino,230205,undergraduate,other,false,4,republicano
+887,2024-05-24,Alaska,white,78,femenino,205385,high school,other,true,4,republicano
+1461,2024-08-26,Missouri,illegal,78,femenino,36066,doctor,christianism,true,1,democrata
+465,2024-03-20,Vermont,hispanic,40,femenino,140199,doctor,atheism,true,5,democrata
+1467,2024-09-18,Minnesota,hispanic,52,femenino,184710,doctor,atheism,false,5,democrata
+1889,2024-11-04,North Carolina,illegal,94,masculino,239252,high school,christianism,true,0,republicano
+1952,2024-11-04,Minnesota,asian,90,masculino,43759,graduate,judaism,false,3,republicano
+279,2024-03-02,Iowa,hispanic,13,masculino,227927,masters,christianism,true,2,democrata
+950,2024-06-20,Mississippi,hispanic,46,femenino,84546,doctor,other,true,4,republicano
+361,2024-03-04,Rhode Island,hispanic,49,masculino,210105,high school,christianism,false,3,republicano
+1864,2024-11-04,Montana,indian,85,masculino,163778,doctor,islam,true,0,democrata
+1275,2024-09-14,North Carolina,asian,18,femenino,229258,graduate,christianism,false,3,democrata
+975,2024-06-14,Wyoming,white,40,masculino,139203,high school,other,false,2,republicano
+1977,2024-11-04,South Dakota,hispanic,77,masculino,202051,doctor,islam,true,1,republicano
+1380,2024-09-12,Florida,white,57,femenino,173988,undergraduate,judaism,true,1,republicano
+789,2024-06-14,Pennsylvania,hispanic,37,masculino,40290,graduate,christianism,true,3,republicano
+1363,2024-09-15,Colorado,asian,32,masculino,215159,undergraduate,islam,true,0,republicano
+828,2024-05-17,Maine,hispanic,34,femenino,100339,masters,christianism,false,3,democrata
+1402,2024-08-19,Utah,illegal,73,femenino,183141,undergraduate,christianism,false,3,democrata
+344,2024-03-10,Vermont,black,15,femenino,130805,graduate,islam,false,4,democrata
+1493,2024-09-13,Florida,white,56,femenino,127701,doctor,atheism,true,3,republicano
+958,2024-06-15,Alaska,white,90,femenino,140172,high school,other,false,3,republicano
+1346,2024-09-14,Tennessee,asian,98,masculino,245684,masters,christianism,false,5,republicano
+474,2024-02-22,West Virginia,indian,27,femenino,70134,undergraduate,hinduism,false,2,democrata
+1814,2024-11-04,Illinois,indian,74,masculino,83683,masters,atheism,false,3,democrata
+812,2024-06-15,Rhode Island,hispanic,96,masculino,69139,graduate,other,true,3,republicano
+1881,2024-11-05,Rhode Island,asian,89,masculino,122428,undergraduate,other,false,5,republicano
+1476,2024-09-06,Florida,black,84,masculino,167740,graduate,judaism,false,5,republicano
+327,2024-02-20,Wisconsin,indian,48,femenino,230925,doctor,judaism,true,5,democrata
+288,2024-02-26,Minnesota,black,52,masculino,33649,doctor,islam,false,4,democrata
+491,2024-03-20,Colorado,indian,39,masculino,212705,masters,christianism,false,5,democrata
+1961,2024-11-04,Wisconsin,asian,56,masculino,211994,undergraduate,atheism,true,5,republicano
+1329,2024-09-18,Oklahoma,black,30,masculino,71065,masters,hinduism,true,1,democrata
+1847,2024-11-05,Kansas,indian,69,masculino,228253,graduate,judaism,true,5,republicano
+773,2024-05-27,Virginia,hispanic,54,femenino,170998,graduate,christianism,false,4,republicano
+1775,2024-11-04,Tennessee,hispanic,73,masculino,182352,undergraduate,christianism,false,0,republicano
+992,2024-06-07,Idaho,white,38,femenino,106310,graduate,other,true,4,republicano
+1994,2024-11-04,Ohio,asian,89,masculino,150148,masters,christianism,false,5,republicano
+264,2024-03-26,Montana,hispanic,38,femenino,41895,doctor,christianism,true,0,democrata
+845,2024-05-22,Maine,white,42,masculino,48606,doctor,christianism,false,5,republicano
+281,2024-03-11,Connecticut,indian,46,femenino,162804,undergraduate,other,true,3,democrata
+1283,2024-09-20,Wyoming,black,59,femenino,41276,masters,christianism,false,0,democrata
+450,2024-02-17,New Hampshire,black,47,masculino,198484,high school,atheism,false,5,republicano
+303,2024-03-22,Virginia,white,11,masculino,146682,doctor,hinduism,false,0,republicano
+1460,2024-08-21,Tennessee,black,67,femenino,50106,high school,christianism,true,0,republicano
+1758,2024-11-04,Idaho,asian,61,masculino,128964,doctor,islam,true,0,republicano
+886,2024-05-27,New Hampshire,hispanic,69,femenino,110468,undergraduate,other,false,4,republicano
+1305,2024-08-22,Indiana,asian,93,masculino,76871,masters,judaism,false,1,republicano
+1443,2024-09-05,Nebraska,black,60,masculino,218872,doctor,other,true,5,democrata
+869,2024-06-24,Arkansas,white,31,femenino,158208,graduate,other,false,1,republicano
+416,2024-03-12,Nebraska,white,14,femenino,192194,undergraduate,islam,true,1,democrata
+1274,2024-08-21,Kentucky,illegal,31,masculino,194778,graduate,islam,false,0,democrata
+441,2024-03-15,Delaware,indian,46,masculino,153708,high school,hinduism,false,5,republicano
+1919,2024-11-05,Minnesota,indian,49,masculino,141942,masters,other,true,2,democrata
+1396,2024-09-10,Florida,black,76,masculino,119631,high school,other,false,2,republicano
+1888,2024-11-04,Connecticut,indian,90,masculino,144150,high school,judaism,false,0,republicano
+1257,2024-09-08,South Carolina,illegal,31,masculino,75861,high school,christianism,false,2,republicano
+255,2024-03-05,Iowa,asian,36,femenino,115694,masters,other,true,5,democrata
+1784,2024-11-04,Florida,illegal,91,masculino,184832,masters,hinduism,true,4,republicano
+1903,2024-11-05,Indiana,white,67,masculino,56402,doctor,islam,true,2,republicano
+901,2024-05-25,California,hispanic,28,masculino,193634,masters,other,true,1,democrata
+457,2024-03-23,Minnesota,black,19,femenino,142006,masters,christianism,true,2,democrata
+1831,2024-11-05,Maryland,hispanic,78,masculino,105202,masters,islam,true,5,democrata
+1387,2024-08-11,New Hampshire,hispanic,40,femenino,133748,doctor,other,false,5,democrata
+394,2024-03-20,Indiana,white,16,femenino,67500,high school,other,false,0,republicano
+870,2024-05-16,Rhode Island,hispanic,32,femenino,68447,high school,other,true,3,democrata
+1418,2024-09-15,Minnesota,white,90,femenino,237042,graduate,islam,false,1,republicano
+999,2024-06-21,Iowa,hispanic,94,masculino,181462,high school,christianism,false,5,republicano
+942,2024-06-18,Nebraska,white,90,masculino,53090,doctor,other,true,4,republicano
+1944,2024-11-05,South Carolina,illegal,74,masculino,60551,high school,christianism,false,0,republicano
+1897,2024-11-05,Arkansas,illegal,45,masculino,190050,graduate,hinduism,false,4,republicano
+1872,2024-11-04,Nevada,hispanic,49,masculino,198373,undergraduate,islam,false,4,republicano
+895,2024-05-22,Colorado,white,31,femenino,40942,undergraduate,other,true,1,democrata
+756,2024-05-30,Florida,hispanic,81,masculino,128256,undergraduate,other,true,1,republicano
+1459,2024-09-05,North Dakota,indian,47,femenino,130955,masters,atheism,false,4,democrata
+400,2024-02-14,Maryland,white,28,femenino,72310,doctor,atheism,false,0,democrata
+1330,2024-09-06,Tennessee,hispanic,73,masculino,191047,high school,hinduism,false,5,republicano
+498,2024-03-15,Delaware,hispanic,32,masculino,177415,doctor,hinduism,true,2,democrata
+1410,2024-09-11,Indiana,indian,26,femenino,80046,masters,hinduism,true,5,democrata
+453,2024-03-06,Indiana,hispanic,39,masculino,111174,high school,other,true,4,republicano
+398,2024-02-21,Pennsylvania,white,49,femenino,243418,masters,islam,false,1,democrata
+822,2024-05-23,Arizona,white,29,femenino,92575,masters,christianism,true,5,democrata
+1907,2024-11-05,Tennessee,asian,86,masculino,154596,graduate,judaism,false,4,republicano
+983,2024-05-21,California,hispanic,87,masculino,123979,doctor,christianism,true,5,democrata
+767,2024-06-10,Washington,hispanic,54,femenino,76373,undergraduate,christianism,false,1,democrata
+1910,2024-11-05,Minnesota,asian,32,masculino,74765,doctor,christianism,true,5,democrata
+1339,2024-08-17,Arkansas,asian,69,femenino,234815,masters,judaism,false,0,democrata
+267,2024-03-13,Iowa,hispanic,12,masculino,204047,high school,christianism,true,3,republicano
+1940,2024-11-05,Michigan,illegal,82,masculino,46322,undergraduate,judaism,true,1,republicano
+1885,2024-11-05,Kansas,illegal,66,masculino,182010,doctor,christianism,true,2,democrata
+270,2024-03-22,West Virginia,illegal,46,masculino,45271,masters,other,false,5,democrata
+770,2024-05-19,New York,hispanic,96,masculino,144718,undergraduate,other,false,0,republicano
+835,2024-06-12,Kentucky,white,51,femenino,130151,undergraduate,christianism,false,4,republicano
+1385,2024-09-02,Rhode Island,hispanic,40,masculino,224279,masters,hinduism,false,4,republicano
+1407,2024-09-03,Nevada,black,54,femenino,31110,high school,other,false,3,republicano
+1440,2024-08-10,Tennessee,black,50,femenino,180688,doctor,islam,false,3,democrata
+797,2024-06-11,Texas,hispanic,61,femenino,204776,undergraduate,christianism,false,1,republicano
+1754,2024-11-05,Texas,hispanic,53,masculino,53138,doctor,christianism,true,2,republicano
+1254,2024-08-11,North Carolina,black,84,femenino,191200,masters,islam,true,5,democrata
+1290,2024-08-28,Montana,black,92,masculino,186737,masters,hinduism,true,2,democrata
+1473,2024-08-20,Michigan,hispanic,96,masculino,163281,doctor,judaism,true,4,republicano
+335,2024-03-21,Hawaii,black,41,femenino,102441,graduate,hinduism,true,4,democrata
+1839,2024-11-04,New Jersey,hispanic,86,masculino,167231,graduate,judaism,false,2,democrata
+496,2024-02-23,Georgia,illegal,17,masculino,241259,high school,atheism,false,1,republicano
+1342,2024-08-31,Nevada,hispanic,29,femenino,212070,high school,hinduism,true,4,democrata
+1287,2024-08-16,Florida,black,69,femenino,172645,masters,other,true,1,democrata
+1937,2024-11-05,Louisiana,asian,70,masculino,125303,graduate,christianism,false,5,republicano
+1983,2024-11-04,West Virginia,indian,70,masculino,85332,high school,atheism,false,5,republicano
+365,2024-03-03,Virginia,asian,26,femenino,141026,graduate,islam,true,4,democrata
+423,2024-02-17,Pennsylvania,white,11,femenino,45757,undergraduate,hinduism,true,1,democrata
+1822,2024-11-05,North Dakota,hispanic,73,masculino,231466,doctor,atheism,false,1,republicano
+1809,2024-11-05,Indiana,indian,46,masculino,40916,graduate,other,false,5,republicano
+1319,2024-08-19,Oklahoma,indian,92,femenino,156694,graduate,hinduism,true,2,republicano
+1852,2024-11-04,Iowa,black,43,masculino,64202,undergraduate,christianism,false,5,republicano
+802,2024-05-27,Washington,white,55,femenino,167125,high school,christianism,false,3,republicano
+1297,2024-09-13,Nebraska,indian,31,femenino,66401,undergraduate,hinduism,true,0,democrata
+433,2024-03-13,Missouri,hispanic,30,masculino,172411,high school,other,false,5,republicano
+1920,2024-11-05,Nevada,asian,69,masculino,93784,undergraduate,judaism,false,1,republicano
+963,2024-06-23,Wisconsin,hispanic,89,femenino,226332,graduate,christianism,false,3,republicano
+855,2024-05-24,Illinois,white,24,masculino,246558,masters,christianism,true,5,democrata
+355,2024-03-05,Oregon,hispanic,40,femenino,197247,doctor,atheism,true,2,democrata
+1819,2024-11-04,Virginia,black,47,masculino,235379,high school,hinduism,false,4,republicano
+777,2024-06-08,Virginia,white,93,femenino,97703,undergraduate,other,false,5,republicano
+1312,2024-08-14,Kentucky,asian,43,femenino,207226,undergraduate,judaism,true,3,democrata
+1927,2024-11-04,Nevada,indian,60,masculino,99390,undergraduate,judaism,false,1,republicano
+790,2024-05-28,South Carolina,hispanic,66,masculino,156191,high school,christianism,false,4,republicano
+260,2024-03-08,Alaska,indian,39,masculino,120091,doctor,judaism,false,2,democrata
+1420,2024-09-08,South Carolina,asian,56,masculino,149182,high school,christianism,false,1,republicano
+443,2024-03-11,Utah,illegal,41,femenino,140721,doctor,other,false,1,democrata
+1395,2024-08-15,Alabama,asian,89,femenino,240342,doctor,islam,false,1,republicano
+2000,2024-11-05,Pennsylvania,indian,44,masculino,105031,masters,christianism,true,1,democrata
+1842,2024-11-05,North Carolina,indian,64,masculino,45740,graduate,judaism,false,1,republicano
+865,2024-06-03,Massachusetts,white,53,masculino,124686,high school,other,false,5,republicano
+257,2024-03-22,Rhode Island,indian,31,femenino,157334,high school,hinduism,true,3,democrata
+1829,2024-11-05,Montana,black,96,masculino,97125,masters,other,true,1,democrata
+780,2024-06-11,Connecticut,hispanic,50,femenino,119459,undergraduate,christianism,true,4,democrata
+345,2024-03-13,California,white,21,masculino,175700,graduate,atheism,true,1,democrata
+1917,2024-11-05,Maine,hispanic,55,masculino,141789,undergraduate,other,false,1,republicano
+1309,2024-08-17,Wyoming,white,35,masculino,67845,doctor,hinduism,true,3,republicano
+1322,2024-09-17,Idaho,black,91,femenino,113198,graduate,islam,false,0,republicano
+1930,2024-11-05,New Hampshire,illegal,93,masculino,85244,doctor,hinduism,true,0,democrata
+953,2024-05-15,North Carolina,white,59,masculino,61335,high school,christianism,true,1,republicano
+1483,2024-09-01,Maine,indian,71,masculino,67682,graduate,christianism,false,0,republicano
+1280,2024-09-09,Nevada,hispanic,37,masculino,64570,masters,judaism,true,3,republicano
+1302,2024-08-30,New Hampshire,black,95,masculino,224434,undergraduate,judaism,true,4,republicano
+875,2024-05-19,Alaska,white,95,masculino,93086,graduate,christianism,false,0,republicano
+1832,2024-11-04,Pennsylvania,asian,68,masculino,183861,undergraduate,hinduism,true,2,republicano
+430,2024-02-16,Wisconsin,hispanic,36,masculino,131720,masters,christianism,false,0,republicano
+1463,2024-08-20,Nevada,hispanic,83,femenino,102327,masters,hinduism,true,0,democrata
+1277,2024-09-09,New Hampshire,white,32,masculino,87745,undergraduate,atheism,true,0,republicano
+760,2024-06-04,Virginia,hispanic,72,masculino,214278,high school,other,false,1,republicano
+1993,2024-11-04,Iowa,black,42,masculino,243411,masters,islam,false,4,democrata
+1362,2024-08-17,Ohio,hispanic,45,masculino,118259,undergraduate,christianism,true,4,republicano
+413,2024-03-19,Indiana,indian,46,femenino,131149,masters,islam,true,0,democrata
+277,2024-03-02,Vermont,white,23,femenino,206891,masters,christianism,false,2,democrata
+757,2024-05-13,North Dakota,white,25,femenino,37706,doctor,christianism,true,3,democrata
+815,2024-05-31,California,white,96,femenino,34737,masters,other,false,0,democrata
+943,2024-06-11,Maine,white,20,femenino,116067,doctor,other,false,0,democrata
+1892,2024-11-04,Alaska,illegal,34,masculino,227907,doctor,other,false,0,democrata
+1345,2024-08-21,North Carolina,hispanic,51,masculino,197931,undergraduate,hinduism,false,0,republicano
+976,2024-05-18,Alaska,white,21,femenino,133447,high school,other,false,2,republicano
+1950,2024-11-05,Maine,asian,56,masculino,115880,high school,hinduism,false,3,republicano
+1879,2024-11-05,Michigan,white,67,masculino,41622,high school,hinduism,false,0,republicano
+842,2024-06-06,West Virginia,white,41,masculino,142409,doctor,christianism,true,0,republicano
+280,2024-02-28,Pennsylvania,indian,24,femenino,59420,undergraduate,other,false,3,democrata
+1764,2024-11-05,Alabama,black,42,masculino,210335,doctor,atheism,true,0,republicano
+1417,2024-09-12,Texas,illegal,28,masculino,205914,graduate,islam,false,5,republicano
+1430,2024-08-12,Wyoming,black,36,masculino,215275,high school,judaism,true,0,republicano
+829,2024-06-23,Alaska,white,47,femenino,96657,graduate,christianism,false,2,republicano
+900,2024-05-23,Florida,hispanic,58,masculino,142830,undergraduate,other,false,0,republicano
+1359,2024-09-03,Maine,indian,52,femenino,113111,masters,judaism,true,4,democrata
+381,2024-02-18,Delaware,asian,51,femenino,127808,undergraduate,christianism,true,0,democrata
+1797,2024-11-04,South Carolina,indian,52,masculino,42587,high school,islam,false,0,republicano
+1960,2024-11-05,North Dakota,hispanic,42,masculino,124622,high school,christianism,false,4,republicano
+1427,2024-09-06,Alabama,white,47,femenino,59570,undergraduate,islam,false,3,republicano
+1352,2024-09-09,Pennsylvania,asian,67,masculino,35355,undergraduate,judaism,false,2,republicano
+1882,2024-11-04,Oregon,asian,70,masculino,61669,graduate,judaism,true,4,republicano
+309,2024-02-26,New Mexico,hispanic,33,femenino,206886,masters,other,false,4,democrata
+986,2024-05-27,North Dakota,white,95,femenino,118601,doctor,other,false,5,republicano
+378,2024-02-26,New Hampshire,black,23,masculino,131079,doctor,other,false,1,democrata
+825,2024-05-31,Rhode Island,hispanic,73,masculino,145748,doctor,christianism,true,5,republicano
+933,2024-05-14,Massachusetts,white,52,femenino,224441,masters,other,true,2,democrata
+1774,2024-11-04,Florida,illegal,76,masculino,137300,undergraduate,atheism,true,3,republicano
+473,2024-03-21,Kansas,asian,38,femenino,183887,doctor,other,false,4,democrata
+1865,2024-11-04,Utah,hispanic,66,masculino,50626,graduate,other,true,3,republicano
+302,2024-02-22,New Jersey,black,15,masculino,212176,masters,hinduism,true,2,democrata
+1349,2024-08-31,Idaho,illegal,71,masculino,87409,graduate,hinduism,false,2,republicano
+290,2024-02-29,Washington,asian,12,masculino,41222,undergraduate,hinduism,false,1,democrata
+910,2024-06-04,Minnesota,hispanic,75,femenino,196415,graduate,christianism,false,5,republicano
+1957,2024-11-05,Hawaii,indian,80,masculino,249796,high school,other,true,2,republicano
+885,2024-06-15,Washington,hispanic,24,masculino,86043,undergraduate,christianism,false,3,democrata
+832,2024-05-13,Iowa,hispanic,71,masculino,231020,masters,other,false,4,republicano
+463,2024-02-16,Maine,asian,13,femenino,210465,undergraduate,islam,true,5,democrata
+1270,2024-08-09,Missouri,asian,19,masculino,33009,doctor,judaism,true,1,democrata
+993,2024-06-19,Nebraska,white,77,femenino,222497,graduate,other,false,1,republicano
+388,2024-03-08,Utah,black,10,femenino,50705,masters,judaism,true,4,democrata
+907,2024-06-02,Michigan,white,60,masculino,32321,undergraduate,christianism,true,2,republicano
+391,2024-02-16,Pennsylvania,indian,39,femenino,144854,doctor,hinduism,true,0,democrata
+1900,2024-11-05,Idaho,white,36,masculino,149756,high school,judaism,true,4,republicano
+312,2024-02-20,Connecticut,indian,43,masculino,174864,masters,christianism,true,1,democrata
+1947,2024-11-05,Vermont,asian,40,masculino,88407,undergraduate,other,true,3,republicano
+1453,2024-09-16,Alaska,hispanic,27,femenino,187232,graduate,other,false,2,democrata
+403,2024-02-17,New York,hispanic,45,femenino,211592,undergraduate,judaism,false,4,democrata
+1267,2024-09-02,Kansas,white,82,masculino,73171,doctor,judaism,false,0,republicano
+1875,2024-11-04,Texas,asian,36,masculino,233308,undergraduate,christianism,false,3,republicano
+287,2024-03-15,Michigan,black,41,femenino,84730,masters,judaism,true,3,democrata
+936,2024-06-11,New York,hispanic,28,femenino,91444,doctor,other,true,2,democrata
+1424,2024-08-22,Georgia,indian,56,masculino,89282,graduate,hinduism,false,0,republicano
+1869,2024-11-04,Michigan,black,65,masculino,238666,graduate,other,false,4,republicano
+1369,2024-08-13,Michigan,indian,89,femenino,174065,masters,other,true,4,democrata
+322,2024-03-05,Missouri,indian,30,femenino,89424,high school,christianism,true,4,democrata
+783,2024-06-05,New York,white,84,masculino,166147,graduate,other,false,1,republicano
+305,2024-03-25,New Hampshire,white,13,femenino,209820,doctor,other,true,3,democrata
+852,2024-06-06,Virginia,white,78,masculino,81371,undergraduate,christianism,true,3,republicano
+440,2024-03-22,Oregon,black,45,femenino,244421,masters,christianism,false,2,democrata
+1899,2024-11-05,New Mexico,indian,83,masculino,61400,doctor,atheism,true,4,democrata
+805,2024-05-24,New Hampshire,hispanic,54,masculino,68467,graduate,other,true,3,republicano
+1770,2024-11-05,Louisiana,hispanic,59,masculino,71589,graduate,islam,true,5,republicano
+1898,2024-11-05,Ohio,illegal,51,masculino,55264,high school,hinduism,false,1,republicano
+754,2024-06-09,Massachusetts,white,92,femenino,143656,high school,christianism,true,1,republicano
+371,2024-02-25,Kentucky,indian,11,femenino,58484,undergraduate,hinduism,true,0,democrata
+338,2024-03-21,Ohio,asian,14,femenino,38588,high school,atheism,false,0,republicano
+1284,2024-09-16,Missouri,indian,60,masculino,49579,graduate,judaism,true,3,republicano
+1487,2024-08-30,Ohio,hispanic,41,masculino,32032,undergraduate,atheism,true,5,republicano
+970,2024-05-28,Ohio,white,65,femenino,243166,high school,other,false,0,republicano
+349,2024-03-21,Iowa,asian,13,femenino,248376,high school,judaism,false,5,republicano
+283,2024-02-27,Missouri,black,19,masculino,115088,undergraduate,hinduism,false,5,democrata
+903,2024-05-23,Alabama,white,31,femenino,62130,graduate,christianism,false,3,republicano
+784,2024-05-21,Oklahoma,white,19,femenino,197589,graduate,other,false,0,republicano
+1260,2024-08-11,Kentucky,hispanic,47,masculino,202766,graduate,christianism,false,4,republicano
+1836,2024-11-05,Nevada,illegal,34,masculino,109369,graduate,islam,false,5,democrata
+1825,2024-11-05,Tennessee,indian,34,masculino,134521,doctor,atheism,false,0,democrata
+1391,2024-09-05,Alaska,black,59,femenino,111216,graduate,other,false,1,democrata
+253,2024-03-09,New Jersey,hispanic,13,femenino,203846,graduate,christianism,true,2,democrata
+1967,2024-11-05,Utah,black,46,masculino,101888,high school,hinduism,true,5,republicano
+1413,2024-08-21,North Dakota,asian,38,femenino,76393,high school,judaism,false,3,republicano
+872,2024-06-23,Wisconsin,white,46,femenino,172175,doctor,christianism,true,0,democrata
+395,2024-03-08,Vermont,illegal,23,femenino,198726,graduate,other,false,5,democrata
+839,2024-05-19,Rhode Island,hispanic,97,femenino,223696,graduate,christianism,false,5,republicano
+1389,2024-09-14,Ohio,white,49,masculino,182183,graduate,islam,true,4,republicano
+989,2024-05-12,Illinois,white,31,masculino,118694,masters,christianism,false,0,democrata
+414,2024-02-27,South Dakota,illegal,18,masculino,196094,high school,christianism,true,0,republicano
+392,2024-03-07,Illinois,black,11,masculino,234741,high school,other,false,0,democrata
+1777,2024-11-05,North Dakota,white,42,masculino,58541,doctor,hinduism,false,2,republicano
+459,2024-03-04,Colorado,asian,48,femenino,74546,undergraduate,christianism,false,1,republicano
+375,2024-03-01,Utah,hispanic,49,masculino,30254,doctor,christianism,true,0,republicano
+1816,2024-11-05,Maryland,illegal,87,masculino,46134,doctor,judaism,false,0,democrata
+1963,2024-11-05,Rhode Island,illegal,65,masculino,35340,graduate,other,false,4,republicano
+1332,2024-08-09,Arkansas,white,19,femenino,237806,undergraduate,hinduism,true,0,republicano
+1281,2024-09-17,New Hampshire,illegal,69,femenino,236607,graduate,judaism,false,4,democrata
+927,2024-05-17,West Virginia,white,20,masculino,178283,high school,christianism,false,3,republicano
+493,2024-03-11,Arizona,hispanic,43,masculino,170226,undergraduate,christianism,true,4,republicano
+1901,2024-11-05,Louisiana,indian,50,masculino,40564,undergraduate,christianism,false,3,republicano
+1946,2024-11-05,Vermont,white,90,masculino,48683,undergraduate,islam,true,1,republicano
+358,2024-02-27,Utah,hispanic,43,masculino,74892,graduate,atheism,true,2,republicano
+1862,2024-11-05,South Carolina,illegal,64,masculino,192870,masters,islam,false,1,republicano
+990,2024-06-05,North Carolina,hispanic,82,femenino,241589,doctor,christianism,true,5,democrata
+888,2024-05-13,North Carolina,hispanic,20,femenino,162135,high school,christianism,true,1,democrata
+1293,2024-08-21,Alabama,white,69,femenino,60553,masters,hinduism,true,2,republicano
+1348,2024-09-19,New Mexico,white,83,femenino,157227,masters,christianism,false,5,democrata
+826,2024-05-31,New Mexico,hispanic,27,masculino,187635,high school,christianism,true,3,republicano
+1400,2024-08-24,Ohio,hispanic,55,masculino,99089,undergraduate,atheism,false,1,republicano
+1315,2024-08-08,Tennessee,indian,78,femenino,106960,undergraduate,islam,true,1,republicano
+973,2024-06-17,Montana,white,64,femenino,179563,doctor,christianism,true,4,democrata
+1895,2024-11-04,Massachusetts,asian,79,masculino,123085,masters,judaism,true,0,democrata
+1934,2024-11-05,Iowa,illegal,96,masculino,44553,doctor,islam,false,4,democrata
+426,2024-03-03,Montana,hispanic,37,femenino,242421,graduate,atheism,false,1,democrata
+787,2024-05-24,Arkansas,white,92,masculino,92859,graduate,christianism,true,0,republicano
+1980,2024-11-04,Kansas,illegal,36,masculino,160674,masters,judaism,true,3,democrata
+859,2024-06-07,Wisconsin,hispanic,67,masculino,193542,doctor,christianism,true,2,republicano
+1761,2024-11-05,Alaska,black,97,masculino,212774,high school,christianism,true,4,republicano
+831,2024-05-13,Connecticut,white,73,masculino,164118,doctor,other,false,3,republicano
+1361,2024-09-17,Arkansas,black,53,femenino,110627,graduate,judaism,true,3,republicano
+1433,2024-08-16,Kentucky,black,51,femenino,40098,undergraduate,hinduism,false,1,democrata
+1794,2024-11-04,Utah,indian,48,masculino,191937,doctor,other,false,4,democrata
+947,2024-06-09,Montana,white,56,femenino,230520,graduate,christianism,false,5,republicano
+456,2024-02-24,Arizona,hispanic,41,femenino,52371,masters,islam,true,5,democrata
+325,2024-02-29,Michigan,indian,30,masculino,123596,masters,christianism,true,4,democrata
+1913,2024-11-05,Indiana,white,80,masculino,82106,masters,judaism,true,1,republicano
+1466,2024-08-16,Arkansas,white,98,masculino,78247,graduate,hinduism,false,5,republicano
+417,2024-02-15,Nevada,illegal,43,masculino,83443,graduate,atheism,false,0,republicano
+1866,2024-11-04,Minnesota,indian,74,masculino,165706,graduate,atheism,false,2,republicano
+1335,2024-09-02,Kentucky,asian,51,femenino,68434,high school,other,true,0,republicano
+838,2024-05-28,New Hampshire,white,34,femenino,99050,high school,other,false,4,republicano
+1812,2024-11-05,Florida,black,46,masculino,77249,masters,judaism,true,3,republicano
+1790,2024-11-05,Illinois,white,92,masculino,50688,doctor,islam,false,1,democrata
+308,2024-03-21,Missouri,illegal,48,femenino,79903,doctor,islam,false,5,democrata
+1757,2024-11-05,Maryland,black,52,masculino,232322,masters,hinduism,false,1,democrata
+977,2024-05-27,Oklahoma,white,71,femenino,103317,graduate,christianism,false,5,republicano
+1404,2024-08-21,Arkansas,hispanic,71,femenino,171560,graduate,atheism,true,5,republicano
+351,2024-03-19,Kansas,hispanic,35,masculino,194927,masters,judaism,false,0,republicano
+410,2024-03-12,Washington,illegal,25,femenino,58819,undergraduate,islam,true,2,democrata
+763,2024-05-19,New Hampshire,hispanic,59,femenino,46978,high school,other,false,3,republicano
+447,2024-02-17,Connecticut,indian,22,masculino,66748,doctor,christianism,false,1,democrata
+1457,2024-08-22,Minnesota,black,29,masculino,238333,undergraduate,judaism,true,2,democrata
+1849,2024-11-05,North Carolina,hispanic,90,masculino,74631,graduate,christianism,false,0,republicano
+940,2024-06-08,Illinois,white,78,masculino,42776,masters,other,true,5,republicano
+1904,2024-11-04,Arkansas,white,79,masculino,150719,high school,christianism,true,2,republicano
+1996,2024-11-05,Massachusetts,illegal,79,masculino,80513,high school,hinduism,true,5,republicano
+1943,2024-11-04,Utah,asian,63,masculino,35058,masters,judaism,true,4,republicano
+274,2024-03-04,South Dakota,asian,23,masculino,87706,masters,judaism,true,0,democrata
+1470,2024-09-16,Ohio,white,26,masculino,81848,high school,hinduism,false,2,republicano
+1437,2024-09-08,Iowa,white,36,femenino,145988,doctor,hinduism,false,1,democrata
+446,2024-02-21,Michigan,indian,39,femenino,38347,doctor,judaism,true,2,democrata
+1914,2024-11-04,Pennsylvania,asian,38,masculino,242565,undergraduate,judaism,false,3,republicano
+923,2024-06-24,Georgia,hispanic,77,femenino,100046,doctor,other,true,2,democrata
+460,2024-03-03,Montana,asian,39,femenino,238651,doctor,atheism,false,4,democrata
+1365,2024-08-22,Colorado,white,84,femenino,208114,masters,atheism,false,4,democrata
+868,2024-06-15,Vermont,white,22,masculino,155673,graduate,christianism,true,5,democrata
+1450,2024-08-20,New Mexico,illegal,43,masculino,218560,undergraduate,hinduism,true,3,republicano
+1987,2024-11-04,New Mexico,indian,96,masculino,199582,doctor,islam,false,2,democrata
+920,2024-06-13,New Hampshire,white,94,masculino,96028,masters,christianism,false,4,republicano
+254,2024-02-20,Rhode Island,black,47,femenino,127990,undergraduate,islam,true,2,democrata
+809,2024-05-26,Missouri,white,22,masculino,89212,graduate,christianism,true,3,republicano
+1382,2024-09-20,Wisconsin,black,36,femenino,190730,undergraduate,islam,false,4,democrata
+1845,2024-11-05,Virginia,black,93,masculino,131970,undergraduate,judaism,true,0,republicano
+881,2024-05-28,Louisiana,hispanic,79,masculino,188927,undergraduate,christianism,false,0,republicano
+956,2024-06-23,Iowa,hispanic,55,femenino,75030,high school,christianism,true,1,republicano
+476,2024-03-18,Delaware,black,40,masculino,151423,masters,hinduism,false,3,democrata
+1336,2024-09-17,Wisconsin,hispanic,68,masculino,188171,masters,other,true,1,republicano
+1264,2024-09-14,Minnesota,black,71,masculino,94193,undergraduate,judaism,true,1,republicano
+1398,2024-08-13,Oklahoma,illegal,56,femenino,135742,doctor,christianism,false,3,democrata
+1294,2024-09-08,Mississippi,hispanic,59,masculino,69320,graduate,islam,true,3,republicano
+1486,2024-09-14,Texas,indian,33,femenino,219514,doctor,other,false,1,democrata
+1306,2024-09-05,Minnesota,hispanic,96,masculino,63649,graduate,judaism,true,5,republicano
+329,2024-03-09,Massachusetts,illegal,45,masculino,138960,masters,christianism,false,4,democrata
+1891,2024-11-04,Massachusetts,indian,58,masculino,183445,high school,christianism,false,3,republicano
+1933,2024-11-04,Kentucky,white,95,masculino,140683,graduate,judaism,false,3,republicano
+1878,2024-11-05,Nevada,white,37,masculino,188818,doctor,christianism,true,0,republicano
+342,2024-02-24,New York,asian,45,masculino,169638,doctor,other,true,3,democrata

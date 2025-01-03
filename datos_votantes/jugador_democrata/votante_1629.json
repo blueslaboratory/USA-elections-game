@@ -1,0 +1,14 @@
+{
+    "id": 1629,
+    "fecha_voto": "2024-10-05",
+    "estado": "California",
+    "etnia": "black",
+    "edad": 30,
+    "sexo": "femenino",
+    "salario": 75555,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
+}

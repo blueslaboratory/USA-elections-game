@@ -1,0 +1,14 @@
+{
+    "id": 1024,
+    "fecha_voto": "2024-07-18",
+    "estado": "Virginia",
+    "etnia": "indian",
+    "edad": 49,
+    "sexo": "femenino",
+    "salario": 190601,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
+}

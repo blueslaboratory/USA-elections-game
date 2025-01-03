@@ -1,0 +1,14 @@
+{
+    "id": 1129,
+    "fecha_voto": "2024-08-05",
+    "estado": "Colorado",
+    "etnia": "white",
+    "edad": 18,
+    "sexo": "masculino",
+    "salario": 116920,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": true,
+    "hijos": 5,
+    "voto": "democrata"
+}

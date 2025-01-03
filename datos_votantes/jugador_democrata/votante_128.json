@@ -1,0 +1,14 @@
+{
+    "id": 128,
+    "fecha_voto": "2024-01-20",
+    "estado": "California",
+    "etnia": "indian",
+    "edad": 28,
+    "sexo": "c",
+    "salario": 133830,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
+}

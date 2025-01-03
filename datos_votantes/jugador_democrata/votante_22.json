@@ -1,0 +1,14 @@
+{
+    "id": 22,
+    "fecha_voto": "2024-02-08",
+    "estado": "Utah",
+    "etnia": "white",
+    "edad": 55,
+    "sexo": "l",
+    "salario": 233017,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "republicano"
+}

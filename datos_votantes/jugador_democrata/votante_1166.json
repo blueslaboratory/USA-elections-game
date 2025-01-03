@@ -1,0 +1,14 @@
+{
+    "id": 1166,
+    "fecha_voto": "2024-07-12",
+    "estado": "California",
+    "etnia": "black",
+    "edad": 45,
+    "sexo": "masculino",
+    "salario": 125669,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
+}

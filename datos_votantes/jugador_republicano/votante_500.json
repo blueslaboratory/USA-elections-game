@@ -1,0 +1,14 @@
+{
+    "id": 500,
+    "fecha_voto": "2024-03-23",
+    "estado": "Louisiana",
+    "etnia": "illegal",
+    "edad": 32,
+    "sexo": "masculino",
+    "salario": 187013,
+    "estudios": "masters",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
+}

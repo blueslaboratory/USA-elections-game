@@ -1,0 +1,14 @@
+{
+    "id": 301,
+    "fecha_voto": "2024-03-22",
+    "estado": "Utah",
+    "etnia": "hispanic",
+    "edad": 47,
+    "sexo": "femenino",
+    "salario": 105145,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
+}

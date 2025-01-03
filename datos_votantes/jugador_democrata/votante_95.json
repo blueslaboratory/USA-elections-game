@@ -1,0 +1,14 @@
+{
+    "id": 95,
+    "fecha_voto": "2024-01-15",
+    "estado": "New York",
+    "etnia": "black",
+    "edad": 45,
+    "sexo": "c",
+    "salario": 282272,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
+}
