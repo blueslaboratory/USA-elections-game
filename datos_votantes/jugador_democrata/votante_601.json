@@ -1,14 +1,14 @@
 {
     "id": 601,
-    "fecha_voto": "2024-04-09",
-    "estado": "Florida",
+    "fecha_voto": "2024-05-05",
+    "estado": "North Carolina",
     "etnia": "illegal",
-    "edad": 54,
+    "edad": 49,
     "sexo": "masculino",
-    "salario": 97669,
-    "estudios": "undergraduate",
-    "religion": "judaism",
+    "salario": 168245,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": false,
     "hijos": 0,
-    "voto": "republicano"
+    "voto": "democrata"
 }

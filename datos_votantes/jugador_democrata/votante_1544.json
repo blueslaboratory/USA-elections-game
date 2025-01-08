@@ -1,14 +1,14 @@
 {
     "id": 1544,
-    "fecha_voto": "2024-09-30",
-    "estado": "California",
-    "etnia": "white",
-    "edad": 22,
-    "sexo": "femenino",
-    "salario": 109001,
-    "estudios": "high school",
-    "religion": "atheism",
+    "fecha_voto": "2024-09-25",
+    "estado": "South Dakota",
+    "etnia": "illegal",
+    "edad": 63,
+    "sexo": "masculino",
+    "salario": 220172,
+    "estudios": "undergraduate",
+    "religion": "islam",
     "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 330,
-    "fecha_voto": "2024-03-11",
-    "estado": "Kentucky",
-    "etnia": "asian",
-    "edad": 96,
+    "fecha_voto": "2024-03-22",
+    "estado": "Rhode Island",
+    "etnia": "illegal",
+    "edad": 48,
     "sexo": "femenino",
-    "salario": 77522,
-    "estudios": "high school",
+    "salario": 56897,
+    "estudios": "masters",
     "religion": "judaism",
-    "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
 }

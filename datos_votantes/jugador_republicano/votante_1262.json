@@ -1,14 +1,14 @@
 {
     "id": 1262,
-    "fecha_voto": "2024-09-08",
-    "estado": "Nevada",
-    "etnia": "asian",
-    "edad": 37,
+    "fecha_voto": "2024-08-08",
+    "estado": "South Carolina",
+    "etnia": "indian",
+    "edad": 57,
     "sexo": "femenino",
-    "salario": 138173,
-    "estudios": "doctor",
+    "salario": 100671,
+    "estudios": "undergraduate",
     "religion": "hinduism",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

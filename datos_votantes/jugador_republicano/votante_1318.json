@@ -1,14 +1,14 @@
 {
     "id": 1318,
-    "fecha_voto": "2024-09-02",
-    "estado": "Colorado",
-    "etnia": "indian",
-    "edad": 91,
+    "fecha_voto": "2024-08-29",
+    "estado": "Michigan",
+    "etnia": "asian",
+    "edad": 65,
     "sexo": "masculino",
-    "salario": 94419,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "salario": 140090,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 3,
+    "voto": "republicano"
 }

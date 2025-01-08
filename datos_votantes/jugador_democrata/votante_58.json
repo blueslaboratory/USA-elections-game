@@ -1,14 +1,14 @@
 {
     "id": 58,
-    "fecha_voto": "2024-02-04",
-    "estado": "Hawaii",
-    "etnia": "hispanic",
-    "edad": 74,
-    "sexo": "n",
-    "salario": 134719,
-    "estudios": "graduate",
-    "religion": "islam",
+    "fecha_voto": "2024-01-01",
+    "estado": "Arizona",
+    "etnia": "illegal",
+    "edad": 71,
+    "sexo": "masculino",
+    "salario": 57539,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 1,
+    "hijos": 2,
     "voto": "democrata"
 }

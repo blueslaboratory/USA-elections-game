@@ -1,14 +1,14 @@
 {
     "id": 1384,
-    "fecha_voto": "2024-08-27",
-    "estado": "Alabama",
-    "etnia": "black",
-    "edad": 43,
+    "fecha_voto": "2024-08-11",
+    "estado": "Georgia",
+    "etnia": "illegal",
+    "edad": 30,
     "sexo": "femenino",
-    "salario": 53079,
-    "estudios": "graduate",
-    "religion": "atheism",
+    "salario": 69095,
+    "estudios": "masters",
+    "religion": "islam",
     "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

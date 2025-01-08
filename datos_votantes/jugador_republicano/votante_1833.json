@@ -1,14 +1,14 @@
 {
     "id": 1833,
     "fecha_voto": "2024-11-05",
-    "estado": "Arizona",
-    "etnia": "indian",
-    "edad": 88,
+    "estado": "Rhode Island",
+    "etnia": "asian",
+    "edad": 64,
     "sexo": "masculino",
-    "salario": 53845,
-    "estudios": "graduate",
-    "religion": "islam",
+    "salario": 124381,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 5,
+    "hijos": 3,
     "voto": "republicano"
 }

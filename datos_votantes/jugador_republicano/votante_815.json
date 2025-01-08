@@ -1,14 +1,14 @@
 {
     "id": 815,
-    "fecha_voto": "2024-06-01",
-    "estado": "Washington",
-    "etnia": "indian",
-    "edad": 51,
-    "sexo": "masculino",
-    "salario": 188044,
-    "estudios": "high school",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "fecha_voto": "2024-05-31",
+    "estado": "California",
+    "etnia": "white",
+    "edad": 96,
+    "sexo": "femenino",
+    "salario": 34737,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": false,
+    "hijos": 0,
+    "voto": "democrata"
 }

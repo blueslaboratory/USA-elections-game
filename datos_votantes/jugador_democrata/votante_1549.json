@@ -1,14 +1,14 @@
 {
     "id": 1549,
-    "fecha_voto": "2024-10-04",
-    "estado": "Georgia",
-    "etnia": "black",
-    "edad": 19,
+    "fecha_voto": "2024-10-18",
+    "estado": "Montana",
+    "etnia": "hispanic",
+    "edad": 95,
     "sexo": "femenino",
-    "salario": 117269,
-    "estudios": "high school",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "salario": 44265,
+    "estudios": "graduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

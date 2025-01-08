@@ -1,14 +1,14 @@
 {
     "id": 1348,
-    "fecha_voto": "2024-08-20",
-    "estado": "Maine",
-    "etnia": "indian",
-    "edad": 48,
-    "sexo": "masculino",
-    "salario": 56452,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "fecha_voto": "2024-09-19",
+    "estado": "New Mexico",
+    "etnia": "white",
+    "edad": 83,
+    "sexo": "femenino",
+    "salario": 157227,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1931,
     "fecha_voto": "2024-11-04",
-    "estado": "Texas",
-    "etnia": "asian",
-    "edad": 78,
+    "estado": "Indiana",
+    "etnia": "indian",
+    "edad": 92,
     "sexo": "masculino",
-    "salario": 35994,
+    "salario": 194337,
     "estudios": "graduate",
-    "religion": "islam",
-    "casado": true,
+    "religion": "judaism",
+    "casado": false,
     "hijos": 4,
     "voto": "republicano"
 }

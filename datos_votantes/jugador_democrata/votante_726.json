@@ -1,14 +1,14 @@
 {
     "id": 726,
-    "fecha_voto": "2024-04-16",
-    "estado": "Wisconsin",
-    "etnia": "illegal",
-    "edad": 95,
-    "sexo": "masculino",
-    "salario": 187617,
-    "estudios": "undergraduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "fecha_voto": "2024-04-25",
+    "estado": "Nevada",
+    "etnia": "black",
+    "edad": 70,
+    "sexo": "femenino",
+    "salario": 31393,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
 }

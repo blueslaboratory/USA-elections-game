@@ -1,14 +1,14 @@
 {
     "id": 81,
-    "fecha_voto": "2024-01-24",
-    "estado": "Idaho",
-    "etnia": "asian",
-    "edad": 95,
-    "sexo": "u",
-    "salario": 115809,
-    "estudios": "masters",
+    "fecha_voto": "2024-01-30",
+    "estado": "Nebraska",
+    "etnia": "black",
+    "edad": 74,
+    "sexo": "femenino",
+    "salario": 114446,
+    "estudios": "undergraduate",
     "religion": "other",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

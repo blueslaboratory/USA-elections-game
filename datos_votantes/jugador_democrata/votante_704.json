@@ -1,14 +1,14 @@
 {
     "id": 704,
-    "fecha_voto": "2024-03-31",
-    "estado": "Delaware",
-    "etnia": "illegal",
-    "edad": 57,
+    "fecha_voto": "2024-04-13",
+    "estado": "Florida",
+    "etnia": "white",
+    "edad": 86,
     "sexo": "masculino",
-    "salario": 123886,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "salario": 128046,
+    "estudios": "doctor",
+    "religion": "islam",
     "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

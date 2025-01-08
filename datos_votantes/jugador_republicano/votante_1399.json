@@ -1,14 +1,14 @@
 {
     "id": 1399,
-    "fecha_voto": "2024-08-23",
-    "estado": "Kentucky",
-    "etnia": "illegal",
-    "edad": 65,
-    "sexo": "masculino",
-    "salario": 80030,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "fecha_voto": "2024-08-17",
+    "estado": "Tennessee",
+    "etnia": "white",
+    "edad": 49,
+    "sexo": "femenino",
+    "salario": 193352,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": false,
     "hijos": 1,
-    "voto": "democrata"
+    "voto": "republicano"
 }

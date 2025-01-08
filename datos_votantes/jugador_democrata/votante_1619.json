@@ -1,14 +1,14 @@
 {
     "id": 1619,
-    "fecha_voto": "2024-09-29",
-    "estado": "Wyoming",
-    "etnia": "asian",
-    "edad": 27,
-    "sexo": "femenino",
-    "salario": 199457,
+    "fecha_voto": "2024-10-01",
+    "estado": "Arizona",
+    "etnia": "hispanic",
+    "edad": 66,
+    "sexo": "masculino",
+    "salario": 204225,
     "estudios": "undergraduate",
     "religion": "other",
-    "casado": false,
+    "casado": true,
     "hijos": 1,
-    "voto": "democrata"
+    "voto": "republicano"
 }

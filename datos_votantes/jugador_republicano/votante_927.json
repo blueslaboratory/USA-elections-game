@@ -1,14 +1,14 @@
 {
     "id": 927,
-    "fecha_voto": "2024-06-09",
-    "estado": "Washington",
-    "etnia": "hispanic",
-    "edad": 45,
+    "fecha_voto": "2024-05-17",
+    "estado": "West Virginia",
+    "etnia": "white",
+    "edad": 20,
     "sexo": "masculino",
-    "salario": 187158,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 4,
+    "salario": 178283,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
     "voto": "republicano"
 }

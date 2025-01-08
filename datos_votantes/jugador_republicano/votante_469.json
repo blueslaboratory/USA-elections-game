@@ -1,14 +1,14 @@
 {
     "id": 469,
-    "fecha_voto": "2024-02-25",
-    "estado": "Minnesota",
-    "etnia": "illegal",
-    "edad": 40,
-    "sexo": "masculino",
-    "salario": 189783,
-    "estudios": "masters",
-    "religion": "christianism",
-    "casado": true,
+    "fecha_voto": "2024-03-21",
+    "estado": "Massachusetts",
+    "etnia": "black",
+    "edad": 46,
+    "sexo": "femenino",
+    "salario": 126189,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": false,
     "hijos": 2,
     "voto": "democrata"
 }

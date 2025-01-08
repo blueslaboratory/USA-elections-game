@@ -1,14 +1,14 @@
 {
     "id": 258,
-    "fecha_voto": "2024-03-14",
-    "estado": "Alaska",
+    "fecha_voto": "2024-03-02",
+    "estado": "Minnesota",
     "etnia": "hispanic",
-    "edad": 86,
-    "sexo": "masculino",
-    "salario": 206026,
+    "edad": 17,
+    "sexo": "femenino",
+    "salario": 131411,
     "estudios": "undergraduate",
-    "religion": "christianism",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

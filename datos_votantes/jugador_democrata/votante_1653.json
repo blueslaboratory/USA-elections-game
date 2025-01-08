@@ -1,14 +1,14 @@
 {
     "id": 1653,
-    "fecha_voto": "2024-10-26",
-    "estado": "Wyoming",
+    "fecha_voto": "2024-10-13",
+    "estado": "Tennessee",
     "etnia": "illegal",
-    "edad": 26,
+    "edad": 40,
     "sexo": "femenino",
-    "salario": 74143,
-    "estudios": "masters",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "salario": 177956,
+    "estudios": "high school",
+    "religion": "other",
+    "casado": false,
+    "hijos": 3,
+    "voto": "republicano"
 }

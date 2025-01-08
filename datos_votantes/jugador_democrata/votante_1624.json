@@ -1,14 +1,14 @@
 {
     "id": 1624,
-    "fecha_voto": "2024-10-05",
-    "estado": "Pennsylvania",
-    "etnia": "hispanic",
-    "edad": 18,
+    "fecha_voto": "2024-10-31",
+    "estado": "New York",
+    "etnia": "illegal",
+    "edad": 20,
     "sexo": "femenino",
-    "salario": 236093,
-    "estudios": "doctor",
-    "religion": "other",
+    "salario": 228109,
+    "estudios": "masters",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 5,
+    "hijos": 0,
     "voto": "democrata"
 }

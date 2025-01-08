@@ -1,14 +1,14 @@
 {
     "id": 1048,
-    "fecha_voto": "2024-08-04",
-    "estado": "Arizona",
-    "etnia": "white",
-    "edad": 39,
+    "fecha_voto": "2024-07-11",
+    "estado": "West Virginia",
+    "etnia": "black",
+    "edad": 45,
     "sexo": "femenino",
-    "salario": 243707,
-    "estudios": "graduate",
-    "religion": "other",
+    "salario": 207758,
+    "estudios": "undergraduate",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

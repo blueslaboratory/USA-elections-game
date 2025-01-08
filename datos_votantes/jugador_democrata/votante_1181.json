@@ -1,14 +1,14 @@
 {
     "id": 1181,
-    "fecha_voto": "2024-07-09",
-    "estado": "Delaware",
-    "etnia": "hispanic",
-    "edad": 35,
+    "fecha_voto": "2024-07-03",
+    "estado": "Mississippi",
+    "etnia": "asian",
+    "edad": 37,
     "sexo": "femenino",
-    "salario": 166833,
-    "estudios": "undergraduate",
+    "salario": 77110,
+    "estudios": "high school",
     "religion": "other",
-    "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "casado": true,
+    "hijos": 2,
+    "voto": "republicano"
 }

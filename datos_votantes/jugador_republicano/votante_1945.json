@@ -1,14 +1,14 @@
 {
     "id": 1945,
-    "fecha_voto": "2024-11-04",
-    "estado": "Michigan",
+    "fecha_voto": "2024-11-05",
+    "estado": "Florida",
     "etnia": "indian",
-    "edad": 25,
-    "sexo": "femenino",
-    "salario": 186730,
+    "edad": 81,
+    "sexo": "masculino",
+    "salario": 77785,
     "estudios": "graduate",
-    "religion": "atheism",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

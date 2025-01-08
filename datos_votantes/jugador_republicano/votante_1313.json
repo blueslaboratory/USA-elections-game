@@ -1,14 +1,14 @@
 {
     "id": 1313,
-    "fecha_voto": "2024-09-06",
-    "estado": "Kansas",
-    "etnia": "white",
-    "edad": 75,
-    "sexo": "femenino",
-    "salario": 57076,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-09-16",
+    "estado": "Colorado",
+    "etnia": "hispanic",
+    "edad": 41,
+    "sexo": "masculino",
+    "salario": 120012,
+    "estudios": "masters",
     "religion": "islam",
     "casado": true,
-    "hijos": 0,
+    "hijos": 2,
     "voto": "republicano"
 }

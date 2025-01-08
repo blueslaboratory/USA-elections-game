@@ -1,14 +1,14 @@
 {
     "id": 845,
-    "fecha_voto": "2024-05-27",
-    "estado": "Alabama",
-    "etnia": "indian",
-    "edad": 38,
+    "fecha_voto": "2024-05-22",
+    "estado": "Maine",
+    "etnia": "white",
+    "edad": 42,
     "sexo": "masculino",
-    "salario": 100659,
-    "estudios": "undergraduate",
+    "salario": 48606,
+    "estudios": "doctor",
     "religion": "christianism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 5,
     "voto": "republicano"
 }

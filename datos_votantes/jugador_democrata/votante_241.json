@@ -1,14 +1,14 @@
 {
     "id": 241,
-    "fecha_voto": "2024-02-08",
-    "estado": "Wisconsin",
-    "etnia": "white",
-    "edad": 80,
-    "sexo": "l",
-    "salario": 174297,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "fecha_voto": "2024-01-24",
+    "estado": "Kentucky",
+    "etnia": "black",
+    "edad": 79,
+    "sexo": "femenino",
+    "salario": 87080,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 2,
+    "voto": "democrata"
 }

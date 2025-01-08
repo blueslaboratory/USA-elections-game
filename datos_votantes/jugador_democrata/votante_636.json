@@ -1,14 +1,14 @@
 {
     "id": 636,
-    "fecha_voto": "2024-04-13",
-    "estado": "Florida",
-    "etnia": "hispanic",
-    "edad": 41,
-    "sexo": "femenino",
-    "salario": 159126,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "fecha_voto": "2024-05-01",
+    "estado": "South Carolina",
+    "etnia": "black",
+    "edad": 32,
+    "sexo": "masculino",
+    "salario": 36213,
+    "estudios": "masters",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
 }

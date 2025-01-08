@@ -1,14 +1,14 @@
 {
     "id": 1547,
-    "fecha_voto": "2024-10-09",
-    "estado": "Hawaii",
-    "etnia": "black",
-    "edad": 32,
+    "fecha_voto": "2024-10-20",
+    "estado": "Kansas",
+    "etnia": "illegal",
+    "edad": 73,
     "sexo": "femenino",
-    "salario": 207237,
-    "estudios": "graduate",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 2,
+    "salario": 220101,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 1,
     "voto": "democrata"
 }

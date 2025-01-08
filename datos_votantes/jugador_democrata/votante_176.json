@@ -1,14 +1,14 @@
 {
     "id": 176,
-    "fecha_voto": "2024-01-08",
-    "estado": "South Dakota",
-    "etnia": "asian",
-    "edad": 72,
-    "sexo": "s",
-    "salario": 175011,
-    "estudios": "graduate",
+    "fecha_voto": "2024-01-18",
+    "estado": "Idaho",
+    "etnia": "white",
+    "edad": 61,
+    "sexo": "masculino",
+    "salario": 189137,
+    "estudios": "doctor",
     "religion": "other",
     "casado": true,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "republicano"
 }

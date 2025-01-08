@@ -1,14 +1,14 @@
 {
     "id": 982,
-    "fecha_voto": "2024-06-15",
-    "estado": "South Carolina",
-    "etnia": "illegal",
-    "edad": 40,
+    "fecha_voto": "2024-06-22",
+    "estado": "Wyoming",
+    "etnia": "white",
+    "edad": 45,
     "sexo": "masculino",
-    "salario": 72751,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 0,
+    "salario": 188686,
+    "estudios": "high school",
+    "religion": "other",
+    "casado": true,
+    "hijos": 1,
     "voto": "republicano"
 }

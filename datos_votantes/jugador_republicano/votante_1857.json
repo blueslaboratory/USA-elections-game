@@ -1,14 +1,14 @@
 {
     "id": 1857,
     "fecha_voto": "2024-11-05",
-    "estado": "Florida",
-    "etnia": "white",
-    "edad": 50,
+    "estado": "Washington",
+    "etnia": "black",
+    "edad": 55,
     "sexo": "masculino",
-    "salario": 123298,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "salario": 135119,
+    "estudios": "doctor",
+    "religion": "islam",
     "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

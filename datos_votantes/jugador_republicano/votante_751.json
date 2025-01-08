@@ -1,14 +1,14 @@
 {
     "id": 751,
-    "fecha_voto": "2024-05-25",
-    "estado": "Kentucky",
-    "etnia": "illegal",
-    "edad": 30,
-    "sexo": "masculino",
-    "salario": 185430,
-    "estudios": "doctor",
-    "religion": "other",
+    "fecha_voto": "2024-05-22",
+    "estado": "Florida",
+    "etnia": "hispanic",
+    "edad": 73,
+    "sexo": "femenino",
+    "salario": 40605,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

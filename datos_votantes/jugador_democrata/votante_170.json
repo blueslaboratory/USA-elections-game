@@ -1,14 +1,14 @@
 {
     "id": 170,
-    "fecha_voto": "2024-01-13",
-    "estado": "Indiana",
-    "etnia": "white",
-    "edad": 64,
-    "sexo": "c",
-    "salario": 369033,
-    "estudios": "graduate",
+    "fecha_voto": "2024-02-05",
+    "estado": "Tennessee",
+    "etnia": "illegal",
+    "edad": 46,
+    "sexo": "masculino",
+    "salario": 233700,
+    "estudios": "doctor",
     "religion": "hinduism",
-    "casado": true,
-    "hijos": 1,
+    "casado": false,
+    "hijos": 4,
     "voto": "republicano"
 }

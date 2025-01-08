@@ -1,14 +1,14 @@
 {
     "id": 169,
-    "fecha_voto": "2024-01-13",
-    "estado": "New Mexico",
-    "etnia": "black",
-    "edad": 88,
-    "sexo": "c",
-    "salario": 262484,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "fecha_voto": "2024-01-26",
+    "estado": "North Dakota",
+    "etnia": "illegal",
+    "edad": 46,
+    "sexo": "masculino",
+    "salario": 51831,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": true,
+    "hijos": 2,
+    "voto": "republicano"
 }

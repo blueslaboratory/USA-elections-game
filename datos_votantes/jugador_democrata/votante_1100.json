@@ -1,14 +1,14 @@
 {
     "id": 1100,
-    "fecha_voto": "2024-07-29",
-    "estado": "Colorado",
-    "etnia": "hispanic",
-    "edad": 27,
+    "fecha_voto": "2024-08-04",
+    "estado": "Michigan",
+    "etnia": "black",
+    "edad": 29,
     "sexo": "femenino",
-    "salario": 183386,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 0,
+    "salario": 49469,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1150,
-    "fecha_voto": "2024-07-03",
-    "estado": "Oklahoma",
-    "etnia": "asian",
-    "edad": 33,
+    "fecha_voto": "2024-07-04",
+    "estado": "Hawaii",
+    "etnia": "white",
+    "edad": 29,
     "sexo": "femenino",
-    "salario": 210234,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "salario": 221752,
+    "estudios": "doctor",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 3,
     "voto": "democrata"
 }

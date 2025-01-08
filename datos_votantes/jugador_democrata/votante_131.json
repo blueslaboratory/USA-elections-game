@@ -1,14 +1,14 @@
 {
     "id": 131,
-    "fecha_voto": "2024-01-10",
-    "estado": "West Virginia",
-    "etnia": "indian",
-    "edad": 42,
-    "sexo": "i",
-    "salario": 327792,
+    "fecha_voto": "2024-01-23",
+    "estado": "Oklahoma",
+    "etnia": "illegal",
+    "edad": 75,
+    "sexo": "masculino",
+    "salario": 167179,
     "estudios": "graduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 0,
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
     "voto": "republicano"
 }

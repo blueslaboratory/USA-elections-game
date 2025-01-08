@@ -1,14 +1,14 @@
 {
     "id": 768,
-    "fecha_voto": "2024-05-20",
-    "estado": "Illinois",
-    "etnia": "black",
-    "edad": 46,
+    "fecha_voto": "2024-06-05",
+    "estado": "Alaska",
+    "etnia": "white",
+    "edad": 21,
     "sexo": "masculino",
-    "salario": 161328,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 3,
+    "salario": 37922,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": false,
+    "hijos": 1,
     "voto": "democrata"
 }

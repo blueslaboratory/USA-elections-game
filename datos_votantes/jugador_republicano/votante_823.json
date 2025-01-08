@@ -1,14 +1,14 @@
 {
     "id": 823,
-    "fecha_voto": "2024-06-13",
-    "estado": "Pennsylvania",
-    "etnia": "indian",
-    "edad": 19,
+    "fecha_voto": "2024-05-21",
+    "estado": "Missouri",
+    "etnia": "white",
+    "edad": 95,
     "sexo": "masculino",
-    "salario": 50144,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "salario": 168131,
+    "estudios": "graduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

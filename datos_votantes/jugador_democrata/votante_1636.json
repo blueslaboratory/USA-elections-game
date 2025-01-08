@@ -1,14 +1,14 @@
 {
     "id": 1636,
-    "fecha_voto": "2024-10-10",
-    "estado": "Florida",
-    "etnia": "black",
-    "edad": 26,
+    "fecha_voto": "2024-09-29",
+    "estado": "Tennessee",
+    "etnia": "hispanic",
+    "edad": 60,
     "sexo": "femenino",
-    "salario": 216965,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "salario": 200000,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

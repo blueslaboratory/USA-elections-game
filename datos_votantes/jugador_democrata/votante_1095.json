@@ -1,14 +1,14 @@
 {
     "id": 1095,
-    "fecha_voto": "2024-06-28",
-    "estado": "Nebraska",
-    "etnia": "white",
-    "edad": 18,
-    "sexo": "masculino",
-    "salario": 102482,
-    "estudios": "high school",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "fecha_voto": "2024-06-25",
+    "estado": "Tennessee",
+    "etnia": "indian",
+    "edad": 29,
+    "sexo": "femenino",
+    "salario": 64670,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "democrata"
 }

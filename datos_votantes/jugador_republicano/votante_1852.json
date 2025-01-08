@@ -1,14 +1,14 @@
 {
     "id": 1852,
     "fecha_voto": "2024-11-04",
-    "estado": "Alaska",
-    "etnia": "asian",
-    "edad": 89,
-    "sexo": "femenino",
-    "salario": 78160,
-    "estudios": "graduate",
-    "religion": "islam",
+    "estado": "Iowa",
+    "etnia": "black",
+    "edad": 43,
+    "sexo": "masculino",
+    "salario": 64202,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

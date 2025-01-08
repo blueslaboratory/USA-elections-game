@@ -1,14 +1,14 @@
 {
     "id": 1557,
-    "fecha_voto": "2024-10-01",
-    "estado": "Wyoming",
-    "etnia": "indian",
-    "edad": 23,
+    "fecha_voto": "2024-10-23",
+    "estado": "Indiana",
+    "etnia": "illegal",
+    "edad": 27,
     "sexo": "femenino",
-    "salario": 244426,
+    "salario": 200754,
     "estudios": "high school",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 3,
+    "religion": "other",
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

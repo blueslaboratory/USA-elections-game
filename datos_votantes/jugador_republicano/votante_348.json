@@ -1,14 +1,14 @@
 {
     "id": 348,
-    "fecha_voto": "2024-03-06",
-    "estado": "Idaho",
-    "etnia": "hispanic",
-    "edad": 28,
-    "sexo": "femenino",
-    "salario": 189437,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "fecha_voto": "2024-03-04",
+    "estado": "New Jersey",
+    "etnia": "asian",
+    "edad": 43,
+    "sexo": "masculino",
+    "salario": 30993,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "republicano"
 }

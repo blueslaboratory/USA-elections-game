@@ -1,14 +1,14 @@
 {
     "id": 1370,
-    "fecha_voto": "2024-09-07",
-    "estado": "Alabama",
-    "etnia": "black",
+    "fecha_voto": "2024-08-24",
+    "estado": "Florida",
+    "etnia": "illegal",
     "edad": 30,
-    "sexo": "femenino",
-    "salario": 49415,
-    "estudios": "masters",
-    "religion": "other",
-    "casado": true,
-    "hijos": 3,
+    "sexo": "masculino",
+    "salario": 33978,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

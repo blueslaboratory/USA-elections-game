@@ -1,14 +1,14 @@
 {
     "id": 1120,
-    "fecha_voto": "2024-07-03",
-    "estado": "Louisiana",
-    "etnia": "black",
-    "edad": 32,
+    "fecha_voto": "2024-08-07",
+    "estado": "Connecticut",
+    "etnia": "illegal",
+    "edad": 50,
     "sexo": "femenino",
-    "salario": 80862,
-    "estudios": "high school",
+    "salario": 220221,
+    "estudios": "graduate",
     "religion": "christianism",
     "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

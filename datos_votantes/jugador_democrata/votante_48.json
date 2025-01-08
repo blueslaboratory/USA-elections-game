@@ -1,14 +1,14 @@
 {
     "id": 48,
-    "fecha_voto": "2024-01-13",
-    "estado": "Georgia",
-    "etnia": "black",
-    "edad": 46,
-    "sexo": "s",
-    "salario": 134742,
-    "estudios": "graduate",
-    "religion": "hinduism",
+    "fecha_voto": "2024-01-14",
+    "estado": "Iowa",
+    "etnia": "hispanic",
+    "edad": 36,
+    "sexo": "femenino",
+    "salario": 215344,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

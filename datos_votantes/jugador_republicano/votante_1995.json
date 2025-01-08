@@ -1,14 +1,14 @@
 {
     "id": 1995,
     "fecha_voto": "2024-11-04",
-    "estado": "Kansas",
-    "etnia": "black",
-    "edad": 25,
+    "estado": "Delaware",
+    "etnia": "asian",
+    "edad": 34,
     "sexo": "masculino",
-    "salario": 190684,
-    "estudios": "high school",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "salario": 33510,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
 }

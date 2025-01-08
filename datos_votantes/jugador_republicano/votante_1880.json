@@ -1,14 +1,14 @@
 {
     "id": 1880,
-    "fecha_voto": "2024-11-05",
-    "estado": "South Carolina",
-    "etnia": "black",
-    "edad": 23,
+    "fecha_voto": "2024-11-04",
+    "estado": "South Dakota",
+    "etnia": "illegal",
+    "edad": 97,
     "sexo": "masculino",
-    "salario": 238753,
-    "estudios": "doctor",
-    "religion": "islam",
+    "salario": 166260,
+    "estudios": "graduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

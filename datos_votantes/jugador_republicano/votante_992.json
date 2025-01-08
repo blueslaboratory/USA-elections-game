@@ -1,14 +1,14 @@
 {
     "id": 992,
-    "fecha_voto": "2024-05-24",
-    "estado": "North Carolina",
-    "etnia": "black",
-    "edad": 27,
-    "sexo": "masculino",
-    "salario": 35847,
+    "fecha_voto": "2024-06-07",
+    "estado": "Idaho",
+    "etnia": "white",
+    "edad": 38,
+    "sexo": "femenino",
+    "salario": 106310,
     "estudios": "graduate",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "religion": "other",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 412,
-    "fecha_voto": "2024-03-02",
-    "estado": "New Mexico",
+    "fecha_voto": "2024-03-14",
+    "estado": "Washington",
     "etnia": "indian",
-    "edad": 27,
-    "sexo": "masculino",
-    "salario": 211361,
-    "estudios": "undergraduate",
+    "edad": 24,
+    "sexo": "femenino",
+    "salario": 99693,
+    "estudios": "masters",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 5,
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

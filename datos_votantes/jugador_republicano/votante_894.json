@@ -1,14 +1,14 @@
 {
     "id": 894,
-    "fecha_voto": "2024-06-12",
-    "estado": "Nebraska",
-    "etnia": "black",
-    "edad": 22,
+    "fecha_voto": "2024-05-23",
+    "estado": "Georgia",
+    "etnia": "white",
+    "edad": 29,
     "sexo": "masculino",
-    "salario": 231030,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "salario": 201629,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 0,
     "voto": "democrata"
 }

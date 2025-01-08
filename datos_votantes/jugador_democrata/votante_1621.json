@@ -1,14 +1,14 @@
 {
     "id": 1621,
-    "fecha_voto": "2024-10-23",
-    "estado": "Minnesota",
+    "fecha_voto": "2024-10-02",
+    "estado": "New Hampshire",
     "etnia": "illegal",
-    "edad": 29,
-    "sexo": "femenino",
-    "salario": 249843,
+    "edad": 54,
+    "sexo": "masculino",
+    "salario": 135334,
     "estudios": "undergraduate",
-    "religion": "judaism",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1184,
-    "fecha_voto": "2024-07-12",
-    "estado": "Nebraska",
+    "fecha_voto": "2024-06-27",
+    "estado": "South Carolina",
     "etnia": "white",
-    "edad": 43,
+    "edad": 20,
     "sexo": "femenino",
-    "salario": 91161,
+    "salario": 103146,
     "estudios": "graduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 5,
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 2,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1971,
     "fecha_voto": "2024-11-04",
-    "estado": "Missouri",
-    "etnia": "asian",
-    "edad": 34,
+    "estado": "Maryland",
+    "etnia": "indian",
+    "edad": 77,
     "sexo": "masculino",
-    "salario": 203574,
+    "salario": 190015,
     "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "religion": "islam",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
 }

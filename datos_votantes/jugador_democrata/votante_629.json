@@ -1,14 +1,14 @@
 {
     "id": 629,
-    "fecha_voto": "2024-05-09",
-    "estado": "Washington",
-    "etnia": "hispanic",
-    "edad": 84,
+    "fecha_voto": "2024-04-19",
+    "estado": "West Virginia",
+    "etnia": "white",
+    "edad": 54,
     "sexo": "femenino",
-    "salario": 125355,
-    "estudios": "doctor",
+    "salario": 205955,
+    "estudios": "graduate",
     "religion": "hinduism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 471,
-    "fecha_voto": "2024-02-21",
-    "estado": "Kansas",
-    "etnia": "indian",
-    "edad": 26,
+    "fecha_voto": "2024-03-05",
+    "estado": "North Carolina",
+    "etnia": "white",
+    "edad": 34,
     "sexo": "femenino",
-    "salario": 213451,
+    "salario": 111652,
     "estudios": "masters",
-    "religion": "islam",
+    "religion": "other",
     "casado": false,
-    "hijos": 0,
+    "hijos": 4,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 304,
-    "fecha_voto": "2024-03-26",
-    "estado": "Oklahoma",
-    "etnia": "hispanic",
-    "edad": 79,
+    "fecha_voto": "2024-02-24",
+    "estado": "Alaska",
+    "etnia": "indian",
+    "edad": 51,
     "sexo": "masculino",
-    "salario": 229576,
+    "salario": 75116,
     "estudios": "graduate",
-    "religion": "islam",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 2,
     "voto": "republicano"
 }

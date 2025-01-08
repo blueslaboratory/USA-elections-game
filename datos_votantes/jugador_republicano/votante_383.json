@@ -1,14 +1,14 @@
 {
     "id": 383,
-    "fecha_voto": "2024-03-28",
-    "estado": "Kansas",
-    "etnia": "illegal",
-    "edad": 68,
-    "sexo": "masculino",
-    "salario": 157342,
-    "estudios": "high school",
-    "religion": "other",
+    "fecha_voto": "2024-02-29",
+    "estado": "Iowa",
+    "etnia": "indian",
+    "edad": 48,
+    "sexo": "femenino",
+    "salario": 157774,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

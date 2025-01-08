@@ -1,14 +1,14 @@
 {
     "id": 68,
-    "fecha_voto": "2024-02-11",
-    "estado": "Illinois",
-    "etnia": "black",
-    "edad": 38,
-    "sexo": "l",
-    "salario": 335945,
+    "fecha_voto": "2024-01-04",
+    "estado": "Montana",
+    "etnia": "illegal",
+    "edad": 90,
+    "sexo": "masculino",
+    "salario": 177876,
     "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

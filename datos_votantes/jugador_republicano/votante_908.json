@@ -1,14 +1,14 @@
 {
     "id": 908,
     "fecha_voto": "2024-06-12",
-    "estado": "Tennessee",
+    "estado": "Connecticut",
     "etnia": "white",
-    "edad": 26,
-    "sexo": "masculino",
-    "salario": 150754,
-    "estudios": "doctor",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "edad": 92,
+    "sexo": "femenino",
+    "salario": 165074,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "democrata"
 }

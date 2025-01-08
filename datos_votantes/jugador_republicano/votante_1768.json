@@ -1,14 +1,14 @@
 {
     "id": 1768,
-    "fecha_voto": "2024-11-05",
-    "estado": "Ohio",
-    "etnia": "indian",
-    "edad": 93,
-    "sexo": "femenino",
-    "salario": 148381,
-    "estudios": "masters",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "fecha_voto": "2024-11-04",
+    "estado": "Nevada",
+    "etnia": "hispanic",
+    "edad": 68,
+    "sexo": "masculino",
+    "salario": 155241,
+    "estudios": "undergraduate",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
 }

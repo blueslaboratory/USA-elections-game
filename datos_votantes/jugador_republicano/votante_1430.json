@@ -1,14 +1,14 @@
 {
     "id": 1430,
-    "fecha_voto": "2024-08-16",
-    "estado": "Virginia",
-    "etnia": "white",
-    "edad": 46,
-    "sexo": "femenino",
-    "salario": 135984,
+    "fecha_voto": "2024-08-12",
+    "estado": "Wyoming",
+    "etnia": "black",
+    "edad": 36,
+    "sexo": "masculino",
+    "salario": 215275,
     "estudios": "high school",
-    "religion": "atheism",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 0,
     "voto": "republicano"
 }

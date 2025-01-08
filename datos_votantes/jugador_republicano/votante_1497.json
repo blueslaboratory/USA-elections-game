@@ -1,14 +1,14 @@
 {
     "id": 1497,
-    "fecha_voto": "2024-08-10",
-    "estado": "Tennessee",
-    "etnia": "asian",
-    "edad": 40,
-    "sexo": "femenino",
-    "salario": 170073,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "fecha_voto": "2024-09-10",
+    "estado": "Virginia",
+    "etnia": "indian",
+    "edad": 44,
+    "sexo": "masculino",
+    "salario": 68946,
+    "estudios": "high school",
+    "religion": "islam",
     "casado": true,
-    "hijos": 4,
+    "hijos": 0,
     "voto": "republicano"
 }

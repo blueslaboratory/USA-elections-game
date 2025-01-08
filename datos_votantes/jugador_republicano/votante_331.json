@@ -1,14 +1,14 @@
 {
     "id": 331,
-    "fecha_voto": "2024-03-15",
-    "estado": "Alabama",
-    "etnia": "black",
-    "edad": 45,
-    "sexo": "masculino",
-    "salario": 84713,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-03-08",
+    "estado": "Vermont",
+    "etnia": "white",
+    "edad": 34,
+    "sexo": "femenino",
+    "salario": 189011,
+    "estudios": "high school",
     "religion": "atheism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "casado": false,
+    "hijos": 0,
+    "voto": "democrata"
 }

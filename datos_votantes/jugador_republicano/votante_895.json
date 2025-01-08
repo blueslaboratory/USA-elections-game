@@ -1,14 +1,14 @@
 {
     "id": 895,
-    "fecha_voto": "2024-06-21",
-    "estado": "Maine",
-    "etnia": "black",
-    "edad": 42,
-    "sexo": "masculino",
-    "salario": 121862,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "fecha_voto": "2024-05-22",
+    "estado": "Colorado",
+    "etnia": "white",
+    "edad": 31,
+    "sexo": "femenino",
+    "salario": 40942,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
 }

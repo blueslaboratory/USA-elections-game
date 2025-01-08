@@ -1,14 +1,14 @@
 {
     "id": 45,
-    "fecha_voto": "2024-01-14",
-    "estado": "North Dakota",
+    "fecha_voto": "2024-01-05",
+    "estado": "Arkansas",
     "etnia": "black",
-    "edad": 67,
-    "sexo": "s",
-    "salario": 373262,
-    "estudios": "high school",
-    "religion": "other",
+    "edad": 81,
+    "sexo": "femenino",
+    "salario": 39761,
+    "estudios": "undergraduate",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 0,
+    "hijos": 5,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1925,
     "fecha_voto": "2024-11-04",
-    "estado": "Louisiana",
-    "etnia": "hispanic",
-    "edad": 47,
-    "sexo": "femenino",
-    "salario": 105913,
-    "estudios": "graduate",
-    "religion": "christianism",
-    "casado": true,
+    "estado": "Missouri",
+    "etnia": "black",
+    "edad": 45,
+    "sexo": "masculino",
+    "salario": 160567,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": false,
     "hijos": 2,
     "voto": "republicano"
 }

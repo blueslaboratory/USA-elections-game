@@ -1,14 +1,14 @@
 {
     "id": 754,
-    "fecha_voto": "2024-05-30",
-    "estado": "Delaware",
-    "etnia": "illegal",
-    "edad": 46,
-    "sexo": "masculino",
-    "salario": 125020,
-    "estudios": "masters",
-    "religion": "islam",
+    "fecha_voto": "2024-06-09",
+    "estado": "Massachusetts",
+    "etnia": "white",
+    "edad": 92,
+    "sexo": "femenino",
+    "salario": 143656,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

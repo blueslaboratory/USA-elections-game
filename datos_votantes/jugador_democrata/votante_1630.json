@@ -1,14 +1,14 @@
 {
     "id": 1630,
-    "fecha_voto": "2024-10-16",
-    "estado": "Utah",
-    "etnia": "illegal",
-    "edad": 20,
-    "sexo": "femenino",
-    "salario": 36168,
+    "fecha_voto": "2024-10-11",
+    "estado": "Wisconsin",
+    "etnia": "hispanic",
+    "edad": 57,
+    "sexo": "masculino",
+    "salario": 46283,
     "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

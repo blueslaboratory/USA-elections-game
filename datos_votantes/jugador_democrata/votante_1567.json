@@ -1,14 +1,14 @@
 {
     "id": 1567,
-    "fecha_voto": "2024-10-25",
+    "fecha_voto": "2024-10-08",
     "estado": "New Mexico",
     "etnia": "illegal",
-    "edad": 28,
-    "sexo": "femenino",
-    "salario": 224998,
-    "estudios": "doctor",
-    "religion": "christianism",
+    "edad": 78,
+    "sexo": "masculino",
+    "salario": 58108,
+    "estudios": "masters",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "democrata"
 }

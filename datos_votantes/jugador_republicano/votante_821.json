@@ -1,14 +1,14 @@
 {
     "id": 821,
-    "fecha_voto": "2024-05-16",
-    "estado": "Washington",
-    "etnia": "illegal",
-    "edad": 33,
+    "fecha_voto": "2024-05-13",
+    "estado": "Florida",
+    "etnia": "hispanic",
+    "edad": 63,
     "sexo": "masculino",
-    "salario": 167236,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "salario": 103981,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "republicano"
 }

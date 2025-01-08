@@ -1,14 +1,14 @@
 {
     "id": 418,
-    "fecha_voto": "2024-03-25",
-    "estado": "Rhode Island",
-    "etnia": "white",
-    "edad": 70,
-    "sexo": "masculino",
-    "salario": 111218,
-    "estudios": "graduate",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "fecha_voto": "2024-03-12",
+    "estado": "New Hampshire",
+    "etnia": "indian",
+    "edad": 25,
+    "sexo": "femenino",
+    "salario": 77811,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
 }

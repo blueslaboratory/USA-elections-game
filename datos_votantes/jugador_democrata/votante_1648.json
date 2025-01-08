@@ -1,14 +1,14 @@
 {
     "id": 1648,
-    "fecha_voto": "2024-10-06",
-    "estado": "New York",
-    "etnia": "black",
-    "edad": 26,
+    "fecha_voto": "2024-10-16",
+    "estado": "New Jersey",
+    "etnia": "hispanic",
+    "edad": 95,
     "sexo": "femenino",
-    "salario": 30721,
-    "estudios": "masters",
-    "religion": "atheism",
+    "salario": 119817,
+    "estudios": "undergraduate",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 1,
+    "hijos": 0,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1584,
-    "fecha_voto": "2024-10-19",
-    "estado": "Iowa",
-    "etnia": "white",
-    "edad": 21,
-    "sexo": "femenino",
-    "salario": 226244,
-    "estudios": "high school",
-    "religion": "judaism",
-    "casado": true,
+    "fecha_voto": "2024-09-29",
+    "estado": "Oregon",
+    "etnia": "hispanic",
+    "edad": 58,
+    "sexo": "masculino",
+    "salario": 143304,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": false,
     "hijos": 2,
     "voto": "republicano"
 }

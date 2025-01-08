@@ -1,14 +1,14 @@
 {
     "id": 574,
-    "fecha_voto": "2024-05-02",
-    "estado": "New York",
-    "etnia": "illegal",
-    "edad": 82,
-    "sexo": "masculino",
-    "salario": 54538,
-    "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "fecha_voto": "2024-03-29",
+    "estado": "Nevada",
+    "etnia": "white",
+    "edad": 87,
+    "sexo": "femenino",
+    "salario": 224096,
+    "estudios": "graduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

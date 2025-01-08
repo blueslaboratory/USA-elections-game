@@ -1,14 +1,14 @@
 {
     "id": 124,
-    "fecha_voto": "2024-02-12",
-    "estado": "Wisconsin",
+    "fecha_voto": "2024-01-25",
+    "estado": "South Carolina",
     "etnia": "illegal",
-    "edad": 34,
-    "sexo": "i",
-    "salario": 327031,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "edad": 56,
+    "sexo": "masculino",
+    "salario": 117142,
+    "estudios": "undergraduate",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 2,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 903,
-    "fecha_voto": "2024-05-24",
-    "estado": "South Dakota",
-    "etnia": "black",
-    "edad": 45,
-    "sexo": "masculino",
-    "salario": 207670,
-    "estudios": "doctor",
+    "fecha_voto": "2024-05-23",
+    "estado": "Alabama",
+    "etnia": "white",
+    "edad": 31,
+    "sexo": "femenino",
+    "salario": 62130,
+    "estudios": "graduate",
     "religion": "christianism",
     "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

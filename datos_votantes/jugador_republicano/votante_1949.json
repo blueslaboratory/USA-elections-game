@@ -1,14 +1,14 @@
 {
     "id": 1949,
     "fecha_voto": "2024-11-05",
-    "estado": "Montana",
-    "etnia": "white",
-    "edad": 38,
-    "sexo": "femenino",
-    "salario": 85825,
-    "estudios": "doctor",
-    "religion": "hinduism",
-    "casado": false,
+    "estado": "Delaware",
+    "etnia": "asian",
+    "edad": 34,
+    "sexo": "masculino",
+    "salario": 220465,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": true,
     "hijos": 1,
     "voto": "democrata"
 }

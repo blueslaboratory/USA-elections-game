@@ -1,14 +1,14 @@
 {
     "id": 1590,
-    "fecha_voto": "2024-10-19",
-    "estado": "New Hampshire",
-    "etnia": "black",
-    "edad": 26,
+    "fecha_voto": "2024-10-21",
+    "estado": "Utah",
+    "etnia": "illegal",
+    "edad": 29,
     "sexo": "femenino",
-    "salario": 237047,
-    "estudios": "doctor",
+    "salario": 77404,
+    "estudios": "undergraduate",
     "religion": "other",
     "casado": false,
-    "hijos": 0,
+    "hijos": 1,
     "voto": "democrata"
 }

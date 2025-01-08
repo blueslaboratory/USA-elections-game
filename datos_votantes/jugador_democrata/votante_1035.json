@@ -1,14 +1,14 @@
 {
     "id": 1035,
-    "fecha_voto": "2024-06-29",
-    "estado": "Minnesota",
-    "etnia": "hispanic",
-    "edad": 22,
+    "fecha_voto": "2024-07-28",
+    "estado": "Mississippi",
+    "etnia": "asian",
+    "edad": 19,
     "sexo": "femenino",
-    "salario": 166120,
-    "estudios": "masters",
-    "religion": "atheism",
+    "salario": 158579,
+    "estudios": "graduate",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 5,
     "voto": "democrata"
 }

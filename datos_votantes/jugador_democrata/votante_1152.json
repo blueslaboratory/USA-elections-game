@@ -1,14 +1,14 @@
 {
     "id": 1152,
-    "fecha_voto": "2024-07-17",
-    "estado": "Rhode Island",
+    "fecha_voto": "2024-07-08",
+    "estado": "Georgia",
     "etnia": "black",
-    "edad": 47,
-    "sexo": "masculino",
-    "salario": 200792,
+    "edad": 39,
+    "sexo": "femenino",
+    "salario": 235942,
     "estudios": "high school",
-    "religion": "atheism",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 3,
     "voto": "republicano"
 }

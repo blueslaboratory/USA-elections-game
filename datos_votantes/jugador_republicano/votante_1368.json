@@ -1,14 +1,14 @@
 {
     "id": 1368,
-    "fecha_voto": "2024-08-20",
-    "estado": "Colorado",
-    "etnia": "illegal",
-    "edad": 29,
+    "fecha_voto": "2024-09-18",
+    "estado": "Texas",
+    "etnia": "white",
+    "edad": 43,
     "sexo": "masculino",
-    "salario": 37487,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "salario": 85503,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

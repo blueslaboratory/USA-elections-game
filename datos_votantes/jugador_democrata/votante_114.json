@@ -1,14 +1,14 @@
 {
     "id": 114,
-    "fecha_voto": "2024-01-04",
-    "estado": "Ohio",
-    "etnia": "hispanic",
-    "edad": 45,
-    "sexo": "s",
-    "salario": 372135,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "fecha_voto": "2024-02-10",
+    "estado": "Wyoming",
+    "etnia": "white",
+    "edad": 57,
+    "sexo": "femenino",
+    "salario": 86072,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "republicano"
 }

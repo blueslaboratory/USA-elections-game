@@ -1,14 +1,14 @@
 {
     "id": 1746,
-    "fecha_voto": "2024-10-14",
-    "estado": "Illinois",
-    "etnia": "indian",
-    "edad": 27,
+    "fecha_voto": "2024-11-03",
+    "estado": "Arkansas",
+    "etnia": "illegal",
+    "edad": 66,
     "sexo": "femenino",
-    "salario": 71674,
+    "salario": 202368,
     "estudios": "graduate",
-    "religion": "hinduism",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1629,
-    "fecha_voto": "2024-10-05",
-    "estado": "California",
-    "etnia": "black",
-    "edad": 30,
+    "fecha_voto": "2024-10-26",
+    "estado": "West Virginia",
+    "etnia": "hispanic",
+    "edad": 66,
     "sexo": "femenino",
-    "salario": 75555,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "salario": 122097,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 2,
+    "voto": "republicano"
 }

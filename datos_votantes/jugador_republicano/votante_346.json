@@ -1,14 +1,14 @@
 {
     "id": 346,
-    "fecha_voto": "2024-02-17",
-    "estado": "Georgia",
-    "etnia": "indian",
-    "edad": 57,
+    "fecha_voto": "2024-03-22",
+    "estado": "Indiana",
+    "etnia": "hispanic",
+    "edad": 40,
     "sexo": "femenino",
-    "salario": 204570,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "salario": 142344,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
 }

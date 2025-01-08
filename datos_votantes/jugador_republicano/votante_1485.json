@@ -1,14 +1,14 @@
 {
     "id": 1485,
-    "fecha_voto": "2024-09-03",
-    "estado": "New Mexico",
+    "fecha_voto": "2024-08-10",
+    "estado": "Ohio",
     "etnia": "asian",
-    "edad": 58,
-    "sexo": "masculino",
-    "salario": 105507,
-    "estudios": "masters",
-    "religion": "hinduism",
+    "edad": 50,
+    "sexo": "femenino",
+    "salario": 30796,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

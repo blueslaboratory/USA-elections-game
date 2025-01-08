@@ -1,14 +1,14 @@
 {
     "id": 1690,
-    "fecha_voto": "2024-10-21",
-    "estado": "Virginia",
-    "etnia": "white",
-    "edad": 22,
-    "sexo": "femenino",
-    "salario": 133595,
-    "estudios": "high school",
-    "religion": "judaism",
+    "fecha_voto": "2024-09-28",
+    "estado": "Michigan",
+    "etnia": "hispanic",
+    "edad": 97,
+    "sexo": "masculino",
+    "salario": 157122,
+    "estudios": "undergraduate",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 5,
     "voto": "republicano"
 }

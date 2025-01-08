@@ -1,14 +1,14 @@
 {
     "id": 627,
-    "fecha_voto": "2024-04-25",
-    "estado": "California",
+    "fecha_voto": "2024-04-28",
+    "estado": "Iowa",
     "etnia": "illegal",
-    "edad": 47,
-    "sexo": "masculino",
-    "salario": 163068,
-    "estudios": "graduate",
-    "religion": "atheism",
+    "edad": 73,
+    "sexo": "femenino",
+    "salario": 45028,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 1,
+    "hijos": 3,
     "voto": "democrata"
 }

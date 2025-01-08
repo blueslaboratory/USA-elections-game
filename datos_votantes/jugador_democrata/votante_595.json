@@ -1,14 +1,14 @@
 {
     "id": 595,
-    "fecha_voto": "2024-04-03",
-    "estado": "Kentucky",
-    "etnia": "illegal",
-    "edad": 63,
-    "sexo": "femenino",
-    "salario": 228043,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "fecha_voto": "2024-05-08",
+    "estado": "Missouri",
+    "etnia": "black",
+    "edad": 26,
+    "sexo": "masculino",
+    "salario": 69876,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "democrata"
 }

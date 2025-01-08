@@ -1,14 +1,14 @@
 {
     "id": 556,
-    "fecha_voto": "2024-04-03",
-    "estado": "New Jersey",
+    "fecha_voto": "2024-05-05",
+    "estado": "Mississippi",
     "etnia": "hispanic",
-    "edad": 37,
+    "edad": 91,
     "sexo": "masculino",
-    "salario": 206179,
-    "estudios": "graduate",
-    "religion": "other",
+    "salario": 192222,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 2,
     "voto": "republicano"
 }

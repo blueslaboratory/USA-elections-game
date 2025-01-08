@@ -1,14 +1,14 @@
 {
     "id": 483,
-    "fecha_voto": "2024-03-19",
-    "estado": "Wisconsin",
+    "fecha_voto": "2024-03-23",
+    "estado": "Massachusetts",
     "etnia": "white",
-    "edad": 80,
-    "sexo": "masculino",
-    "salario": 103660,
-    "estudios": "doctor",
-    "religion": "islam",
+    "edad": 24,
+    "sexo": "femenino",
+    "salario": 50756,
+    "estudios": "high school",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

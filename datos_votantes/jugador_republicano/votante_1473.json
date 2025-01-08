@@ -1,14 +1,14 @@
 {
     "id": 1473,
-    "fecha_voto": "2024-09-10",
-    "estado": "Arkansas",
-    "etnia": "black",
-    "edad": 29,
+    "fecha_voto": "2024-08-20",
+    "estado": "Michigan",
+    "etnia": "hispanic",
+    "edad": 96,
     "sexo": "masculino",
-    "salario": 128624,
-    "estudios": "graduate",
+    "salario": 163281,
+    "estudios": "doctor",
     "religion": "judaism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 4,
     "voto": "republicano"
 }

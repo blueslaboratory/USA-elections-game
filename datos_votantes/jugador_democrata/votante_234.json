@@ -1,14 +1,14 @@
 {
     "id": 234,
-    "fecha_voto": "2024-01-11",
-    "estado": "Alaska",
+    "fecha_voto": "2024-01-28",
+    "estado": "Arizona",
     "etnia": "hispanic",
-    "edad": 57,
-    "sexo": "m",
-    "salario": 398956,
+    "edad": 63,
+    "sexo": "femenino",
+    "salario": 183904,
     "estudios": "doctor",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 1,
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 4,
     "voto": "democrata"
 }

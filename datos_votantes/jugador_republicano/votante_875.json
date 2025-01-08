@@ -1,14 +1,14 @@
 {
     "id": 875,
-    "fecha_voto": "2024-06-24",
-    "estado": "Nebraska",
+    "fecha_voto": "2024-05-19",
+    "estado": "Alaska",
     "etnia": "white",
-    "edad": 44,
+    "edad": 95,
     "sexo": "masculino",
-    "salario": 120169,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
+    "salario": 93086,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 0,
     "voto": "republicano"
 }

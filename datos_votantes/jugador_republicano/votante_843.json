@@ -1,14 +1,14 @@
 {
     "id": 843,
-    "fecha_voto": "2024-05-26",
+    "fecha_voto": "2024-06-07",
     "estado": "New Mexico",
-    "etnia": "black",
-    "edad": 36,
+    "etnia": "white",
+    "edad": 43,
     "sexo": "masculino",
-    "salario": 195847,
-    "estudios": "masters",
-    "religion": "other",
+    "salario": 106525,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1331,
-    "fecha_voto": "2024-08-29",
-    "estado": "South Dakota",
-    "etnia": "asian",
-    "edad": 25,
+    "fecha_voto": "2024-08-21",
+    "estado": "Georgia",
+    "etnia": "white",
+    "edad": 96,
     "sexo": "masculino",
-    "salario": 106278,
-    "estudios": "masters",
-    "religion": "judaism",
+    "salario": 72223,
+    "estudios": "undergraduate",
+    "religion": "islam",
     "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

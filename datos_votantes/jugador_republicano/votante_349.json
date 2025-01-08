@@ -1,14 +1,14 @@
 {
     "id": 349,
-    "fecha_voto": "2024-02-24",
-    "estado": "Florida",
-    "etnia": "illegal",
-    "edad": 19,
-    "sexo": "masculino",
-    "salario": 47039,
-    "estudios": "doctor",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "fecha_voto": "2024-03-21",
+    "estado": "Iowa",
+    "etnia": "asian",
+    "edad": 13,
+    "sexo": "femenino",
+    "salario": 248376,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

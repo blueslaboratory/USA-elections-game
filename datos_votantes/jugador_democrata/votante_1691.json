@@ -1,14 +1,14 @@
 {
     "id": 1691,
-    "fecha_voto": "2024-10-08",
-    "estado": "Montana",
-    "etnia": "asian",
-    "edad": 33,
+    "fecha_voto": "2024-10-07",
+    "estado": "Indiana",
+    "etnia": "hispanic",
+    "edad": 51,
     "sexo": "femenino",
-    "salario": 185543,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 3,
+    "salario": 45411,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 1,
     "voto": "democrata"
 }

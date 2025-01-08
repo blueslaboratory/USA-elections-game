@@ -1,14 +1,14 @@
 {
     "id": 1446,
-    "fecha_voto": "2024-08-18",
-    "estado": "Georgia",
-    "etnia": "black",
-    "edad": 60,
+    "fecha_voto": "2024-08-21",
+    "estado": "Idaho",
+    "etnia": "indian",
+    "edad": 62,
     "sexo": "femenino",
-    "salario": 222200,
+    "salario": 157587,
     "estudios": "high school",
-    "religion": "christianism",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 1,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1699,
-    "fecha_voto": "2024-10-29",
-    "estado": "Alabama",
-    "etnia": "asian",
-    "edad": 21,
-    "sexo": "femenino",
-    "salario": 118073,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "fecha_voto": "2024-10-20",
+    "estado": "Montana",
+    "etnia": "hispanic",
+    "edad": 74,
+    "sexo": "masculino",
+    "salario": 197074,
+    "estudios": "high school",
+    "religion": "islam",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

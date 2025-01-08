@@ -1,14 +1,14 @@
 {
     "id": 1978,
     "fecha_voto": "2024-11-04",
-    "estado": "Oklahoma",
+    "estado": "New Hampshire",
     "etnia": "illegal",
-    "edad": 87,
+    "edad": 94,
     "sexo": "masculino",
-    "salario": 92952,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 2,
+    "salario": 237257,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 5,
     "voto": "republicano"
 }

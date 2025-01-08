@@ -1,14 +1,14 @@
 {
     "id": 230,
-    "fecha_voto": "2024-01-07",
-    "estado": "Texas",
+    "fecha_voto": "2024-02-08",
+    "estado": "West Virginia",
     "etnia": "illegal",
-    "edad": 24,
-    "sexo": "a",
-    "salario": 241311,
-    "estudios": "graduate",
-    "religion": "atheism",
+    "edad": 91,
+    "sexo": "masculino",
+    "salario": 166736,
+    "estudios": "high school",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

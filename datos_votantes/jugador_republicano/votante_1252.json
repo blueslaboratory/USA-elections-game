@@ -1,14 +1,14 @@
 {
     "id": 1252,
     "fecha_voto": "2024-09-04",
-    "estado": "New Mexico",
-    "etnia": "white",
-    "edad": 63,
-    "sexo": "masculino",
-    "salario": 65973,
-    "estudios": "graduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 5,
+    "estado": "South Carolina",
+    "etnia": "black",
+    "edad": 98,
+    "sexo": "femenino",
+    "salario": 99437,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 1,
     "voto": "republicano"
 }

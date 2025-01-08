@@ -1,14 +1,14 @@
 {
     "id": 1658,
-    "fecha_voto": "2024-10-19",
-    "estado": "Virginia",
-    "etnia": "indian",
-    "edad": 21,
-    "sexo": "femenino",
-    "salario": 46563,
-    "estudios": "undergraduate",
-    "religion": "other",
-    "casado": true,
+    "fecha_voto": "2024-10-04",
+    "estado": "Montana",
+    "etnia": "illegal",
+    "edad": 89,
+    "sexo": "masculino",
+    "salario": 133683,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": false,
     "hijos": 3,
-    "voto": "democrata"
+    "voto": "republicano"
 }

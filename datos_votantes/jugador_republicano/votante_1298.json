@@ -1,14 +1,14 @@
 {
     "id": 1298,
-    "fecha_voto": "2024-09-10",
-    "estado": "West Virginia",
+    "fecha_voto": "2024-08-29",
+    "estado": "Indiana",
     "etnia": "hispanic",
-    "edad": 20,
-    "sexo": "femenino",
-    "salario": 170637,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "edad": 97,
+    "sexo": "masculino",
+    "salario": 96309,
+    "estudios": "masters",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 2,
+    "voto": "republicano"
 }

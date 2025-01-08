@@ -1,14 +1,14 @@
 {
     "id": 1217,
-    "fecha_voto": "2024-07-13",
-    "estado": "Maryland",
-    "etnia": "hispanic",
-    "edad": 41,
+    "fecha_voto": "2024-07-18",
+    "estado": "Indiana",
+    "etnia": "indian",
+    "edad": 46,
     "sexo": "femenino",
-    "salario": 82048,
+    "salario": 112065,
     "estudios": "masters",
-    "religion": "christianism",
+    "religion": "other",
     "casado": true,
-    "hijos": 5,
+    "hijos": 0,
     "voto": "democrata"
 }

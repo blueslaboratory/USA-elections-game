@@ -1,14 +1,14 @@
 {
     "id": 613,
-    "fecha_voto": "2024-04-20",
-    "estado": "Delaware",
+    "fecha_voto": "2024-04-17",
+    "estado": "Mississippi",
     "etnia": "hispanic",
-    "edad": 19,
+    "edad": 29,
     "sexo": "femenino",
-    "salario": 82521,
-    "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 4,
+    "salario": 75777,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

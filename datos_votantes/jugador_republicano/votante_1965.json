@@ -1,14 +1,14 @@
 {
     "id": 1965,
-    "fecha_voto": "2024-11-04",
-    "estado": "North Carolina",
-    "etnia": "asian",
-    "edad": 73,
+    "fecha_voto": "2024-11-05",
+    "estado": "Oklahoma",
+    "etnia": "black",
+    "edad": 44,
     "sexo": "masculino",
-    "salario": 165626,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": true,
+    "salario": 116100,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
     "hijos": 4,
     "voto": "republicano"
 }

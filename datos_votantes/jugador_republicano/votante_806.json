@@ -1,14 +1,14 @@
 {
     "id": 806,
-    "fecha_voto": "2024-05-24",
-    "estado": "Kansas",
+    "fecha_voto": "2024-06-11",
+    "estado": "Maine",
     "etnia": "white",
-    "edad": 49,
+    "edad": 96,
     "sexo": "masculino",
-    "salario": 132349,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 2,
+    "salario": 158768,
+    "estudios": "high school",
+    "religion": "other",
+    "casado": false,
+    "hijos": 1,
     "voto": "republicano"
 }

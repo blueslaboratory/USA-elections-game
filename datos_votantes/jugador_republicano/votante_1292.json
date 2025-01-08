@@ -1,14 +1,14 @@
 {
     "id": 1292,
-    "fecha_voto": "2024-08-22",
-    "estado": "Colorado",
+    "fecha_voto": "2024-08-23",
+    "estado": "Tennessee",
     "etnia": "hispanic",
-    "edad": 26,
-    "sexo": "masculino",
-    "salario": 75978,
-    "estudios": "graduate",
+    "edad": 38,
+    "sexo": "femenino",
+    "salario": 31791,
+    "estudios": "high school",
     "religion": "judaism",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

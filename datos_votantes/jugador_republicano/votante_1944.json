@@ -1,14 +1,14 @@
 {
     "id": 1944,
     "fecha_voto": "2024-11-05",
-    "estado": "Texas",
+    "estado": "South Carolina",
     "etnia": "illegal",
-    "edad": 28,
+    "edad": 74,
     "sexo": "masculino",
-    "salario": 111550,
-    "estudios": "doctor",
-    "religion": "islam",
+    "salario": 60551,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

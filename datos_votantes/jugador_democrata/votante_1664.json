@@ -1,14 +1,14 @@
 {
     "id": 1664,
-    "fecha_voto": "2024-10-19",
-    "estado": "Indiana",
-    "etnia": "hispanic",
-    "edad": 30,
-    "sexo": "femenino",
-    "salario": 80650,
-    "estudios": "undergraduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "fecha_voto": "2024-10-09",
+    "estado": "Virginia",
+    "etnia": "illegal",
+    "edad": 32,
+    "sexo": "masculino",
+    "salario": 213436,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "republicano"
 }

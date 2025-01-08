@@ -1,14 +1,14 @@
 {
     "id": 1494,
-    "fecha_voto": "2024-08-15",
-    "estado": "Florida",
-    "etnia": "illegal",
-    "edad": 23,
+    "fecha_voto": "2024-08-13",
+    "estado": "Georgia",
+    "etnia": "indian",
+    "edad": 22,
     "sexo": "femenino",
-    "salario": 135645,
+    "salario": 116227,
     "estudios": "graduate",
-    "religion": "other",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 4,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 238,
-    "fecha_voto": "2024-01-07",
-    "estado": "Washington",
-    "etnia": "white",
+    "fecha_voto": "2024-01-06",
+    "estado": "Michigan",
+    "etnia": "hispanic",
     "edad": 31,
-    "sexo": "u",
-    "salario": 338829,
-    "estudios": "doctor",
-    "religion": "hinduism",
+    "sexo": "masculino",
+    "salario": 193671,
+    "estudios": "high school",
+    "religion": "other",
     "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

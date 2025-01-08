@@ -1,14 +1,14 @@
 {
     "id": 1200,
-    "fecha_voto": "2024-06-29",
-    "estado": "Kentucky",
-    "etnia": "asian",
-    "edad": 18,
+    "fecha_voto": "2024-07-22",
+    "estado": "Arkansas",
+    "etnia": "illegal",
+    "edad": 32,
     "sexo": "femenino",
-    "salario": 237234,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": false,
+    "salario": 113858,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": true,
     "hijos": 1,
     "voto": "democrata"
 }

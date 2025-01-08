@@ -1,14 +1,14 @@
 {
     "id": 1936,
-    "fecha_voto": "2024-11-04",
-    "estado": "Arkansas",
-    "etnia": "black",
-    "edad": 95,
-    "sexo": "femenino",
-    "salario": 86641,
-    "estudios": "doctor",
+    "fecha_voto": "2024-11-05",
+    "estado": "Illinois",
+    "etnia": "hispanic",
+    "edad": 76,
+    "sexo": "masculino",
+    "salario": 144811,
+    "estudios": "graduate",
     "religion": "hinduism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
 }

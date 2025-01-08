@@ -1,14 +1,14 @@
 {
     "id": 207,
-    "fecha_voto": "2024-02-03",
-    "estado": "Nevada",
-    "etnia": "white",
-    "edad": 72,
-    "sexo": "l",
-    "salario": 264691,
-    "estudios": "high school",
-    "religion": "hinduism",
+    "fecha_voto": "2024-01-05",
+    "estado": "Colorado",
+    "etnia": "black",
+    "edad": 45,
+    "sexo": "masculino",
+    "salario": 100942,
+    "estudios": "undergraduate",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 4,
     "voto": "republicano"
 }

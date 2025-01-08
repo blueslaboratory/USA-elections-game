@@ -1,14 +1,14 @@
 {
     "id": 1315,
-    "fecha_voto": "2024-09-14",
-    "estado": "Texas",
+    "fecha_voto": "2024-08-08",
+    "estado": "Tennessee",
     "etnia": "indian",
-    "edad": 80,
+    "edad": 78,
     "sexo": "femenino",
-    "salario": 124204,
+    "salario": 106960,
     "estudios": "undergraduate",
-    "religion": "hinduism",
+    "religion": "islam",
     "casado": true,
-    "hijos": 3,
+    "hijos": 1,
     "voto": "republicano"
 }

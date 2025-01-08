@@ -1,14 +1,14 @@
 {
     "id": 1390,
-    "fecha_voto": "2024-08-13",
-    "estado": "Oklahoma",
-    "etnia": "white",
-    "edad": 28,
-    "sexo": "femenino",
-    "salario": 224523,
+    "fecha_voto": "2024-08-29",
+    "estado": "Utah",
+    "etnia": "hispanic",
+    "edad": 69,
+    "sexo": "masculino",
+    "salario": 168347,
     "estudios": "doctor",
-    "religion": "other",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

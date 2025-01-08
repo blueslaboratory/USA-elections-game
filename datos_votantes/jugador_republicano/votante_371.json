@@ -1,14 +1,14 @@
 {
     "id": 371,
-    "fecha_voto": "2024-02-19",
-    "estado": "Wyoming",
+    "fecha_voto": "2024-02-25",
+    "estado": "Kentucky",
     "etnia": "indian",
-    "edad": 51,
-    "sexo": "masculino",
-    "salario": 44960,
-    "estudios": "high school",
+    "edad": 11,
+    "sexo": "femenino",
+    "salario": 58484,
+    "estudios": "undergraduate",
     "religion": "hinduism",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

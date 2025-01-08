@@ -1,14 +1,14 @@
 {
     "id": 1162,
-    "fecha_voto": "2024-07-28",
-    "estado": "Texas",
+    "fecha_voto": "2024-07-11",
+    "estado": "Massachusetts",
     "etnia": "illegal",
-    "edad": 23,
-    "sexo": "masculino",
-    "salario": 47691,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "edad": 20,
+    "sexo": "femenino",
+    "salario": 137098,
+    "estudios": "doctor",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
 }

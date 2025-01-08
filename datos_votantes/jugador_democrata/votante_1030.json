@@ -1,14 +1,14 @@
 {
     "id": 1030,
-    "fecha_voto": "2024-07-25",
-    "estado": "Virginia",
-    "etnia": "indian",
-    "edad": 35,
-    "sexo": "masculino",
-    "salario": 215264,
-    "estudios": "undergraduate",
-    "religion": "christianism",
+    "fecha_voto": "2024-06-25",
+    "estado": "Montana",
+    "etnia": "illegal",
+    "edad": 42,
+    "sexo": "femenino",
+    "salario": 152425,
+    "estudios": "graduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

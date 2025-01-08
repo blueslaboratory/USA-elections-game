@@ -1,14 +1,14 @@
 {
     "id": 1251,
-    "fecha_voto": "2024-08-21",
-    "estado": "Oklahoma",
-    "etnia": "hispanic",
-    "edad": 79,
-    "sexo": "femenino",
-    "salario": 124009,
+    "fecha_voto": "2024-09-02",
+    "estado": "Minnesota",
+    "etnia": "indian",
+    "edad": 93,
+    "sexo": "masculino",
+    "salario": 181101,
     "estudios": "high school",
-    "religion": "christianism",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 5,
     "voto": "republicano"
 }

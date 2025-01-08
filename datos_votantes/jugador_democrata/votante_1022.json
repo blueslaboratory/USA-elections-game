@@ -1,14 +1,14 @@
 {
     "id": 1022,
-    "fecha_voto": "2024-07-27",
-    "estado": "Arizona",
-    "etnia": "indian",
-    "edad": 37,
+    "fecha_voto": "2024-07-31",
+    "estado": "Montana",
+    "etnia": "black",
+    "edad": 38,
     "sexo": "femenino",
-    "salario": 133803,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
+    "salario": 116290,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": false,
     "hijos": 5,
-    "voto": "democrata"
+    "voto": "republicano"
 }

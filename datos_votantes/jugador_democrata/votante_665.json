@@ -1,14 +1,14 @@
 {
     "id": 665,
-    "fecha_voto": "2024-05-02",
-    "estado": "Oklahoma",
-    "etnia": "hispanic",
-    "edad": 39,
-    "sexo": "masculino",
-    "salario": 188261,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": false,
+    "fecha_voto": "2024-04-24",
+    "estado": "Texas",
+    "etnia": "black",
+    "edad": 54,
+    "sexo": "femenino",
+    "salario": 199369,
+    "estudios": "masters",
+    "religion": "atheism",
+    "casado": true,
     "hijos": 1,
-    "voto": "republicano"
+    "voto": "democrata"
 }

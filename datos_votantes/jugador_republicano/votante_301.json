@@ -1,14 +1,14 @@
 {
     "id": 301,
-    "fecha_voto": "2024-03-22",
-    "estado": "Utah",
-    "etnia": "hispanic",
-    "edad": 47,
+    "fecha_voto": "2024-03-12",
+    "estado": "Nevada",
+    "etnia": "asian",
+    "edad": 38,
     "sexo": "femenino",
-    "salario": 105145,
-    "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "salario": 70948,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 2,
+    "voto": "republicano"
 }

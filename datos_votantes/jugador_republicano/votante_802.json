@@ -1,14 +1,14 @@
 {
     "id": 802,
-    "fecha_voto": "2024-06-05",
-    "estado": "Colorado",
-    "etnia": "indian",
-    "edad": 41,
-    "sexo": "masculino",
-    "salario": 51760,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "fecha_voto": "2024-05-27",
+    "estado": "Washington",
+    "etnia": "white",
+    "edad": 55,
+    "sexo": "femenino",
+    "salario": 167125,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

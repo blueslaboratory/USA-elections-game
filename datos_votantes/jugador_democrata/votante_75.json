@@ -1,14 +1,14 @@
 {
     "id": 75,
-    "fecha_voto": "2024-01-15",
-    "estado": "Missouri",
-    "etnia": "indian",
-    "edad": 54,
-    "sexo": "s",
-    "salario": 196427,
-    "estudios": "doctor",
-    "religion": "hinduism",
+    "fecha_voto": "2024-01-13",
+    "estado": "New Mexico",
+    "etnia": "hispanic",
+    "edad": 50,
+    "sexo": "femenino",
+    "salario": 48448,
+    "estudios": "masters",
+    "religion": "other",
     "casado": false,
-    "hijos": 3,
+    "hijos": 0,
     "voto": "democrata"
 }

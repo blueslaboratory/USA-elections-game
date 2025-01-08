@@ -1,14 +1,14 @@
 {
     "id": 1190,
-    "fecha_voto": "2024-07-07",
-    "estado": "Iowa",
-    "etnia": "illegal",
-    "edad": 38,
+    "fecha_voto": "2024-07-09",
+    "estado": "Maine",
+    "etnia": "asian",
+    "edad": 33,
     "sexo": "femenino",
-    "salario": 147513,
-    "estudios": "high school",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "salario": 238344,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 2,
+    "voto": "democrata"
 }

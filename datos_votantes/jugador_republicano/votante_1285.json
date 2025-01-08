@@ -1,14 +1,14 @@
 {
     "id": 1285,
-    "fecha_voto": "2024-09-09",
-    "estado": "Alabama",
-    "etnia": "hispanic",
-    "edad": 55,
-    "sexo": "masculino",
-    "salario": 224804,
-    "estudios": "masters",
-    "religion": "judaism",
+    "fecha_voto": "2024-08-17",
+    "estado": "Georgia",
+    "etnia": "black",
+    "edad": 86,
+    "sexo": "femenino",
+    "salario": 144630,
+    "estudios": "graduate",
+    "religion": "atheism",
     "casado": false,
     "hijos": 2,
-    "voto": "republicano"
+    "voto": "democrata"
 }

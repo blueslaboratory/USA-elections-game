@@ -1,14 +1,14 @@
 {
     "id": 1207,
-    "fecha_voto": "2024-07-12",
-    "estado": "Montana",
+    "fecha_voto": "2024-07-18",
+    "estado": "Alabama",
     "etnia": "asian",
-    "edad": 47,
+    "edad": 51,
     "sexo": "femenino",
-    "salario": 31201,
-    "estudios": "undergraduate",
+    "salario": 70501,
+    "estudios": "graduate",
     "religion": "other",
-    "casado": false,
-    "hijos": 1,
+    "casado": true,
+    "hijos": 2,
     "voto": "republicano"
 }

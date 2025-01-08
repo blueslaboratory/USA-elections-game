@@ -1,14 +1,14 @@
 {
     "id": 1918,
-    "fecha_voto": "2024-11-05",
-    "estado": "North Carolina",
-    "etnia": "asian",
-    "edad": 86,
+    "fecha_voto": "2024-11-04",
+    "estado": "Maine",
+    "etnia": "illegal",
+    "edad": 88,
     "sexo": "masculino",
-    "salario": 89800,
-    "estudios": "undergraduate",
-    "religion": "atheism",
+    "salario": 150781,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 3,
+    "hijos": 0,
     "voto": "republicano"
 }

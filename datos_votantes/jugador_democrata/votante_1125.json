@@ -1,14 +1,14 @@
 {
     "id": 1125,
-    "fecha_voto": "2024-06-30",
-    "estado": "Kentucky",
-    "etnia": "illegal",
-    "edad": 45,
-    "sexo": "masculino",
-    "salario": 199108,
+    "fecha_voto": "2024-07-21",
+    "estado": "Rhode Island",
+    "etnia": "asian",
+    "edad": 53,
+    "sexo": "femenino",
+    "salario": 241666,
     "estudios": "undergraduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

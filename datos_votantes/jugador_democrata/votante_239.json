@@ -1,14 +1,14 @@
 {
     "id": 239,
-    "fecha_voto": "2024-01-23",
-    "estado": "Vermont",
-    "etnia": "asian",
-    "edad": 44,
-    "sexo": "o",
-    "salario": 139304,
+    "fecha_voto": "2024-02-06",
+    "estado": "North Dakota",
+    "etnia": "white",
+    "edad": 78,
+    "sexo": "femenino",
+    "salario": 165093,
     "estudios": "graduate",
     "religion": "islam",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

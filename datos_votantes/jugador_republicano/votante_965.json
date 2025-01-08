@@ -1,14 +1,14 @@
 {
     "id": 965,
-    "fecha_voto": "2024-06-14",
-    "estado": "Wisconsin",
-    "etnia": "hispanic",
-    "edad": 48,
-    "sexo": "masculino",
-    "salario": 48313,
-    "estudios": "graduate",
-    "religion": "islam",
+    "fecha_voto": "2024-05-15",
+    "estado": "Indiana",
+    "etnia": "white",
+    "edad": 41,
+    "sexo": "femenino",
+    "salario": 162838,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

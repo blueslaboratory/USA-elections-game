@@ -1,14 +1,14 @@
 {
     "id": 8,
-    "fecha_voto": "2024-02-07",
-    "estado": "Oklahoma",
-    "etnia": "illegal",
-    "edad": 56,
-    "sexo": "o",
-    "salario": 343896,
+    "fecha_voto": "2024-02-06",
+    "estado": "Virginia",
+    "etnia": "white",
+    "edad": 77,
+    "sexo": "femenino",
+    "salario": 213198,
     "estudios": "graduate",
-    "religion": "hinduism",
+    "religion": "islam",
     "casado": true,
-    "hijos": 1,
+    "hijos": 5,
     "voto": "republicano"
 }

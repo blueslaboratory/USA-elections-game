@@ -1,14 +1,14 @@
 {
     "id": 445,
-    "fecha_voto": "2024-02-27",
-    "estado": "Michigan",
-    "etnia": "asian",
-    "edad": 38,
-    "sexo": "masculino",
-    "salario": 163064,
-    "estudios": "high school",
-    "religion": "christianism",
+    "fecha_voto": "2024-03-02",
+    "estado": "California",
+    "etnia": "white",
+    "edad": 33,
+    "sexo": "femenino",
+    "salario": 67705,
+    "estudios": "graduate",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

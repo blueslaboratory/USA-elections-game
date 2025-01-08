@@ -1,14 +1,14 @@
 {
     "id": 1312,
-    "fecha_voto": "2024-08-27",
-    "estado": "Colorado",
+    "fecha_voto": "2024-08-14",
+    "estado": "Kentucky",
     "etnia": "asian",
-    "edad": 44,
+    "edad": 43,
     "sexo": "femenino",
-    "salario": 48260,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
+    "salario": 207226,
+    "estudios": "undergraduate",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 3,
     "voto": "democrata"
 }

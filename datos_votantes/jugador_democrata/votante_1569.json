@@ -1,14 +1,14 @@
 {
     "id": 1569,
-    "fecha_voto": "2024-10-05",
-    "estado": "New York",
+    "fecha_voto": "2024-10-03",
+    "estado": "Alabama",
     "etnia": "hispanic",
-    "edad": 21,
-    "sexo": "femenino",
-    "salario": 195669,
+    "edad": 50,
+    "sexo": "masculino",
+    "salario": 99101,
     "estudios": "high school",
-    "religion": "islam",
+    "religion": "other",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

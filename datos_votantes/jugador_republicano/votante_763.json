@@ -1,14 +1,14 @@
 {
     "id": 763,
-    "fecha_voto": "2024-05-14",
-    "estado": "Utah",
-    "etnia": "indian",
-    "edad": 51,
-    "sexo": "masculino",
-    "salario": 88805,
-    "estudios": "masters",
-    "religion": "atheism",
+    "fecha_voto": "2024-05-19",
+    "estado": "New Hampshire",
+    "etnia": "hispanic",
+    "edad": 59,
+    "sexo": "femenino",
+    "salario": 46978,
+    "estudios": "high school",
+    "religion": "other",
     "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

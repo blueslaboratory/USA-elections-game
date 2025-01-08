@@ -1,14 +1,14 @@
 {
     "id": 398,
-    "fecha_voto": "2024-02-29",
-    "estado": "Mississippi",
-    "etnia": "indian",
-    "edad": 70,
+    "fecha_voto": "2024-02-21",
+    "estado": "Pennsylvania",
+    "etnia": "white",
+    "edad": 49,
     "sexo": "femenino",
-    "salario": 129272,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "salario": 243418,
+    "estudios": "masters",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 1,
+    "voto": "democrata"
 }

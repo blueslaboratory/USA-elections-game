@@ -1,14 +1,14 @@
 {
     "id": 1530,
-    "fecha_voto": "2024-10-28",
-    "estado": "Illinois",
+    "fecha_voto": "2024-10-11",
+    "estado": "Texas",
     "etnia": "hispanic",
-    "edad": 18,
-    "sexo": "femenino",
-    "salario": 110839,
-    "estudios": "masters",
-    "religion": "christianism",
+    "edad": 95,
+    "sexo": "masculino",
+    "salario": 141303,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

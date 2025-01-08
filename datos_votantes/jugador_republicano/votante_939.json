@@ -1,14 +1,14 @@
 {
     "id": 939,
-    "fecha_voto": "2024-05-13",
-    "estado": "Maine",
-    "etnia": "white",
-    "edad": 37,
-    "sexo": "masculino",
-    "salario": 169949,
-    "estudios": "undergraduate",
-    "religion": "atheism",
+    "fecha_voto": "2024-06-13",
+    "estado": "Idaho",
+    "etnia": "hispanic",
+    "edad": 39,
+    "sexo": "femenino",
+    "salario": 139580,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 0,
     "voto": "republicano"
 }

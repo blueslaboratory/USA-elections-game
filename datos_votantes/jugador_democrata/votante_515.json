@@ -1,14 +1,14 @@
 {
     "id": 515,
-    "fecha_voto": "2024-04-04",
-    "estado": "Nebraska",
-    "etnia": "illegal",
-    "edad": 80,
+    "fecha_voto": "2024-04-25",
+    "estado": "Missouri",
+    "etnia": "white",
+    "edad": 26,
     "sexo": "masculino",
-    "salario": 234431,
+    "salario": 154704,
     "estudios": "doctor",
-    "religion": "islam",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
+    "hijos": 0,
     "voto": "democrata"
 }

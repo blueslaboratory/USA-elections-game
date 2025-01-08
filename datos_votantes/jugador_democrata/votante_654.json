@@ -1,14 +1,14 @@
 {
     "id": 654,
-    "fecha_voto": "2024-04-10",
-    "estado": "Maryland",
-    "etnia": "illegal",
-    "edad": 40,
+    "fecha_voto": "2024-05-10",
+    "estado": "West Virginia",
+    "etnia": "white",
+    "edad": 39,
     "sexo": "femenino",
-    "salario": 30721,
+    "salario": 135431,
     "estudios": "masters",
     "religion": "islam",
     "casado": false,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "democrata"
 }

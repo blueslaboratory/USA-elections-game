@@ -1,14 +1,14 @@
 {
     "id": 1012,
-    "fecha_voto": "2024-08-01",
-    "estado": "Pennsylvania",
+    "fecha_voto": "2024-07-10",
+    "estado": "Massachusetts",
     "etnia": "white",
-    "edad": 27,
+    "edad": 37,
     "sexo": "femenino",
-    "salario": 217832,
-    "estudios": "undergraduate",
-    "religion": "other",
-    "casado": true,
-    "hijos": 5,
+    "salario": 149038,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 1,
     "voto": "democrata"
 }

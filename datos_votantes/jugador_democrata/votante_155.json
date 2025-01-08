@@ -1,14 +1,14 @@
 {
     "id": 155,
-    "fecha_voto": "2024-02-04",
-    "estado": "Nebraska",
-    "etnia": "indian",
-    "edad": 35,
-    "sexo": "i",
-    "salario": 119135,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "fecha_voto": "2024-01-27",
+    "estado": "North Dakota",
+    "etnia": "hispanic",
+    "edad": 80,
+    "sexo": "femenino",
+    "salario": 44209,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

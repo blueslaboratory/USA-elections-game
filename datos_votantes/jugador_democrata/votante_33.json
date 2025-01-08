@@ -1,14 +1,14 @@
 {
     "id": 33,
-    "fecha_voto": "2024-01-05",
-    "estado": "Connecticut",
-    "etnia": "asian",
-    "edad": 18,
-    "sexo": "c",
-    "salario": 247777,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-01-14",
+    "estado": "Arkansas",
+    "etnia": "hispanic",
+    "edad": 59,
+    "sexo": "masculino",
+    "salario": 208184,
+    "estudios": "masters",
     "religion": "other",
-    "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

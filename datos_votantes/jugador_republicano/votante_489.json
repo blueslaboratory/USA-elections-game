@@ -1,14 +1,14 @@
 {
     "id": 489,
-    "fecha_voto": "2024-02-18",
-    "estado": "Kentucky",
-    "etnia": "hispanic",
-    "edad": 48,
-    "sexo": "masculino",
-    "salario": 94454,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "fecha_voto": "2024-03-22",
+    "estado": "Ohio",
+    "etnia": "indian",
+    "edad": 35,
+    "sexo": "femenino",
+    "salario": 179099,
+    "estudios": "masters",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

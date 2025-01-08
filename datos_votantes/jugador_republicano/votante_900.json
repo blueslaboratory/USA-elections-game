@@ -1,14 +1,14 @@
 {
     "id": 900,
-    "fecha_voto": "2024-05-18",
-    "estado": "Kentucky",
-    "etnia": "white",
-    "edad": 29,
+    "fecha_voto": "2024-05-23",
+    "estado": "Florida",
+    "etnia": "hispanic",
+    "edad": 58,
     "sexo": "masculino",
-    "salario": 188410,
-    "estudios": "masters",
-    "religion": "hinduism",
+    "salario": 142830,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

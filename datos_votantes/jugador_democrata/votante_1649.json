@@ -1,14 +1,14 @@
 {
     "id": 1649,
-    "fecha_voto": "2024-10-16",
-    "estado": "California",
-    "etnia": "black",
-    "edad": 29,
+    "fecha_voto": "2024-09-29",
+    "estado": "New York",
+    "etnia": "hispanic",
+    "edad": 39,
     "sexo": "femenino",
-    "salario": 131562,
+    "salario": 206104,
     "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 1,
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 905,
-    "fecha_voto": "2024-06-23",
-    "estado": "Virginia",
-    "etnia": "asian",
-    "edad": 38,
+    "fecha_voto": "2024-06-21",
+    "estado": "Indiana",
+    "etnia": "hispanic",
+    "edad": 91,
     "sexo": "masculino",
-    "salario": 199470,
-    "estudios": "graduate",
-    "religion": "hinduism",
+    "salario": 152101,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 1,
+    "hijos": 5,
     "voto": "republicano"
 }

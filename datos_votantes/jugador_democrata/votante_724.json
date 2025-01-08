@@ -1,14 +1,14 @@
 {
     "id": 724,
-    "fecha_voto": "2024-04-23",
-    "estado": "Arkansas",
-    "etnia": "illegal",
-    "edad": 87,
+    "fecha_voto": "2024-04-13",
+    "estado": "California",
+    "etnia": "asian",
+    "edad": 40,
     "sexo": "masculino",
-    "salario": 225370,
-    "estudios": "high school",
-    "religion": "atheism",
+    "salario": 146639,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

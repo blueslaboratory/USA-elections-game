@@ -1,14 +1,14 @@
 {
     "id": 653,
-    "fecha_voto": "2024-04-04",
-    "estado": "Alabama",
-    "etnia": "illegal",
-    "edad": 37,
-    "sexo": "masculino",
-    "salario": 118899,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "fecha_voto": "2024-04-27",
+    "estado": "Nebraska",
+    "etnia": "asian",
+    "edad": 22,
+    "sexo": "femenino",
+    "salario": 49767,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

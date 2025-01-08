@@ -1,14 +1,14 @@
 {
     "id": 1988,
-    "fecha_voto": "2024-11-05",
-    "estado": "Virginia",
+    "fecha_voto": "2024-11-04",
+    "estado": "South Dakota",
     "etnia": "illegal",
-    "edad": 97,
-    "sexo": "femenino",
-    "salario": 83660,
-    "estudios": "masters",
+    "edad": 84,
+    "sexo": "masculino",
+    "salario": 200150,
+    "estudios": "doctor",
     "religion": "atheism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 4,
     "voto": "democrata"
 }

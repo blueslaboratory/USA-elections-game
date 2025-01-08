@@ -1,14 +1,14 @@
 {
     "id": 603,
-    "fecha_voto": "2024-04-05",
-    "estado": "Maryland",
-    "etnia": "hispanic",
-    "edad": 47,
+    "fecha_voto": "2024-05-01",
+    "estado": "Minnesota",
+    "etnia": "asian",
+    "edad": 65,
     "sexo": "femenino",
-    "salario": 164469,
-    "estudios": "high school",
-    "religion": "other",
+    "salario": 66317,
+    "estudios": "graduate",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

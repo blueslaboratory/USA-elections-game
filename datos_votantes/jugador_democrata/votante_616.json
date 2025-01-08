@@ -1,14 +1,14 @@
 {
     "id": 616,
     "fecha_voto": "2024-05-03",
-    "estado": "Wisconsin",
-    "etnia": "hispanic",
-    "edad": 82,
-    "sexo": "masculino",
-    "salario": 59097,
-    "estudios": "high school",
-    "religion": "atheism",
+    "estado": "Idaho",
+    "etnia": "indian",
+    "edad": 85,
+    "sexo": "femenino",
+    "salario": 119359,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 3,
+    "hijos": 2,
     "voto": "republicano"
 }

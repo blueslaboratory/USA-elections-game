@@ -1,14 +1,14 @@
 {
     "id": 474,
-    "fecha_voto": "2024-03-04",
-    "estado": "Louisiana",
-    "etnia": "black",
-    "edad": 39,
-    "sexo": "masculino",
-    "salario": 242565,
-    "estudios": "masters",
-    "religion": "christianism",
+    "fecha_voto": "2024-02-22",
+    "estado": "West Virginia",
+    "etnia": "indian",
+    "edad": 27,
+    "sexo": "femenino",
+    "salario": 70134,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

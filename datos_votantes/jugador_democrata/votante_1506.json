@@ -1,14 +1,14 @@
 {
     "id": 1506,
-    "fecha_voto": "2024-10-29",
-    "estado": "Connecticut",
-    "etnia": "white",
-    "edad": 22,
+    "fecha_voto": "2024-11-01",
+    "estado": "Iowa",
+    "etnia": "hispanic",
+    "edad": 44,
     "sexo": "femenino",
-    "salario": 203768,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "salario": 31266,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

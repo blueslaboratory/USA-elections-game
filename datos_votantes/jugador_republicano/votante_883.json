@@ -1,14 +1,14 @@
 {
     "id": 883,
-    "fecha_voto": "2024-06-01",
-    "estado": "New York",
-    "etnia": "asian",
-    "edad": 20,
-    "sexo": "masculino",
-    "salario": 138707,
-    "estudios": "masters",
+    "fecha_voto": "2024-06-11",
+    "estado": "Vermont",
+    "etnia": "white",
+    "edad": 29,
+    "sexo": "femenino",
+    "salario": 103906,
+    "estudios": "undergraduate",
     "religion": "other",
-    "casado": false,
-    "hijos": 2,
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

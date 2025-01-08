@@ -1,14 +1,14 @@
 {
     "id": 1198,
-    "fecha_voto": "2024-07-22",
-    "estado": "Kansas",
+    "fecha_voto": "2024-07-05",
+    "estado": "Nebraska",
     "etnia": "illegal",
-    "edad": 37,
+    "edad": 40,
     "sexo": "femenino",
-    "salario": 171593,
+    "salario": 151242,
     "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 1,
+    "religion": "other",
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

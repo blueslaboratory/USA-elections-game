@@ -1,14 +1,14 @@
 {
     "id": 948,
-    "fecha_voto": "2024-05-17",
-    "estado": "Arkansas",
+    "fecha_voto": "2024-05-13",
+    "estado": "Wisconsin",
     "etnia": "hispanic",
-    "edad": 21,
+    "edad": 45,
     "sexo": "masculino",
-    "salario": 132551,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
+    "salario": 66095,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 1,
     "voto": "republicano"
 }

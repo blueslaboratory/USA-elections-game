@@ -1,14 +1,14 @@
 {
     "id": 1212,
-    "fecha_voto": "2024-07-10",
-    "estado": "Washington",
+    "fecha_voto": "2024-07-26",
+    "estado": "Connecticut",
     "etnia": "black",
-    "edad": 19,
+    "edad": 47,
     "sexo": "femenino",
-    "salario": 175438,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
+    "salario": 139986,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
     "hijos": 5,
     "voto": "democrata"
 }

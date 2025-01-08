@@ -1,14 +1,14 @@
 {
     "id": 350,
-    "fecha_voto": "2024-03-08",
-    "estado": "Pennsylvania",
-    "etnia": "illegal",
-    "edad": 21,
-    "sexo": "femenino",
-    "salario": 123037,
+    "fecha_voto": "2024-02-18",
+    "estado": "Kentucky",
+    "etnia": "asian",
+    "edad": 48,
+    "sexo": "masculino",
+    "salario": 228135,
     "estudios": "graduate",
     "religion": "judaism",
     "casado": false,
     "hijos": 0,
-    "voto": "democrata"
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 913,
-    "fecha_voto": "2024-06-23",
-    "estado": "Mississippi",
-    "etnia": "asian",
-    "edad": 44,
-    "sexo": "masculino",
-    "salario": 169276,
-    "estudios": "high school",
-    "religion": "hinduism",
+    "fecha_voto": "2024-05-31",
+    "estado": "Utah",
+    "etnia": "hispanic",
+    "edad": 55,
+    "sexo": "femenino",
+    "salario": 79370,
+    "estudios": "masters",
+    "religion": "other",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

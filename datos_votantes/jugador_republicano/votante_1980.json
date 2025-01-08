@@ -1,14 +1,14 @@
 {
     "id": 1980,
     "fecha_voto": "2024-11-04",
-    "estado": "Mississippi",
-    "etnia": "white",
-    "edad": 24,
+    "estado": "Kansas",
+    "etnia": "illegal",
+    "edad": 36,
     "sexo": "masculino",
-    "salario": 121700,
-    "estudios": "undergraduate",
+    "salario": 160674,
+    "estudios": "masters",
     "religion": "judaism",
-    "casado": false,
+    "casado": true,
     "hijos": 3,
-    "voto": "republicano"
+    "voto": "democrata"
 }

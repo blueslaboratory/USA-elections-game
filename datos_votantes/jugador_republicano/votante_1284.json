@@ -1,14 +1,14 @@
 {
     "id": 1284,
-    "fecha_voto": "2024-08-21",
-    "estado": "Maine",
-    "etnia": "black",
-    "edad": 50,
-    "sexo": "femenino",
-    "salario": 45433,
+    "fecha_voto": "2024-09-16",
+    "estado": "Missouri",
+    "etnia": "indian",
+    "edad": 60,
+    "sexo": "masculino",
+    "salario": 49579,
     "estudios": "graduate",
-    "religion": "atheism",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

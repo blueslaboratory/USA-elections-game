@@ -1,14 +1,14 @@
 {
     "id": 912,
-    "fecha_voto": "2024-06-06",
-    "estado": "California",
-    "etnia": "black",
-    "edad": 39,
+    "fecha_voto": "2024-06-04",
+    "estado": "Oklahoma",
+    "etnia": "hispanic",
+    "edad": 23,
     "sexo": "masculino",
-    "salario": 170894,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "salario": 167565,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
 }

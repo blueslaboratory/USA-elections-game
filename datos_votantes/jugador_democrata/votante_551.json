@@ -1,14 +1,14 @@
 {
     "id": 551,
-    "fecha_voto": "2024-04-04",
-    "estado": "Wisconsin",
+    "fecha_voto": "2024-04-23",
+    "estado": "Connecticut",
     "etnia": "illegal",
-    "edad": 64,
-    "sexo": "masculino",
-    "salario": 214110,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
+    "edad": 97,
+    "sexo": "femenino",
+    "salario": 181682,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

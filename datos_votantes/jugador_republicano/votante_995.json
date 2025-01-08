@@ -1,14 +1,14 @@
 {
     "id": 995,
-    "fecha_voto": "2024-06-13",
-    "estado": "Wyoming",
-    "etnia": "indian",
-    "edad": 27,
-    "sexo": "masculino",
-    "salario": 57808,
+    "fecha_voto": "2024-05-24",
+    "estado": "Virginia",
+    "etnia": "white",
+    "edad": 64,
+    "sexo": "femenino",
+    "salario": 57035,
     "estudios": "doctor",
-    "religion": "islam",
-    "casado": false,
+    "religion": "christianism",
+    "casado": true,
     "hijos": 5,
     "voto": "democrata"
 }

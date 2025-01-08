@@ -1,14 +1,14 @@
 {
     "id": 1145,
-    "fecha_voto": "2024-06-26",
-    "estado": "New Jersey",
-    "etnia": "white",
-    "edad": 21,
-    "sexo": "masculino",
-    "salario": 205505,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "fecha_voto": "2024-07-01",
+    "estado": "Minnesota",
+    "etnia": "illegal",
+    "edad": 49,
+    "sexo": "femenino",
+    "salario": 195766,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

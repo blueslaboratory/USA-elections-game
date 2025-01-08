@@ -1,14 +1,14 @@
 {
     "id": 235,
-    "fecha_voto": "2024-01-30",
-    "estado": "Wisconsin",
+    "fecha_voto": "2024-02-05",
+    "estado": "Arkansas",
     "etnia": "black",
-    "edad": 38,
-    "sexo": "u",
-    "salario": 209478,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "edad": 63,
+    "sexo": "femenino",
+    "salario": 82401,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

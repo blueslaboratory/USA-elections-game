@@ -1,14 +1,14 @@
 {
     "id": 1606,
     "fecha_voto": "2024-10-09",
-    "estado": "Maryland",
-    "etnia": "asian",
-    "edad": 29,
-    "sexo": "femenino",
-    "salario": 144732,
-    "estudios": "doctor",
+    "estado": "Connecticut",
+    "etnia": "hispanic",
+    "edad": 84,
+    "sexo": "masculino",
+    "salario": 111951,
+    "estudios": "undergraduate",
     "religion": "islam",
     "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

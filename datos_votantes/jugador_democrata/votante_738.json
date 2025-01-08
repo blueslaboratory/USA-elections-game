@@ -1,14 +1,14 @@
 {
     "id": 738,
-    "fecha_voto": "2024-04-12",
-    "estado": "North Carolina",
-    "etnia": "hispanic",
-    "edad": 35,
+    "fecha_voto": "2024-05-05",
+    "estado": "Tennessee",
+    "etnia": "indian",
+    "edad": 88,
     "sexo": "femenino",
-    "salario": 134149,
-    "estudios": "high school",
+    "salario": 198041,
+    "estudios": "doctor",
     "religion": "hinduism",
     "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

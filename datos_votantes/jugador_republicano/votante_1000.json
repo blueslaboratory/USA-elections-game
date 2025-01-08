@@ -1,14 +1,14 @@
 {
     "id": 1000,
-    "fecha_voto": "2024-05-17",
-    "estado": "Connecticut",
-    "etnia": "indian",
-    "edad": 40,
+    "fecha_voto": "2024-06-21",
+    "estado": "Arizona",
+    "etnia": "white",
+    "edad": 97,
     "sexo": "masculino",
-    "salario": 49813,
-    "estudios": "undergraduate",
+    "salario": 58187,
+    "estudios": "high school",
     "religion": "other",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 2,
+    "voto": "republicano"
 }

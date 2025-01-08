@@ -1,14 +1,14 @@
 {
     "id": 1452,
-    "fecha_voto": "2024-08-30",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-09-10",
+    "estado": "Kentucky",
     "etnia": "indian",
-    "edad": 39,
+    "edad": 27,
     "sexo": "femenino",
-    "salario": 181056,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "salario": 104306,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 369,
-    "fecha_voto": "2024-02-17",
-    "estado": "Michigan",
+    "fecha_voto": "2024-03-12",
+    "estado": "North Carolina",
     "etnia": "indian",
-    "edad": 38,
-    "sexo": "femenino",
-    "salario": 107493,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 1,
+    "edad": 17,
+    "sexo": "masculino",
+    "salario": 249401,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

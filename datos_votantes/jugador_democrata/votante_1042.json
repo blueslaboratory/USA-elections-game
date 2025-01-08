@@ -1,14 +1,14 @@
 {
     "id": 1042,
-    "fecha_voto": "2024-07-11",
-    "estado": "North Dakota",
-    "etnia": "indian",
-    "edad": 29,
-    "sexo": "masculino",
-    "salario": 92493,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
+    "fecha_voto": "2024-08-01",
+    "estado": "California",
+    "etnia": "illegal",
+    "edad": 32,
+    "sexo": "femenino",
+    "salario": 50501,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": true,
     "hijos": 2,
     "voto": "democrata"
 }

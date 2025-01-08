@@ -1,14 +1,14 @@
 {
     "id": 1246,
-    "fecha_voto": "2024-07-22",
-    "estado": "Oregon",
-    "etnia": "illegal",
-    "edad": 34,
+    "fecha_voto": "2024-07-19",
+    "estado": "Nebraska",
+    "etnia": "indian",
+    "edad": 29,
     "sexo": "femenino",
-    "salario": 144343,
-    "estudios": "graduate",
-    "religion": "atheism",
+    "salario": 227927,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": true,
-    "hijos": 5,
+    "hijos": 4,
     "voto": "democrata"
 }

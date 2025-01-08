@@ -1,14 +1,14 @@
 {
     "id": 1071,
     "fecha_voto": "2024-07-01",
-    "estado": "Missouri",
-    "etnia": "hispanic",
-    "edad": 29,
+    "estado": "Washington",
+    "etnia": "illegal",
+    "edad": 45,
     "sexo": "femenino",
-    "salario": 33378,
-    "estudios": "doctor",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 2,
+    "salario": 61959,
+    "estudios": "masters",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 3,
     "voto": "democrata"
 }

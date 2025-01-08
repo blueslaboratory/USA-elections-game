@@ -1,14 +1,14 @@
 {
     "id": 1795,
     "fecha_voto": "2024-11-05",
-    "estado": "Arkansas",
-    "etnia": "white",
-    "edad": 62,
-    "sexo": "femenino",
-    "salario": 234131,
+    "estado": "Washington",
+    "etnia": "asian",
+    "edad": 85,
+    "sexo": "masculino",
+    "salario": 67580,
     "estudios": "doctor",
-    "religion": "other",
+    "religion": "atheism",
     "casado": true,
     "hijos": 3,
-    "voto": "republicano"
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 914,
-    "fecha_voto": "2024-06-20",
-    "estado": "Kentucky",
-    "etnia": "white",
-    "edad": 31,
-    "sexo": "masculino",
-    "salario": 48550,
+    "fecha_voto": "2024-06-04",
+    "estado": "New York",
+    "etnia": "hispanic",
+    "edad": 43,
+    "sexo": "femenino",
+    "salario": 235233,
     "estudios": "graduate",
-    "religion": "judaism",
+    "religion": "other",
     "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

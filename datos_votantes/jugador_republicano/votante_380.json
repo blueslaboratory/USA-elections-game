@@ -1,14 +1,14 @@
 {
     "id": 380,
-    "fecha_voto": "2024-03-11",
-    "estado": "Nebraska",
+    "fecha_voto": "2024-02-22",
+    "estado": "Alaska",
     "etnia": "indian",
-    "edad": 19,
-    "sexo": "femenino",
-    "salario": 50632,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
+    "edad": 28,
+    "sexo": "masculino",
+    "salario": 128887,
+    "estudios": "high school",
+    "religion": "judaism",
     "casado": false,
     "hijos": 4,
-    "voto": "democrata"
+    "voto": "republicano"
 }

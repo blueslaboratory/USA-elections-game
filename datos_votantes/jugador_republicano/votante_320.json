@@ -1,14 +1,14 @@
 {
     "id": 320,
-    "fecha_voto": "2024-02-29",
-    "estado": "Rhode Island",
-    "etnia": "white",
-    "edad": 88,
-    "sexo": "masculino",
-    "salario": 229160,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": true,
+    "fecha_voto": "2024-02-14",
+    "estado": "Washington",
+    "etnia": "illegal",
+    "edad": 49,
+    "sexo": "femenino",
+    "salario": 160975,
+    "estudios": "undergraduate",
+    "religion": "atheism",
+    "casado": false,
     "hijos": 2,
-    "voto": "republicano"
+    "voto": "democrata"
 }

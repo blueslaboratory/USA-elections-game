@@ -1,14 +1,14 @@
 {
     "id": 1959,
-    "fecha_voto": "2024-11-04",
-    "estado": "New Mexico",
+    "fecha_voto": "2024-11-05",
+    "estado": "Missouri",
     "etnia": "asian",
-    "edad": 76,
-    "sexo": "femenino",
-    "salario": 177917,
-    "estudios": "doctor",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "edad": 93,
+    "sexo": "masculino",
+    "salario": 153051,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "republicano"
 }

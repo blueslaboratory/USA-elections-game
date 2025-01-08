@@ -1,14 +1,14 @@
 {
     "id": 133,
-    "fecha_voto": "2024-01-11",
-    "estado": "New Mexico",
-    "etnia": "white",
-    "edad": 90,
-    "sexo": "n",
-    "salario": 112995,
-    "estudios": "graduate",
+    "fecha_voto": "2024-02-10",
+    "estado": "Rhode Island",
+    "etnia": "illegal",
+    "edad": 58,
+    "sexo": "masculino",
+    "salario": 60685,
+    "estudios": "masters",
     "religion": "hinduism",
-    "casado": false,
+    "casado": true,
     "hijos": 2,
-    "voto": "republicano"
+    "voto": "democrata"
 }

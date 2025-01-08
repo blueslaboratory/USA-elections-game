@@ -1,14 +1,14 @@
 {
     "id": 1785,
     "fecha_voto": "2024-11-04",
-    "estado": "West Virginia",
-    "etnia": "white",
-    "edad": 59,
-    "sexo": "femenino",
-    "salario": 199606,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": false,
+    "estado": "North Dakota",
+    "etnia": "asian",
+    "edad": 72,
+    "sexo": "masculino",
+    "salario": 190389,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": true,
     "hijos": 4,
     "voto": "republicano"
 }

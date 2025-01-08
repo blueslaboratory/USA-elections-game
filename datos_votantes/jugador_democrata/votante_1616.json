@@ -1,14 +1,14 @@
 {
     "id": 1616,
-    "fecha_voto": "2024-10-19",
-    "estado": "Arizona",
-    "etnia": "black",
-    "edad": 26,
-    "sexo": "femenino",
-    "salario": 211369,
+    "fecha_voto": "2024-09-28",
+    "estado": "Tennessee",
+    "etnia": "hispanic",
+    "edad": 46,
+    "sexo": "masculino",
+    "salario": 115190,
     "estudios": "doctor",
-    "religion": "islam",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

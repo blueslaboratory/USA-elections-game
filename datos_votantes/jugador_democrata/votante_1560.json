@@ -1,14 +1,14 @@
 {
     "id": 1560,
-    "fecha_voto": "2024-10-18",
-    "estado": "Illinois",
-    "etnia": "white",
-    "edad": 22,
+    "fecha_voto": "2024-10-30",
+    "estado": "New Hampshire",
+    "etnia": "illegal",
+    "edad": 91,
     "sexo": "femenino",
-    "salario": 152072,
-    "estudios": "undergraduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 1,
+    "salario": 126179,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

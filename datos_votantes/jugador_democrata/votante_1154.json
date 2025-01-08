@@ -1,14 +1,14 @@
 {
     "id": 1154,
-    "fecha_voto": "2024-07-25",
-    "estado": "Massachusetts",
+    "fecha_voto": "2024-08-01",
+    "estado": "Washington",
     "etnia": "illegal",
-    "edad": 27,
-    "sexo": "masculino",
-    "salario": 196400,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": true,
-    "hijos": 0,
+    "edad": 31,
+    "sexo": "femenino",
+    "salario": 169856,
+    "estudios": "masters",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1840,
-    "fecha_voto": "2024-11-04",
-    "estado": "North Dakota",
-    "etnia": "illegal",
-    "edad": 97,
+    "fecha_voto": "2024-11-05",
+    "estado": "New Jersey",
+    "etnia": "indian",
+    "edad": 84,
     "sexo": "masculino",
-    "salario": 110746,
-    "estudios": "high school",
-    "religion": "christianism",
+    "salario": 238739,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

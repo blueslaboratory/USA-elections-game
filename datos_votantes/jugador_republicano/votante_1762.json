@@ -1,14 +1,14 @@
 {
     "id": 1762,
     "fecha_voto": "2024-11-04",
-    "estado": "Mississippi",
-    "etnia": "illegal",
-    "edad": 58,
+    "estado": "Delaware",
+    "etnia": "black",
+    "edad": 56,
     "sexo": "masculino",
-    "salario": 245637,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "salario": 178838,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 280,
-    "fecha_voto": "2024-02-24",
-    "estado": "Florida",
-    "etnia": "black",
-    "edad": 54,
+    "fecha_voto": "2024-02-28",
+    "estado": "Pennsylvania",
+    "etnia": "indian",
+    "edad": 24,
     "sexo": "femenino",
-    "salario": 97547,
+    "salario": 59420,
     "estudios": "undergraduate",
-    "religion": "hinduism",
+    "religion": "other",
     "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

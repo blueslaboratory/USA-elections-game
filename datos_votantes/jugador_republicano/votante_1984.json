@@ -1,14 +1,14 @@
 {
     "id": 1984,
-    "fecha_voto": "2024-11-05",
-    "estado": "Tennessee",
-    "etnia": "white",
-    "edad": 19,
+    "fecha_voto": "2024-11-04",
+    "estado": "Oklahoma",
+    "etnia": "black",
+    "edad": 68,
     "sexo": "masculino",
-    "salario": 239654,
-    "estudios": "undergraduate",
-    "religion": "other",
-    "casado": true,
-    "hijos": 3,
+    "salario": 87341,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 2,
     "voto": "republicano"
 }

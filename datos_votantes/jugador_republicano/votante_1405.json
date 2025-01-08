@@ -1,14 +1,14 @@
 {
     "id": 1405,
-    "fecha_voto": "2024-08-20",
-    "estado": "New Hampshire",
-    "etnia": "indian",
-    "edad": 98,
-    "sexo": "femenino",
-    "salario": 243498,
-    "estudios": "doctor",
+    "fecha_voto": "2024-08-27",
+    "estado": "Nebraska",
+    "etnia": "illegal",
+    "edad": 75,
+    "sexo": "masculino",
+    "salario": 90600,
+    "estudios": "graduate",
     "religion": "christianism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

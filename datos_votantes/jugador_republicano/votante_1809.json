@@ -1,14 +1,14 @@
 {
     "id": 1809,
-    "fecha_voto": "2024-11-04",
-    "estado": "Idaho",
+    "fecha_voto": "2024-11-05",
+    "estado": "Indiana",
     "etnia": "indian",
-    "edad": 55,
+    "edad": 46,
     "sexo": "masculino",
-    "salario": 47942,
-    "estudios": "doctor",
-    "religion": "islam",
+    "salario": 40916,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 3,
+    "hijos": 5,
     "voto": "republicano"
 }

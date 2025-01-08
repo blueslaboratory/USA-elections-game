@@ -1,14 +1,14 @@
 {
     "id": 1977,
     "fecha_voto": "2024-11-04",
-    "estado": "Indiana",
-    "etnia": "asian",
-    "edad": 61,
+    "estado": "South Dakota",
+    "etnia": "hispanic",
+    "edad": 77,
     "sexo": "masculino",
-    "salario": 94284,
-    "estudios": "high school",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 0,
+    "salario": 202051,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 1,
     "voto": "republicano"
 }

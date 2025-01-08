@@ -1,14 +1,14 @@
 {
     "id": 166,
-    "fecha_voto": "2024-01-25",
-    "estado": "North Carolina",
-    "etnia": "indian",
-    "edad": 60,
-    "sexo": "a",
-    "salario": 127041,
-    "estudios": "doctor",
-    "religion": "other",
+    "fecha_voto": "2024-01-27",
+    "estado": "Idaho",
+    "etnia": "black",
+    "edad": 51,
+    "sexo": "femenino",
+    "salario": 145565,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 671,
-    "fecha_voto": "2024-05-04",
-    "estado": "California",
+    "fecha_voto": "2024-04-10",
+    "estado": "Pennsylvania",
     "etnia": "hispanic",
-    "edad": 63,
+    "edad": 35,
     "sexo": "femenino",
-    "salario": 82436,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
+    "salario": 197411,
+    "estudios": "graduate",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 4,
     "voto": "democrata"
 }

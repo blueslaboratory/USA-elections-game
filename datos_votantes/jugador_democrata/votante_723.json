@@ -1,14 +1,14 @@
 {
     "id": 723,
-    "fecha_voto": "2024-04-09",
-    "estado": "Delaware",
-    "etnia": "hispanic",
-    "edad": 36,
+    "fecha_voto": "2024-04-28",
+    "estado": "Ohio",
+    "etnia": "black",
+    "edad": 37,
     "sexo": "masculino",
-    "salario": 35286,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "salario": 135039,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
 }

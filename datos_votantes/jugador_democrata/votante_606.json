@@ -1,14 +1,14 @@
 {
     "id": 606,
-    "fecha_voto": "2024-05-05",
-    "estado": "North Carolina",
-    "etnia": "hispanic",
-    "edad": 80,
+    "fecha_voto": "2024-04-08",
+    "estado": "Delaware",
+    "etnia": "black",
+    "edad": 77,
     "sexo": "masculino",
-    "salario": 187809,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "salario": 84831,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

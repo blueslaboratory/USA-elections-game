@@ -1,14 +1,14 @@
 {
     "id": 360,
-    "fecha_voto": "2024-02-16",
-    "estado": "Michigan",
-    "etnia": "white",
-    "edad": 75,
+    "fecha_voto": "2024-03-07",
+    "estado": "Wisconsin",
+    "etnia": "indian",
+    "edad": 34,
     "sexo": "masculino",
-    "salario": 135155,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "salario": 114409,
+    "estudios": "masters",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

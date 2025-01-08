@@ -1,14 +1,14 @@
 {
     "id": 1269,
-    "fecha_voto": "2024-08-26",
-    "estado": "Utah",
-    "etnia": "white",
-    "edad": 39,
-    "sexo": "masculino",
-    "salario": 174654,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "fecha_voto": "2024-08-29",
+    "estado": "Alabama",
+    "etnia": "black",
+    "edad": 54,
+    "sexo": "femenino",
+    "salario": 224760,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
 }

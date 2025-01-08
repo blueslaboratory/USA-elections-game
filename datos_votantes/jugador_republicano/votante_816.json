@@ -1,14 +1,14 @@
 {
     "id": 816,
-    "fecha_voto": "2024-06-13",
-    "estado": "South Carolina",
-    "etnia": "illegal",
-    "edad": 54,
+    "fecha_voto": "2024-05-21",
+    "estado": "Florida",
+    "etnia": "hispanic",
+    "edad": 26,
     "sexo": "masculino",
-    "salario": 48149,
+    "salario": 39510,
     "estudios": "undergraduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 5,
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 0,
     "voto": "republicano"
 }

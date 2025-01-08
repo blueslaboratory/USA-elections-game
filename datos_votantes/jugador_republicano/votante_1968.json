@@ -1,14 +1,14 @@
 {
     "id": 1968,
     "fecha_voto": "2024-11-05",
-    "estado": "Florida",
+    "estado": "Massachusetts",
     "etnia": "black",
-    "edad": 39,
-    "sexo": "femenino",
-    "salario": 160301,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 1,
+    "edad": 33,
+    "sexo": "masculino",
+    "salario": 44480,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 5,
     "voto": "democrata"
 }

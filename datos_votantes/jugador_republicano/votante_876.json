@@ -1,14 +1,14 @@
 {
     "id": 876,
-    "fecha_voto": "2024-06-19",
-    "estado": "Wyoming",
-    "etnia": "indian",
-    "edad": 30,
+    "fecha_voto": "2024-05-17",
+    "estado": "Vermont",
+    "etnia": "white",
+    "edad": 20,
     "sexo": "masculino",
-    "salario": 223527,
-    "estudios": "masters",
+    "salario": 182638,
+    "estudios": "undergraduate",
     "religion": "other",
     "casado": false,
-    "hijos": 0,
+    "hijos": 2,
     "voto": "democrata"
 }

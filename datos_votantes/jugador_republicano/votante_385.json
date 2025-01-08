@@ -1,14 +1,14 @@
 {
     "id": 385,
-    "fecha_voto": "2024-02-21",
-    "estado": "Indiana",
-    "etnia": "illegal",
-    "edad": 48,
-    "sexo": "masculino",
-    "salario": 75811,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "fecha_voto": "2024-03-27",
+    "estado": "Oregon",
+    "etnia": "black",
+    "edad": 43,
+    "sexo": "femenino",
+    "salario": 239363,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
 }

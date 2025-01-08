@@ -1,14 +1,14 @@
 {
     "id": 1027,
-    "fecha_voto": "2024-06-27",
-    "estado": "North Dakota",
-    "etnia": "asian",
-    "edad": 46,
+    "fecha_voto": "2024-07-20",
+    "estado": "Georgia",
+    "etnia": "white",
+    "edad": 51,
     "sexo": "femenino",
-    "salario": 246171,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "salario": 69499,
+    "estudios": "undergraduate",
+    "religion": "islam",
     "casado": false,
-    "hijos": 0,
+    "hijos": 2,
     "voto": "republicano"
 }

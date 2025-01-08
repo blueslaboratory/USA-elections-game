@@ -1,14 +1,14 @@
 {
     "id": 902,
-    "fecha_voto": "2024-06-04",
-    "estado": "North Carolina",
-    "etnia": "illegal",
-    "edad": 20,
+    "fecha_voto": "2024-05-15",
+    "estado": "West Virginia",
+    "etnia": "white",
+    "edad": 91,
     "sexo": "masculino",
-    "salario": 55049,
-    "estudios": "masters",
+    "salario": 121807,
+    "estudios": "graduate",
     "religion": "other",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

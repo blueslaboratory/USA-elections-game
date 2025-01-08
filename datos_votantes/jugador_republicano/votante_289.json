@@ -1,14 +1,14 @@
 {
     "id": 289,
-    "fecha_voto": "2024-03-10",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-03-25",
+    "estado": "Maryland",
     "etnia": "white",
-    "edad": 35,
+    "edad": 53,
     "sexo": "masculino",
-    "salario": 34753,
+    "salario": 132300,
     "estudios": "high school",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 4,
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1061,
-    "fecha_voto": "2024-07-21",
-    "estado": "Ohio",
-    "etnia": "illegal",
-    "edad": 38,
+    "fecha_voto": "2024-07-04",
+    "estado": "Louisiana",
+    "etnia": "indian",
+    "edad": 32,
     "sexo": "femenino",
-    "salario": 120132,
-    "estudios": "undergraduate",
+    "salario": 87628,
+    "estudios": "doctor",
     "religion": "other",
-    "casado": false,
-    "hijos": 2,
+    "casado": true,
+    "hijos": 3,
     "voto": "democrata"
 }

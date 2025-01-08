@@ -1,14 +1,14 @@
 {
     "id": 880,
-    "fecha_voto": "2024-05-14",
-    "estado": "Massachusetts",
-    "etnia": "asian",
-    "edad": 44,
-    "sexo": "masculino",
-    "salario": 182436,
-    "estudios": "doctor",
-    "religion": "hinduism",
+    "fecha_voto": "2024-06-09",
+    "estado": "Vermont",
+    "etnia": "hispanic",
+    "edad": 68,
+    "sexo": "femenino",
+    "salario": 39890,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 0,
+    "hijos": 1,
     "voto": "democrata"
 }

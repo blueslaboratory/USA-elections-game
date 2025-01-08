@@ -1,14 +1,14 @@
 {
     "id": 893,
-    "fecha_voto": "2024-05-29",
-    "estado": "North Dakota",
-    "etnia": "indian",
+    "fecha_voto": "2024-06-12",
+    "estado": "Wyoming",
+    "etnia": "white",
     "edad": 36,
-    "sexo": "masculino",
-    "salario": 78076,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 5,
+    "sexo": "femenino",
+    "salario": 114687,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 0,
     "voto": "republicano"
 }

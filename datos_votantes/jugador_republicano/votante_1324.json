@@ -1,14 +1,14 @@
 {
     "id": 1324,
-    "fecha_voto": "2024-08-19",
-    "estado": "Iowa",
-    "etnia": "white",
-    "edad": 32,
-    "sexo": "femenino",
-    "salario": 190572,
-    "estudios": "masters",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "fecha_voto": "2024-08-20",
+    "estado": "Ohio",
+    "etnia": "hispanic",
+    "edad": 78,
+    "sexo": "masculino",
+    "salario": 84223,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
+    "voto": "republicano"
 }

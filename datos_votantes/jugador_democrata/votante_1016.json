@@ -1,14 +1,14 @@
 {
     "id": 1016,
-    "fecha_voto": "2024-08-02",
-    "estado": "Connecticut",
-    "etnia": "hispanic",
-    "edad": 39,
+    "fecha_voto": "2024-07-18",
+    "estado": "Arizona",
+    "etnia": "indian",
+    "edad": 51,
     "sexo": "femenino",
-    "salario": 122062,
-    "estudios": "high school",
-    "religion": "other",
+    "salario": 162099,
+    "estudios": "undergraduate",
+    "religion": "islam",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

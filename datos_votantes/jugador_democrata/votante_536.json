@@ -1,14 +1,14 @@
 {
     "id": 536,
-    "fecha_voto": "2024-05-04",
-    "estado": "Massachusetts",
-    "etnia": "illegal",
-    "edad": 72,
-    "sexo": "femenino",
-    "salario": 212733,
-    "estudios": "graduate",
-    "religion": "hinduism",
+    "fecha_voto": "2024-04-01",
+    "estado": "Wisconsin",
+    "etnia": "asian",
+    "edad": 86,
+    "sexo": "masculino",
+    "salario": 68148,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

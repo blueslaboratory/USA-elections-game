@@ -1,14 +1,14 @@
 {
     "id": 1607,
-    "fecha_voto": "2024-09-28",
-    "estado": "Illinois",
-    "etnia": "black",
-    "edad": 32,
+    "fecha_voto": "2024-10-15",
+    "estado": "Alaska",
+    "etnia": "hispanic",
+    "edad": 55,
     "sexo": "femenino",
-    "salario": 162405,
-    "estudios": "masters",
-    "religion": "atheism",
+    "salario": 90863,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

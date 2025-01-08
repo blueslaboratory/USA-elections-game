@@ -1,14 +1,14 @@
 {
     "id": 858,
-    "fecha_voto": "2024-06-08",
-    "estado": "Oregon",
-    "etnia": "asian",
-    "edad": 52,
-    "sexo": "masculino",
-    "salario": 239926,
+    "fecha_voto": "2024-06-15",
+    "estado": "Massachusetts",
+    "etnia": "hispanic",
+    "edad": 27,
+    "sexo": "femenino",
+    "salario": 173499,
     "estudios": "doctor",
     "religion": "christianism",
     "casado": false,
-    "hijos": 1,
+    "hijos": 2,
     "voto": "democrata"
 }

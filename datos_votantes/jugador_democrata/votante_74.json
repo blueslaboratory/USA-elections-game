@@ -1,14 +1,14 @@
 {
     "id": 74,
-    "fecha_voto": "2024-01-19",
-    "estado": "Rhode Island",
+    "fecha_voto": "2024-01-28",
+    "estado": "Montana",
     "etnia": "illegal",
-    "edad": 76,
-    "sexo": "m",
-    "salario": 304933,
-    "estudios": "masters",
-    "religion": "other",
+    "edad": 80,
+    "sexo": "masculino",
+    "salario": 96241,
+    "estudios": "graduate",
+    "religion": "islam",
     "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

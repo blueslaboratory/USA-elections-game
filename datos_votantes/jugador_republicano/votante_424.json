@@ -1,14 +1,14 @@
 {
     "id": 424,
-    "fecha_voto": "2024-02-22",
-    "estado": "New Mexico",
-    "etnia": "asian",
-    "edad": 57,
-    "sexo": "masculino",
-    "salario": 86524,
+    "fecha_voto": "2024-03-08",
+    "estado": "Alaska",
+    "etnia": "white",
+    "edad": 11,
+    "sexo": "femenino",
+    "salario": 109336,
     "estudios": "high school",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 1,
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

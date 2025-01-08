@@ -1,14 +1,14 @@
 {
     "id": 1843,
     "fecha_voto": "2024-11-04",
-    "estado": "Wisconsin",
+    "estado": "Arkansas",
     "etnia": "hispanic",
-    "edad": 72,
+    "edad": 66,
     "sexo": "masculino",
-    "salario": 85482,
-    "estudios": "doctor",
-    "religion": "islam",
-    "casado": false,
+    "salario": 39799,
+    "estudios": "undergraduate",
+    "religion": "atheism",
+    "casado": true,
     "hijos": 0,
     "voto": "republicano"
 }

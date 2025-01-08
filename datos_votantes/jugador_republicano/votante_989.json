@@ -1,14 +1,14 @@
 {
     "id": 989,
-    "fecha_voto": "2024-05-14",
-    "estado": "Nebraska",
-    "etnia": "black",
-    "edad": 54,
+    "fecha_voto": "2024-05-12",
+    "estado": "Illinois",
+    "etnia": "white",
+    "edad": 31,
     "sexo": "masculino",
-    "salario": 236382,
-    "estudios": "undergraduate",
-    "religion": "other",
-    "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "salario": 118694,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "democrata"
 }

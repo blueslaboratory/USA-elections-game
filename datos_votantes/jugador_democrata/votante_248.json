@@ -1,14 +1,14 @@
 {
     "id": 248,
-    "fecha_voto": "2024-01-06",
-    "estado": "Oklahoma",
-    "etnia": "asian",
-    "edad": 47,
-    "sexo": "l",
-    "salario": 179319,
+    "fecha_voto": "2024-01-15",
+    "estado": "West Virginia",
+    "etnia": "hispanic",
+    "edad": 93,
+    "sexo": "femenino",
+    "salario": 219697,
     "estudios": "masters",
-    "religion": "islam",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1490,
-    "fecha_voto": "2024-09-14",
-    "estado": "North Carolina",
-    "etnia": "black",
-    "edad": 54,
+    "fecha_voto": "2024-08-26",
+    "estado": "Kentucky",
+    "etnia": "white",
+    "edad": 76,
     "sexo": "femenino",
-    "salario": 187022,
-    "estudios": "masters",
+    "salario": 131205,
+    "estudios": "undergraduate",
     "religion": "hinduism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

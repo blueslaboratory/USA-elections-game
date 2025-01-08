@@ -1,14 +1,14 @@
 {
     "id": 1238,
     "fecha_voto": "2024-07-07",
-    "estado": "Utah",
+    "estado": "Maine",
     "etnia": "asian",
-    "edad": 27,
+    "edad": 45,
     "sexo": "femenino",
-    "salario": 248508,
-    "estudios": "high school",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 3,
+    "salario": 194471,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

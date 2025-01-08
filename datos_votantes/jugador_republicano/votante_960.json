@@ -1,14 +1,14 @@
 {
     "id": 960,
-    "fecha_voto": "2024-05-18",
-    "estado": "North Dakota",
-    "etnia": "black",
-    "edad": 20,
-    "sexo": "masculino",
-    "salario": 239268,
-    "estudios": "doctor",
-    "religion": "islam",
+    "fecha_voto": "2024-05-24",
+    "estado": "New York",
+    "etnia": "hispanic",
+    "edad": 90,
+    "sexo": "femenino",
+    "salario": 162480,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 1,
     "voto": "democrata"
 }

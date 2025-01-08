@@ -1,14 +1,14 @@
 {
     "id": 1423,
-    "fecha_voto": "2024-08-26",
-    "estado": "Missouri",
-    "etnia": "black",
-    "edad": 95,
+    "fecha_voto": "2024-09-12",
+    "estado": "New Hampshire",
+    "etnia": "asian",
+    "edad": 58,
     "sexo": "femenino",
-    "salario": 241968,
+    "salario": 141338,
     "estudios": "masters",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 1,
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 5,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 136,
-    "fecha_voto": "2024-01-30",
-    "estado": "Kentucky",
-    "etnia": "asian",
-    "edad": 91,
-    "sexo": "i",
-    "salario": 392038,
-    "estudios": "undergraduate",
-    "religion": "judaism",
+    "fecha_voto": "2024-01-21",
+    "estado": "Michigan",
+    "etnia": "illegal",
+    "edad": 72,
+    "sexo": "masculino",
+    "salario": 70013,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

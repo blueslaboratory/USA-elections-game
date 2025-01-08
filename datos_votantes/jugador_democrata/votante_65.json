@@ -1,14 +1,14 @@
 {
     "id": 65,
-    "fecha_voto": "2024-01-27",
-    "estado": "Rhode Island",
+    "fecha_voto": "2024-01-25",
+    "estado": "Arizona",
     "etnia": "illegal",
-    "edad": 49,
-    "sexo": "u",
-    "salario": 395968,
-    "estudios": "undergraduate",
-    "religion": "judaism",
+    "edad": 31,
+    "sexo": "femenino",
+    "salario": 213889,
+    "estudios": "high school",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 4,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 575,
-    "fecha_voto": "2024-04-30",
-    "estado": "Texas",
-    "etnia": "illegal",
-    "edad": 98,
-    "sexo": "masculino",
-    "salario": 46091,
-    "estudios": "high school",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "fecha_voto": "2024-04-29",
+    "estado": "North Dakota",
+    "etnia": "black",
+    "edad": 43,
+    "sexo": "femenino",
+    "salario": 148348,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

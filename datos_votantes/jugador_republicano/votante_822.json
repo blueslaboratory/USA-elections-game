@@ -1,14 +1,14 @@
 {
     "id": 822,
-    "fecha_voto": "2024-05-22",
-    "estado": "Connecticut",
-    "etnia": "black",
-    "edad": 50,
-    "sexo": "masculino",
-    "salario": 99398,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "fecha_voto": "2024-05-23",
+    "estado": "Arizona",
+    "etnia": "white",
+    "edad": 29,
+    "sexo": "femenino",
+    "salario": 92575,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 5,
     "voto": "democrata"
 }

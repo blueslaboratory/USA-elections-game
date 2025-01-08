@@ -1,14 +1,14 @@
 {
     "id": 827,
-    "fecha_voto": "2024-06-09",
-    "estado": "Maryland",
-    "etnia": "black",
-    "edad": 26,
+    "fecha_voto": "2024-05-28",
+    "estado": "Arkansas",
+    "etnia": "hispanic",
+    "edad": 67,
     "sexo": "masculino",
-    "salario": 62882,
-    "estudios": "high school",
-    "religion": "hinduism",
+    "salario": 186005,
+    "estudios": "masters",
+    "religion": "other",
     "casado": false,
     "hijos": 2,
-    "voto": "democrata"
+    "voto": "republicano"
 }

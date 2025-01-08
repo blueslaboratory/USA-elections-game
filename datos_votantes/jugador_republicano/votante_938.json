@@ -1,14 +1,14 @@
 {
     "id": 938,
-    "fecha_voto": "2024-05-21",
-    "estado": "Rhode Island",
-    "etnia": "black",
-    "edad": 48,
+    "fecha_voto": "2024-06-02",
+    "estado": "Vermont",
+    "etnia": "hispanic",
+    "edad": 38,
     "sexo": "masculino",
-    "salario": 57947,
-    "estudios": "undergraduate",
-    "religion": "christianism",
+    "salario": 158916,
+    "estudios": "masters",
+    "religion": "other",
     "casado": false,
     "hijos": 4,
-    "voto": "republicano"
+    "voto": "democrata"
 }

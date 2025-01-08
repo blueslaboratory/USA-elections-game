@@ -1,14 +1,14 @@
 {
     "id": 1787,
     "fecha_voto": "2024-11-05",
-    "estado": "Michigan",
+    "estado": "Missouri",
     "etnia": "indian",
-    "edad": 89,
-    "sexo": "femenino",
-    "salario": 152139,
+    "edad": 31,
+    "sexo": "masculino",
+    "salario": 71196,
     "estudios": "graduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 3,
+    "religion": "other",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

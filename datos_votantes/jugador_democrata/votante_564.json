@@ -1,14 +1,14 @@
 {
     "id": 564,
-    "fecha_voto": "2024-04-22",
-    "estado": "New Jersey",
-    "etnia": "illegal",
-    "edad": 42,
+    "fecha_voto": "2024-03-31",
+    "estado": "Alabama",
+    "etnia": "hispanic",
+    "edad": 53,
     "sexo": "masculino",
-    "salario": 179667,
-    "estudios": "high school",
-    "religion": "other",
+    "salario": 194522,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "republicano"
 }

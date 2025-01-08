@@ -1,14 +1,14 @@
 {
     "id": 95,
-    "fecha_voto": "2024-01-15",
-    "estado": "New York",
+    "fecha_voto": "2024-01-13",
+    "estado": "Tennessee",
     "etnia": "black",
-    "edad": 45,
-    "sexo": "c",
-    "salario": 282272,
-    "estudios": "high school",
-    "religion": "islam",
+    "edad": 96,
+    "sexo": "masculino",
+    "salario": 50327,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

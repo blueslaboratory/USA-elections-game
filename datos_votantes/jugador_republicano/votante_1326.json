@@ -1,14 +1,14 @@
 {
     "id": 1326,
-    "fecha_voto": "2024-08-31",
-    "estado": "Colorado",
-    "etnia": "hispanic",
-    "edad": 62,
+    "fecha_voto": "2024-09-19",
+    "estado": "Mississippi",
+    "etnia": "white",
+    "edad": 73,
     "sexo": "femenino",
-    "salario": 182294,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "salario": 132931,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 0,
     "voto": "republicano"
 }

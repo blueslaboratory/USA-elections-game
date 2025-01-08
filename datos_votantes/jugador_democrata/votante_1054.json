@@ -1,14 +1,14 @@
 {
     "id": 1054,
-    "fecha_voto": "2024-08-07",
+    "fecha_voto": "2024-07-02",
     "estado": "Alaska",
-    "etnia": "hispanic",
-    "edad": 27,
+    "etnia": "illegal",
+    "edad": 39,
     "sexo": "femenino",
-    "salario": 51535,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": true,
-    "hijos": 3,
+    "salario": 236526,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 1,
     "voto": "democrata"
 }

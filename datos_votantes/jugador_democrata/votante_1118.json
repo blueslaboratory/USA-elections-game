@@ -1,14 +1,14 @@
 {
     "id": 1118,
-    "fecha_voto": "2024-08-06",
-    "estado": "Vermont",
-    "etnia": "hispanic",
-    "edad": 46,
+    "fecha_voto": "2024-07-01",
+    "estado": "Oklahoma",
+    "etnia": "white",
+    "edad": 53,
     "sexo": "femenino",
-    "salario": 40045,
-    "estudios": "masters",
-    "religion": "atheism",
+    "salario": 165761,
+    "estudios": "doctor",
+    "religion": "islam",
     "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

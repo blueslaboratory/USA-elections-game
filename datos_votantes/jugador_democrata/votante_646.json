@@ -1,14 +1,14 @@
 {
     "id": 646,
-    "fecha_voto": "2024-04-05",
-    "estado": "South Dakota",
-    "etnia": "illegal",
+    "fecha_voto": "2024-04-11",
+    "estado": "New Jersey",
+    "etnia": "asian",
     "edad": 89,
-    "sexo": "femenino",
-    "salario": 159751,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 3,
+    "sexo": "masculino",
+    "salario": 212915,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 512,
-    "fecha_voto": "2024-04-20",
-    "estado": "North Carolina",
-    "etnia": "illegal",
-    "edad": 80,
+    "fecha_voto": "2024-05-11",
+    "estado": "Louisiana",
+    "etnia": "white",
+    "edad": 25,
     "sexo": "femenino",
-    "salario": 119562,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 2,
+    "salario": 75665,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

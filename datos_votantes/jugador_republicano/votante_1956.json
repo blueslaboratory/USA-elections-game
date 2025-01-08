@@ -1,14 +1,14 @@
 {
     "id": 1956,
-    "fecha_voto": "2024-11-05",
-    "estado": "Wyoming",
-    "etnia": "hispanic",
-    "edad": 79,
+    "fecha_voto": "2024-11-04",
+    "estado": "Virginia",
+    "etnia": "asian",
+    "edad": 40,
     "sexo": "masculino",
-    "salario": 67212,
-    "estudios": "graduate",
-    "religion": "islam",
+    "salario": 242350,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 5,
+    "hijos": 0,
     "voto": "republicano"
 }

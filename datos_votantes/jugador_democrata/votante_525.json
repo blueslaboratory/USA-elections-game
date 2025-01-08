@@ -1,14 +1,14 @@
 {
     "id": 525,
-    "fecha_voto": "2024-04-13",
-    "estado": "Wyoming",
-    "etnia": "hispanic",
-    "edad": 58,
-    "sexo": "femenino",
-    "salario": 69837,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-04-16",
+    "estado": "Maryland",
+    "etnia": "asian",
+    "edad": 43,
+    "sexo": "masculino",
+    "salario": 91677,
+    "estudios": "graduate",
     "religion": "judaism",
-    "casado": false,
+    "casado": true,
     "hijos": 5,
     "voto": "republicano"
 }

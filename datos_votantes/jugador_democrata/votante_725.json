@@ -1,14 +1,14 @@
 {
     "id": 725,
-    "fecha_voto": "2024-05-08",
-    "estado": "South Carolina",
+    "fecha_voto": "2024-04-15",
+    "estado": "Missouri",
     "etnia": "hispanic",
-    "edad": 70,
-    "sexo": "femenino",
-    "salario": 55653,
-    "estudios": "graduate",
-    "religion": "hinduism",
+    "edad": 89,
+    "sexo": "masculino",
+    "salario": 61154,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 1,
+    "hijos": 2,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1441,
-    "fecha_voto": "2024-09-04",
-    "estado": "Arizona",
-    "etnia": "white",
-    "edad": 74,
+    "fecha_voto": "2024-08-30",
+    "estado": "Pennsylvania",
+    "etnia": "illegal",
+    "edad": 77,
     "sexo": "femenino",
-    "salario": 136240,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "salario": 223065,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
 }

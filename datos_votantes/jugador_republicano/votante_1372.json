@@ -1,14 +1,14 @@
 {
     "id": 1372,
-    "fecha_voto": "2024-09-17",
-    "estado": "Ohio",
-    "etnia": "white",
-    "edad": 50,
+    "fecha_voto": "2024-08-10",
+    "estado": "North Carolina",
+    "etnia": "asian",
+    "edad": 45,
     "sexo": "masculino",
-    "salario": 149757,
-    "estudios": "undergraduate",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 1,
+    "salario": 96535,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 3,
     "voto": "republicano"
 }

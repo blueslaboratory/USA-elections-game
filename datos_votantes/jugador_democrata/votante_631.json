@@ -1,14 +1,14 @@
 {
     "id": 631,
-    "fecha_voto": "2024-05-04",
-    "estado": "Connecticut",
-    "etnia": "illegal",
-    "edad": 18,
-    "sexo": "masculino",
-    "salario": 77367,
+    "fecha_voto": "2024-05-03",
+    "estado": "Tennessee",
+    "etnia": "asian",
+    "edad": 58,
+    "sexo": "femenino",
+    "salario": 65141,
     "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 4,
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

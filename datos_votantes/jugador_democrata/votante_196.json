@@ -1,14 +1,14 @@
 {
     "id": 196,
-    "fecha_voto": "2024-01-12",
-    "estado": "Rhode Island",
-    "etnia": "black",
-    "edad": 25,
-    "sexo": "s",
-    "salario": 264839,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "fecha_voto": "2024-01-21",
+    "estado": "Wisconsin",
+    "etnia": "white",
+    "edad": 33,
+    "sexo": "masculino",
+    "salario": 217987,
+    "estudios": "graduate",
+    "religion": "islam",
     "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

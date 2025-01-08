@@ -1,14 +1,14 @@
 {
     "id": 1680,
-    "fecha_voto": "2024-10-11",
-    "estado": "Hawaii",
-    "etnia": "asian",
-    "edad": 34,
+    "fecha_voto": "2024-10-27",
+    "estado": "Arkansas",
+    "etnia": "illegal",
+    "edad": 91,
     "sexo": "femenino",
-    "salario": 74187,
+    "salario": 197294,
     "estudios": "high school",
-    "religion": "other",
-    "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
 }

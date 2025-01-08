@@ -1,14 +1,14 @@
 {
     "id": 1008,
-    "fecha_voto": "2024-07-27",
-    "estado": "Utah",
-    "etnia": "indian",
-    "edad": 28,
+    "fecha_voto": "2024-08-01",
+    "estado": "Michigan",
+    "etnia": "asian",
+    "edad": 30,
     "sexo": "femenino",
-    "salario": 166335,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 0,
+    "salario": 122681,
+    "estudios": "undergraduate",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

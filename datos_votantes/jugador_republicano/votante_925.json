@@ -1,14 +1,14 @@
 {
     "id": 925,
-    "fecha_voto": "2024-05-24",
-    "estado": "Georgia",
-    "etnia": "indian",
-    "edad": 27,
+    "fecha_voto": "2024-06-13",
+    "estado": "Hawaii",
+    "etnia": "white",
+    "edad": 26,
     "sexo": "masculino",
-    "salario": 132976,
+    "salario": 42580,
     "estudios": "high school",
-    "religion": "atheism",
-    "casado": true,
+    "religion": "christianism",
+    "casado": false,
     "hijos": 1,
     "voto": "republicano"
 }

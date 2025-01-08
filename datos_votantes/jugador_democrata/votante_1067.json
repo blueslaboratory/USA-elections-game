@@ -1,14 +1,14 @@
 {
     "id": 1067,
-    "fecha_voto": "2024-08-03",
-    "estado": "South Carolina",
-    "etnia": "asian",
-    "edad": 27,
+    "fecha_voto": "2024-07-24",
+    "estado": "Utah",
+    "etnia": "white",
+    "edad": 35,
     "sexo": "femenino",
-    "salario": 203979,
+    "salario": 175249,
     "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 3,
+    "religion": "islam",
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

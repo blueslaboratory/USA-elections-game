@@ -1,14 +1,14 @@
 {
     "id": 291,
-    "fecha_voto": "2024-03-01",
-    "estado": "Florida",
-    "etnia": "illegal",
-    "edad": 62,
+    "fecha_voto": "2024-03-25",
+    "estado": "Kansas",
+    "etnia": "hispanic",
+    "edad": 21,
     "sexo": "femenino",
-    "salario": 60348,
-    "estudios": "masters",
-    "religion": "islam",
+    "salario": 102189,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 1,
     "voto": "democrata"
 }

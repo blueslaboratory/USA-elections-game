@@ -1,14 +1,14 @@
 {
     "id": 1142,
-    "fecha_voto": "2024-07-21",
-    "estado": "Arkansas",
+    "fecha_voto": "2024-07-07",
+    "estado": "Minnesota",
     "etnia": "asian",
-    "edad": 30,
-    "sexo": "masculino",
-    "salario": 62417,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "edad": 37,
+    "sexo": "femenino",
+    "salario": 171412,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 2,
+    "voto": "democrata"
 }

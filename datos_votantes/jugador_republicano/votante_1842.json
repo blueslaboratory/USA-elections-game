@@ -1,14 +1,14 @@
 {
     "id": 1842,
     "fecha_voto": "2024-11-05",
-    "estado": "Pennsylvania",
-    "etnia": "hispanic",
-    "edad": 25,
-    "sexo": "femenino",
-    "salario": 174855,
-    "estudios": "masters",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "estado": "North Carolina",
+    "etnia": "indian",
+    "edad": 64,
+    "sexo": "masculino",
+    "salario": 45740,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

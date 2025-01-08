@@ -1,14 +1,14 @@
 {
     "id": 1895,
-    "fecha_voto": "2024-11-05",
-    "estado": "Texas",
+    "fecha_voto": "2024-11-04",
+    "estado": "Massachusetts",
     "etnia": "asian",
-    "edad": 62,
+    "edad": 79,
     "sexo": "masculino",
-    "salario": 204531,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "salario": 123085,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

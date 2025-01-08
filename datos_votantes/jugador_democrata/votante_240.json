@@ -1,14 +1,14 @@
 {
     "id": 240,
-    "fecha_voto": "2024-01-25",
-    "estado": "Minnesota",
-    "etnia": "white",
-    "edad": 49,
-    "sexo": "l",
-    "salario": 377083,
+    "fecha_voto": "2024-01-28",
+    "estado": "Nebraska",
+    "etnia": "black",
+    "edad": 52,
+    "sexo": "femenino",
+    "salario": 106055,
     "estudios": "doctor",
-    "religion": "islam",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

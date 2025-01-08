@@ -1,14 +1,14 @@
 {
     "id": 39,
-    "fecha_voto": "2024-02-11",
-    "estado": "Hawaii",
-    "etnia": "illegal",
-    "edad": 84,
-    "sexo": "m",
-    "salario": 365637,
+    "fecha_voto": "2024-01-01",
+    "estado": "Iowa",
+    "etnia": "black",
+    "edad": 73,
+    "sexo": "masculino",
+    "salario": 94933,
     "estudios": "graduate",
-    "religion": "atheism",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

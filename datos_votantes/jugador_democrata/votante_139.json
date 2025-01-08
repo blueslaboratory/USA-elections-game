@@ -1,14 +1,14 @@
 {
     "id": 139,
-    "fecha_voto": "2024-01-08",
-    "estado": "Kentucky",
-    "etnia": "white",
-    "edad": 77,
-    "sexo": "a",
-    "salario": 224874,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-01-19",
+    "estado": "Minnesota",
+    "etnia": "illegal",
+    "edad": 70,
+    "sexo": "masculino",
+    "salario": 161930,
+    "estudios": "high school",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 0,
+    "casado": true,
+    "hijos": 2,
     "voto": "republicano"
 }

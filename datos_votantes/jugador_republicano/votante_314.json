@@ -1,14 +1,14 @@
 {
     "id": 314,
-    "fecha_voto": "2024-03-23",
-    "estado": "Colorado",
-    "etnia": "white",
-    "edad": 86,
+    "fecha_voto": "2024-02-26",
+    "estado": "New Mexico",
+    "etnia": "black",
+    "edad": 25,
     "sexo": "masculino",
-    "salario": 232604,
-    "estudios": "undergraduate",
-    "religion": "islam",
+    "salario": 77039,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

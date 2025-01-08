@@ -1,14 +1,14 @@
 {
     "id": 797,
-    "fecha_voto": "2024-05-27",
-    "estado": "New Jersey",
+    "fecha_voto": "2024-06-11",
+    "estado": "Texas",
     "etnia": "hispanic",
-    "edad": 40,
-    "sexo": "masculino",
-    "salario": 72952,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "edad": 61,
+    "sexo": "femenino",
+    "salario": 204776,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

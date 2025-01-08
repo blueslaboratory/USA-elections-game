@@ -1,14 +1,14 @@
 {
     "id": 1422,
-    "fecha_voto": "2024-09-12",
-    "estado": "West Virginia",
+    "fecha_voto": "2024-09-13",
+    "estado": "South Dakota",
     "etnia": "hispanic",
-    "edad": 93,
+    "edad": 18,
     "sexo": "masculino",
-    "salario": 92312,
-    "estudios": "doctor",
+    "salario": 223612,
+    "estudios": "undergraduate",
     "religion": "judaism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

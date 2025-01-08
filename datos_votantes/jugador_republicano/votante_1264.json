@@ -1,14 +1,14 @@
 {
     "id": 1264,
-    "fecha_voto": "2024-09-16",
-    "estado": "Mississippi",
-    "etnia": "indian",
-    "edad": 80,
-    "sexo": "femenino",
-    "salario": 145069,
-    "estudios": "high school",
-    "religion": "atheism",
+    "fecha_voto": "2024-09-14",
+    "estado": "Minnesota",
+    "etnia": "black",
+    "edad": 71,
+    "sexo": "masculino",
+    "salario": 94193,
+    "estudios": "undergraduate",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 1,
     "voto": "republicano"
 }

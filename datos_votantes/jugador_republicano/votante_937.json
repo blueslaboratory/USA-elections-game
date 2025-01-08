@@ -1,14 +1,14 @@
 {
     "id": 937,
     "fecha_voto": "2024-06-10",
-    "estado": "Wisconsin",
-    "etnia": "black",
-    "edad": 28,
+    "estado": "Kansas",
+    "etnia": "hispanic",
+    "edad": 78,
     "sexo": "masculino",
-    "salario": 44959,
-    "estudios": "high school",
-    "religion": "islam",
+    "salario": 143743,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 5,
     "voto": "republicano"
 }

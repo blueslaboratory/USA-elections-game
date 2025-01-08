@@ -1,14 +1,14 @@
 {
     "id": 1273,
-    "fecha_voto": "2024-08-13",
-    "estado": "West Virginia",
+    "fecha_voto": "2024-09-12",
+    "estado": "Alaska",
     "etnia": "illegal",
-    "edad": 68,
+    "edad": 95,
     "sexo": "masculino",
-    "salario": 241277,
-    "estudios": "masters",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "salario": 128303,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "republicano"
 }

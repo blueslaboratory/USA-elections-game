@@ -1,14 +1,14 @@
 {
     "id": 224,
-    "fecha_voto": "2024-02-08",
-    "estado": "North Dakota",
-    "etnia": "black",
-    "edad": 73,
-    "sexo": "c",
-    "salario": 370102,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "fecha_voto": "2024-01-27",
+    "estado": "Kentucky",
+    "etnia": "illegal",
+    "edad": 65,
+    "sexo": "femenino",
+    "salario": 195612,
+    "estudios": "graduate",
+    "religion": "islam",
     "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

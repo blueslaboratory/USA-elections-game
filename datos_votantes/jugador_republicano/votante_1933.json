@@ -1,14 +1,14 @@
 {
     "id": 1933,
     "fecha_voto": "2024-11-04",
-    "estado": "Iowa",
+    "estado": "Kentucky",
     "etnia": "white",
-    "edad": 62,
+    "edad": 95,
     "sexo": "masculino",
-    "salario": 51789,
+    "salario": 140683,
     "estudios": "graduate",
     "religion": "judaism",
-    "casado": true,
-    "hijos": 2,
+    "casado": false,
+    "hijos": 3,
     "voto": "republicano"
 }

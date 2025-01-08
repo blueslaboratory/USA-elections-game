@@ -1,14 +1,14 @@
 {
     "id": 1322,
-    "fecha_voto": "2024-09-03",
-    "estado": "Ohio",
-    "etnia": "hispanic",
-    "edad": 38,
-    "sexo": "masculino",
-    "salario": 67460,
+    "fecha_voto": "2024-09-17",
+    "estado": "Idaho",
+    "etnia": "black",
+    "edad": 91,
+    "sexo": "femenino",
+    "salario": 113198,
     "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
+    "religion": "islam",
+    "casado": false,
     "hijos": 0,
     "voto": "republicano"
 }

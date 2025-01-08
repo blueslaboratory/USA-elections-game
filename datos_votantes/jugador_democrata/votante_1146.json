@@ -1,14 +1,14 @@
 {
     "id": 1146,
-    "fecha_voto": "2024-08-05",
-    "estado": "Arizona",
-    "etnia": "indian",
-    "edad": 18,
+    "fecha_voto": "2024-07-01",
+    "estado": "South Dakota",
+    "etnia": "illegal",
+    "edad": 46,
     "sexo": "femenino",
-    "salario": 86247,
-    "estudios": "doctor",
-    "religion": "islam",
+    "salario": 243565,
+    "estudios": "high school",
+    "religion": "other",
     "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

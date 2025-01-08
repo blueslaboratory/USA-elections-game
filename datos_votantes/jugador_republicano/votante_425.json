@@ -1,14 +1,14 @@
 {
     "id": 425,
-    "fecha_voto": "2024-02-20",
-    "estado": "Wisconsin",
-    "etnia": "white",
-    "edad": 18,
-    "sexo": "masculino",
-    "salario": 138487,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "fecha_voto": "2024-03-03",
+    "estado": "South Dakota",
+    "etnia": "hispanic",
+    "edad": 47,
+    "sexo": "femenino",
+    "salario": 243542,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
 }

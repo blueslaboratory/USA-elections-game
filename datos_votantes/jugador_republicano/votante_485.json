@@ -1,14 +1,14 @@
 {
     "id": 485,
-    "fecha_voto": "2024-03-25",
-    "estado": "Mississippi",
-    "etnia": "black",
-    "edad": 62,
+    "fecha_voto": "2024-03-17",
+    "estado": "Utah",
+    "etnia": "white",
+    "edad": 17,
     "sexo": "femenino",
-    "salario": 185826,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "salario": 126725,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

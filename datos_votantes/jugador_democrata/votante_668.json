@@ -1,14 +1,14 @@
 {
     "id": 668,
-    "fecha_voto": "2024-04-06",
-    "estado": "Rhode Island",
-    "etnia": "hispanic",
-    "edad": 60,
+    "fecha_voto": "2024-03-30",
+    "estado": "Alaska",
+    "etnia": "asian",
+    "edad": 98,
     "sexo": "masculino",
-    "salario": 101662,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 0,
+    "salario": 165838,
+    "estudios": "graduate",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 3,
     "voto": "republicano"
 }

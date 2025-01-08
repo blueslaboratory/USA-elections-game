@@ -1,14 +1,14 @@
 {
     "id": 328,
-    "fecha_voto": "2024-03-10",
-    "estado": "Georgia",
-    "etnia": "indian",
-    "edad": 96,
-    "sexo": "masculino",
-    "salario": 160298,
-    "estudios": "masters",
+    "fecha_voto": "2024-03-16",
+    "estado": "Colorado",
+    "etnia": "white",
+    "edad": 46,
+    "sexo": "femenino",
+    "salario": 86845,
+    "estudios": "doctor",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 4,
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

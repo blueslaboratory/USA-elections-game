@@ -1,14 +1,14 @@
 {
     "id": 1094,
-    "fecha_voto": "2024-08-03",
-    "estado": "Texas",
-    "etnia": "black",
-    "edad": 38,
+    "fecha_voto": "2024-08-02",
+    "estado": "New York",
+    "etnia": "hispanic",
+    "edad": 18,
     "sexo": "femenino",
-    "salario": 48321,
-    "estudios": "high school",
-    "religion": "judaism",
+    "salario": 220637,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

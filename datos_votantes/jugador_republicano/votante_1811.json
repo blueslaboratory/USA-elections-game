@@ -1,14 +1,14 @@
 {
     "id": 1811,
-    "fecha_voto": "2024-11-05",
-    "estado": "Missouri",
-    "etnia": "asian",
-    "edad": 51,
+    "fecha_voto": "2024-11-04",
+    "estado": "New Hampshire",
+    "etnia": "hispanic",
+    "edad": 63,
     "sexo": "masculino",
-    "salario": 72416,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "salario": 95934,
+    "estudios": "graduate",
+    "religion": "islam",
     "casado": false,
-    "hijos": 4,
+    "hijos": 5,
     "voto": "republicano"
 }

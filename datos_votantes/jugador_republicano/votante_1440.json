@@ -1,14 +1,14 @@
 {
     "id": 1440,
-    "fecha_voto": "2024-08-13",
-    "estado": "Montana",
-    "etnia": "hispanic",
-    "edad": 96,
+    "fecha_voto": "2024-08-10",
+    "estado": "Tennessee",
+    "etnia": "black",
+    "edad": 50,
     "sexo": "femenino",
-    "salario": 180843,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "salario": 180688,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
 }

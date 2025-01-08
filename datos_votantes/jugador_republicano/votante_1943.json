@@ -1,14 +1,14 @@
 {
     "id": 1943,
     "fecha_voto": "2024-11-04",
-    "estado": "Iowa",
+    "estado": "Utah",
     "etnia": "asian",
-    "edad": 92,
-    "sexo": "femenino",
-    "salario": 181530,
-    "estudios": "undergraduate",
+    "edad": 63,
+    "sexo": "masculino",
+    "salario": 35058,
+    "estudios": "masters",
     "religion": "judaism",
     "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

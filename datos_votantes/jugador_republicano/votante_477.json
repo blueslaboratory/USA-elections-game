@@ -1,14 +1,14 @@
 {
     "id": 477,
-    "fecha_voto": "2024-02-14",
-    "estado": "Florida",
-    "etnia": "black",
-    "edad": 90,
-    "sexo": "masculino",
-    "salario": 218916,
-    "estudios": "doctor",
-    "religion": "islam",
+    "fecha_voto": "2024-02-16",
+    "estado": "West Virginia",
+    "etnia": "asian",
+    "edad": 46,
+    "sexo": "femenino",
+    "salario": 150477,
+    "estudios": "high school",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 0,
+    "hijos": 5,
     "voto": "republicano"
 }

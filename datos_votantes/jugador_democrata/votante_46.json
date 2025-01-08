@@ -1,14 +1,14 @@
 {
     "id": 46,
-    "fecha_voto": "2024-01-06",
-    "estado": "Kentucky",
-    "etnia": "illegal",
-    "edad": 89,
-    "sexo": "u",
-    "salario": 244517,
+    "fecha_voto": "2024-02-09",
+    "estado": "Maine",
+    "etnia": "white",
+    "edad": 85,
+    "sexo": "masculino",
+    "salario": 123331,
     "estudios": "graduate",
-    "religion": "atheism",
+    "religion": "islam",
     "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

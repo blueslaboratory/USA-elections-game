@@ -1,14 +1,14 @@
 {
     "id": 570,
-    "fecha_voto": "2024-04-18",
-    "estado": "Michigan",
-    "etnia": "hispanic",
-    "edad": 39,
+    "fecha_voto": "2024-05-08",
+    "estado": "Indiana",
+    "etnia": "black",
+    "edad": 81,
     "sexo": "femenino",
-    "salario": 79060,
-    "estudios": "high school",
+    "salario": 210370,
+    "estudios": "doctor",
     "religion": "hinduism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 5,
+    "voto": "democrata"
 }

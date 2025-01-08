@@ -1,14 +1,14 @@
 {
     "id": 362,
-    "fecha_voto": "2024-02-19",
-    "estado": "Montana",
-    "etnia": "asian",
-    "edad": 92,
+    "fecha_voto": "2024-03-15",
+    "estado": "Nebraska",
+    "etnia": "hispanic",
+    "edad": 33,
     "sexo": "masculino",
-    "salario": 229665,
-    "estudios": "doctor",
-    "religion": "christianism",
+    "salario": 241466,
+    "estudios": "high school",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 2,
     "voto": "republicano"
 }

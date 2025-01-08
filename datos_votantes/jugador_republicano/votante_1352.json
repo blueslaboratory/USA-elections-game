@@ -1,14 +1,14 @@
 {
     "id": 1352,
-    "fecha_voto": "2024-09-07",
-    "estado": "Indiana",
-    "etnia": "indian",
-    "edad": 52,
-    "sexo": "femenino",
-    "salario": 38258,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
+    "fecha_voto": "2024-09-09",
+    "estado": "Pennsylvania",
+    "etnia": "asian",
+    "edad": 67,
+    "sexo": "masculino",
+    "salario": 35355,
+    "estudios": "undergraduate",
+    "religion": "judaism",
+    "casado": false,
     "hijos": 2,
     "voto": "republicano"
 }

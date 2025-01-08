@@ -1,14 +1,14 @@
 {
     "id": 1740,
-    "fecha_voto": "2024-11-03",
-    "estado": "Iowa",
-    "etnia": "asian",
-    "edad": 21,
+    "fecha_voto": "2024-10-12",
+    "estado": "Rhode Island",
+    "etnia": "hispanic",
+    "edad": 70,
     "sexo": "femenino",
-    "salario": 138892,
-    "estudios": "high school",
+    "salario": 236795,
+    "estudios": "graduate",
     "religion": "other",
-    "casado": true,
+    "casado": false,
     "hijos": 3,
-    "voto": "democrata"
+    "voto": "republicano"
 }

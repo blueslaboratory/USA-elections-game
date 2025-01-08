@@ -1,14 +1,14 @@
 {
     "id": 1675,
-    "fecha_voto": "2024-09-28",
-    "estado": "Rhode Island",
-    "etnia": "white",
-    "edad": 28,
-    "sexo": "femenino",
-    "salario": 124543,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "fecha_voto": "2024-10-27",
+    "estado": "Georgia",
+    "etnia": "hispanic",
+    "edad": 36,
+    "sexo": "masculino",
+    "salario": 118221,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

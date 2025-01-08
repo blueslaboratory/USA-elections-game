@@ -1,14 +1,14 @@
 {
     "id": 1253,
-    "fecha_voto": "2024-08-25",
-    "estado": "Maine",
-    "etnia": "indian",
+    "fecha_voto": "2024-09-20",
+    "estado": "Iowa",
+    "etnia": "white",
     "edad": 52,
     "sexo": "femenino",
-    "salario": 127392,
-    "estudios": "high school",
+    "salario": 127206,
+    "estudios": "doctor",
     "religion": "judaism",
-    "casado": true,
+    "casado": false,
     "hijos": 5,
-    "voto": "republicano"
+    "voto": "democrata"
 }

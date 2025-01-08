@@ -1,14 +1,14 @@
 {
     "id": 1604,
-    "fecha_voto": "2024-09-29",
-    "estado": "North Dakota",
-    "etnia": "white",
-    "edad": 19,
+    "fecha_voto": "2024-10-01",
+    "estado": "Massachusetts",
+    "etnia": "hispanic",
+    "edad": 90,
     "sexo": "femenino",
-    "salario": 49241,
-    "estudios": "high school",
+    "salario": 76743,
+    "estudios": "graduate",
     "religion": "hinduism",
     "casado": false,
     "hijos": 2,
-    "voto": "republicano"
+    "voto": "democrata"
 }

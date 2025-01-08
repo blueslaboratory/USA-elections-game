@@ -1,14 +1,14 @@
 {
     "id": 619,
-    "fecha_voto": "2024-05-09",
-    "estado": "Louisiana",
-    "etnia": "illegal",
-    "edad": 70,
-    "sexo": "masculino",
-    "salario": 151857,
-    "estudios": "undergraduate",
-    "religion": "atheism",
+    "fecha_voto": "2024-05-05",
+    "estado": "Hawaii",
+    "etnia": "hispanic",
+    "edad": 52,
+    "sexo": "femenino",
+    "salario": 84176,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

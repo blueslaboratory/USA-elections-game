@@ -1,14 +1,14 @@
 {
     "id": 1420,
-    "fecha_voto": "2024-08-31",
-    "estado": "Montana",
-    "etnia": "black",
-    "edad": 18,
+    "fecha_voto": "2024-09-08",
+    "estado": "South Carolina",
+    "etnia": "asian",
+    "edad": 56,
     "sexo": "masculino",
-    "salario": 190104,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "salario": 149182,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

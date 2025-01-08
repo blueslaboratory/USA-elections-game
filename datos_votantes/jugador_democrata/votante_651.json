@@ -1,14 +1,14 @@
 {
     "id": 651,
-    "fecha_voto": "2024-04-29",
-    "estado": "Utah",
+    "fecha_voto": "2024-05-05",
+    "estado": "Vermont",
     "etnia": "hispanic",
-    "edad": 25,
-    "sexo": "femenino",
-    "salario": 153490,
-    "estudios": "masters",
-    "religion": "atheism",
+    "edad": 76,
+    "sexo": "masculino",
+    "salario": 241451,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": true,
-    "hijos": 5,
+    "hijos": 3,
     "voto": "democrata"
 }

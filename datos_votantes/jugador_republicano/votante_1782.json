@@ -1,14 +1,14 @@
 {
     "id": 1782,
-    "fecha_voto": "2024-11-05",
-    "estado": "South Carolina",
-    "etnia": "indian",
-    "edad": 85,
+    "fecha_voto": "2024-11-04",
+    "estado": "Tennessee",
+    "etnia": "hispanic",
+    "edad": 78,
     "sexo": "masculino",
-    "salario": 49180,
+    "salario": 49916,
     "estudios": "undergraduate",
-    "religion": "christianism",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 5,
+    "hijos": 1,
     "voto": "republicano"
 }

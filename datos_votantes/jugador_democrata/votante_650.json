@@ -1,14 +1,14 @@
 {
     "id": 650,
-    "fecha_voto": "2024-05-10",
-    "estado": "Alaska",
-    "etnia": "illegal",
-    "edad": 81,
-    "sexo": "masculino",
-    "salario": 36373,
-    "estudios": "masters",
-    "religion": "hinduism",
+    "fecha_voto": "2024-04-25",
+    "estado": "Arizona",
+    "etnia": "asian",
+    "edad": 58,
+    "sexo": "femenino",
+    "salario": 67901,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": false,
-    "hijos": 5,
+    "hijos": 0,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1672,
-    "fecha_voto": "2024-11-02",
-    "estado": "Alabama",
-    "etnia": "asian",
-    "edad": 33,
+    "fecha_voto": "2024-10-23",
+    "estado": "Delaware",
+    "etnia": "hispanic",
+    "edad": 29,
     "sexo": "femenino",
-    "salario": 120065,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "salario": 92429,
+    "estudios": "high school",
+    "religion": "islam",
     "casado": true,
-    "hijos": 2,
+    "hijos": 5,
     "voto": "democrata"
 }

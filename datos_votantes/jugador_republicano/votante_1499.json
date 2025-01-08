@@ -1,14 +1,14 @@
 {
     "id": 1499,
-    "fecha_voto": "2024-08-13",
-    "estado": "Louisiana",
+    "fecha_voto": "2024-09-03",
+    "estado": "Iowa",
     "etnia": "white",
-    "edad": 82,
-    "sexo": "masculino",
-    "salario": 103280,
+    "edad": 60,
+    "sexo": "femenino",
+    "salario": 156224,
     "estudios": "high school",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 0,
+    "religion": "islam",
+    "casado": true,
+    "hijos": 3,
     "voto": "republicano"
 }

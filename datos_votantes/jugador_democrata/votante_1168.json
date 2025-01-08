@@ -1,14 +1,14 @@
 {
     "id": 1168,
-    "fecha_voto": "2024-07-05",
-    "estado": "Ohio",
-    "etnia": "asian",
-    "edad": 49,
+    "fecha_voto": "2024-06-27",
+    "estado": "Connecticut",
+    "etnia": "illegal",
+    "edad": 53,
     "sexo": "femenino",
-    "salario": 63332,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "salario": 196263,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

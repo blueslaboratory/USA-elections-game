@@ -1,14 +1,14 @@
 {
     "id": 73,
-    "fecha_voto": "2024-01-04",
-    "estado": "Maryland",
-    "etnia": "asian",
-    "edad": 33,
-    "sexo": "u",
-    "salario": 169956,
-    "estudios": "graduate",
-    "religion": "hinduism",
+    "fecha_voto": "2024-02-04",
+    "estado": "Idaho",
+    "etnia": "illegal",
+    "edad": 54,
+    "sexo": "femenino",
+    "salario": 245138,
+    "estudios": "doctor",
+    "religion": "islam",
     "casado": false,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "democrata"
 }

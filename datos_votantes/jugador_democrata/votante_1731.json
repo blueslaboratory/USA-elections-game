@@ -1,14 +1,14 @@
 {
     "id": 1731,
-    "fecha_voto": "2024-10-15",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-09-30",
+    "estado": "Georgia",
     "etnia": "hispanic",
-    "edad": 31,
+    "edad": 37,
     "sexo": "femenino",
-    "salario": 167872,
-    "estudios": "masters",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 1,
+    "salario": 138782,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

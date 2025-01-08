@@ -1,14 +1,14 @@
 {
     "id": 446,
-    "fecha_voto": "2024-02-22",
-    "estado": "Wisconsin",
-    "etnia": "black",
-    "edad": 81,
-    "sexo": "masculino",
-    "salario": 152324,
+    "fecha_voto": "2024-02-21",
+    "estado": "Michigan",
+    "etnia": "indian",
+    "edad": 39,
+    "sexo": "femenino",
+    "salario": 38347,
     "estudios": "doctor",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 5,
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 2,
     "voto": "democrata"
 }

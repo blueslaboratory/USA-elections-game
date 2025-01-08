@@ -1,14 +1,14 @@
 {
     "id": 23,
-    "fecha_voto": "2024-01-03",
-    "estado": "Montana",
-    "etnia": "black",
-    "edad": 46,
-    "sexo": "o",
-    "salario": 122488,
-    "estudios": "undergraduate",
-    "religion": "islam",
+    "fecha_voto": "2024-01-22",
+    "estado": "Nebraska",
+    "etnia": "illegal",
+    "edad": 90,
+    "sexo": "femenino",
+    "salario": 132444,
+    "estudios": "graduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "democrata"
 }

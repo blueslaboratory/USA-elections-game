@@ -1,14 +1,14 @@
 {
     "id": 419,
-    "fecha_voto": "2024-03-09",
-    "estado": "Idaho",
-    "etnia": "indian",
-    "edad": 46,
-    "sexo": "femenino",
-    "salario": 163241,
+    "fecha_voto": "2024-02-18",
+    "estado": "Hawaii",
+    "etnia": "white",
+    "edad": 38,
+    "sexo": "masculino",
+    "salario": 82136,
     "estudios": "high school",
-    "religion": "judaism",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "republicano"
 }

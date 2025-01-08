@@ -1,14 +1,14 @@
 {
     "id": 504,
-    "fecha_voto": "2024-04-01",
-    "estado": "North Dakota",
-    "etnia": "illegal",
-    "edad": 58,
-    "sexo": "masculino",
-    "salario": 205998,
-    "estudios": "masters",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "fecha_voto": "2024-04-09",
+    "estado": "Alabama",
+    "etnia": "black",
+    "edad": 94,
+    "sexo": "femenino",
+    "salario": 102940,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1119,
-    "fecha_voto": "2024-06-29",
-    "estado": "Tennessee",
-    "etnia": "asian",
-    "edad": 22,
+    "fecha_voto": "2024-07-24",
+    "estado": "Louisiana",
+    "etnia": "indian",
+    "edad": 50,
     "sexo": "femenino",
-    "salario": 87513,
-    "estudios": "masters",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 5,
+    "salario": 198276,
+    "estudios": "doctor",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

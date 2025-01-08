@@ -1,14 +1,14 @@
 {
     "id": 1934,
-    "fecha_voto": "2024-11-04",
-    "estado": "Montana",
-    "etnia": "white",
-    "edad": 67,
-    "sexo": "femenino",
-    "salario": 225084,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "fecha_voto": "2024-11-05",
+    "estado": "Iowa",
+    "etnia": "illegal",
+    "edad": 96,
+    "sexo": "masculino",
+    "salario": 44553,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

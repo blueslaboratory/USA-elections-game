@@ -1,14 +1,14 @@
 {
     "id": 628,
-    "fecha_voto": "2024-04-26",
-    "estado": "Virginia",
-    "etnia": "hispanic",
-    "edad": 54,
+    "fecha_voto": "2024-04-02",
+    "estado": "Connecticut",
+    "etnia": "asian",
+    "edad": 33,
     "sexo": "masculino",
-    "salario": 160300,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "salario": 118476,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

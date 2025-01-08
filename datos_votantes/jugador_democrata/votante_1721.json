@@ -1,14 +1,14 @@
 {
     "id": 1721,
-    "fecha_voto": "2024-09-26",
+    "fecha_voto": "2024-10-26",
     "estado": "Wisconsin",
-    "etnia": "indian",
-    "edad": 23,
+    "etnia": "illegal",
+    "edad": 95,
     "sexo": "femenino",
-    "salario": 239907,
+    "salario": 196964,
     "estudios": "high school",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "religion": "other",
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
 }

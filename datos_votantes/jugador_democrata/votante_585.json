@@ -1,14 +1,14 @@
 {
     "id": 585,
-    "fecha_voto": "2024-04-26",
-    "estado": "Minnesota",
-    "etnia": "hispanic",
-    "edad": 61,
-    "sexo": "masculino",
-    "salario": 95811,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "fecha_voto": "2024-05-01",
+    "estado": "Washington",
+    "etnia": "asian",
+    "edad": 68,
+    "sexo": "femenino",
+    "salario": 205641,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

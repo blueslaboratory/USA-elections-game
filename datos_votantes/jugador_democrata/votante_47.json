@@ -1,14 +1,14 @@
 {
     "id": 47,
-    "fecha_voto": "2024-01-05",
-    "estado": "Florida",
-    "etnia": "white",
-    "edad": 92,
-    "sexo": "c",
-    "salario": 293147,
-    "estudios": "doctor",
-    "religion": "christianism",
+    "fecha_voto": "2024-01-16",
+    "estado": "New Mexico",
+    "etnia": "black",
+    "edad": 43,
+    "sexo": "femenino",
+    "salario": 148592,
+    "estudios": "high school",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 0,
     "voto": "republicano"
 }

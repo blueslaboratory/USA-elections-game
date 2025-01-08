@@ -1,14 +1,14 @@
 {
     "id": 854,
-    "fecha_voto": "2024-06-15",
-    "estado": "North Carolina",
-    "etnia": "black",
-    "edad": 20,
+    "fecha_voto": "2024-05-13",
+    "estado": "Mississippi",
+    "etnia": "hispanic",
+    "edad": 74,
     "sexo": "masculino",
-    "salario": 225239,
+    "salario": 240543,
     "estudios": "masters",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
 }

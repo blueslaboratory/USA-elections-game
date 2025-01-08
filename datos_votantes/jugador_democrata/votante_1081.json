@@ -1,14 +1,14 @@
 {
     "id": 1081,
-    "fecha_voto": "2024-07-21",
-    "estado": "Mississippi",
-    "etnia": "asian",
-    "edad": 43,
+    "fecha_voto": "2024-07-27",
+    "estado": "North Dakota",
+    "etnia": "hispanic",
+    "edad": 46,
     "sexo": "femenino",
-    "salario": 199771,
-    "estudios": "doctor",
-    "religion": "hinduism",
-    "casado": false,
+    "salario": 191966,
+    "estudios": "graduate",
+    "religion": "islam",
+    "casado": true,
     "hijos": 5,
     "voto": "republicano"
 }

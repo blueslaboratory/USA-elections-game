@@ -1,14 +1,14 @@
 {
     "id": 1304,
-    "fecha_voto": "2024-09-01",
-    "estado": "Virginia",
-    "etnia": "white",
-    "edad": 19,
+    "fecha_voto": "2024-09-07",
+    "estado": "Wyoming",
+    "etnia": "asian",
+    "edad": 69,
     "sexo": "femenino",
-    "salario": 238087,
-    "estudios": "doctor",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "salario": 112915,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
 }

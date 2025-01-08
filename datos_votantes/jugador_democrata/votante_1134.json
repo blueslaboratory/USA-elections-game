@@ -1,14 +1,14 @@
 {
     "id": 1134,
-    "fecha_voto": "2024-07-29",
-    "estado": "Texas",
-    "etnia": "asian",
+    "fecha_voto": "2024-06-28",
+    "estado": "Illinois",
+    "etnia": "white",
     "edad": 25,
     "sexo": "femenino",
-    "salario": 201054,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 4,
+    "salario": 51101,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

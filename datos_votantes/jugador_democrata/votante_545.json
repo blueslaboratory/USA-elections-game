@@ -1,14 +1,14 @@
 {
     "id": 545,
-    "fecha_voto": "2024-04-30",
-    "estado": "Florida",
+    "fecha_voto": "2024-05-04",
+    "estado": "Vermont",
     "etnia": "illegal",
-    "edad": 92,
-    "sexo": "femenino",
-    "salario": 52018,
+    "edad": 30,
+    "sexo": "masculino",
+    "salario": 155663,
     "estudios": "graduate",
-    "religion": "atheism",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

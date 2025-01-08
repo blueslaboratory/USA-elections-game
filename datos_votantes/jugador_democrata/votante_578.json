@@ -1,14 +1,14 @@
 {
     "id": 578,
-    "fecha_voto": "2024-05-08",
-    "estado": "Texas",
-    "etnia": "illegal",
-    "edad": 50,
-    "sexo": "femenino",
-    "salario": 195729,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "fecha_voto": "2024-04-05",
+    "estado": "Utah",
+    "etnia": "indian",
+    "edad": 55,
+    "sexo": "masculino",
+    "salario": 152555,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 0,
+    "hijos": 3,
     "voto": "democrata"
 }

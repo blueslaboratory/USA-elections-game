@@ -1,14 +1,14 @@
 {
     "id": 1179,
-    "fecha_voto": "2024-07-07",
-    "estado": "Iowa",
-    "etnia": "black",
-    "edad": 46,
+    "fecha_voto": "2024-06-30",
+    "estado": "Tennessee",
+    "etnia": "illegal",
+    "edad": 27,
     "sexo": "femenino",
-    "salario": 46309,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 3,
+    "salario": 236060,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 0,
     "voto": "democrata"
 }

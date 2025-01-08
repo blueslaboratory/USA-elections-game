@@ -1,14 +1,14 @@
 {
     "id": 1805,
     "fecha_voto": "2024-11-05",
-    "estado": "South Dakota",
-    "etnia": "black",
-    "edad": 50,
+    "estado": "Montana",
+    "etnia": "asian",
+    "edad": 35,
     "sexo": "masculino",
-    "salario": 203582,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "salario": 222521,
+    "estudios": "undergraduate",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "republicano"
 }

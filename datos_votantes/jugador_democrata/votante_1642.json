@@ -1,14 +1,14 @@
 {
     "id": 1642,
-    "fecha_voto": "2024-09-22",
-    "estado": "Georgia",
-    "etnia": "hispanic",
-    "edad": 26,
+    "fecha_voto": "2024-10-04",
+    "estado": "Washington",
+    "etnia": "illegal",
+    "edad": 70,
     "sexo": "femenino",
-    "salario": 132465,
-    "estudios": "masters",
+    "salario": 158159,
+    "estudios": "undergraduate",
     "religion": "atheism",
-    "casado": false,
-    "hijos": 4,
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

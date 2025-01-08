@@ -1,14 +1,14 @@
 {
     "id": 226,
-    "fecha_voto": "2024-01-25",
-    "estado": "Minnesota",
-    "etnia": "black",
-    "edad": 33,
-    "sexo": "n",
-    "salario": 375094,
-    "estudios": "masters",
-    "religion": "christianism",
+    "fecha_voto": "2024-02-01",
+    "estado": "Louisiana",
+    "etnia": "white",
+    "edad": 98,
+    "sexo": "femenino",
+    "salario": 41283,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": true,
     "hijos": 5,
-    "voto": "democrata"
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1643,
-    "fecha_voto": "2024-10-29",
-    "estado": "Wyoming",
-    "etnia": "white",
-    "edad": 24,
-    "sexo": "femenino",
-    "salario": 152772,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "fecha_voto": "2024-10-24",
+    "estado": "Texas",
+    "etnia": "illegal",
+    "edad": 46,
+    "sexo": "masculino",
+    "salario": 148882,
+    "estudios": "high school",
+    "religion": "other",
     "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

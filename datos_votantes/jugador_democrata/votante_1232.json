@@ -1,14 +1,14 @@
 {
     "id": 1232,
-    "fecha_voto": "2024-07-03",
-    "estado": "Kansas",
-    "etnia": "asian",
-    "edad": 49,
-    "sexo": "masculino",
-    "salario": 135904,
+    "fecha_voto": "2024-07-11",
+    "estado": "Georgia",
+    "etnia": "indian",
+    "edad": 34,
+    "sexo": "femenino",
+    "salario": 129118,
     "estudios": "doctor",
-    "religion": "other",
-    "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "democrata"
 }

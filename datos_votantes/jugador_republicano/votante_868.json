@@ -1,14 +1,14 @@
 {
     "id": 868,
-    "fecha_voto": "2024-05-23",
-    "estado": "South Carolina",
-    "etnia": "hispanic",
-    "edad": 40,
+    "fecha_voto": "2024-06-15",
+    "estado": "Vermont",
+    "etnia": "white",
+    "edad": 22,
     "sexo": "masculino",
-    "salario": 147132,
-    "estudios": "masters",
-    "religion": "other",
-    "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "salario": 155673,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "democrata"
 }

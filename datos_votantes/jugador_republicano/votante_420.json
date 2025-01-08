@@ -1,14 +1,14 @@
 {
     "id": 420,
-    "fecha_voto": "2024-03-18",
-    "estado": "Indiana",
-    "etnia": "hispanic",
-    "edad": 64,
-    "sexo": "masculino",
-    "salario": 197903,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "fecha_voto": "2024-03-07",
+    "estado": "Alaska",
+    "etnia": "indian",
+    "edad": 19,
+    "sexo": "femenino",
+    "salario": 129940,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "democrata"
 }

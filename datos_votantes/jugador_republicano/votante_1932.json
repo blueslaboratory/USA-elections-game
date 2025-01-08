@@ -1,14 +1,14 @@
 {
     "id": 1932,
-    "fecha_voto": "2024-11-05",
-    "estado": "Mississippi",
-    "etnia": "hispanic",
-    "edad": 36,
+    "fecha_voto": "2024-11-04",
+    "estado": "Nebraska",
+    "etnia": "black",
+    "edad": 55,
     "sexo": "masculino",
-    "salario": 230609,
+    "salario": 197166,
     "estudios": "masters",
-    "religion": "other",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

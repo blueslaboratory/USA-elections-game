@@ -1,14 +1,14 @@
 {
     "id": 1969,
-    "fecha_voto": "2024-11-04",
-    "estado": "Indiana",
-    "etnia": "asian",
-    "edad": 77,
-    "sexo": "femenino",
-    "salario": 211209,
-    "estudios": "masters",
-    "religion": "islam",
+    "fecha_voto": "2024-11-05",
+    "estado": "Kentucky",
+    "etnia": "indian",
+    "edad": 78,
+    "sexo": "masculino",
+    "salario": 109242,
+    "estudios": "undergraduate",
+    "religion": "atheism",
     "casado": false,
     "hijos": 4,
-    "voto": "democrata"
+    "voto": "republicano"
 }

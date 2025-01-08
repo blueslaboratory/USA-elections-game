@@ -1,14 +1,14 @@
 {
     "id": 1406,
-    "fecha_voto": "2024-09-12",
-    "estado": "Missouri",
-    "etnia": "hispanic",
-    "edad": 26,
+    "fecha_voto": "2024-08-18",
+    "estado": "Mississippi",
+    "etnia": "asian",
+    "edad": 24,
     "sexo": "masculino",
-    "salario": 244117,
+    "salario": 128268,
     "estudios": "doctor",
-    "religion": "judaism",
-    "casado": true,
+    "religion": "christianism",
+    "casado": false,
     "hijos": 2,
-    "voto": "democrata"
+    "voto": "republicano"
 }

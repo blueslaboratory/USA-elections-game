@@ -1,14 +1,14 @@
 {
     "id": 979,
-    "fecha_voto": "2024-06-16",
-    "estado": "South Dakota",
-    "etnia": "black",
-    "edad": 33,
+    "fecha_voto": "2024-06-04",
+    "estado": "New Jersey",
+    "etnia": "hispanic",
+    "edad": 74,
     "sexo": "masculino",
-    "salario": 46345,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 5,
+    "salario": 70685,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": true,
+    "hijos": 4,
     "voto": "democrata"
 }

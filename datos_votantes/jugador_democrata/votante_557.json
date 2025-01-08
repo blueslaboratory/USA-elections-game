@@ -1,14 +1,14 @@
 {
     "id": 557,
-    "fecha_voto": "2024-04-09",
-    "estado": "Texas",
-    "etnia": "hispanic",
-    "edad": 52,
+    "fecha_voto": "2024-05-06",
+    "estado": "Wyoming",
+    "etnia": "black",
+    "edad": 23,
     "sexo": "femenino",
-    "salario": 78061,
+    "salario": 59190,
     "estudios": "graduate",
     "religion": "hinduism",
     "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

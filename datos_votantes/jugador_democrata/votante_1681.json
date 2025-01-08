@@ -1,14 +1,14 @@
 {
     "id": 1681,
-    "fecha_voto": "2024-10-05",
-    "estado": "Georgia",
-    "etnia": "black",
-    "edad": 33,
-    "sexo": "femenino",
-    "salario": 53499,
-    "estudios": "undergraduate",
-    "religion": "judaism",
+    "fecha_voto": "2024-10-20",
+    "estado": "Delaware",
+    "etnia": "hispanic",
+    "edad": 51,
+    "sexo": "masculino",
+    "salario": 158550,
+    "estudios": "high school",
+    "religion": "islam",
     "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

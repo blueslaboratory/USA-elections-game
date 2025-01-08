@@ -1,14 +1,14 @@
 {
     "id": 1990,
     "fecha_voto": "2024-11-04",
-    "estado": "Arizona",
-    "etnia": "hispanic",
-    "edad": 82,
+    "estado": "Kansas",
+    "etnia": "asian",
+    "edad": 77,
     "sexo": "masculino",
-    "salario": 94207,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 2,
+    "salario": 82525,
+    "estudios": "doctor",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 3,
     "voto": "republicano"
 }

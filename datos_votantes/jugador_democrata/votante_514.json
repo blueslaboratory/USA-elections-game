@@ -1,14 +1,14 @@
 {
     "id": 514,
-    "fecha_voto": "2024-04-23",
-    "estado": "Montana",
-    "etnia": "illegal",
-    "edad": 58,
-    "sexo": "masculino",
-    "salario": 146096,
+    "fecha_voto": "2024-03-30",
+    "estado": "Arkansas",
+    "etnia": "indian",
+    "edad": 64,
+    "sexo": "femenino",
+    "salario": 237365,
     "estudios": "masters",
-    "religion": "christianism",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 0,
     "voto": "democrata"
 }

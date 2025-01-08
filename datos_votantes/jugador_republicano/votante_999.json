@@ -1,14 +1,14 @@
 {
     "id": 999,
-    "fecha_voto": "2024-05-15",
-    "estado": "Massachusetts",
-    "etnia": "indian",
-    "edad": 37,
+    "fecha_voto": "2024-06-21",
+    "estado": "Iowa",
+    "etnia": "hispanic",
+    "edad": 94,
     "sexo": "masculino",
-    "salario": 146938,
-    "estudios": "undergraduate",
-    "religion": "atheism",
+    "salario": 181462,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

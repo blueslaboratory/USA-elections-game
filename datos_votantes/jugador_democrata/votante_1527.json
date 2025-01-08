@@ -1,14 +1,14 @@
 {
     "id": 1527,
-    "fecha_voto": "2024-10-23",
-    "estado": "Rhode Island",
-    "etnia": "white",
-    "edad": 26,
+    "fecha_voto": "2024-10-21",
+    "estado": "South Dakota",
+    "etnia": "hispanic",
+    "edad": 75,
     "sexo": "femenino",
-    "salario": 217533,
-    "estudios": "high school",
-    "religion": "christianism",
+    "salario": 107012,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

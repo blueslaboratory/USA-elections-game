@@ -1,14 +1,14 @@
 {
     "id": 1688,
-    "fecha_voto": "2024-10-27",
-    "estado": "Vermont",
+    "fecha_voto": "2024-09-28",
+    "estado": "Missouri",
     "etnia": "hispanic",
-    "edad": 34,
+    "edad": 73,
     "sexo": "femenino",
-    "salario": 226257,
+    "salario": 71160,
     "estudios": "doctor",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
+    "casado": true,
+    "hijos": 4,
     "voto": "democrata"
 }

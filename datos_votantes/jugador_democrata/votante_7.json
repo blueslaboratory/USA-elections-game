@@ -1,14 +1,14 @@
 {
     "id": 7,
-    "fecha_voto": "2024-02-01",
-    "estado": "Oregon",
-    "etnia": "hispanic",
-    "edad": 37,
-    "sexo": "c",
-    "salario": 263644,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "fecha_voto": "2024-02-09",
+    "estado": "Indiana",
+    "etnia": "black",
+    "edad": 71,
+    "sexo": "femenino",
+    "salario": 86999,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "republicano"
 }

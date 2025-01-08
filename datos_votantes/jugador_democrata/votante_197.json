@@ -1,14 +1,14 @@
 {
     "id": 197,
-    "fecha_voto": "2024-01-24",
-    "estado": "Nebraska",
-    "etnia": "hispanic",
-    "edad": 62,
-    "sexo": "u",
-    "salario": 109515,
+    "fecha_voto": "2024-02-07",
+    "estado": "Montana",
+    "etnia": "illegal",
+    "edad": 87,
+    "sexo": "masculino",
+    "salario": 244454,
     "estudios": "graduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 1,
+    "religion": "islam",
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

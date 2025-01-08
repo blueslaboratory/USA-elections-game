@@ -1,14 +1,14 @@
 {
     "id": 437,
-    "fecha_voto": "2024-02-28",
-    "estado": "Florida",
-    "etnia": "indian",
-    "edad": 63,
-    "sexo": "femenino",
-    "salario": 126158,
-    "estudios": "undergraduate",
-    "religion": "christianism",
+    "fecha_voto": "2024-03-02",
+    "estado": "Missouri",
+    "etnia": "asian",
+    "edad": 43,
+    "sexo": "masculino",
+    "salario": 185458,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 4,
     "voto": "republicano"
 }

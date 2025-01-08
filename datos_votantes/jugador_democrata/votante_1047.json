@@ -1,14 +1,14 @@
 {
     "id": 1047,
-    "fecha_voto": "2024-07-11",
-    "estado": "Hawaii",
-    "etnia": "white",
-    "edad": 43,
+    "fecha_voto": "2024-07-12",
+    "estado": "Missouri",
+    "etnia": "black",
+    "edad": 39,
     "sexo": "femenino",
-    "salario": 170249,
-    "estudios": "graduate",
-    "religion": "hinduism",
+    "salario": 112209,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 1,
     "voto": "democrata"
 }

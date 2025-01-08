@@ -1,14 +1,14 @@
 {
     "id": 952,
-    "fecha_voto": "2024-05-19",
-    "estado": "Montana",
-    "etnia": "hispanic",
-    "edad": 33,
+    "fecha_voto": "2024-05-20",
+    "estado": "Tennessee",
+    "etnia": "white",
+    "edad": 79,
     "sexo": "masculino",
-    "salario": 93102,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "salario": 96306,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 4,
     "voto": "republicano"
 }

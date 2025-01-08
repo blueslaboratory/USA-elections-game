@@ -1,14 +1,14 @@
 {
     "id": 898,
-    "fecha_voto": "2024-06-19",
-    "estado": "Hawaii",
-    "etnia": "asian",
-    "edad": 50,
+    "fecha_voto": "2024-05-31",
+    "estado": "Delaware",
+    "etnia": "white",
+    "edad": 41,
     "sexo": "masculino",
-    "salario": 132276,
-    "estudios": "graduate",
+    "salario": 37621,
+    "estudios": "doctor",
     "religion": "other",
-    "casado": true,
-    "hijos": 3,
+    "casado": false,
+    "hijos": 2,
     "voto": "republicano"
 }

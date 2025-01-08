@@ -1,14 +1,14 @@
 {
     "id": 1492,
-    "fecha_voto": "2024-08-13",
-    "estado": "Alaska",
-    "etnia": "black",
-    "edad": 39,
+    "fecha_voto": "2024-09-03",
+    "estado": "Louisiana",
+    "etnia": "hispanic",
+    "edad": 75,
     "sexo": "femenino",
-    "salario": 211557,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
+    "salario": 247744,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": false,
     "hijos": 2,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1069,
-    "fecha_voto": "2024-07-09",
-    "estado": "Wisconsin",
+    "fecha_voto": "2024-07-18",
+    "estado": "Delaware",
     "etnia": "illegal",
-    "edad": 25,
+    "edad": 28,
     "sexo": "femenino",
-    "salario": 206750,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 3,
+    "salario": 78937,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

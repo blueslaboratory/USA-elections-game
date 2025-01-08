@@ -1,14 +1,14 @@
 {
     "id": 1802,
-    "fecha_voto": "2024-11-04",
-    "estado": "Arkansas",
-    "etnia": "hispanic",
-    "edad": 39,
+    "fecha_voto": "2024-11-05",
+    "estado": "North Dakota",
+    "etnia": "black",
+    "edad": 51,
     "sexo": "masculino",
-    "salario": 42837,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
-    "hijos": 4,
+    "salario": 202807,
+    "estudios": "graduate",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 2,
     "voto": "republicano"
 }

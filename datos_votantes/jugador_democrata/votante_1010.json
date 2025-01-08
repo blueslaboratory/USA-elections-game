@@ -1,14 +1,14 @@
 {
     "id": 1010,
-    "fecha_voto": "2024-07-10",
-    "estado": "Vermont",
-    "etnia": "white",
-    "edad": 28,
-    "sexo": "masculino",
-    "salario": 44865,
-    "estudios": "graduate",
-    "religion": "islam",
+    "fecha_voto": "2024-06-26",
+    "estado": "Arizona",
+    "etnia": "asian",
+    "edad": 29,
+    "sexo": "femenino",
+    "salario": 143550,
+    "estudios": "undergraduate",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 5,
     "voto": "democrata"
 }

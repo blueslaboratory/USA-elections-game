@@ -1,14 +1,14 @@
 {
     "id": 1634,
-    "fecha_voto": "2024-10-26",
-    "estado": "Georgia",
-    "etnia": "asian",
-    "edad": 20,
-    "sexo": "femenino",
-    "salario": 236183,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "fecha_voto": "2024-09-23",
+    "estado": "Utah",
+    "etnia": "illegal",
+    "edad": 41,
+    "sexo": "masculino",
+    "salario": 241444,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

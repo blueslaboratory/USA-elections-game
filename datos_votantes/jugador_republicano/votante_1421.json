@@ -1,14 +1,14 @@
 {
     "id": 1421,
-    "fecha_voto": "2024-09-16",
-    "estado": "Alaska",
-    "etnia": "illegal",
-    "edad": 22,
+    "fecha_voto": "2024-08-10",
+    "estado": "Michigan",
+    "etnia": "white",
+    "edad": 85,
     "sexo": "femenino",
-    "salario": 42065,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "salario": 184642,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 0,
+    "voto": "republicano"
 }

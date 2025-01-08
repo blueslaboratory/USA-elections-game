@@ -1,14 +1,14 @@
 {
     "id": 50,
-    "fecha_voto": "2024-01-17",
-    "estado": "Massachusetts",
-    "etnia": "illegal",
-    "edad": 51,
-    "sexo": "c",
-    "salario": 158062,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "fecha_voto": "2024-02-03",
+    "estado": "Nebraska",
+    "etnia": "white",
+    "edad": 74,
+    "sexo": "femenino",
+    "salario": 103277,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 2,
     "voto": "democrata"
 }

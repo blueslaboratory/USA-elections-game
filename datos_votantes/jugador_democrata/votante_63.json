@@ -1,14 +1,14 @@
 {
     "id": 63,
-    "fecha_voto": "2024-02-01",
-    "estado": "Montana",
-    "etnia": "white",
-    "edad": 27,
-    "sexo": "i",
-    "salario": 388847,
-    "estudios": "graduate",
-    "religion": "other",
+    "fecha_voto": "2024-02-11",
+    "estado": "Maine",
+    "etnia": "black",
+    "edad": 95,
+    "sexo": "masculino",
+    "salario": 33444,
+    "estudios": "doctor",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

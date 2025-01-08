@@ -1,14 +1,14 @@
 {
     "id": 194,
-    "fecha_voto": "2024-02-12",
-    "estado": "Montana",
-    "etnia": "asian",
-    "edad": 97,
-    "sexo": "a",
-    "salario": 164981,
+    "fecha_voto": "2024-02-06",
+    "estado": "Michigan",
+    "etnia": "black",
+    "edad": 55,
+    "sexo": "femenino",
+    "salario": 233335,
     "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 541,
-    "fecha_voto": "2024-04-12",
-    "estado": "Wyoming",
-    "etnia": "hispanic",
-    "edad": 67,
+    "fecha_voto": "2024-04-22",
+    "estado": "Oklahoma",
+    "etnia": "illegal",
+    "edad": 90,
     "sexo": "masculino",
-    "salario": 189912,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 2,
+    "salario": 188143,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

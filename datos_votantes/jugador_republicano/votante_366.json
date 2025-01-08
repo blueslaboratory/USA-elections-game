@@ -1,14 +1,14 @@
 {
     "id": 366,
-    "fecha_voto": "2024-03-08",
-    "estado": "Mississippi",
-    "etnia": "indian",
-    "edad": 19,
+    "fecha_voto": "2024-02-29",
+    "estado": "New York",
+    "etnia": "illegal",
+    "edad": 36,
     "sexo": "masculino",
-    "salario": 183761,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 4,
+    "salario": 207674,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
     "voto": "democrata"
 }

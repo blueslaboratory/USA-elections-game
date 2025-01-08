@@ -1,14 +1,14 @@
 {
     "id": 404,
-    "fecha_voto": "2024-03-15",
-    "estado": "Minnesota",
-    "etnia": "white",
-    "edad": 36,
-    "sexo": "masculino",
-    "salario": 119081,
-    "estudios": "high school",
-    "religion": "judaism",
+    "fecha_voto": "2024-03-19",
+    "estado": "Washington",
+    "etnia": "illegal",
+    "edad": 17,
+    "sexo": "femenino",
+    "salario": 236213,
+    "estudios": "masters",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

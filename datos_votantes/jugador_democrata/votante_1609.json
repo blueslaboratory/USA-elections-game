@@ -1,14 +1,14 @@
 {
     "id": 1609,
-    "fecha_voto": "2024-10-25",
-    "estado": "Delaware",
-    "etnia": "white",
-    "edad": 29,
-    "sexo": "femenino",
-    "salario": 169528,
+    "fecha_voto": "2024-10-14",
+    "estado": "Kansas",
+    "etnia": "hispanic",
+    "edad": 94,
+    "sexo": "masculino",
+    "salario": 46679,
     "estudios": "doctor",
     "religion": "other",
-    "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "casado": true,
+    "hijos": 2,
+    "voto": "republicano"
 }

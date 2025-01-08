@@ -1,14 +1,14 @@
 {
     "id": 680,
-    "fecha_voto": "2024-04-13",
-    "estado": "Michigan",
+    "fecha_voto": "2024-04-20",
+    "estado": "Minnesota",
     "etnia": "illegal",
-    "edad": 57,
+    "edad": 95,
     "sexo": "femenino",
-    "salario": 182268,
-    "estudios": "high school",
-    "religion": "other",
+    "salario": 65751,
+    "estudios": "masters",
+    "religion": "islam",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

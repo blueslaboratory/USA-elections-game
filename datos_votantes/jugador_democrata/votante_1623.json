@@ -1,14 +1,14 @@
 {
     "id": 1623,
-    "fecha_voto": "2024-10-05",
-    "estado": "Washington",
+    "fecha_voto": "2024-10-15",
+    "estado": "Wisconsin",
     "etnia": "illegal",
-    "edad": 24,
-    "sexo": "femenino",
-    "salario": 107929,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "edad": 33,
+    "sexo": "masculino",
+    "salario": 64945,
+    "estudios": "high school",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

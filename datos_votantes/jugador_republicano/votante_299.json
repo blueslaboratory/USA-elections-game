@@ -1,14 +1,14 @@
 {
     "id": 299,
-    "fecha_voto": "2024-03-27",
-    "estado": "Arkansas",
-    "etnia": "indian",
-    "edad": 73,
-    "sexo": "masculino",
-    "salario": 233001,
+    "fecha_voto": "2024-03-17",
+    "estado": "Georgia",
+    "etnia": "illegal",
+    "edad": 18,
+    "sexo": "femenino",
+    "salario": 248493,
     "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
 }

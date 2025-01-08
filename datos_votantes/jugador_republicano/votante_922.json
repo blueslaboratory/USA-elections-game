@@ -1,14 +1,14 @@
 {
     "id": 922,
-    "fecha_voto": "2024-06-05",
-    "estado": "Michigan",
-    "etnia": "illegal",
-    "edad": 18,
-    "sexo": "masculino",
-    "salario": 147429,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-05-15",
+    "estado": "Delaware",
+    "etnia": "white",
+    "edad": 19,
+    "sexo": "femenino",
+    "salario": 118947,
+    "estudios": "doctor",
     "religion": "other",
-    "casado": true,
-    "hijos": 1,
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1540,
-    "fecha_voto": "2024-10-20",
+    "fecha_voto": "2024-10-26",
     "estado": "Georgia",
-    "etnia": "illegal",
-    "edad": 22,
+    "etnia": "hispanic",
+    "edad": 48,
     "sexo": "femenino",
-    "salario": 247351,
-    "estudios": "high school",
-    "religion": "judaism",
+    "salario": 112424,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": true,
     "hijos": 3,
-    "voto": "democrata"
+    "voto": "republicano"
 }

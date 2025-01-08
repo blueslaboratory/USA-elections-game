@@ -1,14 +1,14 @@
 {
     "id": 1164,
-    "fecha_voto": "2024-07-01",
-    "estado": "Connecticut",
+    "fecha_voto": "2024-06-29",
+    "estado": "Vermont",
     "etnia": "indian",
-    "edad": 21,
-    "sexo": "masculino",
-    "salario": 246892,
-    "estudios": "undergraduate",
-    "religion": "christianism",
+    "edad": 33,
+    "sexo": "femenino",
+    "salario": 133937,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 2,
     "voto": "democrata"
 }

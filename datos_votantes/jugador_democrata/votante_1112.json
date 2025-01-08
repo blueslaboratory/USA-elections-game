@@ -1,14 +1,14 @@
 {
     "id": 1112,
-    "fecha_voto": "2024-08-03",
+    "fecha_voto": "2024-07-23",
     "estado": "Pennsylvania",
-    "etnia": "hispanic",
-    "edad": 29,
+    "etnia": "black",
+    "edad": 30,
     "sexo": "femenino",
-    "salario": 88667,
-    "estudios": "masters",
-    "religion": "other",
+    "salario": 177189,
+    "estudios": "high school",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 5,
+    "hijos": 2,
     "voto": "democrata"
 }

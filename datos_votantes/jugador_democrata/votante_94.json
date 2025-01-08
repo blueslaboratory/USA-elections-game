@@ -1,14 +1,14 @@
 {
     "id": 94,
-    "fecha_voto": "2024-02-03",
-    "estado": "Ohio",
+    "fecha_voto": "2024-01-04",
+    "estado": "Iowa",
     "etnia": "illegal",
-    "edad": 52,
-    "sexo": "u",
-    "salario": 396291,
+    "edad": 59,
+    "sexo": "femenino",
+    "salario": 160109,
     "estudios": "masters",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 3,
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1257,
-    "fecha_voto": "2024-09-16",
-    "estado": "Ohio",
-    "etnia": "black",
-    "edad": 81,
-    "sexo": "femenino",
-    "salario": 167807,
-    "estudios": "graduate",
+    "fecha_voto": "2024-09-08",
+    "estado": "South Carolina",
+    "etnia": "illegal",
+    "edad": 31,
+    "sexo": "masculino",
+    "salario": 75861,
+    "estudios": "high school",
     "religion": "christianism",
-    "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 2,
+    "voto": "republicano"
 }

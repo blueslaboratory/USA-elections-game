@@ -1,14 +1,14 @@
 {
     "id": 175,
-    "fecha_voto": "2024-01-15",
-    "estado": "South Carolina",
+    "fecha_voto": "2024-02-07",
+    "estado": "Utah",
     "etnia": "black",
-    "edad": 63,
-    "sexo": "m",
-    "salario": 370615,
-    "estudios": "undergraduate",
-    "religion": "islam",
+    "edad": 86,
+    "sexo": "femenino",
+    "salario": 157940,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

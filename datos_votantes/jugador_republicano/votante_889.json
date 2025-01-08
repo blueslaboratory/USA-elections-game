@@ -1,14 +1,14 @@
 {
     "id": 889,
-    "fecha_voto": "2024-05-28",
-    "estado": "Virginia",
-    "etnia": "white",
-    "edad": 33,
-    "sexo": "masculino",
-    "salario": 142793,
-    "estudios": "masters",
-    "religion": "hinduism",
+    "fecha_voto": "2024-06-04",
+    "estado": "New Hampshire",
+    "etnia": "hispanic",
+    "edad": 19,
+    "sexo": "femenino",
+    "salario": 32728,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": false,
-    "hijos": 1,
+    "hijos": 4,
     "voto": "democrata"
 }

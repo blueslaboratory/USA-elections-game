@@ -1,14 +1,14 @@
 {
     "id": 286,
-    "fecha_voto": "2024-03-05",
-    "estado": "Arkansas",
-    "etnia": "asian",
-    "edad": 77,
+    "fecha_voto": "2024-03-14",
+    "estado": "Illinois",
+    "etnia": "hispanic",
+    "edad": 40,
     "sexo": "masculino",
-    "salario": 71491,
-    "estudios": "undergraduate",
-    "religion": "other",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "salario": 173036,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "democrata"
 }

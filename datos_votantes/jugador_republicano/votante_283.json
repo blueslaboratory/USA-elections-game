@@ -1,14 +1,14 @@
 {
     "id": 283,
-    "fecha_voto": "2024-03-16",
-    "estado": "Pennsylvania",
+    "fecha_voto": "2024-02-27",
+    "estado": "Missouri",
     "etnia": "black",
-    "edad": 77,
+    "edad": 19,
     "sexo": "masculino",
-    "salario": 104528,
+    "salario": 115088,
     "estudios": "undergraduate",
     "religion": "hinduism",
     "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

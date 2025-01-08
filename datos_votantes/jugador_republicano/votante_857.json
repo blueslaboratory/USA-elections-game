@@ -1,14 +1,14 @@
 {
     "id": 857,
-    "fecha_voto": "2024-05-21",
-    "estado": "Arizona",
-    "etnia": "indian",
-    "edad": 35,
-    "sexo": "masculino",
-    "salario": 92749,
+    "fecha_voto": "2024-05-25",
+    "estado": "Michigan",
+    "etnia": "hispanic",
+    "edad": 91,
+    "sexo": "femenino",
+    "salario": 81552,
     "estudios": "high school",
-    "religion": "judaism",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 0,
     "voto": "republicano"
 }

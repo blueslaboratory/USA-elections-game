@@ -1,14 +1,14 @@
 {
     "id": 825,
-    "fecha_voto": "2024-05-24",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-05-31",
+    "estado": "Rhode Island",
     "etnia": "hispanic",
-    "edad": 25,
+    "edad": 73,
     "sexo": "masculino",
-    "salario": 73677,
+    "salario": 145748,
     "estudios": "doctor",
-    "religion": "atheism",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 5,
     "voto": "republicano"
 }

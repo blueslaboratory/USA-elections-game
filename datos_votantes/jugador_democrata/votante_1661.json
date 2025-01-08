@@ -1,14 +1,14 @@
 {
     "id": 1661,
-    "fecha_voto": "2024-10-12",
-    "estado": "Maryland",
+    "fecha_voto": "2024-10-29",
+    "estado": "North Carolina",
     "etnia": "illegal",
-    "edad": 28,
-    "sexo": "femenino",
-    "salario": 208841,
-    "estudios": "high school",
+    "edad": 26,
+    "sexo": "masculino",
+    "salario": 174618,
+    "estudios": "graduate",
     "religion": "christianism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 5,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1192,
-    "fecha_voto": "2024-07-26",
-    "estado": "Massachusetts",
-    "etnia": "asian",
-    "edad": 20,
+    "fecha_voto": "2024-07-03",
+    "estado": "Nevada",
+    "etnia": "black",
+    "edad": 43,
     "sexo": "femenino",
-    "salario": 197730,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "salario": 219937,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1237,
-    "fecha_voto": "2024-07-29",
+    "fecha_voto": "2024-07-21",
     "estado": "Oregon",
-    "etnia": "asian",
-    "edad": 29,
-    "sexo": "masculino",
-    "salario": 227854,
-    "estudios": "masters",
+    "etnia": "black",
+    "edad": 45,
+    "sexo": "femenino",
+    "salario": 173941,
+    "estudios": "doctor",
     "religion": "judaism",
-    "casado": true,
-    "hijos": 3,
+    "casado": false,
+    "hijos": 1,
     "voto": "democrata"
 }

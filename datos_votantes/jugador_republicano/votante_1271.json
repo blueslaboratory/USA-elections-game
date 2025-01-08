@@ -1,14 +1,14 @@
 {
     "id": 1271,
-    "fecha_voto": "2024-08-24",
-    "estado": "Wisconsin",
-    "etnia": "illegal",
-    "edad": 36,
-    "sexo": "femenino",
-    "salario": 156844,
+    "fecha_voto": "2024-08-16",
+    "estado": "Oklahoma",
+    "etnia": "black",
+    "edad": 39,
+    "sexo": "masculino",
+    "salario": 214540,
     "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
+    "religion": "atheism",
+    "casado": false,
     "hijos": 4,
-    "voto": "democrata"
+    "voto": "republicano"
 }

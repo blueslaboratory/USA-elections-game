@@ -1,14 +1,14 @@
 {
     "id": 359,
-    "fecha_voto": "2024-03-05",
-    "estado": "Missouri",
-    "etnia": "black",
-    "edad": 43,
-    "sexo": "masculino",
-    "salario": 234163,
-    "estudios": "graduate",
+    "fecha_voto": "2024-03-18",
+    "estado": "Michigan",
+    "etnia": "illegal",
+    "edad": 19,
+    "sexo": "femenino",
+    "salario": 209555,
+    "estudios": "masters",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

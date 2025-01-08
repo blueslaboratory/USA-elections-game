@@ -1,14 +1,14 @@
 {
     "id": 1716,
-    "fecha_voto": "2024-10-01",
-    "estado": "Nebraska",
-    "etnia": "black",
-    "edad": 18,
+    "fecha_voto": "2024-10-15",
+    "estado": "Connecticut",
+    "etnia": "illegal",
+    "edad": 40,
     "sexo": "femenino",
-    "salario": 132599,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 2,
+    "salario": 38556,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 0,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 343,
-    "fecha_voto": "2024-02-29",
-    "estado": "Louisiana",
+    "fecha_voto": "2024-03-15",
+    "estado": "Kentucky",
     "etnia": "black",
-    "edad": 28,
+    "edad": 10,
     "sexo": "femenino",
-    "salario": 203981,
+    "salario": 165850,
     "estudios": "high school",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "democrata"
 }

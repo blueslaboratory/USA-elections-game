@@ -1,14 +1,14 @@
 {
     "id": 1794,
     "fecha_voto": "2024-11-04",
-    "estado": "Maine",
-    "etnia": "black",
-    "edad": 62,
+    "estado": "Utah",
+    "etnia": "indian",
+    "edad": 48,
     "sexo": "masculino",
-    "salario": 75240,
-    "estudios": "high school",
+    "salario": 191937,
+    "estudios": "doctor",
     "religion": "other",
     "casado": false,
     "hijos": 4,
-    "voto": "republicano"
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1673,
-    "fecha_voto": "2024-10-30",
-    "estado": "South Dakota",
-    "etnia": "black",
-    "edad": 34,
+    "fecha_voto": "2024-09-29",
+    "estado": "Wyoming",
+    "etnia": "illegal",
+    "edad": 50,
     "sexo": "femenino",
-    "salario": 71122,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "salario": 91217,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 2,
+    "voto": "republicano"
 }

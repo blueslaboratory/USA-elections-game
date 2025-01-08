@@ -1,14 +1,14 @@
 {
     "id": 1906,
     "fecha_voto": "2024-11-05",
-    "estado": "South Carolina",
-    "etnia": "asian",
-    "edad": 24,
-    "sexo": "femenino",
-    "salario": 113559,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": false,
-    "hijos": 1,
+    "estado": "Texas",
+    "etnia": "illegal",
+    "edad": 66,
+    "sexo": "masculino",
+    "salario": 66238,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

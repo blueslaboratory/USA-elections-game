@@ -1,14 +1,14 @@
 {
     "id": 1684,
-    "fecha_voto": "2024-09-21",
-    "estado": "California",
-    "etnia": "black",
-    "edad": 30,
-    "sexo": "femenino",
-    "salario": 224220,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "fecha_voto": "2024-10-07",
+    "estado": "South Carolina",
+    "etnia": "illegal",
+    "edad": 53,
+    "sexo": "masculino",
+    "salario": 197512,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "republicano"
 }

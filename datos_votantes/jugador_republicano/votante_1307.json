@@ -1,14 +1,14 @@
 {
     "id": 1307,
-    "fecha_voto": "2024-08-14",
-    "estado": "Virginia",
-    "etnia": "illegal",
-    "edad": 48,
+    "fecha_voto": "2024-09-03",
+    "estado": "South Carolina",
+    "etnia": "hispanic",
+    "edad": 44,
     "sexo": "masculino",
-    "salario": 133641,
-    "estudios": "graduate",
-    "religion": "other",
+    "salario": 153649,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 1,
+    "hijos": 4,
     "voto": "republicano"
 }

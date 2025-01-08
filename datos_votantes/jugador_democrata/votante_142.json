@@ -1,14 +1,14 @@
 {
     "id": 142,
-    "fecha_voto": "2024-01-22",
-    "estado": "Indiana",
-    "etnia": "illegal",
-    "edad": 66,
-    "sexo": "c",
-    "salario": 346072,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": false,
+    "fecha_voto": "2024-01-26",
+    "estado": "Rhode Island",
+    "etnia": "white",
+    "edad": 91,
+    "sexo": "masculino",
+    "salario": 185007,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": true,
     "hijos": 0,
-    "voto": "democrata"
+    "voto": "republicano"
 }

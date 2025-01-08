@@ -1,14 +1,14 @@
 {
     "id": 443,
-    "fecha_voto": "2024-03-04",
-    "estado": "Alaska",
+    "fecha_voto": "2024-03-11",
+    "estado": "Utah",
     "etnia": "illegal",
-    "edad": 80,
+    "edad": 41,
     "sexo": "femenino",
-    "salario": 211646,
-    "estudios": "undergraduate",
+    "salario": 140721,
+    "estudios": "doctor",
     "religion": "other",
     "casado": false,
-    "hijos": 0,
+    "hijos": 1,
     "voto": "democrata"
 }

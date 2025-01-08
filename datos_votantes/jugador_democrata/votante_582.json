@@ -1,14 +1,14 @@
 {
     "id": 582,
-    "fecha_voto": "2024-05-05",
-    "estado": "Kansas",
+    "fecha_voto": "2024-04-29",
+    "estado": "Idaho",
     "etnia": "hispanic",
-    "edad": 80,
-    "sexo": "femenino",
-    "salario": 39830,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "edad": 61,
+    "sexo": "masculino",
+    "salario": 214217,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

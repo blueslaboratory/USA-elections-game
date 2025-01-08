@@ -1,14 +1,14 @@
 {
     "id": 191,
-    "fecha_voto": "2024-02-06",
-    "estado": "Minnesota",
-    "etnia": "asian",
-    "edad": 74,
-    "sexo": "n",
-    "salario": 236438,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "fecha_voto": "2024-02-04",
+    "estado": "Oklahoma",
+    "etnia": "white",
+    "edad": 91,
+    "sexo": "femenino",
+    "salario": 249465,
+    "estudios": "undergraduate",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
 }

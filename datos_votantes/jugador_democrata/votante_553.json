@@ -1,14 +1,14 @@
 {
     "id": 553,
-    "fecha_voto": "2024-05-05",
-    "estado": "North Carolina",
-    "etnia": "illegal",
-    "edad": 39,
-    "sexo": "femenino",
-    "salario": 125264,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "fecha_voto": "2024-04-03",
+    "estado": "Iowa",
+    "etnia": "white",
+    "edad": 82,
+    "sexo": "masculino",
+    "salario": 105186,
+    "estudios": "masters",
+    "religion": "islam",
     "casado": true,
     "hijos": 0,
-    "voto": "democrata"
+    "voto": "republicano"
 }

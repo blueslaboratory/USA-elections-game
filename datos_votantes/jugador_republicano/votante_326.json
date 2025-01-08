@@ -1,14 +1,14 @@
 {
     "id": 326,
-    "fecha_voto": "2024-03-11",
-    "estado": "South Carolina",
-    "etnia": "white",
-    "edad": 30,
+    "fecha_voto": "2024-03-07",
+    "estado": "Georgia",
+    "etnia": "illegal",
+    "edad": 14,
     "sexo": "femenino",
-    "salario": 32438,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "salario": 63342,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1633,
-    "fecha_voto": "2024-10-12",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-09-25",
+    "estado": "New York",
     "etnia": "illegal",
-    "edad": 32,
+    "edad": 25,
     "sexo": "femenino",
-    "salario": 69510,
-    "estudios": "doctor",
-    "religion": "other",
+    "salario": 135440,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "democrata"
 }

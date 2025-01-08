@@ -1,14 +1,14 @@
 {
     "id": 1417,
-    "fecha_voto": "2024-08-29",
-    "estado": "Virginia",
-    "etnia": "indian",
-    "edad": 30,
+    "fecha_voto": "2024-09-12",
+    "estado": "Texas",
+    "etnia": "illegal",
+    "edad": 28,
     "sexo": "masculino",
-    "salario": 60140,
+    "salario": 205914,
     "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "religion": "islam",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

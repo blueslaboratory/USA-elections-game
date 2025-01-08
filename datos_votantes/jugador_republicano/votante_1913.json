@@ -1,14 +1,14 @@
 {
     "id": 1913,
-    "fecha_voto": "2024-11-04",
-    "estado": "Louisiana",
-    "etnia": "asian",
-    "edad": 35,
-    "sexo": "femenino",
-    "salario": 143684,
-    "estudios": "graduate",
-    "religion": "christianism",
-    "casado": false,
+    "fecha_voto": "2024-11-05",
+    "estado": "Indiana",
+    "etnia": "white",
+    "edad": 80,
+    "sexo": "masculino",
+    "salario": 82106,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": true,
     "hijos": 1,
     "voto": "republicano"
 }

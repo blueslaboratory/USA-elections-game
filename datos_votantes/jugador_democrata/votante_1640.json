@@ -1,14 +1,14 @@
 {
     "id": 1640,
-    "fecha_voto": "2024-10-09",
-    "estado": "Alabama",
-    "etnia": "hispanic",
-    "edad": 24,
-    "sexo": "femenino",
-    "salario": 215187,
+    "fecha_voto": "2024-09-24",
+    "estado": "Nevada",
+    "etnia": "illegal",
+    "edad": 32,
+    "sexo": "masculino",
+    "salario": 119445,
     "estudios": "masters",
-    "religion": "atheism",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 1,
+    "hijos": 4,
     "voto": "democrata"
 }

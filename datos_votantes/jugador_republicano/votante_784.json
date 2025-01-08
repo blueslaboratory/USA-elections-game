@@ -1,14 +1,14 @@
 {
     "id": 784,
-    "fecha_voto": "2024-05-28",
-    "estado": "South Carolina",
-    "etnia": "black",
-    "edad": 24,
-    "sexo": "masculino",
-    "salario": 246135,
-    "estudios": "high school",
-    "religion": "judaism",
+    "fecha_voto": "2024-05-21",
+    "estado": "Oklahoma",
+    "etnia": "white",
+    "edad": 19,
+    "sexo": "femenino",
+    "salario": 197589,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 4,
+    "hijos": 0,
     "voto": "republicano"
 }

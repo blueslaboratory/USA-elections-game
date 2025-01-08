@@ -1,14 +1,14 @@
 {
     "id": 901,
-    "fecha_voto": "2024-05-22",
-    "estado": "Hawaii",
-    "etnia": "white",
-    "edad": 49,
+    "fecha_voto": "2024-05-25",
+    "estado": "California",
+    "etnia": "hispanic",
+    "edad": 28,
     "sexo": "masculino",
-    "salario": 36575,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "salario": 193634,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
 }

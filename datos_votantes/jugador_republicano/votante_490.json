@@ -1,14 +1,14 @@
 {
     "id": 490,
-    "fecha_voto": "2024-02-16",
-    "estado": "Wisconsin",
-    "etnia": "white",
-    "edad": 38,
+    "fecha_voto": "2024-02-24",
+    "estado": "Iowa",
+    "etnia": "illegal",
+    "edad": 17,
     "sexo": "masculino",
-    "salario": 163814,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "salario": 65081,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": true,
     "hijos": 5,
-    "voto": "republicano"
+    "voto": "democrata"
 }

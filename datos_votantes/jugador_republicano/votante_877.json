@@ -1,14 +1,14 @@
 {
     "id": 877,
-    "fecha_voto": "2024-05-26",
-    "estado": "Wyoming",
-    "etnia": "indian",
-    "edad": 31,
+    "fecha_voto": "2024-06-05",
+    "estado": "West Virginia",
+    "etnia": "hispanic",
+    "edad": 90,
     "sexo": "masculino",
-    "salario": 189662,
+    "salario": 220311,
     "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 1,
+    "religion": "other",
+    "casado": false,
+    "hijos": 2,
     "voto": "republicano"
 }

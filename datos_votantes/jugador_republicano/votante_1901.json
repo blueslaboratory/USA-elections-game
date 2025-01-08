@@ -1,14 +1,14 @@
 {
     "id": 1901,
-    "fecha_voto": "2024-11-04",
-    "estado": "Pennsylvania",
-    "etnia": "white",
-    "edad": 71,
+    "fecha_voto": "2024-11-05",
+    "estado": "Louisiana",
+    "etnia": "indian",
+    "edad": 50,
     "sexo": "masculino",
-    "salario": 146237,
-    "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 4,
+    "salario": 40564,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
     "voto": "republicano"
 }

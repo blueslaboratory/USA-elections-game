@@ -1,14 +1,14 @@
 {
     "id": 1571,
-    "fecha_voto": "2024-10-11",
-    "estado": "Delaware",
-    "etnia": "black",
-    "edad": 33,
-    "sexo": "femenino",
-    "salario": 39621,
-    "estudios": "doctor",
+    "fecha_voto": "2024-10-27",
+    "estado": "Michigan",
+    "etnia": "illegal",
+    "edad": 90,
+    "sexo": "masculino",
+    "salario": 204387,
+    "estudios": "graduate",
     "religion": "other",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 2,
+    "voto": "republicano"
 }

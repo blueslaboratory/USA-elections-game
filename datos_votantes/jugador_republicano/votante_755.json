@@ -1,14 +1,14 @@
 {
     "id": 755,
-    "fecha_voto": "2024-06-02",
-    "estado": "Alaska",
-    "etnia": "asian",
-    "edad": 43,
-    "sexo": "masculino",
-    "salario": 74862,
+    "fecha_voto": "2024-05-24",
+    "estado": "Utah",
+    "etnia": "white",
+    "edad": 59,
+    "sexo": "femenino",
+    "salario": 125455,
     "estudios": "undergraduate",
-    "religion": "christianism",
+    "religion": "other",
     "casado": false,
-    "hijos": 2,
+    "hijos": 4,
     "voto": "republicano"
 }

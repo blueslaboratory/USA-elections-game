@@ -1,14 +1,14 @@
 {
     "id": 841,
-    "fecha_voto": "2024-05-20",
-    "estado": "Arizona",
+    "fecha_voto": "2024-06-02",
+    "estado": "New York",
     "etnia": "hispanic",
-    "edad": 36,
+    "edad": 72,
     "sexo": "masculino",
-    "salario": 123743,
-    "estudios": "undergraduate",
-    "religion": "judaism",
-    "casado": true,
+    "salario": 242706,
+    "estudios": "graduate",
+    "religion": "other",
+    "casado": false,
     "hijos": 0,
     "voto": "republicano"
 }

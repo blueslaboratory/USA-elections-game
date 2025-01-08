@@ -1,14 +1,14 @@
 {
     "id": 1807,
-    "fecha_voto": "2024-11-05",
-    "estado": "Wyoming",
+    "fecha_voto": "2024-11-04",
+    "estado": "New Hampshire",
     "etnia": "illegal",
-    "edad": 48,
-    "sexo": "femenino",
-    "salario": 247705,
-    "estudios": "graduate",
+    "edad": 72,
+    "sexo": "masculino",
+    "salario": 65373,
+    "estudios": "doctor",
     "religion": "atheism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "casado": false,
+    "hijos": 1,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 122,
-    "fecha_voto": "2024-01-30",
-    "estado": "Michigan",
-    "etnia": "white",
-    "edad": 34,
-    "sexo": "n",
-    "salario": 208335,
+    "fecha_voto": "2024-01-20",
+    "estado": "Mississippi",
+    "etnia": "black",
+    "edad": 68,
+    "sexo": "masculino",
+    "salario": 155091,
     "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

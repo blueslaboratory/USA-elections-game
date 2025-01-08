@@ -1,14 +1,14 @@
 {
     "id": 1221,
-    "fecha_voto": "2024-08-04",
-    "estado": "Massachusetts",
-    "etnia": "asian",
-    "edad": 43,
-    "sexo": "masculino",
-    "salario": 110747,
+    "fecha_voto": "2024-07-31",
+    "estado": "Nebraska",
+    "etnia": "white",
+    "edad": 24,
+    "sexo": "femenino",
+    "salario": 234829,
     "estudios": "undergraduate",
-    "religion": "judaism",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

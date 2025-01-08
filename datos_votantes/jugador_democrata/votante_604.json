@@ -1,14 +1,14 @@
 {
     "id": 604,
-    "fecha_voto": "2024-04-02",
-    "estado": "Minnesota",
-    "etnia": "illegal",
-    "edad": 61,
+    "fecha_voto": "2024-04-26",
+    "estado": "Michigan",
+    "etnia": "hispanic",
+    "edad": 89,
     "sexo": "masculino",
-    "salario": 143884,
-    "estudios": "high school",
-    "religion": "islam",
+    "salario": 99307,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "republicano"
 }

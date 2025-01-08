@@ -1,14 +1,14 @@
 {
     "id": 996,
-    "fecha_voto": "2024-06-02",
+    "fecha_voto": "2024-05-18",
     "estado": "Maryland",
-    "etnia": "illegal",
-    "edad": 23,
-    "sexo": "masculino",
-    "salario": 90521,
+    "etnia": "white",
+    "edad": 27,
+    "sexo": "femenino",
+    "salario": 75426,
     "estudios": "masters",
-    "religion": "atheism",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
+    "hijos": 0,
     "voto": "democrata"
 }

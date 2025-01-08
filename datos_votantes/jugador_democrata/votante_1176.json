@@ -1,14 +1,14 @@
 {
     "id": 1176,
-    "fecha_voto": "2024-07-30",
-    "estado": "Virginia",
-    "etnia": "indian",
-    "edad": 19,
+    "fecha_voto": "2024-08-05",
+    "estado": "Alaska",
+    "etnia": "black",
+    "edad": 25,
     "sexo": "femenino",
-    "salario": 36846,
-    "estudios": "doctor",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 1,
+    "salario": 67874,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

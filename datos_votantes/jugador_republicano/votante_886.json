@@ -1,14 +1,14 @@
 {
     "id": 886,
-    "fecha_voto": "2024-06-18",
-    "estado": "Oregon",
-    "etnia": "black",
-    "edad": 30,
-    "sexo": "masculino",
-    "salario": 94926,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "fecha_voto": "2024-05-27",
+    "estado": "New Hampshire",
+    "etnia": "hispanic",
+    "edad": 69,
+    "sexo": "femenino",
+    "salario": 110468,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
     "hijos": 4,
-    "voto": "democrata"
+    "voto": "republicano"
 }

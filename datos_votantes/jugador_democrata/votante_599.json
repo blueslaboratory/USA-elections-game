@@ -1,14 +1,14 @@
 {
     "id": 599,
-    "fecha_voto": "2024-04-06",
-    "estado": "Georgia",
-    "etnia": "hispanic",
-    "edad": 93,
+    "fecha_voto": "2024-04-24",
+    "estado": "Missouri",
+    "etnia": "asian",
+    "edad": 21,
     "sexo": "femenino",
-    "salario": 95174,
+    "salario": 248333,
     "estudios": "graduate",
-    "religion": "christianism",
-    "casado": false,
+    "religion": "islam",
+    "casado": true,
     "hijos": 2,
-    "voto": "republicano"
+    "voto": "democrata"
 }

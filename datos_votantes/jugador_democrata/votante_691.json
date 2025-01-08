@@ -1,14 +1,14 @@
 {
     "id": 691,
-    "fecha_voto": "2024-05-05",
-    "estado": "Indiana",
+    "fecha_voto": "2024-04-06",
+    "estado": "Delaware",
     "etnia": "illegal",
-    "edad": 61,
-    "sexo": "masculino",
-    "salario": 61561,
-    "estudios": "doctor",
-    "religion": "islam",
+    "edad": 67,
+    "sexo": "femenino",
+    "salario": 120822,
+    "estudios": "masters",
+    "religion": "other",
     "casado": false,
-    "hijos": 1,
+    "hijos": 3,
     "voto": "democrata"
 }

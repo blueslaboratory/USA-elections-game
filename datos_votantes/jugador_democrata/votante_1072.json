@@ -1,14 +1,14 @@
 {
     "id": 1072,
-    "fecha_voto": "2024-07-29",
-    "estado": "Virginia",
-    "etnia": "indian",
-    "edad": 31,
-    "sexo": "masculino",
-    "salario": 66345,
-    "estudios": "masters",
-    "religion": "atheism",
+    "fecha_voto": "2024-07-20",
+    "estado": "Maryland",
+    "etnia": "hispanic",
+    "edad": 18,
+    "sexo": "femenino",
+    "salario": 32359,
+    "estudios": "undergraduate",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 1,
+    "hijos": 0,
     "voto": "democrata"
 }

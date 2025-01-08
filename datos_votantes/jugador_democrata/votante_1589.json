@@ -1,14 +1,14 @@
 {
     "id": 1589,
-    "fecha_voto": "2024-10-10",
-    "estado": "New York",
-    "etnia": "black",
-    "edad": 25,
-    "sexo": "femenino",
-    "salario": 154686,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "fecha_voto": "2024-09-27",
+    "estado": "Connecticut",
+    "etnia": "hispanic",
+    "edad": 22,
+    "sexo": "masculino",
+    "salario": 51162,
+    "estudios": "masters",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 4,
     "voto": "democrata"
 }

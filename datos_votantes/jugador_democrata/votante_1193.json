@@ -1,14 +1,14 @@
 {
     "id": 1193,
-    "fecha_voto": "2024-07-04",
-    "estado": "Washington",
-    "etnia": "indian",
-    "edad": 49,
-    "sexo": "masculino",
-    "salario": 186152,
-    "estudios": "masters",
+    "fecha_voto": "2024-07-14",
+    "estado": "Ohio",
+    "etnia": "hispanic",
+    "edad": 52,
+    "sexo": "femenino",
+    "salario": 232181,
+    "estudios": "graduate",
     "religion": "atheism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "democrata"
 }

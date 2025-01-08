@@ -1,14 +1,14 @@
 {
     "id": 1091,
-    "fecha_voto": "2024-07-16",
-    "estado": "New Hampshire",
+    "fecha_voto": "2024-07-24",
+    "estado": "Idaho",
     "etnia": "indian",
-    "edad": 31,
-    "sexo": "masculino",
-    "salario": 196389,
+    "edad": 41,
+    "sexo": "femenino",
+    "salario": 51699,
     "estudios": "high school",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 3,
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 1,
     "voto": "republicano"
 }

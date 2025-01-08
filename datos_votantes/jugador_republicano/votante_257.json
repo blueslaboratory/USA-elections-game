@@ -1,14 +1,14 @@
 {
     "id": 257,
-    "fecha_voto": "2024-02-14",
-    "estado": "Ohio",
-    "etnia": "hispanic",
-    "edad": 79,
+    "fecha_voto": "2024-03-22",
+    "estado": "Rhode Island",
+    "etnia": "indian",
+    "edad": 31,
     "sexo": "femenino",
-    "salario": 60753,
-    "estudios": "graduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "salario": 157334,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

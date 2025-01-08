@@ -1,14 +1,14 @@
 {
     "id": 681,
-    "fecha_voto": "2024-04-17",
-    "estado": "Indiana",
-    "etnia": "hispanic",
-    "edad": 42,
-    "sexo": "masculino",
-    "salario": 122359,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": true,
+    "fecha_voto": "2024-04-30",
+    "estado": "Tennessee",
+    "etnia": "white",
+    "edad": 94,
+    "sexo": "femenino",
+    "salario": 207039,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
     "hijos": 4,
     "voto": "republicano"
 }

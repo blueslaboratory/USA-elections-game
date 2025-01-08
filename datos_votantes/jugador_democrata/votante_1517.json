@@ -1,14 +1,14 @@
 {
     "id": 1517,
-    "fecha_voto": "2024-10-22",
-    "estado": "South Carolina",
+    "fecha_voto": "2024-10-26",
+    "estado": "Maryland",
     "etnia": "hispanic",
-    "edad": 25,
-    "sexo": "femenino",
-    "salario": 155087,
-    "estudios": "masters",
-    "religion": "islam",
+    "edad": 49,
+    "sexo": "masculino",
+    "salario": 81938,
+    "estudios": "undergraduate",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

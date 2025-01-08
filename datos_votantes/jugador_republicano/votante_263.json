@@ -1,14 +1,14 @@
 {
     "id": 263,
-    "fecha_voto": "2024-03-23",
-    "estado": "Tennessee",
-    "etnia": "hispanic",
-    "edad": 24,
-    "sexo": "femenino",
-    "salario": 120100,
-    "estudios": "undergraduate",
-    "religion": "atheism",
+    "fecha_voto": "2024-03-11",
+    "estado": "South Dakota",
+    "etnia": "indian",
+    "edad": 30,
+    "sexo": "masculino",
+    "salario": 160946,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

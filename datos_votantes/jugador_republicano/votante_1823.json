@@ -1,14 +1,14 @@
 {
     "id": 1823,
     "fecha_voto": "2024-11-04",
-    "estado": "Nebraska",
-    "etnia": "black",
-    "edad": 52,
-    "sexo": "femenino",
-    "salario": 237318,
-    "estudios": "masters",
-    "religion": "islam",
-    "casado": false,
+    "estado": "Virginia",
+    "etnia": "asian",
+    "edad": 40,
+    "sexo": "masculino",
+    "salario": 129522,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": true,
     "hijos": 3,
-    "voto": "democrata"
+    "voto": "republicano"
 }

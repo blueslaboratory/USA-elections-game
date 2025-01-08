@@ -1,14 +1,14 @@
 {
     "id": 571,
-    "fecha_voto": "2024-05-09",
-    "estado": "New Hampshire",
-    "etnia": "hispanic",
-    "edad": 43,
-    "sexo": "masculino",
-    "salario": 105434,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "fecha_voto": "2024-05-01",
+    "estado": "New York",
+    "etnia": "asian",
+    "edad": 68,
+    "sexo": "femenino",
+    "salario": 66334,
+    "estudios": "doctor",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

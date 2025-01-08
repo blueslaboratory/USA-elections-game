@@ -1,14 +1,14 @@
 {
     "id": 1079,
-    "fecha_voto": "2024-07-21",
-    "estado": "South Dakota",
+    "fecha_voto": "2024-07-04",
+    "estado": "New Hampshire",
     "etnia": "hispanic",
-    "edad": 46,
-    "sexo": "masculino",
-    "salario": 231171,
-    "estudios": "doctor",
-    "religion": "hinduism",
+    "edad": 30,
+    "sexo": "femenino",
+    "salario": 97987,
+    "estudios": "high school",
+    "religion": "other",
     "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

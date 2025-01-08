@@ -1,14 +1,14 @@
 {
     "id": 434,
-    "fecha_voto": "2024-02-16",
-    "estado": "New Hampshire",
-    "etnia": "indian",
-    "edad": 41,
-    "sexo": "femenino",
-    "salario": 208933,
+    "fecha_voto": "2024-03-15",
+    "estado": "Kentucky",
+    "etnia": "white",
+    "edad": 42,
+    "sexo": "masculino",
+    "salario": 199898,
     "estudios": "graduate",
-    "religion": "atheism",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

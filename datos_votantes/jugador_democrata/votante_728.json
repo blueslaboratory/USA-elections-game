@@ -1,14 +1,14 @@
 {
     "id": 728,
-    "fecha_voto": "2024-05-02",
-    "estado": "California",
-    "etnia": "hispanic",
-    "edad": 53,
+    "fecha_voto": "2024-04-27",
+    "estado": "Maryland",
+    "etnia": "white",
+    "edad": 36,
     "sexo": "masculino",
-    "salario": 159346,
-    "estudios": "high school",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "salario": 232994,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "democrata"
 }

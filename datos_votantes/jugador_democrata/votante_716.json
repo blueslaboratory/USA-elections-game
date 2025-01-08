@@ -1,14 +1,14 @@
 {
     "id": 716,
-    "fecha_voto": "2024-04-26",
-    "estado": "Utah",
-    "etnia": "illegal",
-    "edad": 70,
+    "fecha_voto": "2024-04-27",
+    "estado": "Indiana",
+    "etnia": "asian",
+    "edad": 68,
     "sexo": "masculino",
-    "salario": 86196,
+    "salario": 89969,
     "estudios": "graduate",
     "religion": "judaism",
-    "casado": false,
-    "hijos": 2,
+    "casado": true,
+    "hijos": 3,
     "voto": "republicano"
 }

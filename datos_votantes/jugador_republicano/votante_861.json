@@ -1,14 +1,14 @@
 {
     "id": 861,
-    "fecha_voto": "2024-06-18",
-    "estado": "North Dakota",
+    "fecha_voto": "2024-06-02",
+    "estado": "Alaska",
     "etnia": "hispanic",
-    "edad": 35,
-    "sexo": "masculino",
-    "salario": 189221,
-    "estudios": "high school",
-    "religion": "hinduism",
+    "edad": 36,
+    "sexo": "femenino",
+    "salario": 121380,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

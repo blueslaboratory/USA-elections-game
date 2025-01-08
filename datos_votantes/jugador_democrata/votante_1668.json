@@ -1,14 +1,14 @@
 {
     "id": 1668,
-    "fecha_voto": "2024-10-22",
-    "estado": "Wyoming",
-    "etnia": "black",
-    "edad": 20,
+    "fecha_voto": "2024-10-15",
+    "estado": "Connecticut",
+    "etnia": "illegal",
+    "edad": 30,
     "sexo": "femenino",
-    "salario": 39826,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": false,
+    "salario": 185182,
+    "estudios": "undergraduate",
+    "religion": "atheism",
+    "casado": true,
     "hijos": 4,
     "voto": "democrata"
 }

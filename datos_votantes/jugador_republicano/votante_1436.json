@@ -1,14 +1,14 @@
 {
     "id": 1436,
-    "fecha_voto": "2024-09-08",
-    "estado": "Arkansas",
-    "etnia": "asian",
-    "edad": 79,
+    "fecha_voto": "2024-09-12",
+    "estado": "West Virginia",
+    "etnia": "white",
+    "edad": 34,
     "sexo": "masculino",
-    "salario": 236697,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 3,
+    "salario": 242477,
+    "estudios": "undergraduate",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 0,
     "voto": "republicano"
 }

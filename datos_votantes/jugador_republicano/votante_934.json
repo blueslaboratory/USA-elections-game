@@ -1,14 +1,14 @@
 {
     "id": 934,
-    "fecha_voto": "2024-06-15",
-    "estado": "Louisiana",
-    "etnia": "asian",
-    "edad": 30,
+    "fecha_voto": "2024-06-09",
+    "estado": "Minnesota",
+    "etnia": "white",
+    "edad": 55,
     "sexo": "masculino",
-    "salario": 193037,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 0,
+    "salario": 123526,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

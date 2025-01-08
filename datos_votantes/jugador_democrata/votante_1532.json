@@ -1,14 +1,14 @@
 {
     "id": 1532,
-    "fecha_voto": "2024-10-07",
-    "estado": "Georgia",
-    "etnia": "indian",
-    "edad": 25,
+    "fecha_voto": "2024-10-23",
+    "estado": "Wyoming",
+    "etnia": "hispanic",
+    "edad": 45,
     "sexo": "femenino",
-    "salario": 54053,
-    "estudios": "masters",
-    "religion": "christianism",
+    "salario": 119852,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 0,
     "voto": "democrata"
 }

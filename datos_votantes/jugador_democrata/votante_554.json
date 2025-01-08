@@ -1,14 +1,14 @@
 {
     "id": 554,
-    "fecha_voto": "2024-04-23",
-    "estado": "Rhode Island",
-    "etnia": "hispanic",
-    "edad": 18,
+    "fecha_voto": "2024-05-01",
+    "estado": "Connecticut",
+    "etnia": "indian",
+    "edad": 70,
     "sexo": "femenino",
-    "salario": 127837,
-    "estudios": "doctor",
+    "salario": 109244,
+    "estudios": "graduate",
     "religion": "other",
-    "casado": true,
-    "hijos": 5,
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

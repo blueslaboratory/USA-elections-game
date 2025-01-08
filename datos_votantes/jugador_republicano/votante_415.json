@@ -1,14 +1,14 @@
 {
     "id": 415,
-    "fecha_voto": "2024-02-17",
-    "estado": "Utah",
-    "etnia": "white",
-    "edad": 95,
-    "sexo": "femenino",
-    "salario": 134862,
-    "estudios": "doctor",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "fecha_voto": "2024-03-10",
+    "estado": "Nevada",
+    "etnia": "indian",
+    "edad": 17,
+    "sexo": "masculino",
+    "salario": 105223,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

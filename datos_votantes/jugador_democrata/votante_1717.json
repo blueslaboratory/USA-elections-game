@@ -1,14 +1,14 @@
 {
     "id": 1717,
-    "fecha_voto": "2024-10-25",
-    "estado": "North Dakota",
+    "fecha_voto": "2024-10-04",
+    "estado": "Arizona",
     "etnia": "hispanic",
-    "edad": 23,
+    "edad": 81,
     "sexo": "femenino",
-    "salario": 157044,
-    "estudios": "masters",
+    "salario": 184023,
+    "estudios": "high school",
     "religion": "islam",
-    "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

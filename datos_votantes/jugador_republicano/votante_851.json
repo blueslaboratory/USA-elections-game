@@ -1,14 +1,14 @@
 {
     "id": 851,
-    "fecha_voto": "2024-06-06",
-    "estado": "North Carolina",
-    "etnia": "asian",
-    "edad": 18,
+    "fecha_voto": "2024-06-15",
+    "estado": "New Mexico",
+    "etnia": "hispanic",
+    "edad": 98,
     "sexo": "masculino",
-    "salario": 216614,
-    "estudios": "graduate",
-    "religion": "other",
+    "salario": 103917,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 0,
+    "hijos": 2,
     "voto": "republicano"
 }

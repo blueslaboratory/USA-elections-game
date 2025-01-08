@@ -1,14 +1,14 @@
 {
     "id": 89,
-    "fecha_voto": "2024-02-08",
-    "estado": "Virginia",
+    "fecha_voto": "2024-01-14",
+    "estado": "Tennessee",
     "etnia": "white",
-    "edad": 90,
-    "sexo": "i",
-    "salario": 353066,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "edad": 80,
+    "sexo": "femenino",
+    "salario": 178819,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": true,
-    "hijos": 0,
+    "hijos": 4,
     "voto": "republicano"
 }

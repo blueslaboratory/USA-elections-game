@@ -1,14 +1,14 @@
 {
     "id": 1464,
-    "fecha_voto": "2024-09-06",
-    "estado": "Nevada",
+    "fecha_voto": "2024-09-05",
+    "estado": "Minnesota",
     "etnia": "indian",
-    "edad": 98,
-    "sexo": "masculino",
-    "salario": 216567,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "edad": 63,
+    "sexo": "femenino",
+    "salario": 211957,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

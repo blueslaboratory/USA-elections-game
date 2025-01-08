@@ -1,14 +1,14 @@
 {
     "id": 1141,
-    "fecha_voto": "2024-07-01",
-    "estado": "North Carolina",
-    "etnia": "illegal",
+    "fecha_voto": "2024-06-26",
+    "estado": "Michigan",
+    "etnia": "asian",
     "edad": 43,
     "sexo": "femenino",
-    "salario": 118114,
+    "salario": 243846,
     "estudios": "masters",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

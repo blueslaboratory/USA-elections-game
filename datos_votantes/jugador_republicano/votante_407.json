@@ -1,14 +1,14 @@
 {
     "id": 407,
-    "fecha_voto": "2024-03-02",
-    "estado": "Kentucky",
-    "etnia": "illegal",
-    "edad": 26,
+    "fecha_voto": "2024-02-25",
+    "estado": "Indiana",
+    "etnia": "hispanic",
+    "edad": 40,
     "sexo": "masculino",
-    "salario": 222458,
-    "estudios": "masters",
-    "religion": "hinduism",
-    "casado": false,
+    "salario": 224664,
+    "estudios": "undergraduate",
+    "religion": "judaism",
+    "casado": true,
     "hijos": 2,
-    "voto": "democrata"
+    "voto": "republicano"
 }

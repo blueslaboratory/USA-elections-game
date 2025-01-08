@@ -1,14 +1,14 @@
 {
     "id": 1722,
-    "fecha_voto": "2024-10-21",
-    "estado": "Idaho",
-    "etnia": "indian",
-    "edad": 25,
+    "fecha_voto": "2024-10-30",
+    "estado": "West Virginia",
+    "etnia": "illegal",
+    "edad": 42,
     "sexo": "femenino",
-    "salario": 245632,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 1,
+    "salario": 84941,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

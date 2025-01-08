@@ -1,14 +1,14 @@
 {
     "id": 897,
-    "fecha_voto": "2024-06-19",
-    "estado": "New York",
-    "etnia": "illegal",
-    "edad": 38,
+    "fecha_voto": "2024-05-24",
+    "estado": "Michigan",
+    "etnia": "hispanic",
+    "edad": 40,
     "sexo": "masculino",
-    "salario": 189651,
-    "estudios": "undergraduate",
-    "religion": "atheism",
+    "salario": 231007,
+    "estudios": "high school",
+    "religion": "other",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

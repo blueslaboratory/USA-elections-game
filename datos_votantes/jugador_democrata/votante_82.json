@@ -1,14 +1,14 @@
 {
     "id": 82,
-    "fecha_voto": "2024-01-07",
-    "estado": "Nebraska",
-    "etnia": "white",
-    "edad": 26,
-    "sexo": "i",
-    "salario": 121115,
-    "estudios": "doctor",
-    "religion": "other",
+    "fecha_voto": "2024-02-10",
+    "estado": "Indiana",
+    "etnia": "illegal",
+    "edad": 31,
+    "sexo": "masculino",
+    "salario": 112291,
+    "estudios": "graduate",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 3,
+    "hijos": 2,
     "voto": "democrata"
 }

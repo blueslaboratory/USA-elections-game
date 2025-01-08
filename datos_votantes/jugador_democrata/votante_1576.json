@@ -1,14 +1,14 @@
 {
     "id": 1576,
-    "fecha_voto": "2024-09-22",
-    "estado": "Washington",
-    "etnia": "asian",
-    "edad": 23,
+    "fecha_voto": "2024-11-03",
+    "estado": "Maryland",
+    "etnia": "hispanic",
+    "edad": 97,
     "sexo": "femenino",
-    "salario": 116841,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 4,
+    "salario": 139861,
+    "estudios": "undergraduate",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

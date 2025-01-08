@@ -1,14 +1,14 @@
 {
     "id": 687,
     "fecha_voto": "2024-05-06",
-    "estado": "New Mexico",
-    "etnia": "illegal",
-    "edad": 70,
-    "sexo": "femenino",
-    "salario": 53383,
-    "estudios": "high school",
-    "religion": "islam",
-    "casado": false,
+    "estado": "Wisconsin",
+    "etnia": "black",
+    "edad": 23,
+    "sexo": "masculino",
+    "salario": 47486,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": true,
     "hijos": 4,
-    "voto": "republicano"
+    "voto": "democrata"
 }

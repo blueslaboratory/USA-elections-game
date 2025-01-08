@@ -1,14 +1,14 @@
 {
     "id": 746,
-    "fecha_voto": "2024-05-07",
-    "estado": "North Dakota",
-    "etnia": "hispanic",
-    "edad": 23,
-    "sexo": "femenino",
-    "salario": 156252,
-    "estudios": "high school",
+    "fecha_voto": "2024-04-02",
+    "estado": "Colorado",
+    "etnia": "white",
+    "edad": 89,
+    "sexo": "masculino",
+    "salario": 181358,
+    "estudios": "doctor",
     "religion": "other",
-    "casado": true,
-    "hijos": 3,
+    "casado": false,
+    "hijos": 4,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 338,
-    "fecha_voto": "2024-02-24",
-    "estado": "Wisconsin",
+    "fecha_voto": "2024-03-21",
+    "estado": "Ohio",
     "etnia": "asian",
-    "edad": 50,
+    "edad": 14,
     "sexo": "femenino",
-    "salario": 58532,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": true,
+    "salario": 38588,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": false,
     "hijos": 0,
-    "voto": "democrata"
+    "voto": "republicano"
 }

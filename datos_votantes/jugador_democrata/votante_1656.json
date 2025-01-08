@@ -1,14 +1,14 @@
 {
     "id": 1656,
-    "fecha_voto": "2024-10-29",
-    "estado": "West Virginia",
-    "etnia": "white",
-    "edad": 29,
+    "fecha_voto": "2024-09-26",
+    "estado": "Iowa",
+    "etnia": "hispanic",
+    "edad": 54,
     "sexo": "femenino",
-    "salario": 84647,
-    "estudios": "undergraduate",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
+    "salario": 203454,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

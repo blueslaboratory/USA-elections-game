@@ -1,14 +1,14 @@
 {
     "id": 1505,
-    "fecha_voto": "2024-10-18",
-    "estado": "Nevada",
-    "etnia": "indian",
-    "edad": 19,
-    "sexo": "femenino",
-    "salario": 136852,
+    "fecha_voto": "2024-10-28",
+    "estado": "Maryland",
+    "etnia": "illegal",
+    "edad": 66,
+    "sexo": "masculino",
+    "salario": 125905,
     "estudios": "doctor",
-    "religion": "islam",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 1,
+    "hijos": 3,
     "voto": "democrata"
 }

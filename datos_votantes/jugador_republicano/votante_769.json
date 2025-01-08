@@ -1,14 +1,14 @@
 {
     "id": 769,
-    "fecha_voto": "2024-06-20",
-    "estado": "Delaware",
-    "etnia": "black",
-    "edad": 37,
+    "fecha_voto": "2024-06-08",
+    "estado": "Georgia",
+    "etnia": "white",
+    "edad": 32,
     "sexo": "masculino",
-    "salario": 168661,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "salario": 31380,
+    "estudios": "high school",
+    "religion": "other",
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
 }

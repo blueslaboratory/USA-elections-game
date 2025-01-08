@@ -1,14 +1,14 @@
 {
     "id": 1231,
     "fecha_voto": "2024-07-05",
-    "estado": "Texas",
-    "etnia": "illegal",
-    "edad": 18,
+    "estado": "North Carolina",
+    "etnia": "hispanic",
+    "edad": 40,
     "sexo": "femenino",
-    "salario": 164151,
-    "estudios": "high school",
+    "salario": 180916,
+    "estudios": "masters",
     "religion": "atheism",
-    "casado": false,
-    "hijos": 0,
+    "casado": true,
+    "hijos": 4,
     "voto": "democrata"
 }

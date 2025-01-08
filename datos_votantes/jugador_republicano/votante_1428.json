@@ -1,14 +1,14 @@
 {
     "id": 1428,
-    "fecha_voto": "2024-09-15",
-    "estado": "North Carolina",
+    "fecha_voto": "2024-09-07",
+    "estado": "Oklahoma",
     "etnia": "illegal",
-    "edad": 72,
+    "edad": 95,
     "sexo": "femenino",
-    "salario": 211991,
-    "estudios": "masters",
-    "religion": "islam",
+    "salario": 188200,
+    "estudios": "high school",
+    "religion": "other",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

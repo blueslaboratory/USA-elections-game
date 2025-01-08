@@ -1,14 +1,14 @@
 {
     "id": 66,
-    "fecha_voto": "2024-02-01",
-    "estado": "Missouri",
-    "etnia": "illegal",
-    "edad": 52,
-    "sexo": "c",
-    "salario": 135200,
-    "estudios": "doctor",
-    "religion": "islam",
-    "casado": false,
+    "fecha_voto": "2024-01-15",
+    "estado": "Maine",
+    "etnia": "white",
+    "edad": 86,
+    "sexo": "femenino",
+    "salario": 238942,
+    "estudios": "high school",
+    "religion": "other",
+    "casado": true,
     "hijos": 1,
-    "voto": "democrata"
+    "voto": "republicano"
 }

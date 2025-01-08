@@ -1,14 +1,14 @@
 {
     "id": 216,
-    "fecha_voto": "2024-01-21",
-    "estado": "Vermont",
-    "etnia": "illegal",
+    "fecha_voto": "2024-01-18",
+    "estado": "Florida",
+    "etnia": "white",
     "edad": 46,
-    "sexo": "m",
-    "salario": 399638,
-    "estudios": "high school",
-    "religion": "judaism",
+    "sexo": "masculino",
+    "salario": 133530,
+    "estudios": "masters",
+    "religion": "other",
     "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

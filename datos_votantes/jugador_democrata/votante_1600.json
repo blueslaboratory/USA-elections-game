@@ -1,14 +1,14 @@
 {
     "id": 1600,
-    "fecha_voto": "2024-10-10",
-    "estado": "Alabama",
-    "etnia": "white",
-    "edad": 31,
+    "fecha_voto": "2024-10-27",
+    "estado": "Arkansas",
+    "etnia": "illegal",
+    "edad": 81,
     "sexo": "femenino",
-    "salario": 233430,
+    "salario": 157928,
     "estudios": "masters",
-    "religion": "islam",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 2,
     "voto": "democrata"
 }

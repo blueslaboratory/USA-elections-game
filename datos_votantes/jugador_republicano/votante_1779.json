@@ -1,14 +1,14 @@
 {
     "id": 1779,
-    "fecha_voto": "2024-11-05",
-    "estado": "New Mexico",
+    "fecha_voto": "2024-11-04",
+    "estado": "Oregon",
     "etnia": "asian",
-    "edad": 56,
-    "sexo": "femenino",
-    "salario": 198215,
-    "estudios": "masters",
+    "edad": 48,
+    "sexo": "masculino",
+    "salario": 113289,
+    "estudios": "graduate",
     "religion": "christianism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 3,
+    "voto": "republicano"
 }

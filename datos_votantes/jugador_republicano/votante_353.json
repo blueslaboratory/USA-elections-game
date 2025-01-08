@@ -1,14 +1,14 @@
 {
     "id": 353,
-    "fecha_voto": "2024-02-19",
-    "estado": "New Hampshire",
-    "etnia": "hispanic",
-    "edad": 65,
+    "fecha_voto": "2024-03-06",
+    "estado": "Maine",
+    "etnia": "indian",
+    "edad": 42,
     "sexo": "masculino",
-    "salario": 116047,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "salario": 188448,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

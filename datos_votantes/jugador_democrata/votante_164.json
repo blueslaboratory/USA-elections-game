@@ -1,14 +1,14 @@
 {
     "id": 164,
-    "fecha_voto": "2024-01-11",
-    "estado": "Rhode Island",
-    "etnia": "asian",
-    "edad": 79,
-    "sexo": "n",
-    "salario": 128610,
-    "estudios": "undergraduate",
-    "religion": "judaism",
+    "fecha_voto": "2024-01-25",
+    "estado": "Oklahoma",
+    "etnia": "white",
+    "edad": 39,
+    "sexo": "femenino",
+    "salario": 57552,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": true,
-    "hijos": 5,
+    "hijos": 1,
     "voto": "republicano"
 }

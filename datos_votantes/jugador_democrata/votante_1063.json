@@ -1,14 +1,14 @@
 {
     "id": 1063,
-    "fecha_voto": "2024-07-15",
-    "estado": "Tennessee",
-    "etnia": "illegal",
-    "edad": 25,
+    "fecha_voto": "2024-07-22",
+    "estado": "Rhode Island",
+    "etnia": "asian",
+    "edad": 29,
     "sexo": "femenino",
-    "salario": 61520,
-    "estudios": "high school",
+    "salario": 152436,
+    "estudios": "graduate",
     "religion": "christianism",
-    "casado": false,
+    "casado": true,
     "hijos": 3,
-    "voto": "republicano"
+    "voto": "democrata"
 }

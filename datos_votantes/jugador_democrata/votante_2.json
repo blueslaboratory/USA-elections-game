@@ -1,14 +1,14 @@
 {
     "id": 2,
-    "fecha_voto": "2024-02-02",
-    "estado": "Utah",
-    "etnia": "asian",
-    "edad": 82,
-    "sexo": "l",
-    "salario": 291409,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "fecha_voto": "2024-01-10",
+    "estado": "West Virginia",
+    "etnia": "illegal",
+    "edad": 71,
+    "sexo": "masculino",
+    "salario": 82283,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

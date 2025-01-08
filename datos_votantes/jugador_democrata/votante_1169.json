@@ -1,14 +1,14 @@
 {
     "id": 1169,
-    "fecha_voto": "2024-06-25",
-    "estado": "Minnesota",
-    "etnia": "illegal",
-    "edad": 37,
+    "fecha_voto": "2024-07-14",
+    "estado": "Mississippi",
+    "etnia": "indian",
+    "edad": 46,
     "sexo": "femenino",
-    "salario": 166685,
-    "estudios": "doctor",
-    "religion": "christianism",
+    "salario": 188776,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

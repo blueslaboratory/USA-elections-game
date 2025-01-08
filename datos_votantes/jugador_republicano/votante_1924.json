@@ -1,14 +1,14 @@
 {
     "id": 1924,
     "fecha_voto": "2024-11-04",
-    "estado": "Louisiana",
+    "estado": "Maine",
     "etnia": "illegal",
-    "edad": 35,
+    "edad": 70,
     "sexo": "masculino",
-    "salario": 140747,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "salario": 200951,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": false,
+    "hijos": 1,
+    "voto": "democrata"
 }

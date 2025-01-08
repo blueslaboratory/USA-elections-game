@@ -1,14 +1,14 @@
 {
     "id": 1588,
-    "fecha_voto": "2024-10-01",
-    "estado": "Oklahoma",
-    "etnia": "indian",
-    "edad": 20,
-    "sexo": "femenino",
-    "salario": 210931,
+    "fecha_voto": "2024-11-02",
+    "estado": "Montana",
+    "etnia": "illegal",
+    "edad": 25,
+    "sexo": "masculino",
+    "salario": 137101,
     "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
+    "religion": "hinduism",
+    "casado": false,
     "hijos": 2,
     "voto": "democrata"
 }

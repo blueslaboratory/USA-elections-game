@@ -1,14 +1,14 @@
 {
     "id": 659,
-    "fecha_voto": "2024-05-09",
-    "estado": "Michigan",
+    "fecha_voto": "2024-04-03",
+    "estado": "West Virginia",
     "etnia": "hispanic",
-    "edad": 38,
-    "sexo": "masculino",
-    "salario": 188668,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "edad": 22,
+    "sexo": "femenino",
+    "salario": 236552,
+    "estudios": "graduate",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 697,
-    "fecha_voto": "2024-04-26",
-    "estado": "California",
-    "etnia": "illegal",
-    "edad": 71,
-    "sexo": "masculino",
-    "salario": 249223,
+    "fecha_voto": "2024-04-05",
+    "estado": "Oklahoma",
+    "etnia": "white",
+    "edad": 23,
+    "sexo": "femenino",
+    "salario": 151914,
     "estudios": "masters",
-    "religion": "islam",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "democrata"
 }

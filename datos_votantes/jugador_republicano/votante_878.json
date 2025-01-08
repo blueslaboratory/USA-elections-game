@@ -1,14 +1,14 @@
 {
     "id": 878,
-    "fecha_voto": "2024-05-28",
-    "estado": "Wisconsin",
-    "etnia": "illegal",
-    "edad": 36,
-    "sexo": "masculino",
-    "salario": 166272,
-    "estudios": "high school",
-    "religion": "christianism",
+    "fecha_voto": "2024-06-13",
+    "estado": "Georgia",
+    "etnia": "hispanic",
+    "edad": 96,
+    "sexo": "femenino",
+    "salario": 65122,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "republicano"
 }

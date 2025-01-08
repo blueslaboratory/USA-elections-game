@@ -1,14 +1,14 @@
 {
     "id": 484,
-    "fecha_voto": "2024-03-22",
-    "estado": "Wyoming",
+    "fecha_voto": "2024-03-09",
+    "estado": "Massachusetts",
     "etnia": "asian",
-    "edad": 20,
+    "edad": 42,
     "sexo": "masculino",
-    "salario": 223400,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "salario": 149342,
+    "estudios": "high school",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

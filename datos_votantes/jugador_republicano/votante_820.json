@@ -1,14 +1,14 @@
 {
     "id": 820,
-    "fecha_voto": "2024-05-16",
-    "estado": "Michigan",
-    "etnia": "white",
-    "edad": 48,
+    "fecha_voto": "2024-06-20",
+    "estado": "Iowa",
+    "etnia": "hispanic",
+    "edad": 92,
     "sexo": "masculino",
-    "salario": 182331,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
+    "salario": 229950,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": false,
     "hijos": 4,
     "voto": "republicano"
 }

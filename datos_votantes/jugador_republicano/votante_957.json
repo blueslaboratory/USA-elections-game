@@ -1,14 +1,14 @@
 {
     "id": 957,
-    "fecha_voto": "2024-05-21",
-    "estado": "Idaho",
-    "etnia": "indian",
-    "edad": 48,
-    "sexo": "masculino",
-    "salario": 51037,
-    "estudios": "masters",
-    "religion": "judaism",
+    "fecha_voto": "2024-06-02",
+    "estado": "South Carolina",
+    "etnia": "hispanic",
+    "edad": 44,
+    "sexo": "femenino",
+    "salario": 167249,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 1,
+    "hijos": 4,
     "voto": "republicano"
 }

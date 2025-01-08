@@ -1,14 +1,14 @@
 {
     "id": 956,
-    "fecha_voto": "2024-05-31",
-    "estado": "Alaska",
-    "etnia": "asian",
-    "edad": 40,
-    "sexo": "masculino",
-    "salario": 110759,
+    "fecha_voto": "2024-06-23",
+    "estado": "Iowa",
+    "etnia": "hispanic",
+    "edad": 55,
+    "sexo": "femenino",
+    "salario": 75030,
     "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 3,
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 1,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 933,
-    "fecha_voto": "2024-06-04",
-    "estado": "West Virginia",
-    "etnia": "illegal",
-    "edad": 42,
-    "sexo": "masculino",
-    "salario": 239856,
-    "estudios": "undergraduate",
-    "religion": "atheism",
+    "fecha_voto": "2024-05-14",
+    "estado": "Massachusetts",
+    "etnia": "white",
+    "edad": 52,
+    "sexo": "femenino",
+    "salario": 224441,
+    "estudios": "masters",
+    "religion": "other",
     "casado": true,
     "hijos": 2,
-    "voto": "republicano"
+    "voto": "democrata"
 }

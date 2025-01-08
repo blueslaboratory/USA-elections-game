@@ -1,14 +1,14 @@
 {
     "id": 125,
-    "fecha_voto": "2024-02-09",
-    "estado": "Maryland",
-    "etnia": "black",
-    "edad": 25,
-    "sexo": "a",
-    "salario": 137392,
-    "estudios": "masters",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "fecha_voto": "2024-02-06",
+    "estado": "Tennessee",
+    "etnia": "illegal",
+    "edad": 67,
+    "sexo": "masculino",
+    "salario": 39350,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1597,
-    "fecha_voto": "2024-10-11",
-    "estado": "Nevada",
-    "etnia": "black",
-    "edad": 24,
+    "fecha_voto": "2024-10-05",
+    "estado": "Texas",
+    "etnia": "illegal",
+    "edad": 98,
     "sexo": "femenino",
-    "salario": 40040,
+    "salario": 234954,
     "estudios": "high school",
-    "religion": "atheism",
+    "religion": "other",
     "casado": true,
     "hijos": 2,
-    "voto": "democrata"
+    "voto": "republicano"
 }

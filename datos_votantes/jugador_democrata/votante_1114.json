@@ -1,14 +1,14 @@
 {
     "id": 1114,
-    "fecha_voto": "2024-07-26",
-    "estado": "Minnesota",
+    "fecha_voto": "2024-07-21",
+    "estado": "Michigan",
     "etnia": "indian",
-    "edad": 20,
+    "edad": 38,
     "sexo": "femenino",
-    "salario": 234878,
-    "estudios": "undergraduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 4,
+    "salario": 129372,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

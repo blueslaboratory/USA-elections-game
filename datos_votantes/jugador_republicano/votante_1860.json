@@ -1,14 +1,14 @@
 {
     "id": 1860,
     "fecha_voto": "2024-11-05",
-    "estado": "Indiana",
-    "etnia": "black",
-    "edad": 58,
+    "estado": "South Dakota",
+    "etnia": "indian",
+    "edad": 52,
     "sexo": "masculino",
-    "salario": 167028,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "salario": 94939,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

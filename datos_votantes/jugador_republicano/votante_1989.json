@@ -1,14 +1,14 @@
 {
     "id": 1989,
     "fecha_voto": "2024-11-04",
-    "estado": "Florida",
-    "etnia": "asian",
-    "edad": 40,
+    "estado": "Indiana",
+    "etnia": "hispanic",
+    "edad": 36,
     "sexo": "masculino",
-    "salario": 182388,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
-    "hijos": 0,
+    "salario": 217285,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

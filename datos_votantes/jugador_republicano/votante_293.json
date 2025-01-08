@@ -1,14 +1,14 @@
 {
     "id": 293,
-    "fecha_voto": "2024-03-05",
-    "estado": "New Mexico",
-    "etnia": "asian",
-    "edad": 96,
+    "fecha_voto": "2024-03-11",
+    "estado": "New Jersey",
+    "etnia": "black",
+    "edad": 18,
     "sexo": "masculino",
-    "salario": 60929,
-    "estudios": "high school",
+    "salario": 159567,
+    "estudios": "doctor",
     "religion": "hinduism",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1835,
     "fecha_voto": "2024-11-05",
-    "estado": "Kansas",
-    "etnia": "white",
-    "edad": 50,
-    "sexo": "femenino",
-    "salario": 40214,
+    "estado": "Georgia",
+    "etnia": "indian",
+    "edad": 41,
+    "sexo": "masculino",
+    "salario": 206344,
     "estudios": "graduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 3,
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

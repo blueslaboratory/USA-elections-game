@@ -1,14 +1,14 @@
 {
     "id": 836,
-    "fecha_voto": "2024-06-16",
-    "estado": "Minnesota",
-    "etnia": "illegal",
-    "edad": 29,
+    "fecha_voto": "2024-06-19",
+    "estado": "New York",
+    "etnia": "white",
+    "edad": 56,
     "sexo": "masculino",
-    "salario": 124346,
-    "estudios": "high school",
-    "religion": "other",
+    "salario": 35055,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 4,
     "voto": "republicano"
 }

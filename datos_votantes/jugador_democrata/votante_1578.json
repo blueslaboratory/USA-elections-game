@@ -1,14 +1,14 @@
 {
     "id": 1578,
-    "fecha_voto": "2024-10-07",
-    "estado": "Maryland",
-    "etnia": "indian",
-    "edad": 21,
+    "fecha_voto": "2024-10-23",
+    "estado": "Missouri",
+    "etnia": "hispanic",
+    "edad": 97,
     "sexo": "femenino",
-    "salario": 81568,
-    "estudios": "doctor",
-    "religion": "hinduism",
+    "salario": 248744,
+    "estudios": "undergraduate",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 5,
     "voto": "democrata"
 }

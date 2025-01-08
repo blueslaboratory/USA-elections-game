@@ -1,14 +1,14 @@
 {
     "id": 182,
-    "fecha_voto": "2024-02-10",
+    "fecha_voto": "2024-01-25",
     "estado": "Oklahoma",
     "etnia": "illegal",
-    "edad": 55,
-    "sexo": "i",
-    "salario": 105223,
+    "edad": 98,
+    "sexo": "masculino",
+    "salario": 132424,
     "estudios": "doctor",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
+    "religion": "other",
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

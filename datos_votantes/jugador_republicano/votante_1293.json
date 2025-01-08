@@ -1,14 +1,14 @@
 {
     "id": 1293,
-    "fecha_voto": "2024-08-28",
-    "estado": "Montana",
+    "fecha_voto": "2024-08-21",
+    "estado": "Alabama",
     "etnia": "white",
-    "edad": 76,
-    "sexo": "masculino",
-    "salario": 55440,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": false,
+    "edad": 69,
+    "sexo": "femenino",
+    "salario": 60553,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": true,
     "hijos": 2,
     "voto": "republicano"
 }

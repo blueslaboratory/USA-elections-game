@@ -1,14 +1,14 @@
 {
     "id": 1891,
     "fecha_voto": "2024-11-04",
-    "estado": "Wisconsin",
+    "estado": "Massachusetts",
     "etnia": "indian",
-    "edad": 60,
-    "sexo": "femenino",
-    "salario": 55101,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": true,
+    "edad": 58,
+    "sexo": "masculino",
+    "salario": 183445,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": false,
     "hijos": 3,
-    "voto": "democrata"
+    "voto": "republicano"
 }

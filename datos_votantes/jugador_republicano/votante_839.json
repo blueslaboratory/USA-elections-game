@@ -1,14 +1,14 @@
 {
     "id": 839,
-    "fecha_voto": "2024-05-22",
-    "estado": "New York",
-    "etnia": "white",
-    "edad": 47,
-    "sexo": "masculino",
-    "salario": 172079,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": true,
+    "fecha_voto": "2024-05-19",
+    "estado": "Rhode Island",
+    "etnia": "hispanic",
+    "edad": 97,
+    "sexo": "femenino",
+    "salario": 223696,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": false,
     "hijos": 5,
     "voto": "republicano"
 }

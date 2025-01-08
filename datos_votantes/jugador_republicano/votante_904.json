@@ -1,14 +1,14 @@
 {
     "id": 904,
-    "fecha_voto": "2024-06-24",
-    "estado": "Wisconsin",
-    "etnia": "asian",
-    "edad": 22,
+    "fecha_voto": "2024-05-24",
+    "estado": "North Carolina",
+    "etnia": "hispanic",
+    "edad": 76,
     "sexo": "masculino",
-    "salario": 103991,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "salario": 180370,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

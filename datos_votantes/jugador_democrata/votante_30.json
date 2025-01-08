@@ -1,14 +1,14 @@
 {
     "id": 30,
-    "fecha_voto": "2024-01-27",
-    "estado": "Montana",
+    "fecha_voto": "2024-02-03",
+    "estado": "Missouri",
     "etnia": "white",
-    "edad": 42,
-    "sexo": "m",
-    "salario": 389094,
+    "edad": 45,
+    "sexo": "masculino",
+    "salario": 208932,
     "estudios": "doctor",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 1,
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 5,
     "voto": "republicano"
 }

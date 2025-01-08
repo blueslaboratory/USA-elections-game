@@ -1,14 +1,14 @@
 {
     "id": 1568,
-    "fecha_voto": "2024-10-27",
-    "estado": "Georgia",
-    "etnia": "asian",
-    "edad": 20,
+    "fecha_voto": "2024-09-23",
+    "estado": "Pennsylvania",
+    "etnia": "hispanic",
+    "edad": 96,
     "sexo": "femenino",
-    "salario": 209877,
+    "salario": 186370,
     "estudios": "undergraduate",
-    "religion": "islam",
+    "religion": "other",
     "casado": false,
     "hijos": 2,
-    "voto": "democrata"
+    "voto": "republicano"
 }

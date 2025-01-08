@@ -1,14 +1,14 @@
 {
     "id": 1339,
-    "fecha_voto": "2024-09-15",
-    "estado": "Wisconsin",
-    "etnia": "hispanic",
-    "edad": 24,
-    "sexo": "masculino",
-    "salario": 181558,
-    "estudios": "high school",
+    "fecha_voto": "2024-08-17",
+    "estado": "Arkansas",
+    "etnia": "asian",
+    "edad": 69,
+    "sexo": "femenino",
+    "salario": 234815,
+    "estudios": "masters",
     "religion": "judaism",
     "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

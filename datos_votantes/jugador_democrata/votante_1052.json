@@ -1,14 +1,14 @@
 {
     "id": 1052,
-    "fecha_voto": "2024-07-22",
-    "estado": "Tennessee",
+    "fecha_voto": "2024-07-04",
+    "estado": "Rhode Island",
     "etnia": "black",
-    "edad": 18,
+    "edad": 31,
     "sexo": "femenino",
-    "salario": 175741,
-    "estudios": "undergraduate",
-    "religion": "christianism",
+    "salario": 199212,
+    "estudios": "high school",
+    "religion": "other",
     "casado": false,
-    "hijos": 4,
+    "hijos": 2,
     "voto": "democrata"
 }

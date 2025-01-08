@@ -1,14 +1,14 @@
 {
     "id": 730,
-    "fecha_voto": "2024-04-14",
-    "estado": "Mississippi",
-    "etnia": "hispanic",
-    "edad": 53,
+    "fecha_voto": "2024-04-02",
+    "estado": "Rhode Island",
+    "etnia": "asian",
+    "edad": 55,
     "sexo": "masculino",
-    "salario": 119171,
-    "estudios": "graduate",
+    "salario": 133325,
+    "estudios": "masters",
     "religion": "christianism",
     "casado": true,
-    "hijos": 0,
+    "hijos": 4,
     "voto": "republicano"
 }

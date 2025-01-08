@@ -1,14 +1,14 @@
 {
     "id": 1104,
-    "fecha_voto": "2024-06-26",
-    "estado": "Missouri",
+    "fecha_voto": "2024-08-06",
+    "estado": "North Carolina",
     "etnia": "black",
-    "edad": 37,
+    "edad": 28,
     "sexo": "femenino",
-    "salario": 129289,
+    "salario": 160589,
     "estudios": "masters",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 4,
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

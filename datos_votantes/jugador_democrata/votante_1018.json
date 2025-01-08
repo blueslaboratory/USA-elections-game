@@ -1,14 +1,14 @@
 {
     "id": 1018,
-    "fecha_voto": "2024-07-30",
-    "estado": "Hawaii",
-    "etnia": "hispanic",
-    "edad": 35,
-    "sexo": "masculino",
-    "salario": 180241,
+    "fecha_voto": "2024-07-24",
+    "estado": "Oklahoma",
+    "etnia": "black",
+    "edad": 48,
+    "sexo": "femenino",
+    "salario": 159774,
     "estudios": "graduate",
-    "religion": "atheism",
+    "religion": "islam",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 28,
-    "fecha_voto": "2024-01-04",
-    "estado": "South Dakota",
-    "etnia": "black",
-    "edad": 79,
-    "sexo": "l",
-    "salario": 270845,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "fecha_voto": "2024-01-02",
+    "estado": "Tennessee",
+    "etnia": "illegal",
+    "edad": 40,
+    "sexo": "femenino",
+    "salario": 220808,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "republicano"
 }

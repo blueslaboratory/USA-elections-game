@@ -1,14 +1,14 @@
 {
     "id": 32,
-    "fecha_voto": "2024-02-12",
-    "estado": "Virginia",
+    "fecha_voto": "2024-01-03",
+    "estado": "Montana",
     "etnia": "hispanic",
-    "edad": 45,
-    "sexo": "o",
-    "salario": 291073,
-    "estudios": "doctor",
-    "religion": "christianism",
+    "edad": 78,
+    "sexo": "femenino",
+    "salario": 176706,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

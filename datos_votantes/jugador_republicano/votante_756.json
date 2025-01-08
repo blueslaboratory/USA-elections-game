@@ -1,14 +1,14 @@
 {
     "id": 756,
-    "fecha_voto": "2024-05-15",
-    "estado": "Illinois",
+    "fecha_voto": "2024-05-30",
+    "estado": "Florida",
     "etnia": "hispanic",
-    "edad": 43,
+    "edad": 81,
     "sexo": "masculino",
-    "salario": 215263,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "salario": 128256,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

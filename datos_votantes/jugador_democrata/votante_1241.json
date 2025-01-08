@@ -1,14 +1,14 @@
 {
     "id": 1241,
-    "fecha_voto": "2024-07-07",
-    "estado": "Delaware",
-    "etnia": "white",
-    "edad": 18,
-    "sexo": "masculino",
-    "salario": 197733,
-    "estudios": "graduate",
-    "religion": "atheism",
+    "fecha_voto": "2024-06-25",
+    "estado": "South Carolina",
+    "etnia": "asian",
+    "edad": 32,
+    "sexo": "femenino",
+    "salario": 30142,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "democrata"
 }

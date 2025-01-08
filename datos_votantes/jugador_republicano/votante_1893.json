@@ -1,14 +1,14 @@
 {
     "id": 1893,
-    "fecha_voto": "2024-11-05",
-    "estado": "Maine",
-    "etnia": "hispanic",
-    "edad": 57,
-    "sexo": "femenino",
-    "salario": 96504,
-    "estudios": "high school",
+    "fecha_voto": "2024-11-04",
+    "estado": "Wyoming",
+    "etnia": "white",
+    "edad": 30,
+    "sexo": "masculino",
+    "salario": 89154,
+    "estudios": "graduate",
     "religion": "hinduism",
-    "casado": false,
-    "hijos": 3,
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 90,
-    "fecha_voto": "2024-01-19",
-    "estado": "Ohio",
-    "etnia": "asian",
-    "edad": 29,
-    "sexo": "s",
-    "salario": 194460,
-    "estudios": "doctor",
-    "religion": "islam",
+    "fecha_voto": "2024-01-18",
+    "estado": "Michigan",
+    "etnia": "white",
+    "edad": 77,
+    "sexo": "masculino",
+    "salario": 112815,
+    "estudios": "graduate",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

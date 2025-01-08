@@ -1,14 +1,14 @@
 {
     "id": 1637,
-    "fecha_voto": "2024-10-10",
-    "estado": "Delaware",
-    "etnia": "white",
-    "edad": 22,
+    "fecha_voto": "2024-09-22",
+    "estado": "Florida",
+    "etnia": "hispanic",
+    "edad": 51,
     "sexo": "femenino",
-    "salario": 220650,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "salario": 237779,
+    "estudios": "undergraduate",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 2,
+    "voto": "republicano"
 }

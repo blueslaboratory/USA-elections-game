@@ -1,14 +1,14 @@
 {
     "id": 356,
-    "fecha_voto": "2024-02-20",
-    "estado": "Minnesota",
-    "etnia": "black",
-    "edad": 96,
+    "fecha_voto": "2024-03-20",
+    "estado": "California",
+    "etnia": "illegal",
+    "edad": 16,
     "sexo": "masculino",
-    "salario": 64120,
-    "estudios": "undergraduate",
-    "religion": "islam",
+    "salario": 212408,
+    "estudios": "high school",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

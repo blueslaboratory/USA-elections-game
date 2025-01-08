@@ -1,14 +1,14 @@
 {
     "id": 14,
-    "fecha_voto": "2024-02-10",
-    "estado": "Delaware",
-    "etnia": "illegal",
-    "edad": 62,
-    "sexo": "s",
-    "salario": 144398,
-    "estudios": "undergraduate",
-    "religion": "islam",
+    "fecha_voto": "2024-01-03",
+    "estado": "Kentucky",
+    "etnia": "hispanic",
+    "edad": 82,
+    "sexo": "masculino",
+    "salario": 80214,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

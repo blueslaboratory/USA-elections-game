@@ -1,14 +1,14 @@
 {
     "id": 281,
-    "fecha_voto": "2024-03-07",
-    "estado": "Alabama",
-    "etnia": "illegal",
-    "edad": 43,
-    "sexo": "masculino",
-    "salario": 133090,
-    "estudios": "high school",
-    "religion": "hinduism",
+    "fecha_voto": "2024-03-11",
+    "estado": "Connecticut",
+    "etnia": "indian",
+    "edad": 46,
+    "sexo": "femenino",
+    "salario": 162804,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

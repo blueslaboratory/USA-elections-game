@@ -1,14 +1,14 @@
 {
     "id": 708,
     "fecha_voto": "2024-04-11",
-    "estado": "New Hampshire",
-    "etnia": "hispanic",
-    "edad": 30,
+    "estado": "North Dakota",
+    "etnia": "white",
+    "edad": 25,
     "sexo": "masculino",
-    "salario": 49605,
-    "estudios": "high school",
-    "religion": "other",
+    "salario": 53997,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 1,
+    "hijos": 2,
     "voto": "republicano"
 }

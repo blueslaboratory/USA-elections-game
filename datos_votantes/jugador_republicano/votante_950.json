@@ -1,14 +1,14 @@
 {
     "id": 950,
-    "fecha_voto": "2024-05-14",
-    "estado": "Washington",
-    "etnia": "asian",
+    "fecha_voto": "2024-06-20",
+    "estado": "Mississippi",
+    "etnia": "hispanic",
     "edad": 46,
-    "sexo": "masculino",
-    "salario": 30539,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": false,
+    "sexo": "femenino",
+    "salario": 84546,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": true,
     "hijos": 4,
     "voto": "republicano"
 }

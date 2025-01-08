@@ -1,14 +1,14 @@
 {
     "id": 363,
-    "fecha_voto": "2024-03-25",
-    "estado": "Indiana",
-    "etnia": "illegal",
-    "edad": 87,
+    "fecha_voto": "2024-02-25",
+    "estado": "Vermont",
+    "etnia": "white",
+    "edad": 38,
     "sexo": "femenino",
-    "salario": 170082,
-    "estudios": "graduate",
-    "religion": "atheism",
+    "salario": 236081,
+    "estudios": "undergraduate",
+    "religion": "islam",
     "casado": false,
-    "hijos": 5,
+    "hijos": 2,
     "voto": "democrata"
 }

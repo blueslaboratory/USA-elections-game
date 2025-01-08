@@ -1,14 +1,14 @@
 {
     "id": 976,
-    "fecha_voto": "2024-06-10",
-    "estado": "Oregon",
-    "etnia": "indian",
-    "edad": 29,
-    "sexo": "masculino",
-    "salario": 235684,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "fecha_voto": "2024-05-18",
+    "estado": "Alaska",
+    "etnia": "white",
+    "edad": 21,
+    "sexo": "femenino",
+    "salario": 133447,
+    "estudios": "high school",
+    "religion": "other",
+    "casado": false,
+    "hijos": 2,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 460,
-    "fecha_voto": "2024-02-16",
-    "estado": "Texas",
-    "etnia": "white",
-    "edad": 27,
-    "sexo": "masculino",
-    "salario": 131443,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "fecha_voto": "2024-03-03",
+    "estado": "Montana",
+    "etnia": "asian",
+    "edad": 39,
+    "sexo": "femenino",
+    "salario": 238651,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

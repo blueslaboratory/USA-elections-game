@@ -1,14 +1,14 @@
 {
     "id": 1601,
-    "fecha_voto": "2024-10-28",
-    "estado": "Kansas",
-    "etnia": "white",
-    "edad": 32,
+    "fecha_voto": "2024-10-20",
+    "estado": "Alaska",
+    "etnia": "illegal",
+    "edad": 71,
     "sexo": "femenino",
-    "salario": 235994,
+    "salario": 190957,
     "estudios": "high school",
     "religion": "islam",
-    "casado": false,
-    "hijos": 4,
+    "casado": true,
+    "hijos": 3,
     "voto": "republicano"
 }

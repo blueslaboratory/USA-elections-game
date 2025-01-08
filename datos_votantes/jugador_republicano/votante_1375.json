@@ -1,14 +1,14 @@
 {
     "id": 1375,
-    "fecha_voto": "2024-09-06",
-    "estado": "Maine",
+    "fecha_voto": "2024-08-10",
+    "estado": "Utah",
     "etnia": "hispanic",
-    "edad": 76,
-    "sexo": "masculino",
-    "salario": 119621,
-    "estudios": "high school",
+    "edad": 33,
+    "sexo": "femenino",
+    "salario": 173146,
+    "estudios": "undergraduate",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 2,
+    "voto": "democrata"
 }

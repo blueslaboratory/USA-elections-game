@@ -1,14 +1,14 @@
 {
     "id": 916,
-    "fecha_voto": "2024-05-29",
-    "estado": "Georgia",
-    "etnia": "asian",
-    "edad": 29,
-    "sexo": "masculino",
-    "salario": 89090,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "fecha_voto": "2024-05-27",
+    "estado": "Washington",
+    "etnia": "hispanic",
+    "edad": 34,
+    "sexo": "femenino",
+    "salario": 100158,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "democrata"
 }

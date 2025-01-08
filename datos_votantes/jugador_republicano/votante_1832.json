@@ -1,14 +1,14 @@
 {
     "id": 1832,
-    "fecha_voto": "2024-11-05",
-    "estado": "Missouri",
-    "etnia": "black",
-    "edad": 88,
-    "sexo": "femenino",
-    "salario": 114085,
+    "fecha_voto": "2024-11-04",
+    "estado": "Pennsylvania",
+    "etnia": "asian",
+    "edad": 68,
+    "sexo": "masculino",
+    "salario": 183861,
     "estudios": "undergraduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 2,
+    "voto": "republicano"
 }

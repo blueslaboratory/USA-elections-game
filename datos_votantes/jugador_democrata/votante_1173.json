@@ -1,14 +1,14 @@
 {
     "id": 1173,
-    "fecha_voto": "2024-07-04",
-    "estado": "Massachusetts",
-    "etnia": "black",
-    "edad": 37,
+    "fecha_voto": "2024-07-19",
+    "estado": "Mississippi",
+    "etnia": "white",
+    "edad": 24,
     "sexo": "femenino",
-    "salario": 31616,
+    "salario": 94822,
     "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "religion": "other",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 150,
-    "fecha_voto": "2024-01-30",
-    "estado": "Ohio",
-    "etnia": "black",
-    "edad": 85,
-    "sexo": "l",
-    "salario": 268563,
+    "fecha_voto": "2024-01-24",
+    "estado": "Georgia",
+    "etnia": "illegal",
+    "edad": 70,
+    "sexo": "masculino",
+    "salario": 56641,
     "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

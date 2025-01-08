@@ -1,14 +1,14 @@
 {
     "id": 83,
-    "fecha_voto": "2024-01-20",
-    "estado": "Minnesota",
-    "etnia": "black",
-    "edad": 72,
-    "sexo": "n",
-    "salario": 384321,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
+    "fecha_voto": "2024-01-01",
+    "estado": "Missouri",
+    "etnia": "hispanic",
+    "edad": 68,
+    "sexo": "masculino",
+    "salario": 211594,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
     "hijos": 3,
     "voto": "republicano"
 }

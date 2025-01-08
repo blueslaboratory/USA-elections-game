@@ -1,14 +1,14 @@
 {
     "id": 1999,
-    "fecha_voto": "2024-11-05",
-    "estado": "Arizona",
-    "etnia": "asian",
-    "edad": 61,
-    "sexo": "femenino",
-    "salario": 142539,
-    "estudios": "doctor",
-    "religion": "islam",
-    "casado": false,
+    "fecha_voto": "2024-11-04",
+    "estado": "Montana",
+    "etnia": "black",
+    "edad": 95,
+    "sexo": "masculino",
+    "salario": 85833,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": true,
     "hijos": 4,
     "voto": "democrata"
 }

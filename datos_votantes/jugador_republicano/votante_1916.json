@@ -1,14 +1,14 @@
 {
     "id": 1916,
-    "fecha_voto": "2024-11-05",
-    "estado": "Louisiana",
-    "etnia": "illegal",
-    "edad": 55,
-    "sexo": "femenino",
-    "salario": 71900,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "fecha_voto": "2024-11-04",
+    "estado": "Delaware",
+    "etnia": "white",
+    "edad": 96,
+    "sexo": "masculino",
+    "salario": 110091,
+    "estudios": "high school",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

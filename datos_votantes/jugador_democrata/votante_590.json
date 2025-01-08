@@ -1,14 +1,14 @@
 {
     "id": 590,
-    "fecha_voto": "2024-04-20",
-    "estado": "California",
-    "etnia": "hispanic",
-    "edad": 76,
+    "fecha_voto": "2024-04-03",
+    "estado": "Pennsylvania",
+    "etnia": "black",
+    "edad": 49,
     "sexo": "masculino",
-    "salario": 215752,
-    "estudios": "undergraduate",
+    "salario": 200412,
+    "estudios": "doctor",
     "religion": "christianism",
-    "casado": false,
+    "casado": true,
     "hijos": 5,
-    "voto": "republicano"
+    "voto": "democrata"
 }

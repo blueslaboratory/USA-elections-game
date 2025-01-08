@@ -1,14 +1,14 @@
 {
     "id": 729,
-    "fecha_voto": "2024-04-28",
-    "estado": "Idaho",
+    "fecha_voto": "2024-05-11",
+    "estado": "California",
     "etnia": "illegal",
-    "edad": 76,
+    "edad": 59,
     "sexo": "femenino",
-    "salario": 156549,
-    "estudios": "high school",
-    "religion": "atheism",
+    "salario": 63154,
+    "estudios": "doctor",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

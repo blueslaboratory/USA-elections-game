@@ -1,14 +1,14 @@
 {
     "id": 964,
-    "fecha_voto": "2024-06-21",
-    "estado": "Texas",
-    "etnia": "indian",
-    "edad": 30,
-    "sexo": "masculino",
-    "salario": 71953,
+    "fecha_voto": "2024-05-25",
+    "estado": "Oklahoma",
+    "etnia": "hispanic",
+    "edad": 44,
+    "sexo": "femenino",
+    "salario": 133831,
     "estudios": "undergraduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 2,
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
     "voto": "republicano"
 }

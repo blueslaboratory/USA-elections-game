@@ -1,14 +1,14 @@
 {
     "id": 618,
-    "fecha_voto": "2024-05-01",
-    "estado": "Colorado",
-    "etnia": "hispanic",
-    "edad": 63,
+    "fecha_voto": "2024-04-08",
+    "estado": "Nebraska",
+    "etnia": "asian",
+    "edad": 26,
     "sexo": "femenino",
-    "salario": 197009,
-    "estudios": "undergraduate",
+    "salario": 104934,
+    "estudios": "graduate",
     "religion": "atheism",
-    "casado": true,
+    "casado": false,
     "hijos": 4,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 344,
-    "fecha_voto": "2024-03-17",
-    "estado": "Minnesota",
-    "etnia": "indian",
-    "edad": 37,
+    "fecha_voto": "2024-03-10",
+    "estado": "Vermont",
+    "etnia": "black",
+    "edad": 15,
     "sexo": "femenino",
-    "salario": 182485,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": true,
+    "salario": 130805,
+    "estudios": "graduate",
+    "religion": "islam",
+    "casado": false,
     "hijos": 4,
     "voto": "democrata"
 }

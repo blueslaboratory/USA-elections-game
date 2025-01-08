@@ -1,14 +1,14 @@
 {
     "id": 529,
-    "fecha_voto": "2024-04-04",
-    "estado": "Missouri",
-    "etnia": "hispanic",
-    "edad": 65,
-    "sexo": "femenino",
-    "salario": 49986,
-    "estudios": "graduate",
-    "religion": "other",
+    "fecha_voto": "2024-03-30",
+    "estado": "Georgia",
+    "etnia": "illegal",
+    "edad": 25,
+    "sexo": "masculino",
+    "salario": 156636,
+    "estudios": "doctor",
+    "religion": "islam",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

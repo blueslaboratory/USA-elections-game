@@ -1,14 +1,14 @@
 {
     "id": 212,
-    "fecha_voto": "2024-01-03",
-    "estado": "Maryland",
-    "etnia": "black",
-    "edad": 66,
-    "sexo": "u",
-    "salario": 367903,
-    "estudios": "masters",
-    "religion": "christianism",
+    "fecha_voto": "2024-02-07",
+    "estado": "Arkansas",
+    "etnia": "hispanic",
+    "edad": 89,
+    "sexo": "femenino",
+    "salario": 230579,
+    "estudios": "high school",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

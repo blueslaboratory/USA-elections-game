@@ -1,14 +1,14 @@
 {
     "id": 1088,
-    "fecha_voto": "2024-07-01",
-    "estado": "Oregon",
-    "etnia": "illegal",
-    "edad": 26,
-    "sexo": "masculino",
-    "salario": 150718,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "fecha_voto": "2024-06-25",
+    "estado": "Oklahoma",
+    "etnia": "white",
+    "edad": 42,
+    "sexo": "femenino",
+    "salario": 206690,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
 }

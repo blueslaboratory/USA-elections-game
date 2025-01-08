@@ -1,14 +1,14 @@
 {
     "id": 1864,
     "fecha_voto": "2024-11-04",
-    "estado": "Michigan",
-    "etnia": "white",
-    "edad": 52,
-    "sexo": "femenino",
-    "salario": 117543,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "estado": "Montana",
+    "etnia": "indian",
+    "edad": 85,
+    "sexo": "masculino",
+    "salario": 163778,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

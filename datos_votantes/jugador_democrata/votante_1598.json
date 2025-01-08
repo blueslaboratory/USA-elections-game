@@ -1,14 +1,14 @@
 {
     "id": 1598,
-    "fecha_voto": "2024-10-02",
-    "estado": "Hawaii",
-    "etnia": "asian",
-    "edad": 25,
+    "fecha_voto": "2024-10-23",
+    "estado": "Wyoming",
+    "etnia": "hispanic",
+    "edad": 97,
     "sexo": "femenino",
-    "salario": 108283,
-    "estudios": "masters",
-    "religion": "christianism",
+    "salario": 194737,
+    "estudios": "graduate",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

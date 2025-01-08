@@ -1,14 +1,14 @@
 {
     "id": 1727,
-    "fecha_voto": "2024-10-14",
-    "estado": "Montana",
-    "etnia": "indian",
-    "edad": 25,
-    "sexo": "femenino",
-    "salario": 31048,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "fecha_voto": "2024-11-03",
+    "estado": "South Dakota",
+    "etnia": "hispanic",
+    "edad": 67,
+    "sexo": "masculino",
+    "salario": 43627,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 457,
-    "fecha_voto": "2024-03-14",
-    "estado": "Nebraska",
-    "etnia": "indian",
-    "edad": 37,
-    "sexo": "masculino",
-    "salario": 49112,
+    "fecha_voto": "2024-03-23",
+    "estado": "Minnesota",
+    "etnia": "black",
+    "edad": 19,
+    "sexo": "femenino",
+    "salario": 142006,
     "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 0,
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 2,
     "voto": "democrata"
 }

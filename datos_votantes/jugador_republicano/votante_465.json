@@ -1,14 +1,14 @@
 {
     "id": 465,
-    "fecha_voto": "2024-02-19",
-    "estado": "Arkansas",
-    "etnia": "white",
-    "edad": 80,
+    "fecha_voto": "2024-03-20",
+    "estado": "Vermont",
+    "etnia": "hispanic",
+    "edad": 40,
     "sexo": "femenino",
-    "salario": 214503,
-    "estudios": "masters",
-    "religion": "judaism",
+    "salario": 140199,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

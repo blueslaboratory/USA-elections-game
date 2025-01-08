@@ -1,14 +1,14 @@
 {
     "id": 1429,
-    "fecha_voto": "2024-08-30",
-    "estado": "Alabama",
-    "etnia": "illegal",
-    "edad": 18,
-    "sexo": "masculino",
-    "salario": 160497,
-    "estudios": "doctor",
-    "religion": "islam",
+    "fecha_voto": "2024-09-03",
+    "estado": "Wyoming",
+    "etnia": "black",
+    "edad": 36,
+    "sexo": "femenino",
+    "salario": 160690,
+    "estudios": "high school",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

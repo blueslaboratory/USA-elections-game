@@ -1,14 +1,14 @@
 {
     "id": 1841,
     "fecha_voto": "2024-11-05",
-    "estado": "Nebraska",
-    "etnia": "illegal",
-    "edad": 20,
+    "estado": "Nevada",
+    "etnia": "asian",
+    "edad": 68,
     "sexo": "masculino",
-    "salario": 242237,
-    "estudios": "doctor",
-    "religion": "other",
+    "salario": 243731,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

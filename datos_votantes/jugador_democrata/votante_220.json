@@ -1,14 +1,14 @@
 {
     "id": 220,
-    "fecha_voto": "2024-01-14",
-    "estado": "Maine",
-    "etnia": "indian",
-    "edad": 33,
-    "sexo": "i",
-    "salario": 139538,
+    "fecha_voto": "2024-01-29",
+    "estado": "Rhode Island",
+    "etnia": "white",
+    "edad": 63,
+    "sexo": "femenino",
+    "salario": 174173,
     "estudios": "undergraduate",
-    "religion": "other",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "religion": "islam",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

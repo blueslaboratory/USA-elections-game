@@ -1,14 +1,14 @@
 {
     "id": 696,
-    "fecha_voto": "2024-04-13",
-    "estado": "West Virginia",
-    "etnia": "hispanic",
-    "edad": 58,
+    "fecha_voto": "2024-04-08",
+    "estado": "Pennsylvania",
+    "etnia": "illegal",
+    "edad": 37,
     "sexo": "femenino",
-    "salario": 184805,
-    "estudios": "masters",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 4,
+    "salario": 203199,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 5,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 202,
-    "fecha_voto": "2024-01-16",
-    "estado": "Florida",
-    "etnia": "hispanic",
-    "edad": 69,
-    "sexo": "c",
-    "salario": 321901,
-    "estudios": "masters",
-    "religion": "hinduism",
+    "fecha_voto": "2024-02-10",
+    "estado": "Idaho",
+    "etnia": "black",
+    "edad": 62,
+    "sexo": "femenino",
+    "salario": 180609,
+    "estudios": "graduate",
+    "religion": "islam",
     "casado": false,
-    "hijos": 5,
+    "hijos": 3,
     "voto": "republicano"
 }

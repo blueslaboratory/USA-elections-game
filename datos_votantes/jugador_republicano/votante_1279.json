@@ -1,14 +1,14 @@
 {
     "id": 1279,
-    "fecha_voto": "2024-09-06",
-    "estado": "Florida",
-    "etnia": "illegal",
-    "edad": 42,
+    "fecha_voto": "2024-08-10",
+    "estado": "Ohio",
+    "etnia": "asian",
+    "edad": 32,
     "sexo": "masculino",
-    "salario": 126525,
+    "salario": 236907,
     "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 5,
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

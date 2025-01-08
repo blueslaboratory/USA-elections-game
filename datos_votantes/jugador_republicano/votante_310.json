@@ -1,14 +1,14 @@
 {
     "id": 310,
-    "fecha_voto": "2024-02-16",
-    "estado": "Missouri",
+    "fecha_voto": "2024-03-27",
+    "estado": "Kansas",
     "etnia": "black",
-    "edad": 86,
+    "edad": 13,
     "sexo": "femenino",
-    "salario": 155104,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "salario": 106418,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
 }

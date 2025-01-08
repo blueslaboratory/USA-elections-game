@@ -1,14 +1,14 @@
 {
     "id": 137,
-    "fecha_voto": "2024-01-25",
-    "estado": "North Carolina",
-    "etnia": "black",
-    "edad": 65,
-    "sexo": "n",
-    "salario": 391467,
-    "estudios": "doctor",
-    "religion": "christianism",
+    "fecha_voto": "2024-01-10",
+    "estado": "Utah",
+    "etnia": "hispanic",
+    "edad": 60,
+    "sexo": "masculino",
+    "salario": 33730,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

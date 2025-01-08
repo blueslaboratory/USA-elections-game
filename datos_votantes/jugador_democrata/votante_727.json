@@ -1,14 +1,14 @@
 {
     "id": 727,
-    "fecha_voto": "2024-03-31",
-    "estado": "New Jersey",
+    "fecha_voto": "2024-04-15",
+    "estado": "West Virginia",
     "etnia": "hispanic",
-    "edad": 33,
-    "sexo": "femenino",
-    "salario": 175743,
+    "edad": 54,
+    "sexo": "masculino",
+    "salario": 116235,
     "estudios": "doctor",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1051,
-    "fecha_voto": "2024-07-01",
-    "estado": "Wisconsin",
-    "etnia": "indian",
-    "edad": 39,
+    "fecha_voto": "2024-07-04",
+    "estado": "Maryland",
+    "etnia": "white",
+    "edad": 31,
     "sexo": "femenino",
-    "salario": 155732,
-    "estudios": "masters",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 1,
+    "salario": 113868,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

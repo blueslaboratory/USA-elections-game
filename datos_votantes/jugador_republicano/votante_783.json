@@ -1,14 +1,14 @@
 {
     "id": 783,
-    "fecha_voto": "2024-06-12",
-    "estado": "Mississippi",
-    "etnia": "asian",
-    "edad": 34,
+    "fecha_voto": "2024-06-05",
+    "estado": "New York",
+    "etnia": "white",
+    "edad": 84,
     "sexo": "masculino",
-    "salario": 140232,
+    "salario": 166147,
     "estudios": "graduate",
-    "religion": "hinduism",
+    "religion": "other",
     "casado": false,
-    "hijos": 5,
+    "hijos": 1,
     "voto": "republicano"
 }

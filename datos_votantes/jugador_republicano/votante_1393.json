@@ -1,14 +1,14 @@
 {
     "id": 1393,
     "fecha_voto": "2024-08-24",
-    "estado": "South Dakota",
+    "estado": "Montana",
     "etnia": "white",
-    "edad": 93,
-    "sexo": "femenino",
-    "salario": 70959,
+    "edad": 54,
+    "sexo": "masculino",
+    "salario": 112083,
     "estudios": "graduate",
-    "religion": "other",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 0,
+    "hijos": 2,
     "voto": "republicano"
 }

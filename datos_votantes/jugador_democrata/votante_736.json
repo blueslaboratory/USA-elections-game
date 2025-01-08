@@ -1,14 +1,14 @@
 {
     "id": 736,
-    "fecha_voto": "2024-04-21",
-    "estado": "Montana",
-    "etnia": "hispanic",
-    "edad": 73,
-    "sexo": "masculino",
-    "salario": 133889,
+    "fecha_voto": "2024-03-31",
+    "estado": "Indiana",
+    "etnia": "white",
+    "edad": 42,
+    "sexo": "femenino",
+    "salario": 48762,
     "estudios": "graduate",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 3,
+    "religion": "other",
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 539,
-    "fecha_voto": "2024-04-12",
-    "estado": "New Jersey",
-    "etnia": "illegal",
-    "edad": 47,
+    "fecha_voto": "2024-04-07",
+    "estado": "Iowa",
+    "etnia": "asian",
+    "edad": 29,
     "sexo": "masculino",
-    "salario": 158785,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 4,
+    "salario": 212141,
+    "estudios": "graduate",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 0,
     "voto": "democrata"
 }

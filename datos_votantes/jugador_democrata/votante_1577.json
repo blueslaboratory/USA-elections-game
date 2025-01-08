@@ -1,14 +1,14 @@
 {
     "id": 1577,
-    "fecha_voto": "2024-10-29",
-    "estado": "Colorado",
-    "etnia": "indian",
-    "edad": 31,
+    "fecha_voto": "2024-10-05",
+    "estado": "Utah",
+    "etnia": "hispanic",
+    "edad": 57,
     "sexo": "femenino",
-    "salario": 212744,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "salario": 165110,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "republicano"
 }

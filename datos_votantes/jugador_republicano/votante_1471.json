@@ -1,14 +1,14 @@
 {
     "id": 1471,
-    "fecha_voto": "2024-09-02",
-    "estado": "Missouri",
-    "etnia": "hispanic",
-    "edad": 53,
-    "sexo": "femenino",
-    "salario": 218009,
-    "estudios": "high school",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "fecha_voto": "2024-08-19",
+    "estado": "West Virginia",
+    "etnia": "black",
+    "edad": 61,
+    "sexo": "masculino",
+    "salario": 100110,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
 }

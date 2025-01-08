@@ -1,14 +1,14 @@
 {
     "id": 1617,
-    "fecha_voto": "2024-10-15",
-    "estado": "Missouri",
-    "etnia": "indian",
-    "edad": 28,
+    "fecha_voto": "2024-11-03",
+    "estado": "Georgia",
+    "etnia": "hispanic",
+    "edad": 94,
     "sexo": "femenino",
-    "salario": 65204,
-    "estudios": "undergraduate",
+    "salario": 108106,
+    "estudios": "high school",
     "religion": "islam",
-    "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "casado": true,
+    "hijos": 0,
+    "voto": "republicano"
 }

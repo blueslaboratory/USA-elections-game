@@ -1,14 +1,14 @@
 {
     "id": 1694,
-    "fecha_voto": "2024-10-25",
-    "estado": "Connecticut",
+    "fecha_voto": "2024-10-27",
+    "estado": "Florida",
     "etnia": "hispanic",
-    "edad": 25,
+    "edad": 76,
     "sexo": "femenino",
-    "salario": 230972,
-    "estudios": "doctor",
+    "salario": 194886,
+    "estudios": "high school",
     "religion": "atheism",
-    "casado": false,
+    "casado": true,
     "hijos": 5,
-    "voto": "democrata"
+    "voto": "republicano"
 }

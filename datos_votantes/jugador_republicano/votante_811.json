@@ -1,14 +1,14 @@
 {
     "id": 811,
-    "fecha_voto": "2024-05-20",
-    "estado": "Nevada",
-    "etnia": "indian",
-    "edad": 41,
-    "sexo": "masculino",
-    "salario": 208551,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "fecha_voto": "2024-05-31",
+    "estado": "Vermont",
+    "etnia": "hispanic",
+    "edad": 89,
+    "sexo": "femenino",
+    "salario": 88753,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "democrata"
 }

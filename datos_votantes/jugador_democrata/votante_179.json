@@ -1,14 +1,14 @@
 {
     "id": 179,
-    "fecha_voto": "2024-01-06",
-    "estado": "Oregon",
-    "etnia": "asian",
-    "edad": 58,
-    "sexo": "l",
-    "salario": 398401,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "fecha_voto": "2024-01-29",
+    "estado": "Texas",
+    "etnia": "white",
+    "edad": 98,
+    "sexo": "femenino",
+    "salario": 196582,
+    "estudios": "high school",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

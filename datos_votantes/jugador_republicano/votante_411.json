@@ -1,14 +1,14 @@
 {
     "id": 411,
-    "fecha_voto": "2024-03-27",
-    "estado": "North Dakota",
-    "etnia": "asian",
+    "fecha_voto": "2024-03-17",
+    "estado": "New York",
+    "etnia": "indian",
     "edad": 33,
-    "sexo": "masculino",
-    "salario": 64018,
-    "estudios": "doctor",
+    "sexo": "femenino",
+    "salario": 96097,
+    "estudios": "undergraduate",
     "religion": "judaism",
-    "casado": false,
+    "casado": true,
     "hijos": 0,
     "voto": "democrata"
 }

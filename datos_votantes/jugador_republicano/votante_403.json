@@ -1,14 +1,14 @@
 {
     "id": 403,
-    "fecha_voto": "2024-03-27",
-    "estado": "Arizona",
-    "etnia": "white",
-    "edad": 43,
-    "sexo": "masculino",
-    "salario": 73652,
-    "estudios": "graduate",
-    "religion": "atheism",
+    "fecha_voto": "2024-02-17",
+    "estado": "New York",
+    "etnia": "hispanic",
+    "edad": 45,
+    "sexo": "femenino",
+    "salario": 211592,
+    "estudios": "undergraduate",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

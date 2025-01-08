@@ -1,14 +1,14 @@
 {
     "id": 737,
-    "fecha_voto": "2024-03-30",
-    "estado": "Minnesota",
-    "etnia": "illegal",
-    "edad": 39,
+    "fecha_voto": "2024-05-01",
+    "estado": "Vermont",
+    "etnia": "hispanic",
+    "edad": 83,
     "sexo": "femenino",
-    "salario": 99495,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "salario": 158497,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

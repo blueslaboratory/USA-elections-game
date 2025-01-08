@@ -1,14 +1,14 @@
 {
     "id": 231,
-    "fecha_voto": "2024-01-26",
-    "estado": "Virginia",
-    "etnia": "white",
-    "edad": 34,
-    "sexo": "a",
-    "salario": 390297,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "fecha_voto": "2024-01-29",
+    "estado": "Texas",
+    "etnia": "black",
+    "edad": 49,
+    "sexo": "femenino",
+    "salario": 182646,
+    "estudios": "masters",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

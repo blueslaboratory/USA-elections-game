@@ -1,14 +1,14 @@
 {
     "id": 1023,
-    "fecha_voto": "2024-07-12",
-    "estado": "Virginia",
-    "etnia": "asian",
-    "edad": 37,
+    "fecha_voto": "2024-08-05",
+    "estado": "Vermont",
+    "etnia": "hispanic",
+    "edad": 26,
     "sexo": "femenino",
-    "salario": 103973,
-    "estudios": "high school",
+    "salario": 43159,
+    "estudios": "undergraduate",
     "religion": "atheism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1178,
-    "fecha_voto": "2024-08-04",
-    "estado": "Colorado",
-    "etnia": "asian",
-    "edad": 46,
-    "sexo": "masculino",
-    "salario": 162363,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": false,
+    "fecha_voto": "2024-07-23",
+    "estado": "Virginia",
+    "etnia": "indian",
+    "edad": 47,
+    "sexo": "femenino",
+    "salario": 246742,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": true,
     "hijos": 2,
-    "voto": "republicano"
+    "voto": "democrata"
 }

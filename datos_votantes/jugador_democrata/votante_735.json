@@ -1,14 +1,14 @@
 {
     "id": 735,
-    "fecha_voto": "2024-04-11",
-    "estado": "Iowa",
-    "etnia": "illegal",
-    "edad": 19,
-    "sexo": "masculino",
-    "salario": 99578,
+    "fecha_voto": "2024-04-26",
+    "estado": "Massachusetts",
+    "etnia": "asian",
+    "edad": 46,
+    "sexo": "femenino",
+    "salario": 139207,
     "estudios": "masters",
-    "religion": "islam",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 4,
     "voto": "democrata"
 }

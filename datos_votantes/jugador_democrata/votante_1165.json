@@ -1,14 +1,14 @@
 {
     "id": 1165,
-    "fecha_voto": "2024-07-23",
-    "estado": "New Hampshire",
-    "etnia": "indian",
-    "edad": 20,
-    "sexo": "masculino",
-    "salario": 208826,
+    "fecha_voto": "2024-08-01",
+    "estado": "Hawaii",
+    "etnia": "white",
+    "edad": 19,
+    "sexo": "femenino",
+    "salario": 115548,
     "estudios": "high school",
-    "religion": "other",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

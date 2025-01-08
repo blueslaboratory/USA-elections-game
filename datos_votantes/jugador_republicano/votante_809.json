@@ -1,14 +1,14 @@
 {
     "id": 809,
-    "fecha_voto": "2024-06-21",
-    "estado": "Ohio",
-    "etnia": "asian",
-    "edad": 54,
+    "fecha_voto": "2024-05-26",
+    "estado": "Missouri",
+    "etnia": "white",
+    "edad": 22,
     "sexo": "masculino",
-    "salario": 150785,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "salario": 89212,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "republicano"
 }

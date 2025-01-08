@@ -1,14 +1,14 @@
 {
     "id": 1228,
-    "fecha_voto": "2024-07-30",
-    "estado": "West Virginia",
-    "etnia": "illegal",
-    "edad": 44,
-    "sexo": "masculino",
-    "salario": 152305,
+    "fecha_voto": "2024-06-27",
+    "estado": "Colorado",
+    "etnia": "white",
+    "edad": 32,
+    "sexo": "femenino",
+    "salario": 231371,
     "estudios": "graduate",
-    "religion": "atheism",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

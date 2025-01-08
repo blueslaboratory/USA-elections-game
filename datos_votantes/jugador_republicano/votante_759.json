@@ -1,14 +1,14 @@
 {
     "id": 759,
-    "fecha_voto": "2024-06-14",
-    "estado": "New Jersey",
-    "etnia": "asian",
-    "edad": 47,
+    "fecha_voto": "2024-05-15",
+    "estado": "Iowa",
+    "etnia": "hispanic",
+    "edad": 92,
     "sexo": "masculino",
-    "salario": 76990,
-    "estudios": "high school",
-    "religion": "atheism",
+    "salario": 43861,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 5,
     "voto": "republicano"
 }

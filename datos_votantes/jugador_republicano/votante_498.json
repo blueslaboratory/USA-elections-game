@@ -1,14 +1,14 @@
 {
     "id": 498,
-    "fecha_voto": "2024-02-26",
-    "estado": "North Dakota",
-    "etnia": "asian",
-    "edad": 63,
-    "sexo": "femenino",
-    "salario": 132440,
-    "estudios": "high school",
-    "religion": "christianism",
+    "fecha_voto": "2024-03-15",
+    "estado": "Delaware",
+    "etnia": "hispanic",
+    "edad": 32,
+    "sexo": "masculino",
+    "salario": 177415,
+    "estudios": "doctor",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

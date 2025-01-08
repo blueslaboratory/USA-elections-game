@@ -1,14 +1,14 @@
 {
     "id": 1526,
-    "fecha_voto": "2024-10-29",
-    "estado": "South Carolina",
-    "etnia": "illegal",
-    "edad": 18,
-    "sexo": "femenino",
-    "salario": 167683,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-10-02",
+    "estado": "Vermont",
+    "etnia": "hispanic",
+    "edad": 83,
+    "sexo": "masculino",
+    "salario": 200144,
+    "estudios": "masters",
     "religion": "hinduism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "democrata"
 }

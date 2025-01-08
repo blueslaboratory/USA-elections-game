@@ -1,14 +1,14 @@
 {
     "id": 1338,
-    "fecha_voto": "2024-08-09",
-    "estado": "Alabama",
+    "fecha_voto": "2024-08-29",
+    "estado": "Pennsylvania",
     "etnia": "illegal",
-    "edad": 23,
-    "sexo": "masculino",
-    "salario": 163630,
+    "edad": 24,
+    "sexo": "femenino",
+    "salario": 242785,
     "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "religion": "islam",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
 }

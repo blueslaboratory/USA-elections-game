@@ -1,14 +1,14 @@
 {
     "id": 792,
-    "fecha_voto": "2024-05-19",
-    "estado": "Arizona",
-    "etnia": "illegal",
-    "edad": 29,
-    "sexo": "masculino",
-    "salario": 238681,
-    "estudios": "undergraduate",
-    "religion": "judaism",
+    "fecha_voto": "2024-05-26",
+    "estado": "Kentucky",
+    "etnia": "hispanic",
+    "edad": 96,
+    "sexo": "femenino",
+    "salario": 86180,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

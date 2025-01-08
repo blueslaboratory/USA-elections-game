@@ -1,14 +1,14 @@
 {
     "id": 1919,
     "fecha_voto": "2024-11-05",
-    "estado": "New Hampshire",
-    "etnia": "asian",
-    "edad": 67,
-    "sexo": "femenino",
-    "salario": 219010,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 1,
+    "estado": "Minnesota",
+    "etnia": "indian",
+    "edad": 49,
+    "sexo": "masculino",
+    "salario": 141942,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": true,
+    "hijos": 2,
     "voto": "democrata"
 }

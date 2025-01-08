@@ -1,14 +1,14 @@
 {
     "id": 496,
-    "fecha_voto": "2024-03-13",
-    "estado": "Wisconsin",
+    "fecha_voto": "2024-02-23",
+    "estado": "Georgia",
     "etnia": "illegal",
-    "edad": 62,
+    "edad": 17,
     "sexo": "masculino",
-    "salario": 226126,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 0,
+    "salario": 241259,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 1,
     "voto": "republicano"
 }

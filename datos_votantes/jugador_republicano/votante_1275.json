@@ -1,14 +1,14 @@
 {
     "id": 1275,
-    "fecha_voto": "2024-09-01",
-    "estado": "Texas",
-    "etnia": "white",
-    "edad": 26,
+    "fecha_voto": "2024-09-14",
+    "estado": "North Carolina",
+    "etnia": "asian",
+    "edad": 18,
     "sexo": "femenino",
-    "salario": 201373,
-    "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 2,
+    "salario": 229258,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

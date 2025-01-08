@@ -1,14 +1,14 @@
 {
     "id": 1183,
-    "fecha_voto": "2024-07-07",
-    "estado": "Arizona",
-    "etnia": "white",
-    "edad": 29,
+    "fecha_voto": "2024-07-08",
+    "estado": "Alabama",
+    "etnia": "hispanic",
+    "edad": 48,
     "sexo": "femenino",
-    "salario": 171456,
+    "salario": 202492,
     "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": true,
+    "religion": "other",
+    "casado": false,
     "hijos": 3,
-    "voto": "democrata"
+    "voto": "republicano"
 }

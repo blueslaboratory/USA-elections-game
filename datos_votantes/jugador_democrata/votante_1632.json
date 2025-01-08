@@ -1,14 +1,14 @@
 {
     "id": 1632,
-    "fecha_voto": "2024-09-29",
-    "estado": "Georgia",
-    "etnia": "black",
-    "edad": 29,
+    "fecha_voto": "2024-10-25",
+    "estado": "North Dakota",
+    "etnia": "illegal",
+    "edad": 57,
     "sexo": "femenino",
-    "salario": 51235,
-    "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 1,
+    "salario": 144726,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

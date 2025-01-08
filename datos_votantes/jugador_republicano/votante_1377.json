@@ -1,14 +1,14 @@
 {
     "id": 1377,
-    "fecha_voto": "2024-09-16",
-    "estado": "New Mexico",
-    "etnia": "indian",
-    "edad": 95,
-    "sexo": "femenino",
-    "salario": 137810,
+    "fecha_voto": "2024-08-20",
+    "estado": "South Dakota",
+    "etnia": "illegal",
+    "edad": 24,
+    "sexo": "masculino",
+    "salario": 157178,
     "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 2,
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 0,
     "voto": "democrata"
 }

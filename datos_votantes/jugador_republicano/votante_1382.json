@@ -1,14 +1,14 @@
 {
     "id": 1382,
-    "fecha_voto": "2024-09-19",
-    "estado": "Colorado",
+    "fecha_voto": "2024-09-20",
+    "estado": "Wisconsin",
     "etnia": "black",
-    "edad": 34,
+    "edad": 36,
     "sexo": "femenino",
-    "salario": 210828,
-    "estudios": "high school",
+    "salario": 190730,
+    "estudios": "undergraduate",
     "religion": "islam",
-    "casado": true,
-    "hijos": 2,
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

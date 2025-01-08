@@ -1,14 +1,14 @@
 {
     "id": 1247,
-    "fecha_voto": "2024-07-31",
-    "estado": "New Jersey",
+    "fecha_voto": "2024-08-06",
+    "estado": "Nevada",
     "etnia": "white",
-    "edad": 43,
+    "edad": 24,
     "sexo": "femenino",
-    "salario": 152815,
-    "estudios": "high school",
+    "salario": 58079,
+    "estudios": "undergraduate",
     "religion": "atheism",
     "casado": false,
     "hijos": 4,
-    "voto": "republicano"
+    "voto": "democrata"
 }

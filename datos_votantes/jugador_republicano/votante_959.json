@@ -1,14 +1,14 @@
 {
     "id": 959,
-    "fecha_voto": "2024-05-13",
-    "estado": "Connecticut",
-    "etnia": "indian",
-    "edad": 30,
-    "sexo": "masculino",
-    "salario": 36922,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": true,
+    "fecha_voto": "2024-05-14",
+    "estado": "Michigan",
+    "etnia": "hispanic",
+    "edad": 92,
+    "sexo": "femenino",
+    "salario": 90768,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
     "hijos": 5,
     "voto": "democrata"
 }

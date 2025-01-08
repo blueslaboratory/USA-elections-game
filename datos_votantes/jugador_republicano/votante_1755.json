@@ -1,14 +1,14 @@
 {
     "id": 1755,
-    "fecha_voto": "2024-11-05",
+    "fecha_voto": "2024-11-04",
     "estado": "Missouri",
-    "etnia": "white",
-    "edad": 64,
+    "etnia": "black",
+    "edad": 83,
     "sexo": "masculino",
-    "salario": 176427,
+    "salario": 71682,
     "estudios": "undergraduate",
-    "religion": "islam",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1907,
-    "fecha_voto": "2024-11-04",
-    "estado": "South Dakota",
-    "etnia": "indian",
-    "edad": 32,
+    "fecha_voto": "2024-11-05",
+    "estado": "Tennessee",
+    "etnia": "asian",
+    "edad": 86,
     "sexo": "masculino",
-    "salario": 200923,
-    "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "salario": 154596,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1958,
-    "fecha_voto": "2024-11-04",
-    "estado": "Virginia",
+    "fecha_voto": "2024-11-05",
+    "estado": "New Mexico",
     "etnia": "asian",
-    "edad": 93,
+    "edad": 72,
     "sexo": "masculino",
-    "salario": 148963,
-    "estudios": "undergraduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 0,
+    "salario": 52081,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 1,
     "voto": "republicano"
 }

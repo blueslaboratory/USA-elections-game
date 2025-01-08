@@ -1,14 +1,14 @@
 {
     "id": 1985,
     "fecha_voto": "2024-11-05",
-    "estado": "Indiana",
-    "etnia": "black",
-    "edad": 42,
-    "sexo": "femenino",
-    "salario": 159024,
-    "estudios": "doctor",
-    "religion": "other",
+    "estado": "South Dakota",
+    "etnia": "white",
+    "edad": 65,
+    "sexo": "masculino",
+    "salario": 198633,
+    "estudios": "undergraduate",
+    "religion": "islam",
     "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

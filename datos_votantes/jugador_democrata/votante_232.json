@@ -1,14 +1,14 @@
 {
     "id": 232,
-    "fecha_voto": "2024-01-10",
-    "estado": "Pennsylvania",
-    "etnia": "asian",
-    "edad": 60,
-    "sexo": "l",
-    "salario": 235400,
+    "fecha_voto": "2024-01-16",
+    "estado": "Alaska",
+    "etnia": "hispanic",
+    "edad": 41,
+    "sexo": "femenino",
+    "salario": 83857,
     "estudios": "doctor",
-    "religion": "islam",
-    "casado": false,
+    "religion": "judaism",
+    "casado": true,
     "hijos": 2,
     "voto": "democrata"
 }

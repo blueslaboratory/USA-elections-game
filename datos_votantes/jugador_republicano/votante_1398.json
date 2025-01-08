@@ -1,14 +1,14 @@
 {
     "id": 1398,
-    "fecha_voto": "2024-09-05",
-    "estado": "Indiana",
+    "fecha_voto": "2024-08-13",
+    "estado": "Oklahoma",
     "etnia": "illegal",
-    "edad": 23,
-    "sexo": "masculino",
-    "salario": 133843,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
+    "edad": 56,
+    "sexo": "femenino",
+    "salario": 135742,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "democrata"
 }

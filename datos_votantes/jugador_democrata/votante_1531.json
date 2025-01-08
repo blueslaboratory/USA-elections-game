@@ -1,14 +1,14 @@
 {
     "id": 1531,
-    "fecha_voto": "2024-11-02",
-    "estado": "Wyoming",
+    "fecha_voto": "2024-10-23",
+    "estado": "Maine",
     "etnia": "hispanic",
-    "edad": 34,
-    "sexo": "femenino",
-    "salario": 119528,
-    "estudios": "undergraduate",
-    "religion": "other",
-    "casado": false,
+    "edad": 85,
+    "sexo": "masculino",
+    "salario": 194058,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": true,
     "hijos": 4,
-    "voto": "democrata"
+    "voto": "republicano"
 }

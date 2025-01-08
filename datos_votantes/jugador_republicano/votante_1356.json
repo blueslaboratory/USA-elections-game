@@ -1,14 +1,14 @@
 {
     "id": 1356,
-    "fecha_voto": "2024-09-11",
-    "estado": "Wisconsin",
+    "fecha_voto": "2024-09-07",
+    "estado": "Rhode Island",
     "etnia": "black",
-    "edad": 74,
+    "edad": 85,
     "sexo": "femenino",
-    "salario": 162571,
-    "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "salario": 127426,
+    "estudios": "high school",
+    "religion": "other",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

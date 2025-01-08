@@ -1,14 +1,14 @@
 {
     "id": 612,
-    "fecha_voto": "2024-04-02",
-    "estado": "Utah",
-    "etnia": "illegal",
-    "edad": 33,
+    "fecha_voto": "2024-03-30",
+    "estado": "Washington",
+    "etnia": "white",
+    "edad": 73,
     "sexo": "femenino",
-    "salario": 224312,
-    "estudios": "graduate",
-    "religion": "hinduism",
+    "salario": 141292,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 5,
     "voto": "democrata"
 }

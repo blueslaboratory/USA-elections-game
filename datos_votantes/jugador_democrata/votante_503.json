@@ -1,14 +1,14 @@
 {
     "id": 503,
-    "fecha_voto": "2024-04-18",
-    "estado": "Oregon",
-    "etnia": "hispanic",
-    "edad": 98,
+    "fecha_voto": "2024-04-21",
+    "estado": "New York",
+    "etnia": "black",
+    "edad": 21,
     "sexo": "femenino",
-    "salario": 185759,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 3,
+    "salario": 225181,
+    "estudios": "graduate",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

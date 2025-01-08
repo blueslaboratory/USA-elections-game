@@ -1,14 +1,14 @@
 {
     "id": 312,
-    "fecha_voto": "2024-03-13",
-    "estado": "Minnesota",
-    "etnia": "asian",
-    "edad": 83,
-    "sexo": "femenino",
-    "salario": 236629,
-    "estudios": "graduate",
+    "fecha_voto": "2024-02-20",
+    "estado": "Connecticut",
+    "etnia": "indian",
+    "edad": 43,
+    "sexo": "masculino",
+    "salario": 174864,
+    "estudios": "masters",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
 }

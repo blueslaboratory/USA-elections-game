@@ -1,14 +1,14 @@
 {
     "id": 276,
-    "fecha_voto": "2024-03-02",
-    "estado": "Pennsylvania",
+    "fecha_voto": "2024-03-01",
+    "estado": "Iowa",
     "etnia": "white",
-    "edad": 29,
+    "edad": 20,
     "sexo": "masculino",
-    "salario": 112246,
-    "estudios": "undergraduate",
-    "religion": "judaism",
-    "casado": false,
+    "salario": 209379,
+    "estudios": "graduate",
+    "religion": "islam",
+    "casado": true,
     "hijos": 4,
     "voto": "republicano"
 }

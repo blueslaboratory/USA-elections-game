@@ -1,14 +1,14 @@
 {
     "id": 1449,
-    "fecha_voto": "2024-08-25",
-    "estado": "Wyoming",
-    "etnia": "indian",
-    "edad": 93,
-    "sexo": "femenino",
-    "salario": 157843,
-    "estudios": "high school",
-    "religion": "other",
+    "fecha_voto": "2024-09-01",
+    "estado": "Indiana",
+    "etnia": "asian",
+    "edad": 81,
+    "sexo": "masculino",
+    "salario": 166106,
+    "estudios": "doctor",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 3,
+    "hijos": 1,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 796,
-    "fecha_voto": "2024-06-20",
-    "estado": "Iowa",
-    "etnia": "asian",
-    "edad": 18,
+    "fecha_voto": "2024-05-14",
+    "estado": "Oregon",
+    "etnia": "white",
+    "edad": 43,
     "sexo": "masculino",
-    "salario": 184119,
-    "estudios": "masters",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "salario": 149289,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 2,
+    "voto": "republicano"
 }

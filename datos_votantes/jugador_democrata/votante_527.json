@@ -1,14 +1,14 @@
 {
     "id": 527,
-    "fecha_voto": "2024-04-29",
-    "estado": "Rhode Island",
-    "etnia": "illegal",
-    "edad": 30,
+    "fecha_voto": "2024-04-30",
+    "estado": "Vermont",
+    "etnia": "indian",
+    "edad": 31,
     "sexo": "masculino",
-    "salario": 249768,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 5,
+    "salario": 183698,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

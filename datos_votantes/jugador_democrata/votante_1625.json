@@ -1,14 +1,14 @@
 {
     "id": 1625,
-    "fecha_voto": "2024-10-01",
-    "estado": "Arkansas",
-    "etnia": "indian",
-    "edad": 34,
+    "fecha_voto": "2024-10-26",
+    "estado": "Rhode Island",
+    "etnia": "hispanic",
+    "edad": 52,
     "sexo": "femenino",
-    "salario": 119645,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 1,
+    "salario": 136164,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 4,
     "voto": "democrata"
 }

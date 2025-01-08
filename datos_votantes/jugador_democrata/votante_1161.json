@@ -1,14 +1,14 @@
 {
     "id": 1161,
-    "fecha_voto": "2024-07-01",
-    "estado": "Georgia",
-    "etnia": "white",
-    "edad": 41,
+    "fecha_voto": "2024-07-07",
+    "estado": "Virginia",
+    "etnia": "indian",
+    "edad": 54,
     "sexo": "femenino",
-    "salario": 152013,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "salario": 124374,
+    "estudios": "graduate",
+    "religion": "islam",
     "casado": true,
     "hijos": 2,
-    "voto": "republicano"
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 731,
-    "fecha_voto": "2024-03-30",
-    "estado": "Illinois",
-    "etnia": "illegal",
-    "edad": 25,
-    "sexo": "masculino",
-    "salario": 139282,
-    "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "fecha_voto": "2024-04-14",
+    "estado": "Arkansas",
+    "etnia": "white",
+    "edad": 59,
+    "sexo": "femenino",
+    "salario": 31814,
+    "estudios": "graduate",
+    "religion": "other",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

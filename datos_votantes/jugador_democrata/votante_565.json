@@ -1,14 +1,14 @@
 {
     "id": 565,
-    "fecha_voto": "2024-05-04",
-    "estado": "California",
+    "fecha_voto": "2024-05-01",
+    "estado": "South Carolina",
     "etnia": "illegal",
-    "edad": 60,
+    "edad": 32,
     "sexo": "femenino",
-    "salario": 49729,
-    "estudios": "high school",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 2,
+    "salario": 95216,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

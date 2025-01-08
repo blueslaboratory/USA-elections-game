@@ -1,14 +1,14 @@
 {
     "id": 1538,
-    "fecha_voto": "2024-10-01",
-    "estado": "New Jersey",
-    "etnia": "hispanic",
-    "edad": 34,
+    "fecha_voto": "2024-10-30",
+    "estado": "California",
+    "etnia": "illegal",
+    "edad": 74,
     "sexo": "femenino",
-    "salario": 117825,
-    "estudios": "graduate",
-    "religion": "christianism",
-    "casado": false,
+    "salario": 88405,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": true,
     "hijos": 5,
     "voto": "democrata"
 }

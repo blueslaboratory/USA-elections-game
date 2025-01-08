@@ -1,14 +1,14 @@
 {
     "id": 1669,
-    "fecha_voto": "2024-10-11",
-    "estado": "Hawaii",
-    "etnia": "black",
-    "edad": 33,
+    "fecha_voto": "2024-10-06",
+    "estado": "Montana",
+    "etnia": "illegal",
+    "edad": 22,
     "sexo": "femenino",
-    "salario": 113870,
-    "estudios": "masters",
+    "salario": 137857,
+    "estudios": "doctor",
     "religion": "atheism",
-    "casado": false,
-    "hijos": 5,
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

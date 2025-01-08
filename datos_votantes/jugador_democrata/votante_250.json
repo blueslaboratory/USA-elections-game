@@ -1,14 +1,14 @@
 {
     "id": 250,
-    "fecha_voto": "2024-01-07",
-    "estado": "Hawaii",
-    "etnia": "black",
-    "edad": 87,
-    "sexo": "s",
-    "salario": 180431,
+    "fecha_voto": "2024-01-21",
+    "estado": "Colorado",
+    "etnia": "white",
+    "edad": 46,
+    "sexo": "femenino",
+    "salario": 124336,
     "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "religion": "other",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

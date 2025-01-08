@@ -1,14 +1,14 @@
 {
     "id": 1759,
     "fecha_voto": "2024-11-05",
-    "estado": "Kansas",
-    "etnia": "indian",
-    "edad": 43,
-    "sexo": "femenino",
-    "salario": 177059,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "estado": "Texas",
+    "etnia": "hispanic",
+    "edad": 86,
+    "sexo": "masculino",
+    "salario": 102115,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

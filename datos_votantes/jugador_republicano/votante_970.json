@@ -1,14 +1,14 @@
 {
     "id": 970,
-    "fecha_voto": "2024-06-14",
-    "estado": "Nebraska",
+    "fecha_voto": "2024-05-28",
+    "estado": "Ohio",
     "etnia": "white",
-    "edad": 23,
-    "sexo": "masculino",
-    "salario": 78870,
-    "estudios": "doctor",
+    "edad": 65,
+    "sexo": "femenino",
+    "salario": 243166,
+    "estudios": "high school",
     "religion": "other",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

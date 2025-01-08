@@ -1,14 +1,14 @@
 {
     "id": 635,
-    "fecha_voto": "2024-04-16",
-    "estado": "Wyoming",
-    "etnia": "illegal",
-    "edad": 71,
+    "fecha_voto": "2024-05-09",
+    "estado": "Maine",
+    "etnia": "white",
+    "edad": 29,
     "sexo": "masculino",
-    "salario": 222714,
-    "estudios": "undergraduate",
-    "religion": "judaism",
+    "salario": 81148,
+    "estudios": "masters",
+    "religion": "other",
     "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

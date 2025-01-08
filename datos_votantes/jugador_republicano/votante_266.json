@@ -1,14 +1,14 @@
 {
     "id": 266,
     "fecha_voto": "2024-03-03",
-    "estado": "Louisiana",
-    "etnia": "black",
+    "estado": "New Jersey",
+    "etnia": "hispanic",
     "edad": 38,
     "sexo": "femenino",
-    "salario": 184093,
-    "estudios": "masters",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 5,
+    "salario": 169042,
+    "estudios": "graduate",
+    "religion": "other",
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

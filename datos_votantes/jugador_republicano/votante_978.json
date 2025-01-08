@@ -1,14 +1,14 @@
 {
     "id": 978,
-    "fecha_voto": "2024-06-04",
-    "estado": "Arkansas",
+    "fecha_voto": "2024-06-07",
+    "estado": "Arizona",
     "etnia": "hispanic",
-    "edad": 43,
-    "sexo": "masculino",
-    "salario": 61400,
-    "estudios": "undergraduate",
-    "religion": "atheism",
+    "edad": 66,
+    "sexo": "femenino",
+    "salario": 229494,
+    "estudios": "high school",
+    "religion": "other",
     "casado": true,
-    "hijos": 4,
+    "hijos": 0,
     "voto": "republicano"
 }

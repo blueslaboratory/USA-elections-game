@@ -1,14 +1,14 @@
 {
     "id": 831,
-    "fecha_voto": "2024-06-12",
-    "estado": "Wisconsin",
+    "fecha_voto": "2024-05-13",
+    "estado": "Connecticut",
     "etnia": "white",
-    "edad": 39,
+    "edad": 73,
     "sexo": "masculino",
-    "salario": 230175,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 2,
+    "salario": 164118,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": false,
+    "hijos": 3,
     "voto": "republicano"
 }

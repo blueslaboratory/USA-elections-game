@@ -1,14 +1,14 @@
 {
     "id": 1099,
-    "fecha_voto": "2024-08-01",
-    "estado": "New York",
+    "fecha_voto": "2024-07-15",
+    "estado": "North Carolina",
     "etnia": "hispanic",
-    "edad": 26,
-    "sexo": "masculino",
-    "salario": 174920,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "edad": 41,
+    "sexo": "femenino",
+    "salario": 118383,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "republicano"
 }

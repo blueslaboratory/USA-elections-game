@@ -1,14 +1,14 @@
 {
     "id": 1483,
     "fecha_voto": "2024-09-01",
-    "estado": "North Dakota",
-    "etnia": "asian",
-    "edad": 74,
+    "estado": "Maine",
+    "etnia": "indian",
+    "edad": 71,
     "sexo": "masculino",
-    "salario": 134301,
-    "estudios": "high school",
-    "religion": "islam",
+    "salario": 67682,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 0,
     "voto": "republicano"
 }

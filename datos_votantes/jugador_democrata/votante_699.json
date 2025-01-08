@@ -1,14 +1,14 @@
 {
     "id": 699,
-    "fecha_voto": "2024-05-02",
-    "estado": "Maryland",
-    "etnia": "hispanic",
-    "edad": 96,
-    "sexo": "masculino",
-    "salario": 61779,
-    "estudios": "high school",
-    "religion": "atheism",
+    "fecha_voto": "2024-03-30",
+    "estado": "Oklahoma",
+    "etnia": "white",
+    "edad": 20,
+    "sexo": "femenino",
+    "salario": 34311,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

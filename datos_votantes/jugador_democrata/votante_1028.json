@@ -1,14 +1,14 @@
 {
     "id": 1028,
-    "fecha_voto": "2024-07-17",
-    "estado": "Oklahoma",
-    "etnia": "black",
-    "edad": 31,
+    "fecha_voto": "2024-08-05",
+    "estado": "Virginia",
+    "etnia": "illegal",
+    "edad": 44,
     "sexo": "femenino",
-    "salario": 231986,
-    "estudios": "undergraduate",
+    "salario": 98632,
+    "estudios": "doctor",
     "religion": "hinduism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 1,
     "voto": "democrata"
 }

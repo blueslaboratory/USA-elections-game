@@ -1,14 +1,14 @@
 {
     "id": 1103,
-    "fecha_voto": "2024-07-31",
-    "estado": "Tennessee",
-    "etnia": "black",
-    "edad": 18,
+    "fecha_voto": "2024-06-26",
+    "estado": "Colorado",
+    "etnia": "white",
+    "edad": 36,
     "sexo": "femenino",
-    "salario": 92186,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "salario": 210452,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
 }

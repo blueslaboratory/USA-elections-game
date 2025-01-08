@@ -1,14 +1,14 @@
 {
     "id": 493,
-    "fecha_voto": "2024-02-26",
-    "estado": "Pennsylvania",
+    "fecha_voto": "2024-03-11",
+    "estado": "Arizona",
     "etnia": "hispanic",
-    "edad": 72,
+    "edad": 43,
     "sexo": "masculino",
-    "salario": 112640,
-    "estudios": "masters",
-    "religion": "judaism",
+    "salario": 170226,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 4,
     "voto": "republicano"
 }

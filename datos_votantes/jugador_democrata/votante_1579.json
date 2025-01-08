@@ -1,14 +1,14 @@
 {
     "id": 1579,
-    "fecha_voto": "2024-10-28",
-    "estado": "Pennsylvania",
-    "etnia": "black",
-    "edad": 31,
+    "fecha_voto": "2024-09-26",
+    "estado": "Nevada",
+    "etnia": "illegal",
+    "edad": 28,
     "sexo": "femenino",
-    "salario": 158471,
+    "salario": 94188,
     "estudios": "graduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 2,
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

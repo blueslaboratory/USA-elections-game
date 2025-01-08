@@ -1,14 +1,14 @@
 {
     "id": 587,
-    "fecha_voto": "2024-05-07",
-    "estado": "Vermont",
-    "etnia": "hispanic",
-    "edad": 44,
-    "sexo": "masculino",
-    "salario": 238788,
-    "estudios": "masters",
-    "religion": "other",
+    "fecha_voto": "2024-05-04",
+    "estado": "Maine",
+    "etnia": "asian",
+    "edad": 23,
+    "sexo": "femenino",
+    "salario": 128654,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 4,
     "voto": "democrata"
 }

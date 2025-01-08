@@ -1,14 +1,14 @@
 {
     "id": 145,
-    "fecha_voto": "2024-01-14",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-01-18",
+    "estado": "Virginia",
     "etnia": "hispanic",
-    "edad": 80,
-    "sexo": "n",
-    "salario": 193612,
-    "estudios": "masters",
+    "edad": 90,
+    "sexo": "femenino",
+    "salario": 172033,
+    "estudios": "doctor",
     "religion": "islam",
-    "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1140,
-    "fecha_voto": "2024-08-03",
-    "estado": "Louisiana",
-    "etnia": "white",
-    "edad": 42,
-    "sexo": "masculino",
-    "salario": 145984,
+    "fecha_voto": "2024-08-06",
+    "estado": "North Carolina",
+    "etnia": "indian",
+    "edad": 26,
+    "sexo": "femenino",
+    "salario": 222742,
     "estudios": "masters",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "religion": "other",
+    "casado": false,
+    "hijos": 1,
+    "voto": "democrata"
 }

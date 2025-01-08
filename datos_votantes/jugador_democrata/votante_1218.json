@@ -1,14 +1,14 @@
 {
     "id": 1218,
-    "fecha_voto": "2024-07-14",
-    "estado": "Indiana",
-    "etnia": "asian",
-    "edad": 43,
+    "fecha_voto": "2024-07-24",
+    "estado": "Arkansas",
+    "etnia": "indian",
+    "edad": 33,
     "sexo": "femenino",
-    "salario": 186883,
-    "estudios": "graduate",
-    "religion": "islam",
+    "salario": 70673,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

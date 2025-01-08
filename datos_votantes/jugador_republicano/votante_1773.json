@@ -1,14 +1,14 @@
 {
     "id": 1773,
     "fecha_voto": "2024-11-05",
-    "estado": "New Hampshire",
-    "etnia": "illegal",
-    "edad": 73,
-    "sexo": "femenino",
-    "salario": 165734,
-    "estudios": "doctor",
+    "estado": "Utah",
+    "etnia": "hispanic",
+    "edad": 92,
+    "sexo": "masculino",
+    "salario": 205389,
+    "estudios": "high school",
     "religion": "judaism",
     "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 449,
-    "fecha_voto": "2024-02-28",
-    "estado": "Indiana",
+    "fecha_voto": "2024-02-24",
+    "estado": "Connecticut",
     "etnia": "asian",
-    "edad": 89,
+    "edad": 33,
     "sexo": "femenino",
-    "salario": 109839,
+    "salario": 32630,
     "estudios": "masters",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 5,
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

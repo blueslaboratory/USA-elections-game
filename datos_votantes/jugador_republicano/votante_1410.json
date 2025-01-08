@@ -1,14 +1,14 @@
 {
     "id": 1410,
-    "fecha_voto": "2024-08-23",
-    "estado": "Florida",
-    "etnia": "white",
-    "edad": 96,
-    "sexo": "masculino",
-    "salario": 213609,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "fecha_voto": "2024-09-11",
+    "estado": "Indiana",
+    "etnia": "indian",
+    "edad": 26,
+    "sexo": "femenino",
+    "salario": 80046,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

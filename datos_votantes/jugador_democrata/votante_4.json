@@ -1,14 +1,14 @@
 {
     "id": 4,
-    "fecha_voto": "2024-01-17",
-    "estado": "Maryland",
-    "etnia": "white",
-    "edad": 56,
-    "sexo": "n",
-    "salario": 338522,
-    "estudios": "doctor",
-    "religion": "islam",
+    "fecha_voto": "2024-01-03",
+    "estado": "North Carolina",
+    "etnia": "black",
+    "edad": 75,
+    "sexo": "femenino",
+    "salario": 173937,
+    "estudios": "graduate",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 5,
     "voto": "democrata"
 }

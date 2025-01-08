@@ -1,14 +1,14 @@
 {
     "id": 116,
-    "fecha_voto": "2024-02-10",
-    "estado": "Mississippi",
-    "etnia": "indian",
-    "edad": 50,
-    "sexo": "a",
-    "salario": 360772,
-    "estudios": "high school",
-    "religion": "christianism",
+    "fecha_voto": "2024-01-04",
+    "estado": "North Dakota",
+    "etnia": "black",
+    "edad": 80,
+    "sexo": "masculino",
+    "salario": 74513,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "republicano"
 }

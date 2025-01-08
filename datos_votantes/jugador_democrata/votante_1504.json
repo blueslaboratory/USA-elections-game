@@ -1,14 +1,14 @@
 {
     "id": 1504,
-    "fecha_voto": "2024-10-06",
-    "estado": "Pennsylvania",
-    "etnia": "indian",
-    "edad": 24,
-    "sexo": "femenino",
-    "salario": 131556,
-    "estudios": "high school",
-    "religion": "hinduism",
+    "fecha_voto": "2024-10-27",
+    "estado": "Idaho",
+    "etnia": "hispanic",
+    "edad": 38,
+    "sexo": "masculino",
+    "salario": 183156,
+    "estudios": "masters",
+    "religion": "other",
     "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

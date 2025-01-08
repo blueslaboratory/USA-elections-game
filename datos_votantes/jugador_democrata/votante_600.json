@@ -1,14 +1,14 @@
 {
     "id": 600,
-    "fecha_voto": "2024-04-26",
-    "estado": "North Dakota",
-    "etnia": "illegal",
-    "edad": 40,
-    "sexo": "femenino",
-    "salario": 156141,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
+    "fecha_voto": "2024-04-24",
+    "estado": "Delaware",
+    "etnia": "indian",
+    "edad": 68,
+    "sexo": "masculino",
+    "salario": 87357,
+    "estudios": "doctor",
+    "religion": "judaism",
+    "casado": false,
     "hijos": 4,
-    "voto": "republicano"
+    "voto": "democrata"
 }

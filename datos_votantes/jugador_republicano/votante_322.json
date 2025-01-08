@@ -1,14 +1,14 @@
 {
     "id": 322,
-    "fecha_voto": "2024-03-13",
-    "estado": "South Dakota",
-    "etnia": "white",
-    "edad": 59,
+    "fecha_voto": "2024-03-05",
+    "estado": "Missouri",
+    "etnia": "indian",
+    "edad": 30,
     "sexo": "femenino",
-    "salario": 195159,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "salario": 89424,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 4,
     "voto": "democrata"
 }

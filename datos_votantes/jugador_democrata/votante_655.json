@@ -1,14 +1,14 @@
 {
     "id": 655,
-    "fecha_voto": "2024-04-13",
-    "estado": "Washington",
-    "etnia": "illegal",
-    "edad": 64,
-    "sexo": "femenino",
-    "salario": 191296,
-    "estudios": "graduate",
+    "fecha_voto": "2024-04-18",
+    "estado": "Kentucky",
+    "etnia": "black",
+    "edad": 67,
+    "sexo": "masculino",
+    "salario": 183781,
+    "estudios": "masters",
     "religion": "other",
     "casado": false,
-    "hijos": 5,
+    "hijos": 1,
     "voto": "democrata"
 }

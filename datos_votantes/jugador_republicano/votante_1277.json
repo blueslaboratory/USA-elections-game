@@ -1,14 +1,14 @@
 {
     "id": 1277,
-    "fecha_voto": "2024-08-31",
-    "estado": "Arkansas",
-    "etnia": "illegal",
-    "edad": 39,
+    "fecha_voto": "2024-09-09",
+    "estado": "New Hampshire",
+    "etnia": "white",
+    "edad": 32,
     "sexo": "masculino",
-    "salario": 77597,
-    "estudios": "graduate",
+    "salario": 87745,
+    "estudios": "undergraduate",
     "religion": "atheism",
-    "casado": false,
-    "hijos": 3,
+    "casado": true,
+    "hijos": 0,
     "voto": "republicano"
 }

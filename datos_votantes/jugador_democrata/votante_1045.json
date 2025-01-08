@@ -1,14 +1,14 @@
 {
     "id": 1045,
-    "fecha_voto": "2024-07-15",
-    "estado": "Hawaii",
-    "etnia": "white",
-    "edad": 41,
+    "fecha_voto": "2024-07-01",
+    "estado": "Alaska",
+    "etnia": "indian",
+    "edad": 27,
     "sexo": "femenino",
-    "salario": 149360,
+    "salario": 34153,
     "estudios": "doctor",
-    "religion": "christianism",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "democrata"
 }

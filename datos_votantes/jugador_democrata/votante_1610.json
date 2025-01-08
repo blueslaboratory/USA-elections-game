@@ -1,14 +1,14 @@
 {
     "id": 1610,
-    "fecha_voto": "2024-09-21",
-    "estado": "North Dakota",
-    "etnia": "asian",
-    "edad": 26,
+    "fecha_voto": "2024-10-23",
+    "estado": "New Hampshire",
+    "etnia": "hispanic",
+    "edad": 36,
     "sexo": "femenino",
-    "salario": 66252,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
+    "salario": 180439,
+    "estudios": "graduate",
+    "religion": "other",
+    "casado": true,
     "hijos": 3,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1957,
-    "fecha_voto": "2024-11-04",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-11-05",
+    "estado": "Hawaii",
     "etnia": "indian",
-    "edad": 19,
+    "edad": 80,
     "sexo": "masculino",
-    "salario": 220873,
+    "salario": 249796,
     "estudios": "high school",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 1,
+    "religion": "other",
+    "casado": true,
+    "hijos": 2,
     "voto": "republicano"
 }

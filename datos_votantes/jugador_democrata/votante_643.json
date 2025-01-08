@@ -1,14 +1,14 @@
 {
     "id": 643,
-    "fecha_voto": "2024-05-06",
-    "estado": "Ohio",
-    "etnia": "illegal",
-    "edad": 48,
+    "fecha_voto": "2024-04-30",
+    "estado": "Virginia",
+    "etnia": "white",
+    "edad": 31,
     "sexo": "femenino",
-    "salario": 237924,
-    "estudios": "high school",
-    "religion": "other",
+    "salario": 79140,
+    "estudios": "doctor",
+    "religion": "islam",
     "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

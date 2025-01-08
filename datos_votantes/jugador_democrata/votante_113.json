@@ -1,14 +1,14 @@
 {
     "id": 113,
-    "fecha_voto": "2024-02-10",
-    "estado": "Massachusetts",
-    "etnia": "hispanic",
-    "edad": 77,
-    "sexo": "s",
-    "salario": 122463,
-    "estudios": "high school",
-    "religion": "islam",
-    "casado": true,
+    "fecha_voto": "2024-01-23",
+    "estado": "Montana",
+    "etnia": "black",
+    "edad": 57,
+    "sexo": "masculino",
+    "salario": 89075,
+    "estudios": "undergraduate",
+    "religion": "atheism",
+    "casado": false,
     "hijos": 0,
     "voto": "republicano"
 }

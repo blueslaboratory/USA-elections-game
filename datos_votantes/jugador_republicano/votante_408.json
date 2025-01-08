@@ -1,14 +1,14 @@
 {
     "id": 408,
-    "fecha_voto": "2024-02-22",
-    "estado": "Alabama",
-    "etnia": "white",
-    "edad": 20,
-    "sexo": "masculino",
-    "salario": 181135,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": false,
+    "fecha_voto": "2024-03-06",
+    "estado": "New York",
+    "etnia": "illegal",
+    "edad": 12,
+    "sexo": "femenino",
+    "salario": 42360,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": true,
     "hijos": 5,
-    "voto": "republicano"
+    "voto": "democrata"
 }

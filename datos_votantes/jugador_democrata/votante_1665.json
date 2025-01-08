@@ -1,14 +1,14 @@
 {
     "id": 1665,
-    "fecha_voto": "2024-10-08",
-    "estado": "New Hampshire",
-    "etnia": "asian",
-    "edad": 27,
+    "fecha_voto": "2024-09-21",
+    "estado": "Hawaii",
+    "etnia": "hispanic",
+    "edad": 80,
     "sexo": "femenino",
-    "salario": 56097,
-    "estudios": "undergraduate",
-    "religion": "other",
-    "casado": false,
-    "hijos": 3,
+    "salario": 201951,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

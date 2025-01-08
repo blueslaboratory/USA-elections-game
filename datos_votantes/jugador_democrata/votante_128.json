@@ -1,14 +1,14 @@
 {
     "id": 128,
-    "fecha_voto": "2024-01-20",
-    "estado": "California",
-    "etnia": "indian",
-    "edad": 28,
-    "sexo": "c",
-    "salario": 133830,
-    "estudios": "masters",
-    "religion": "other",
+    "fecha_voto": "2024-02-03",
+    "estado": "Virginia",
+    "etnia": "black",
+    "edad": 92,
+    "sexo": "femenino",
+    "salario": 219215,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "democrata"
 }

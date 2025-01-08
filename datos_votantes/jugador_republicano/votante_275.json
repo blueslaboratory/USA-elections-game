@@ -1,14 +1,14 @@
 {
     "id": 275,
-    "fecha_voto": "2024-03-12",
-    "estado": "Texas",
+    "fecha_voto": "2024-03-19",
+    "estado": "Rhode Island",
     "etnia": "white",
-    "edad": 47,
-    "sexo": "femenino",
-    "salario": 237719,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 4,
+    "edad": 15,
+    "sexo": "masculino",
+    "salario": 224177,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 0,
     "voto": "republicano"
 }

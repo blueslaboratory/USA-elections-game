@@ -1,14 +1,14 @@
 {
     "id": 1226,
-    "fecha_voto": "2024-07-19",
-    "estado": "Tennessee",
-    "etnia": "asian",
-    "edad": 44,
+    "fecha_voto": "2024-07-24",
+    "estado": "Michigan",
+    "etnia": "white",
+    "edad": 49,
     "sexo": "femenino",
-    "salario": 189960,
-    "estudios": "masters",
-    "religion": "other",
+    "salario": 160957,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 5,
+    "hijos": 0,
     "voto": "republicano"
 }

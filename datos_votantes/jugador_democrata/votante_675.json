@@ -1,14 +1,14 @@
 {
     "id": 675,
-    "fecha_voto": "2024-05-04",
-    "estado": "Pennsylvania",
-    "etnia": "hispanic",
-    "edad": 34,
+    "fecha_voto": "2024-04-11",
+    "estado": "Utah",
+    "etnia": "illegal",
+    "edad": 39,
     "sexo": "femenino",
-    "salario": 175561,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 0,
+    "salario": 100228,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
     "voto": "democrata"
 }

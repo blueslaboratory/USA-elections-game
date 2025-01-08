@@ -1,14 +1,14 @@
 {
     "id": 685,
-    "fecha_voto": "2024-03-31",
-    "estado": "Idaho",
+    "fecha_voto": "2024-04-27",
+    "estado": "Maryland",
     "etnia": "hispanic",
-    "edad": 34,
+    "edad": 71,
     "sexo": "masculino",
-    "salario": 186922,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
+    "salario": 108217,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": false,
     "hijos": 3,
     "voto": "democrata"
 }

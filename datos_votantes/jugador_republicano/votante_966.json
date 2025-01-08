@@ -1,14 +1,14 @@
 {
     "id": 966,
-    "fecha_voto": "2024-05-21",
-    "estado": "Connecticut",
-    "etnia": "asian",
-    "edad": 46,
-    "sexo": "masculino",
-    "salario": 118574,
+    "fecha_voto": "2024-06-06",
+    "estado": "California",
+    "etnia": "white",
+    "edad": 24,
+    "sexo": "femenino",
+    "salario": 234213,
     "estudios": "masters",
     "religion": "other",
     "casado": false,
-    "hijos": 5,
+    "hijos": 1,
     "voto": "democrata"
 }

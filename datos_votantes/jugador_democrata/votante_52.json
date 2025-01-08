@@ -1,14 +1,14 @@
 {
     "id": 52,
-    "fecha_voto": "2024-01-26",
-    "estado": "Ohio",
-    "etnia": "white",
-    "edad": 49,
-    "sexo": "a",
-    "salario": 270719,
-    "estudios": "doctor",
-    "religion": "other",
+    "fecha_voto": "2024-01-13",
+    "estado": "South Carolina",
+    "etnia": "illegal",
+    "edad": 82,
+    "sexo": "masculino",
+    "salario": 57287,
+    "estudios": "high school",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 1,
+    "hijos": 5,
     "voto": "republicano"
 }

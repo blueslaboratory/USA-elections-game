@@ -1,14 +1,14 @@
 {
     "id": 1230,
-    "fecha_voto": "2024-08-02",
-    "estado": "Wisconsin",
-    "etnia": "black",
+    "fecha_voto": "2024-07-04",
+    "estado": "Maryland",
+    "etnia": "illegal",
     "edad": 34,
-    "sexo": "masculino",
-    "salario": 95259,
-    "estudios": "graduate",
-    "religion": "hinduism",
+    "sexo": "femenino",
+    "salario": 174742,
+    "estudios": "doctor",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 0,
+    "hijos": 2,
     "voto": "democrata"
 }

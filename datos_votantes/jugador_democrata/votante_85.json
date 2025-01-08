@@ -1,14 +1,14 @@
 {
     "id": 85,
-    "fecha_voto": "2024-01-28",
-    "estado": "Vermont",
-    "etnia": "illegal",
-    "edad": 51,
-    "sexo": "l",
-    "salario": 189234,
-    "estudios": "high school",
+    "fecha_voto": "2024-01-03",
+    "estado": "South Carolina",
+    "etnia": "hispanic",
+    "edad": 65,
+    "sexo": "femenino",
+    "salario": 62680,
+    "estudios": "graduate",
     "religion": "hinduism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

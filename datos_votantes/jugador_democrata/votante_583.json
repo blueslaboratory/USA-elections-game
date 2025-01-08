@@ -1,14 +1,14 @@
 {
     "id": 583,
-    "fecha_voto": "2024-05-08",
-    "estado": "South Carolina",
-    "etnia": "hispanic",
-    "edad": 80,
-    "sexo": "femenino",
-    "salario": 106156,
-    "estudios": "doctor",
+    "fecha_voto": "2024-04-17",
+    "estado": "Alaska",
+    "etnia": "asian",
+    "edad": 90,
+    "sexo": "masculino",
+    "salario": 220020,
+    "estudios": "graduate",
     "religion": "other",
-    "casado": false,
+    "casado": true,
     "hijos": 0,
     "voto": "republicano"
 }

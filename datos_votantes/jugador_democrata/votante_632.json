@@ -1,14 +1,14 @@
 {
     "id": 632,
-    "fecha_voto": "2024-04-06",
-    "estado": "South Dakota",
-    "etnia": "illegal",
-    "edad": 32,
+    "fecha_voto": "2024-03-29",
+    "estado": "Washington",
+    "etnia": "hispanic",
+    "edad": 83,
     "sexo": "femenino",
-    "salario": 51363,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 5,
+    "salario": 225433,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 3,
     "voto": "democrata"
 }

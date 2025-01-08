@@ -1,14 +1,14 @@
 {
     "id": 228,
-    "fecha_voto": "2024-01-23",
-    "estado": "Utah",
+    "fecha_voto": "2024-01-24",
+    "estado": "Maine",
     "etnia": "white",
-    "edad": 24,
-    "sexo": "l",
-    "salario": 323511,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 1,
+    "edad": 81,
+    "sexo": "masculino",
+    "salario": 74460,
+    "estudios": "graduate",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 5,
     "voto": "republicano"
 }

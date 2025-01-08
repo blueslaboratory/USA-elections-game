@@ -1,14 +1,14 @@
 {
     "id": 874,
-    "fecha_voto": "2024-05-27",
-    "estado": "West Virginia",
-    "etnia": "indian",
-    "edad": 46,
-    "sexo": "masculino",
-    "salario": 169735,
+    "fecha_voto": "2024-06-13",
+    "estado": "Maine",
+    "etnia": "hispanic",
+    "edad": 34,
+    "sexo": "femenino",
+    "salario": 117421,
     "estudios": "high school",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "religion": "other",
+    "casado": true,
+    "hijos": 2,
+    "voto": "democrata"
 }

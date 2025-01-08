@@ -1,14 +1,14 @@
 {
     "id": 200,
-    "fecha_voto": "2024-02-03",
-    "estado": "Kansas",
-    "etnia": "indian",
-    "edad": 48,
-    "sexo": "l",
-    "salario": 368511,
-    "estudios": "graduate",
-    "religion": "hinduism",
+    "fecha_voto": "2024-01-25",
+    "estado": "Oklahoma",
+    "etnia": "black",
+    "edad": 74,
+    "sexo": "femenino",
+    "salario": 133309,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

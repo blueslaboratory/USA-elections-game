@@ -1,14 +1,14 @@
 {
     "id": 351,
-    "fecha_voto": "2024-03-06",
-    "estado": "Oklahoma",
-    "etnia": "indian",
-    "edad": 26,
+    "fecha_voto": "2024-03-19",
+    "estado": "Kansas",
+    "etnia": "hispanic",
+    "edad": 35,
     "sexo": "masculino",
-    "salario": 47653,
-    "estudios": "undergraduate",
+    "salario": 194927,
+    "estudios": "masters",
     "religion": "judaism",
-    "casado": true,
-    "hijos": 2,
+    "casado": false,
+    "hijos": 0,
     "voto": "republicano"
 }

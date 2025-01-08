@@ -1,14 +1,14 @@
 {
     "id": 450,
-    "fecha_voto": "2024-03-20",
-    "estado": "Nevada",
+    "fecha_voto": "2024-02-17",
+    "estado": "New Hampshire",
     "etnia": "black",
-    "edad": 94,
+    "edad": 47,
     "sexo": "masculino",
-    "salario": 130068,
+    "salario": 198484,
     "estudios": "high school",
-    "religion": "judaism",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 3,
+    "hijos": 5,
     "voto": "republicano"
 }

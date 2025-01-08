@@ -1,14 +1,14 @@
 {
     "id": 1903,
     "fecha_voto": "2024-11-05",
-    "estado": "Minnesota",
-    "etnia": "black",
-    "edad": 50,
+    "estado": "Indiana",
+    "etnia": "white",
+    "edad": 67,
     "sexo": "masculino",
-    "salario": 73154,
+    "salario": 56402,
     "estudios": "doctor",
-    "religion": "hinduism",
+    "religion": "islam",
     "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

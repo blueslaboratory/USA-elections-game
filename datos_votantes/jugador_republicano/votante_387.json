@@ -1,14 +1,14 @@
 {
     "id": 387,
-    "fecha_voto": "2024-03-26",
-    "estado": "Maine",
-    "etnia": "asian",
-    "edad": 55,
-    "sexo": "femenino",
-    "salario": 142088,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "fecha_voto": "2024-02-17",
+    "estado": "Minnesota",
+    "etnia": "illegal",
+    "edad": 39,
+    "sexo": "masculino",
+    "salario": 88133,
+    "estudios": "doctor",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

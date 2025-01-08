@@ -1,14 +1,14 @@
 {
     "id": 1156,
-    "fecha_voto": "2024-07-04",
-    "estado": "Montana",
-    "etnia": "white",
-    "edad": 34,
+    "fecha_voto": "2024-07-08",
+    "estado": "Minnesota",
+    "etnia": "indian",
+    "edad": 19,
     "sexo": "femenino",
-    "salario": 64949,
+    "salario": 203195,
     "estudios": "high school",
-    "religion": "atheism",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

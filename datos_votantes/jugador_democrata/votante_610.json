@@ -1,14 +1,14 @@
 {
     "id": 610,
-    "fecha_voto": "2024-04-04",
-    "estado": "Oklahoma",
-    "etnia": "hispanic",
-    "edad": 26,
+    "fecha_voto": "2024-04-03",
+    "estado": "Alabama",
+    "etnia": "asian",
+    "edad": 92,
     "sexo": "femenino",
-    "salario": 163681,
-    "estudios": "high school",
-    "religion": "hinduism",
+    "salario": 150568,
+    "estudios": "graduate",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "republicano"
 }

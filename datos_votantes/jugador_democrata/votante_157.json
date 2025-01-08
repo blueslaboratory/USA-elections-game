@@ -1,14 +1,14 @@
 {
     "id": 157,
-    "fecha_voto": "2024-02-09",
-    "estado": "Arizona",
+    "fecha_voto": "2024-01-17",
+    "estado": "Indiana",
     "etnia": "black",
-    "edad": 54,
-    "sexo": "s",
-    "salario": 164639,
-    "estudios": "doctor",
-    "religion": "hinduism",
+    "edad": 39,
+    "sexo": "femenino",
+    "salario": 62314,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 4,
+    "hijos": 1,
     "voto": "democrata"
 }

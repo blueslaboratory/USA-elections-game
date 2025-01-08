@@ -1,14 +1,14 @@
 {
     "id": 764,
-    "fecha_voto": "2024-06-24",
-    "estado": "Maine",
+    "fecha_voto": "2024-05-24",
+    "estado": "Wisconsin",
     "etnia": "white",
-    "edad": 27,
-    "sexo": "masculino",
-    "salario": 73633,
+    "edad": 93,
+    "sexo": "femenino",
+    "salario": 72359,
     "estudios": "graduate",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 1,
+    "religion": "other",
+    "casado": false,
+    "hijos": 0,
     "voto": "republicano"
 }

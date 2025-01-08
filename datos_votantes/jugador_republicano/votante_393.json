@@ -1,14 +1,14 @@
 {
     "id": 393,
-    "fecha_voto": "2024-02-18",
-    "estado": "Arizona",
-    "etnia": "white",
-    "edad": 97,
+    "fecha_voto": "2024-03-06",
+    "estado": "Nevada",
+    "etnia": "hispanic",
+    "edad": 13,
     "sexo": "femenino",
-    "salario": 33547,
-    "estudios": "high school",
-    "religion": "christianism",
+    "salario": 239567,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 641,
-    "fecha_voto": "2024-04-10",
+    "fecha_voto": "2024-05-07",
     "estado": "Wyoming",
-    "etnia": "hispanic",
-    "edad": 27,
+    "etnia": "black",
+    "edad": 66,
     "sexo": "femenino",
-    "salario": 135550,
+    "salario": 169054,
     "estudios": "doctor",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 3,
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

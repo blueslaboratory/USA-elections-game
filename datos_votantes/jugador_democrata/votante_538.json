@@ -1,14 +1,14 @@
 {
     "id": 538,
-    "fecha_voto": "2024-04-14",
-    "estado": "New Mexico",
+    "fecha_voto": "2024-04-23",
+    "estado": "Louisiana",
     "etnia": "hispanic",
-    "edad": 61,
-    "sexo": "femenino",
-    "salario": 165630,
-    "estudios": "masters",
+    "edad": 60,
+    "sexo": "masculino",
+    "salario": 128488,
+    "estudios": "graduate",
     "religion": "hinduism",
     "casado": true,
     "hijos": 5,
-    "voto": "democrata"
+    "voto": "republicano"
 }

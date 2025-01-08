@@ -1,14 +1,14 @@
 {
     "id": 43,
-    "fecha_voto": "2024-01-03",
-    "estado": "New Mexico",
+    "fecha_voto": "2024-02-07",
+    "estado": "Tennessee",
     "etnia": "illegal",
-    "edad": 59,
-    "sexo": "u",
-    "salario": 171819,
-    "estudios": "doctor",
-    "religion": "christianism",
+    "edad": 63,
+    "sexo": "masculino",
+    "salario": 137556,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

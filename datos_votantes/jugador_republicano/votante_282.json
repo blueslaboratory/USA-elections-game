@@ -1,14 +1,14 @@
 {
     "id": 282,
-    "fecha_voto": "2024-03-12",
-    "estado": "North Carolina",
-    "etnia": "white",
-    "edad": 94,
+    "fecha_voto": "2024-03-05",
+    "estado": "Alaska",
+    "etnia": "asian",
+    "edad": 10,
     "sexo": "masculino",
-    "salario": 110933,
-    "estudios": "masters",
-    "religion": "islam",
-    "casado": false,
+    "salario": 85215,
+    "estudios": "doctor",
+    "religion": "judaism",
+    "casado": true,
     "hijos": 2,
-    "voto": "republicano"
+    "voto": "democrata"
 }

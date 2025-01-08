@@ -1,14 +1,14 @@
 {
     "id": 1849,
     "fecha_voto": "2024-11-05",
-    "estado": "Iowa",
-    "etnia": "asian",
-    "edad": 21,
+    "estado": "North Carolina",
+    "etnia": "hispanic",
+    "edad": 90,
     "sexo": "masculino",
-    "salario": 201295,
+    "salario": 74631,
     "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
 }

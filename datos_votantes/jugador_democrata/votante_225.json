@@ -1,14 +1,14 @@
 {
     "id": 225,
-    "fecha_voto": "2024-02-02",
-    "estado": "Georgia",
-    "etnia": "black",
-    "edad": 84,
-    "sexo": "u",
-    "salario": 307688,
-    "estudios": "undergraduate",
-    "religion": "judaism",
+    "fecha_voto": "2024-02-04",
+    "estado": "Pennsylvania",
+    "etnia": "illegal",
+    "edad": 64,
+    "sexo": "masculino",
+    "salario": 123037,
+    "estudios": "graduate",
+    "religion": "islam",
     "casado": false,
     "hijos": 5,
-    "voto": "democrata"
+    "voto": "republicano"
 }

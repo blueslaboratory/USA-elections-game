@@ -1,14 +1,14 @@
 {
     "id": 1395,
-    "fecha_voto": "2024-09-15",
-    "estado": "Colorado",
-    "etnia": "white",
-    "edad": 78,
+    "fecha_voto": "2024-08-15",
+    "estado": "Alabama",
+    "etnia": "asian",
+    "edad": 89,
     "sexo": "femenino",
-    "salario": 55901,
-    "estudios": "high school",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 2,
+    "salario": 240342,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 1,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1381,
-    "fecha_voto": "2024-08-26",
-    "estado": "Missouri",
-    "etnia": "illegal",
-    "edad": 40,
-    "sexo": "femenino",
-    "salario": 232227,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "fecha_voto": "2024-08-30",
+    "estado": "Idaho",
+    "etnia": "asian",
+    "edad": 25,
+    "sexo": "masculino",
+    "salario": 177677,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
 }

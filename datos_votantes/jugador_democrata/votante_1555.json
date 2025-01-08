@@ -1,14 +1,14 @@
 {
     "id": 1555,
-    "fecha_voto": "2024-10-11",
-    "estado": "Ohio",
-    "etnia": "asian",
-    "edad": 30,
+    "fecha_voto": "2024-10-12",
+    "estado": "Pennsylvania",
+    "etnia": "hispanic",
+    "edad": 82,
     "sexo": "femenino",
-    "salario": 145860,
+    "salario": 180693,
     "estudios": "graduate",
-    "religion": "other",
-    "casado": false,
+    "religion": "christianism",
+    "casado": true,
     "hijos": 1,
-    "voto": "democrata"
+    "voto": "republicano"
 }

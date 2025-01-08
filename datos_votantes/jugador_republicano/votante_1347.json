@@ -1,14 +1,14 @@
 {
     "id": 1347,
-    "fecha_voto": "2024-09-04",
-    "estado": "Alaska",
-    "etnia": "white",
-    "edad": 25,
+    "fecha_voto": "2024-08-17",
+    "estado": "New Mexico",
+    "etnia": "black",
+    "edad": 82,
     "sexo": "masculino",
-    "salario": 178956,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "salario": 80646,
+    "estudios": "graduate",
+    "religion": "hinduism",
     "casado": false,
     "hijos": 1,
-    "voto": "democrata"
+    "voto": "republicano"
 }

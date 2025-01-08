@@ -1,14 +1,14 @@
 {
     "id": 1111,
-    "fecha_voto": "2024-07-13",
-    "estado": "Nebraska",
-    "etnia": "black",
-    "edad": 44,
+    "fecha_voto": "2024-07-29",
+    "estado": "New Mexico",
+    "etnia": "white",
+    "edad": 37,
     "sexo": "femenino",
-    "salario": 126207,
-    "estudios": "undergraduate",
-    "religion": "islam",
+    "salario": 178093,
+    "estudios": "graduate",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

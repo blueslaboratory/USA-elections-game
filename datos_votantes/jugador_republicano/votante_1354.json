@@ -1,14 +1,14 @@
 {
     "id": 1354,
-    "fecha_voto": "2024-09-02",
+    "fecha_voto": "2024-08-15",
     "estado": "Alabama",
-    "etnia": "indian",
-    "edad": 82,
+    "etnia": "white",
+    "edad": 67,
     "sexo": "masculino",
-    "salario": 59857,
+    "salario": 163477,
     "estudios": "doctor",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 2,
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 824,
-    "fecha_voto": "2024-06-23",
-    "estado": "Washington",
-    "etnia": "black",
-    "edad": 40,
-    "sexo": "masculino",
-    "salario": 150823,
+    "fecha_voto": "2024-05-22",
+    "estado": "Louisiana",
+    "etnia": "hispanic",
+    "edad": 38,
+    "sexo": "femenino",
+    "salario": 61131,
     "estudios": "masters",
     "religion": "christianism",
     "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1650,
-    "fecha_voto": "2024-10-22",
+    "fecha_voto": "2024-10-24",
     "estado": "Illinois",
-    "etnia": "white",
-    "edad": 25,
-    "sexo": "femenino",
-    "salario": 139087,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 2,
+    "etnia": "hispanic",
+    "edad": 18,
+    "sexo": "masculino",
+    "salario": 171263,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

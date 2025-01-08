@@ -1,14 +1,14 @@
 {
     "id": 1124,
-    "fecha_voto": "2024-07-29",
-    "estado": "Idaho",
-    "etnia": "asian",
+    "fecha_voto": "2024-07-06",
+    "estado": "New Jersey",
+    "etnia": "illegal",
     "edad": 26,
-    "sexo": "masculino",
-    "salario": 90576,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "sexo": "femenino",
+    "salario": 232157,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

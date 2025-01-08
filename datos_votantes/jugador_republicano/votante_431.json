@@ -1,14 +1,14 @@
 {
     "id": 431,
-    "fecha_voto": "2024-02-23",
-    "estado": "Indiana",
-    "etnia": "white",
-    "edad": 22,
-    "sexo": "femenino",
-    "salario": 86814,
-    "estudios": "high school",
+    "fecha_voto": "2024-03-22",
+    "estado": "Delaware",
+    "etnia": "asian",
+    "edad": 12,
+    "sexo": "masculino",
+    "salario": 198148,
+    "estudios": "masters",
     "religion": "other",
     "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

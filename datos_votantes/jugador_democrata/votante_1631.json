@@ -1,14 +1,14 @@
 {
     "id": 1631,
-    "fecha_voto": "2024-09-22",
-    "estado": "Vermont",
-    "etnia": "white",
-    "edad": 24,
-    "sexo": "femenino",
-    "salario": 201335,
-    "estudios": "masters",
-    "religion": "hinduism",
+    "fecha_voto": "2024-09-27",
+    "estado": "Illinois",
+    "etnia": "hispanic",
+    "edad": 23,
+    "sexo": "masculino",
+    "salario": 147623,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 5,
     "voto": "democrata"
 }

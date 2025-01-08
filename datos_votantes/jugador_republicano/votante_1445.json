@@ -1,14 +1,14 @@
 {
     "id": 1445,
-    "fecha_voto": "2024-08-31",
-    "estado": "Missouri",
-    "etnia": "black",
-    "edad": 68,
+    "fecha_voto": "2024-09-18",
+    "estado": "New Hampshire",
+    "etnia": "white",
+    "edad": 45,
     "sexo": "masculino",
-    "salario": 240431,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "salario": 82764,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": true,
+    "hijos": 5,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 526,
-    "fecha_voto": "2024-04-02",
-    "estado": "Wisconsin",
-    "etnia": "illegal",
-    "edad": 30,
+    "fecha_voto": "2024-04-25",
+    "estado": "Alaska",
+    "etnia": "hispanic",
+    "edad": 98,
     "sexo": "masculino",
-    "salario": 230097,
-    "estudios": "graduate",
-    "religion": "atheism",
+    "salario": 233882,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

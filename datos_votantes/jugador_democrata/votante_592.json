@@ -1,14 +1,14 @@
 {
     "id": 592,
-    "fecha_voto": "2024-04-08",
-    "estado": "California",
+    "fecha_voto": "2024-04-16",
+    "estado": "Maine",
     "etnia": "hispanic",
-    "edad": 60,
-    "sexo": "masculino",
-    "salario": 38371,
-    "estudios": "masters",
+    "edad": 31,
+    "sexo": "femenino",
+    "salario": 41960,
+    "estudios": "doctor",
     "religion": "christianism",
-    "casado": true,
-    "hijos": 5,
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

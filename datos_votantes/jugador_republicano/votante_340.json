@@ -1,14 +1,14 @@
 {
     "id": 340,
-    "fecha_voto": "2024-03-01",
-    "estado": "West Virginia",
+    "fecha_voto": "2024-03-20",
+    "estado": "Rhode Island",
     "etnia": "illegal",
-    "edad": 40,
+    "edad": 51,
     "sexo": "femenino",
-    "salario": 98308,
+    "salario": 49650,
     "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 2,
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

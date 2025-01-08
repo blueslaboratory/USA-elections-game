@@ -1,14 +1,14 @@
 {
     "id": 332,
-    "fecha_voto": "2024-02-15",
-    "estado": "Ohio",
-    "etnia": "illegal",
-    "edad": 79,
+    "fecha_voto": "2024-02-27",
+    "estado": "Vermont",
+    "etnia": "asian",
+    "edad": 49,
     "sexo": "masculino",
-    "salario": 93040,
+    "salario": 127581,
     "estudios": "undergraduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 3,
+    "religion": "islam",
+    "casado": false,
+    "hijos": 2,
     "voto": "republicano"
 }

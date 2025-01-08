@@ -1,14 +1,14 @@
 {
     "id": 1479,
-    "fecha_voto": "2024-09-14",
-    "estado": "North Carolina",
-    "etnia": "hispanic",
-    "edad": 69,
-    "sexo": "masculino",
-    "salario": 110201,
-    "estudios": "masters",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "fecha_voto": "2024-08-26",
+    "estado": "Utah",
+    "etnia": "indian",
+    "edad": 60,
+    "sexo": "femenino",
+    "salario": 74549,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 1,
+    "voto": "democrata"
 }

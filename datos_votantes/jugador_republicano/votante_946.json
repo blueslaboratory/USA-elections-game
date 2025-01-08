@@ -1,14 +1,14 @@
 {
     "id": 946,
-    "fecha_voto": "2024-06-21",
-    "estado": "Alabama",
-    "etnia": "black",
-    "edad": 24,
-    "sexo": "masculino",
-    "salario": 140482,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
+    "fecha_voto": "2024-06-10",
+    "estado": "West Virginia",
+    "etnia": "white",
+    "edad": 67,
+    "sexo": "femenino",
+    "salario": 201896,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

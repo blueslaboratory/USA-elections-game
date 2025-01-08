@@ -1,14 +1,14 @@
 {
     "id": 1518,
-    "fecha_voto": "2024-10-03",
-    "estado": "Arkansas",
-    "etnia": "illegal",
-    "edad": 32,
-    "sexo": "femenino",
-    "salario": 141468,
-    "estudios": "masters",
-    "religion": "other",
-    "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "fecha_voto": "2024-10-15",
+    "estado": "Washington",
+    "etnia": "hispanic",
+    "edad": 92,
+    "sexo": "masculino",
+    "salario": 188986,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "republicano"
 }

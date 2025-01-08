@@ -1,14 +1,14 @@
 {
     "id": 1465,
-    "fecha_voto": "2024-08-11",
-    "estado": "Alaska",
+    "fecha_voto": "2024-08-15",
+    "estado": "Nebraska",
     "etnia": "asian",
-    "edad": 65,
-    "sexo": "masculino",
-    "salario": 89987,
-    "estudios": "high school",
-    "religion": "judaism",
-    "casado": true,
+    "edad": 22,
+    "sexo": "femenino",
+    "salario": 193540,
+    "estudios": "graduate",
+    "religion": "atheism",
+    "casado": false,
     "hijos": 5,
-    "voto": "republicano"
+    "voto": "democrata"
 }

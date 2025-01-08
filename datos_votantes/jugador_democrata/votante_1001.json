@@ -1,14 +1,14 @@
 {
     "id": 1001,
-    "fecha_voto": "2024-07-21",
-    "estado": "North Dakota",
-    "etnia": "asian",
+    "fecha_voto": "2024-06-29",
+    "estado": "Alabama",
+    "etnia": "hispanic",
     "edad": 43,
-    "sexo": "masculino",
-    "salario": 182383,
-    "estudios": "masters",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 2,
+    "sexo": "femenino",
+    "salario": 45691,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
     "voto": "republicano"
 }

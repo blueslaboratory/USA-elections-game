@@ -1,14 +1,14 @@
 {
     "id": 652,
-    "fecha_voto": "2024-03-30",
-    "estado": "California",
-    "etnia": "illegal",
-    "edad": 29,
-    "sexo": "femenino",
-    "salario": 236762,
-    "estudios": "undergraduate",
-    "religion": "christianism",
+    "fecha_voto": "2024-04-04",
+    "estado": "Nebraska",
+    "etnia": "asian",
+    "edad": 53,
+    "sexo": "masculino",
+    "salario": 67769,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

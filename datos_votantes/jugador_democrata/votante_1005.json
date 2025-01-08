@@ -1,14 +1,14 @@
 {
     "id": 1005,
-    "fecha_voto": "2024-07-11",
-    "estado": "Massachusetts",
-    "etnia": "black",
-    "edad": 47,
-    "sexo": "masculino",
-    "salario": 33833,
-    "estudios": "masters",
+    "fecha_voto": "2024-06-29",
+    "estado": "Mississippi",
+    "etnia": "asian",
+    "edad": 46,
+    "sexo": "femenino",
+    "salario": 130830,
+    "estudios": "high school",
     "religion": "judaism",
-    "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "casado": true,
+    "hijos": 2,
+    "voto": "republicano"
 }

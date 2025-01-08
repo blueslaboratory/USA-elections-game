@@ -1,14 +1,14 @@
 {
     "id": 476,
-    "fecha_voto": "2024-03-06",
-    "estado": "New Mexico",
-    "etnia": "hispanic",
-    "edad": 66,
+    "fecha_voto": "2024-03-18",
+    "estado": "Delaware",
+    "etnia": "black",
+    "edad": 40,
     "sexo": "masculino",
-    "salario": 36961,
+    "salario": 151423,
     "estudios": "masters",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
 }

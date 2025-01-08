@@ -1,14 +1,14 @@
 {
     "id": 1463,
-    "fecha_voto": "2024-08-18",
-    "estado": "Louisiana",
-    "etnia": "asian",
-    "edad": 32,
-    "sexo": "masculino",
-    "salario": 198799,
+    "fecha_voto": "2024-08-20",
+    "estado": "Nevada",
+    "etnia": "hispanic",
+    "edad": 83,
+    "sexo": "femenino",
+    "salario": 102327,
     "estudios": "masters",
     "religion": "hinduism",
-    "casado": false,
+    "casado": true,
     "hijos": 0,
     "voto": "democrata"
 }

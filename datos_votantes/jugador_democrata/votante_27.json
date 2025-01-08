@@ -1,14 +1,14 @@
 {
     "id": 27,
-    "fecha_voto": "2024-01-20",
-    "estado": "Connecticut",
+    "fecha_voto": "2024-01-01",
+    "estado": "New Mexico",
     "etnia": "white",
-    "edad": 80,
-    "sexo": "c",
-    "salario": 391508,
-    "estudios": "graduate",
+    "edad": 88,
+    "sexo": "femenino",
+    "salario": 129401,
+    "estudios": "high school",
     "religion": "other",
     "casado": true,
-    "hijos": 5,
+    "hijos": 1,
     "voto": "republicano"
 }

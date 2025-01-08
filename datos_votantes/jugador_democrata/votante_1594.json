@@ -1,14 +1,14 @@
 {
     "id": 1594,
-    "fecha_voto": "2024-09-22",
-    "estado": "Arkansas",
-    "etnia": "indian",
-    "edad": 28,
+    "fecha_voto": "2024-10-18",
+    "estado": "Arizona",
+    "etnia": "hispanic",
+    "edad": 68,
     "sexo": "femenino",
-    "salario": 236967,
+    "salario": 201660,
     "estudios": "high school",
-    "religion": "judaism",
+    "religion": "islam",
     "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

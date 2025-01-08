@@ -1,14 +1,14 @@
 {
     "id": 270,
-    "fecha_voto": "2024-03-07",
-    "estado": "Arizona",
-    "etnia": "indian",
-    "edad": 49,
-    "sexo": "femenino",
-    "salario": 81791,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "fecha_voto": "2024-03-22",
+    "estado": "West Virginia",
+    "etnia": "illegal",
+    "edad": 46,
+    "sexo": "masculino",
+    "salario": 45271,
+    "estudios": "masters",
+    "religion": "other",
     "casado": false,
-    "hijos": 2,
+    "hijos": 5,
     "voto": "democrata"
 }

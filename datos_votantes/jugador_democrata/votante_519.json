@@ -1,14 +1,14 @@
 {
     "id": 519,
-    "fecha_voto": "2024-05-03",
-    "estado": "Hawaii",
-    "etnia": "hispanic",
-    "edad": 98,
+    "fecha_voto": "2024-04-28",
+    "estado": "Arkansas",
+    "etnia": "asian",
+    "edad": 63,
     "sexo": "masculino",
-    "salario": 229428,
-    "estudios": "high school",
-    "religion": "hinduism",
+    "salario": 49692,
+    "estudios": "doctor",
+    "religion": "islam",
     "casado": true,
-    "hijos": 2,
+    "hijos": 0,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1265,
-    "fecha_voto": "2024-09-19",
-    "estado": "Montana",
+    "fecha_voto": "2024-08-13",
+    "estado": "Colorado",
     "etnia": "indian",
-    "edad": 39,
-    "sexo": "femenino",
-    "salario": 188006,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
+    "edad": 69,
+    "sexo": "masculino",
+    "salario": 136190,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": false,
     "hijos": 3,
     "voto": "democrata"
 }

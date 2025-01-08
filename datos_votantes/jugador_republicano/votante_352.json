@@ -1,14 +1,14 @@
 {
     "id": 352,
-    "fecha_voto": "2024-02-28",
-    "estado": "Virginia",
+    "fecha_voto": "2024-02-14",
+    "estado": "Wisconsin",
     "etnia": "asian",
-    "edad": 21,
-    "sexo": "femenino",
-    "salario": 146677,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "edad": 24,
+    "sexo": "masculino",
+    "salario": 212494,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 1,
     "voto": "democrata"
 }

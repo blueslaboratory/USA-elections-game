@@ -1,14 +1,14 @@
 {
     "id": 1711,
-    "fecha_voto": "2024-10-18",
-    "estado": "Iowa",
-    "etnia": "indian",
-    "edad": 27,
-    "sexo": "femenino",
-    "salario": 66442,
-    "estudios": "graduate",
-    "religion": "other",
+    "fecha_voto": "2024-09-24",
+    "estado": "Massachusetts",
+    "etnia": "hispanic",
+    "edad": 20,
+    "sexo": "masculino",
+    "salario": 141226,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 4,
     "voto": "democrata"
 }

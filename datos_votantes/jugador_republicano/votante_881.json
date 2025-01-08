@@ -1,14 +1,14 @@
 {
     "id": 881,
-    "fecha_voto": "2024-06-15",
-    "estado": "Virginia",
+    "fecha_voto": "2024-05-28",
+    "estado": "Louisiana",
     "etnia": "hispanic",
-    "edad": 45,
+    "edad": 79,
     "sexo": "masculino",
-    "salario": 156627,
-    "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 2,
+    "salario": 188927,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
     "voto": "republicano"
 }

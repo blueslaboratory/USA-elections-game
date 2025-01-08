@@ -1,14 +1,14 @@
 {
     "id": 1671,
-    "fecha_voto": "2024-09-22",
-    "estado": "Colorado",
-    "etnia": "white",
-    "edad": 23,
+    "fecha_voto": "2024-10-19",
+    "estado": "Delaware",
+    "etnia": "hispanic",
+    "edad": 35,
     "sexo": "femenino",
-    "salario": 91388,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 3,
+    "salario": 94267,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

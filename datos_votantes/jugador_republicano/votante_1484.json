@@ -1,14 +1,14 @@
 {
     "id": 1484,
-    "fecha_voto": "2024-08-22",
-    "estado": "Virginia",
+    "fecha_voto": "2024-09-01",
+    "estado": "Ohio",
     "etnia": "hispanic",
-    "edad": 29,
-    "sexo": "femenino",
-    "salario": 59179,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": false,
-    "hijos": 2,
+    "edad": 30,
+    "sexo": "masculino",
+    "salario": 123518,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

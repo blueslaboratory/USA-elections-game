@@ -1,14 +1,14 @@
 {
     "id": 786,
-    "fecha_voto": "2024-06-16",
-    "estado": "North Carolina",
-    "etnia": "illegal",
-    "edad": 24,
+    "fecha_voto": "2024-05-13",
+    "estado": "Massachusetts",
+    "etnia": "white",
+    "edad": 63,
     "sexo": "masculino",
-    "salario": 107885,
-    "estudios": "graduate",
+    "salario": 195882,
+    "estudios": "doctor",
     "religion": "christianism",
     "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

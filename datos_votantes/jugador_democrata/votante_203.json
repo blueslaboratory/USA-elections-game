@@ -1,14 +1,14 @@
 {
     "id": 203,
-    "fecha_voto": "2024-01-24",
-    "estado": "New York",
-    "etnia": "asian",
-    "edad": 27,
-    "sexo": "m",
-    "salario": 274216,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "fecha_voto": "2024-02-02",
+    "estado": "Arizona",
+    "etnia": "illegal",
+    "edad": 64,
+    "sexo": "masculino",
+    "salario": 186984,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
 }

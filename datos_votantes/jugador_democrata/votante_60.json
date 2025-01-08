@@ -1,14 +1,14 @@
 {
     "id": 60,
-    "fecha_voto": "2024-02-03",
-    "estado": "Minnesota",
-    "etnia": "hispanic",
-    "edad": 49,
-    "sexo": "i",
-    "salario": 232685,
-    "estudios": "high school",
+    "fecha_voto": "2024-02-12",
+    "estado": "Alaska",
+    "etnia": "illegal",
+    "edad": 93,
+    "sexo": "femenino",
+    "salario": 81015,
+    "estudios": "doctor",
     "religion": "atheism",
-    "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 2,
+    "voto": "democrata"
 }

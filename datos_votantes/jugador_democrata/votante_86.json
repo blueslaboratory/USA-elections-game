@@ -1,14 +1,14 @@
 {
     "id": 86,
-    "fecha_voto": "2024-01-22",
-    "estado": "Idaho",
-    "etnia": "white",
-    "edad": 89,
-    "sexo": "c",
-    "salario": 174952,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "fecha_voto": "2024-01-05",
+    "estado": "Nebraska",
+    "etnia": "hispanic",
+    "edad": 55,
+    "sexo": "femenino",
+    "salario": 162320,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

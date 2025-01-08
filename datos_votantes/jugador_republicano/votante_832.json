@@ -1,14 +1,14 @@
 {
     "id": 832,
-    "fecha_voto": "2024-06-23",
-    "estado": "North Carolina",
-    "etnia": "indian",
-    "edad": 38,
+    "fecha_voto": "2024-05-13",
+    "estado": "Iowa",
+    "etnia": "hispanic",
+    "edad": 71,
     "sexo": "masculino",
-    "salario": 72491,
+    "salario": 231020,
     "estudios": "masters",
     "religion": "other",
     "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

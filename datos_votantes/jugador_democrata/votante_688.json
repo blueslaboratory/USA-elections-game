@@ -1,14 +1,14 @@
 {
     "id": 688,
-    "fecha_voto": "2024-04-11",
-    "estado": "Washington",
-    "etnia": "hispanic",
-    "edad": 80,
+    "fecha_voto": "2024-05-02",
+    "estado": "Louisiana",
+    "etnia": "asian",
+    "edad": 49,
     "sexo": "masculino",
-    "salario": 78570,
-    "estudios": "doctor",
-    "religion": "islam",
+    "salario": 220167,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": true,
     "hijos": 1,
-    "voto": "democrata"
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1082,
-    "fecha_voto": "2024-06-27",
+    "fecha_voto": "2024-07-17",
     "estado": "Illinois",
-    "etnia": "illegal",
-    "edad": 29,
+    "etnia": "white",
+    "edad": 31,
     "sexo": "femenino",
-    "salario": 215994,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": false,
+    "salario": 190123,
+    "estudios": "masters",
+    "religion": "islam",
+    "casado": true,
     "hijos": 5,
     "voto": "democrata"
 }

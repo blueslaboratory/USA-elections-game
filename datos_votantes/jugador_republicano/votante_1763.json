@@ -1,14 +1,14 @@
 {
     "id": 1763,
     "fecha_voto": "2024-11-04",
-    "estado": "Ohio",
-    "etnia": "hispanic",
-    "edad": 47,
+    "estado": "Connecticut",
+    "etnia": "white",
+    "edad": 79,
     "sexo": "masculino",
-    "salario": 194387,
+    "salario": 57219,
     "estudios": "high school",
     "religion": "other",
-    "casado": true,
-    "hijos": 0,
+    "casado": false,
+    "hijos": 3,
     "voto": "republicano"
 }

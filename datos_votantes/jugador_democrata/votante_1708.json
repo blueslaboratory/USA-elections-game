@@ -1,14 +1,14 @@
 {
     "id": 1708,
-    "fecha_voto": "2024-09-29",
-    "estado": "Indiana",
-    "etnia": "asian",
-    "edad": 22,
-    "sexo": "femenino",
-    "salario": 184086,
+    "fecha_voto": "2024-10-13",
+    "estado": "North Dakota",
+    "etnia": "hispanic",
+    "edad": 55,
+    "sexo": "masculino",
+    "salario": 230478,
     "estudios": "masters",
     "religion": "atheism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1583,
-    "fecha_voto": "2024-10-24",
-    "estado": "Utah",
-    "etnia": "indian",
-    "edad": 24,
+    "fecha_voto": "2024-10-30",
+    "estado": "Missouri",
+    "etnia": "illegal",
+    "edad": 22,
     "sexo": "femenino",
-    "salario": 221694,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 1,
+    "salario": 91723,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 4,
     "voto": "democrata"
 }

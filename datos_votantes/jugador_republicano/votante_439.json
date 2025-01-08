@@ -1,14 +1,14 @@
 {
     "id": 439,
-    "fecha_voto": "2024-02-17",
-    "estado": "Virginia",
-    "etnia": "white",
-    "edad": 55,
+    "fecha_voto": "2024-02-21",
+    "estado": "Vermont",
+    "etnia": "asian",
+    "edad": 41,
     "sexo": "femenino",
-    "salario": 159961,
+    "salario": 54807,
     "estudios": "masters",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 5,
+    "religion": "other",
+    "casado": true,
+    "hijos": 2,
     "voto": "democrata"
 }

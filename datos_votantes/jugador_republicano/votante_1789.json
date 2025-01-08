@@ -1,14 +1,14 @@
 {
     "id": 1789,
     "fecha_voto": "2024-11-05",
-    "estado": "Alabama",
-    "etnia": "black",
-    "edad": 42,
-    "sexo": "femenino",
-    "salario": 205070,
-    "estudios": "undergraduate",
-    "religion": "atheism",
+    "estado": "Tennessee",
+    "etnia": "white",
+    "edad": 44,
+    "sexo": "masculino",
+    "salario": 222068,
+    "estudios": "graduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 3,
     "voto": "republicano"
 }

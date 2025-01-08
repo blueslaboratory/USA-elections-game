@@ -1,14 +1,14 @@
 {
     "id": 1620,
-    "fecha_voto": "2024-09-22",
-    "estado": "Virginia",
-    "etnia": "black",
-    "edad": 31,
+    "fecha_voto": "2024-10-26",
+    "estado": "Oregon",
+    "etnia": "illegal",
+    "edad": 21,
     "sexo": "femenino",
-    "salario": 242331,
+    "salario": 49070,
     "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 4,
+    "religion": "other",
+    "casado": false,
+    "hijos": 0,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1185,
-    "fecha_voto": "2024-06-30",
-    "estado": "Oklahoma",
-    "etnia": "black",
-    "edad": 39,
-    "sexo": "masculino",
-    "salario": 123314,
-    "estudios": "high school",
-    "religion": "islam",
+    "fecha_voto": "2024-07-01",
+    "estado": "Maryland",
+    "etnia": "illegal",
+    "edad": 38,
+    "sexo": "femenino",
+    "salario": 232659,
+    "estudios": "graduate",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

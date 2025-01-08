@@ -1,14 +1,14 @@
 {
     "id": 1132,
-    "fecha_voto": "2024-07-21",
-    "estado": "Tennessee",
-    "etnia": "hispanic",
-    "edad": 46,
-    "sexo": "masculino",
-    "salario": 218435,
-    "estudios": "masters",
-    "religion": "hinduism",
+    "fecha_voto": "2024-07-27",
+    "estado": "Maryland",
+    "etnia": "black",
+    "edad": 31,
+    "sexo": "femenino",
+    "salario": 184238,
+    "estudios": "graduate",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

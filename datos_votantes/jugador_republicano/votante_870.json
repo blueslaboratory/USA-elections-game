@@ -1,14 +1,14 @@
 {
     "id": 870,
-    "fecha_voto": "2024-06-10",
-    "estado": "Maryland",
+    "fecha_voto": "2024-05-16",
+    "estado": "Rhode Island",
     "etnia": "hispanic",
-    "edad": 53,
-    "sexo": "masculino",
-    "salario": 144075,
+    "edad": 32,
+    "sexo": "femenino",
+    "salario": 68447,
     "estudios": "high school",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

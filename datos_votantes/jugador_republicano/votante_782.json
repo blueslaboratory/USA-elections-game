@@ -1,14 +1,14 @@
 {
     "id": 782,
-    "fecha_voto": "2024-06-19",
-    "estado": "Georgia",
-    "etnia": "hispanic",
-    "edad": 45,
+    "fecha_voto": "2024-05-23",
+    "estado": "Kansas",
+    "etnia": "white",
+    "edad": 26,
     "sexo": "masculino",
-    "salario": 122832,
-    "estudios": "graduate",
-    "religion": "islam",
+    "salario": 203365,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 5,
     "voto": "republicano"
 }

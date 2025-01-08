@@ -1,14 +1,14 @@
 {
     "id": 935,
-    "fecha_voto": "2024-05-24",
-    "estado": "Wisconsin",
+    "fecha_voto": "2024-05-15",
+    "estado": "Mississippi",
     "etnia": "hispanic",
-    "edad": 28,
+    "edad": 81,
     "sexo": "masculino",
-    "salario": 33799,
-    "estudios": "high school",
+    "salario": 48158,
+    "estudios": "undergraduate",
     "religion": "christianism",
-    "casado": true,
-    "hijos": 3,
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

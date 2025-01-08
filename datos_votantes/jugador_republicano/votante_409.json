@@ -1,14 +1,14 @@
 {
     "id": 409,
-    "fecha_voto": "2024-03-21",
-    "estado": "Ohio",
-    "etnia": "asian",
-    "edad": 67,
+    "fecha_voto": "2024-03-14",
+    "estado": "Nevada",
+    "etnia": "black",
+    "edad": 50,
     "sexo": "femenino",
-    "salario": 162571,
-    "estudios": "masters",
-    "religion": "other",
-    "casado": true,
-    "hijos": 0,
+    "salario": 178504,
+    "estudios": "graduate",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

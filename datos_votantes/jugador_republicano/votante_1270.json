@@ -1,14 +1,14 @@
 {
     "id": 1270,
-    "fecha_voto": "2024-08-14",
-    "estado": "Louisiana",
-    "etnia": "hispanic",
-    "edad": 52,
-    "sexo": "femenino",
-    "salario": 133178,
-    "estudios": "graduate",
+    "fecha_voto": "2024-08-09",
+    "estado": "Missouri",
+    "etnia": "asian",
+    "edad": 19,
+    "sexo": "masculino",
+    "salario": 33009,
+    "estudios": "doctor",
     "religion": "judaism",
-    "casado": false,
+    "casado": true,
     "hijos": 1,
-    "voto": "republicano"
+    "voto": "democrata"
 }

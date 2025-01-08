@@ -1,14 +1,14 @@
 {
     "id": 1564,
-    "fecha_voto": "2024-09-21",
-    "estado": "New Jersey",
-    "etnia": "white",
-    "edad": 21,
-    "sexo": "femenino",
-    "salario": 207899,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": true,
+    "fecha_voto": "2024-10-15",
+    "estado": "Arizona",
+    "etnia": "hispanic",
+    "edad": 98,
+    "sexo": "masculino",
+    "salario": 203219,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": false,
     "hijos": 0,
-    "voto": "democrata"
+    "voto": "republicano"
 }

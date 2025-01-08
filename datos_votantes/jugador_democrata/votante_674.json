@@ -1,14 +1,14 @@
 {
     "id": 674,
-    "fecha_voto": "2024-04-12",
-    "estado": "Kentucky",
-    "etnia": "hispanic",
-    "edad": 38,
-    "sexo": "masculino",
-    "salario": 42850,
+    "fecha_voto": "2024-04-22",
+    "estado": "Oregon",
+    "etnia": "asian",
+    "edad": 20,
+    "sexo": "femenino",
+    "salario": 70311,
     "estudios": "masters",
     "religion": "atheism",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

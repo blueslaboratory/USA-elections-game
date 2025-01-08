@@ -1,14 +1,14 @@
 {
     "id": 749,
-    "fecha_voto": "2024-03-31",
-    "estado": "Missouri",
-    "etnia": "illegal",
-    "edad": 59,
-    "sexo": "masculino",
-    "salario": 157996,
-    "estudios": "undergraduate",
-    "religion": "islam",
+    "fecha_voto": "2024-05-06",
+    "estado": "Montana",
+    "etnia": "hispanic",
+    "edad": 26,
+    "sexo": "femenino",
+    "salario": 57256,
+    "estudios": "graduate",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

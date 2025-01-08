@@ -1,14 +1,14 @@
 {
     "id": 1055,
-    "fecha_voto": "2024-07-29",
-    "estado": "Mississippi",
-    "etnia": "illegal",
-    "edad": 31,
-    "sexo": "masculino",
-    "salario": 243715,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "fecha_voto": "2024-07-11",
+    "estado": "Nebraska",
+    "etnia": "white",
+    "edad": 25,
+    "sexo": "femenino",
+    "salario": 63135,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "democrata"
 }

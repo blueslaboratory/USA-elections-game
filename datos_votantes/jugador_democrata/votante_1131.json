@@ -1,14 +1,14 @@
 {
     "id": 1131,
-    "fecha_voto": "2024-07-27",
-    "estado": "Maryland",
-    "etnia": "white",
-    "edad": 34,
+    "fecha_voto": "2024-07-26",
+    "estado": "New York",
+    "etnia": "illegal",
+    "edad": 46,
     "sexo": "femenino",
-    "salario": 167225,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": true,
-    "hijos": 4,
+    "salario": 192598,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

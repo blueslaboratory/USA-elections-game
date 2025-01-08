@@ -1,14 +1,14 @@
 {
     "id": 1461,
-    "fecha_voto": "2024-09-10",
-    "estado": "South Dakota",
-    "etnia": "asian",
-    "edad": 48,
+    "fecha_voto": "2024-08-26",
+    "estado": "Missouri",
+    "etnia": "illegal",
+    "edad": 78,
     "sexo": "femenino",
-    "salario": 168017,
-    "estudios": "high school",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "salario": 36066,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 941,
-    "fecha_voto": "2024-06-02",
-    "estado": "Michigan",
-    "etnia": "hispanic",
-    "edad": 22,
+    "fecha_voto": "2024-06-08",
+    "estado": "Montana",
+    "etnia": "white",
+    "edad": 63,
     "sexo": "masculino",
-    "salario": 42563,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "salario": 189511,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

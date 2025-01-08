@@ -1,14 +1,14 @@
 {
     "id": 93,
-    "fecha_voto": "2024-01-10",
-    "estado": "North Dakota",
-    "etnia": "indian",
-    "edad": 63,
-    "sexo": "u",
-    "salario": 147365,
+    "fecha_voto": "2024-01-29",
+    "estado": "Indiana",
+    "etnia": "black",
+    "edad": 87,
+    "sexo": "masculino",
+    "salario": 42610,
     "estudios": "graduate",
-    "religion": "hinduism",
+    "religion": "other",
     "casado": true,
-    "hijos": 5,
+    "hijos": 1,
     "voto": "republicano"
 }

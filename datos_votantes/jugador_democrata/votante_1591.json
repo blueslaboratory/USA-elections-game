@@ -1,14 +1,14 @@
 {
     "id": 1591,
-    "fecha_voto": "2024-10-21",
-    "estado": "Tennessee",
+    "fecha_voto": "2024-10-19",
+    "estado": "Mississippi",
     "etnia": "illegal",
-    "edad": 25,
-    "sexo": "femenino",
-    "salario": 231778,
+    "edad": 81,
+    "sexo": "masculino",
+    "salario": 223074,
     "estudios": "graduate",
-    "religion": "judaism",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

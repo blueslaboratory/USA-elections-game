@@ -1,14 +1,14 @@
 {
     "id": 1211,
-    "fecha_voto": "2024-06-26",
-    "estado": "Alabama",
-    "etnia": "asian",
-    "edad": 44,
-    "sexo": "masculino",
-    "salario": 126828,
+    "fecha_voto": "2024-07-17",
+    "estado": "Vermont",
+    "etnia": "illegal",
+    "edad": 29,
+    "sexo": "femenino",
+    "salario": 170981,
     "estudios": "high school",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "democrata"
 }

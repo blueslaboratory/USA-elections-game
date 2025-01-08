@@ -1,14 +1,14 @@
 {
     "id": 18,
-    "fecha_voto": "2024-01-08",
-    "estado": "Tennessee",
-    "etnia": "indian",
-    "edad": 19,
-    "sexo": "c",
-    "salario": 139121,
-    "estudios": "high school",
-    "religion": "hinduism",
+    "fecha_voto": "2024-01-16",
+    "estado": "Pennsylvania",
+    "etnia": "hispanic",
+    "edad": 32,
+    "sexo": "masculino",
+    "salario": 129796,
+    "estudios": "undergraduate",
+    "religion": "judaism",
     "casado": true,
     "hijos": 1,
-    "voto": "republicano"
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1068,
-    "fecha_voto": "2024-08-05",
-    "estado": "Louisiana",
-    "etnia": "indian",
-    "edad": 34,
-    "sexo": "masculino",
-    "salario": 169284,
-    "estudios": "graduate",
+    "fecha_voto": "2024-07-17",
+    "estado": "West Virginia",
+    "etnia": "black",
+    "edad": 23,
+    "sexo": "femenino",
+    "salario": 163505,
+    "estudios": "undergraduate",
     "religion": "other",
     "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

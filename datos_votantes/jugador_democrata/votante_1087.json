@@ -1,14 +1,14 @@
 {
     "id": 1087,
-    "fecha_voto": "2024-06-26",
-    "estado": "Montana",
-    "etnia": "black",
-    "edad": 29,
+    "fecha_voto": "2024-08-01",
+    "estado": "Texas",
+    "etnia": "asian",
+    "edad": 26,
     "sexo": "femenino",
-    "salario": 126522,
+    "salario": 237687,
     "estudios": "masters",
     "religion": "judaism",
-    "casado": true,
-    "hijos": 5,
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

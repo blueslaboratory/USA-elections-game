@@ -1,14 +1,14 @@
 {
     "id": 432,
-    "fecha_voto": "2024-02-21",
-    "estado": "Arkansas",
+    "fecha_voto": "2024-02-16",
+    "estado": "Rhode Island",
     "etnia": "white",
-    "edad": 40,
-    "sexo": "masculino",
-    "salario": 227474,
+    "edad": 17,
+    "sexo": "femenino",
+    "salario": 195734,
     "estudios": "graduate",
     "religion": "judaism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
 }

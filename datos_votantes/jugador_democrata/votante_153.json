@@ -1,14 +1,14 @@
 {
     "id": 153,
-    "fecha_voto": "2024-01-10",
-    "estado": "Indiana",
-    "etnia": "asian",
-    "edad": 85,
-    "sexo": "i",
-    "salario": 220087,
-    "estudios": "high school",
-    "religion": "other",
+    "fecha_voto": "2024-01-19",
+    "estado": "Tennessee",
+    "etnia": "black",
+    "edad": 71,
+    "sexo": "femenino",
+    "salario": 139102,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

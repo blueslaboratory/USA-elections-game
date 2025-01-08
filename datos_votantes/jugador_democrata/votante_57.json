@@ -1,14 +1,14 @@
 {
     "id": 57,
-    "fecha_voto": "2024-02-08",
-    "estado": "New Jersey",
+    "fecha_voto": "2024-01-10",
+    "estado": "Louisiana",
     "etnia": "white",
-    "edad": 96,
-    "sexo": "n",
-    "salario": 256951,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "edad": 92,
+    "sexo": "masculino",
+    "salario": 34851,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 26,
-    "fecha_voto": "2024-01-20",
-    "estado": "Arkansas",
-    "etnia": "hispanic",
-    "edad": 34,
-    "sexo": "o",
-    "salario": 248366,
-    "estudios": "high school",
-    "religion": "islam",
-    "casado": true,
+    "fecha_voto": "2024-01-31",
+    "estado": "North Carolina",
+    "etnia": "white",
+    "edad": 79,
+    "sexo": "masculino",
+    "salario": 71571,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
     "hijos": 3,
     "voto": "republicano"
 }

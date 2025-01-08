@@ -1,14 +1,14 @@
 {
     "id": 272,
-    "fecha_voto": "2024-02-25",
-    "estado": "Iowa",
-    "etnia": "black",
-    "edad": 34,
+    "fecha_voto": "2024-02-26",
+    "estado": "Arizona",
+    "etnia": "hispanic",
+    "edad": 30,
     "sexo": "femenino",
-    "salario": 163597,
-    "estudios": "high school",
-    "religion": "hinduism",
+    "salario": 107054,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 1,
+    "hijos": 0,
     "voto": "democrata"
 }

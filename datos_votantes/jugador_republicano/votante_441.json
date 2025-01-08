@@ -1,14 +1,14 @@
 {
     "id": 441,
-    "fecha_voto": "2024-03-26",
-    "estado": "South Carolina",
-    "etnia": "illegal",
-    "edad": 77,
+    "fecha_voto": "2024-03-15",
+    "estado": "Delaware",
+    "etnia": "indian",
+    "edad": 46,
     "sexo": "masculino",
-    "salario": 194219,
+    "salario": 153708,
     "estudios": "high school",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 0,
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

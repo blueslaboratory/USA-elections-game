@@ -1,14 +1,14 @@
 {
     "id": 1458,
-    "fecha_voto": "2024-08-27",
-    "estado": "Kentucky",
-    "etnia": "hispanic",
-    "edad": 81,
-    "sexo": "masculino",
-    "salario": 178409,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "fecha_voto": "2024-09-14",
+    "estado": "Mississippi",
+    "etnia": "black",
+    "edad": 41,
+    "sexo": "femenino",
+    "salario": 95997,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 4,
     "voto": "republicano"
 }

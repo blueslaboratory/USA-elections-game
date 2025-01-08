@@ -1,14 +1,14 @@
 {
     "id": 865,
-    "fecha_voto": "2024-05-30",
-    "estado": "New Hampshire",
+    "fecha_voto": "2024-06-03",
+    "estado": "Massachusetts",
     "etnia": "white",
-    "edad": 36,
+    "edad": 53,
     "sexo": "masculino",
-    "salario": 93175,
-    "estudios": "doctor",
+    "salario": 124686,
+    "estudios": "high school",
     "religion": "other",
-    "casado": true,
-    "hijos": 0,
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

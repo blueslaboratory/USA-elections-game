@@ -1,14 +1,14 @@
 {
     "id": 1248,
-    "fecha_voto": "2024-07-02",
-    "estado": "Idaho",
-    "etnia": "indian",
-    "edad": 28,
-    "sexo": "masculino",
-    "salario": 185636,
-    "estudios": "masters",
-    "religion": "other",
+    "fecha_voto": "2024-07-07",
+    "estado": "West Virginia",
+    "etnia": "asian",
+    "edad": 22,
+    "sexo": "femenino",
+    "salario": 102930,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 3,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1143,
-    "fecha_voto": "2024-08-05",
-    "estado": "Alaska",
-    "etnia": "hispanic",
-    "edad": 45,
+    "fecha_voto": "2024-07-12",
+    "estado": "New Hampshire",
+    "etnia": "asian",
+    "edad": 35,
     "sexo": "femenino",
-    "salario": 34740,
-    "estudios": "masters",
-    "religion": "islam",
+    "salario": 88960,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

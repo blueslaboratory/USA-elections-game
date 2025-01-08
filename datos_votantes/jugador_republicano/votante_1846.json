@@ -1,14 +1,14 @@
 {
     "id": 1846,
     "fecha_voto": "2024-11-04",
-    "estado": "Rhode Island",
-    "etnia": "white",
-    "edad": 87,
-    "sexo": "femenino",
-    "salario": 229767,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "estado": "Louisiana",
+    "etnia": "black",
+    "edad": 37,
+    "sexo": "masculino",
+    "salario": 101871,
+    "estudios": "undergraduate",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
 }

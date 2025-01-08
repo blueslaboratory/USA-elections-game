@@ -1,14 +1,14 @@
 {
     "id": 969,
-    "fecha_voto": "2024-05-24",
-    "estado": "Nebraska",
-    "etnia": "indian",
-    "edad": 18,
+    "fecha_voto": "2024-05-25",
+    "estado": "North Carolina",
+    "etnia": "hispanic",
+    "edad": 40,
     "sexo": "masculino",
-    "salario": 31257,
+    "salario": 208148,
     "estudios": "high school",
     "religion": "christianism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 3,
     "voto": "republicano"
 }

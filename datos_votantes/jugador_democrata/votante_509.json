@@ -1,14 +1,14 @@
 {
     "id": 509,
-    "fecha_voto": "2024-05-10",
-    "estado": "Missouri",
-    "etnia": "illegal",
-    "edad": 89,
+    "fecha_voto": "2024-05-03",
+    "estado": "New Jersey",
+    "etnia": "asian",
+    "edad": 61,
     "sexo": "femenino",
-    "salario": 175980,
+    "salario": 46204,
     "estudios": "masters",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 0,
+    "religion": "other",
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

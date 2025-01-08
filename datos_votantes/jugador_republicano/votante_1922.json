@@ -1,14 +1,14 @@
 {
     "id": 1922,
-    "fecha_voto": "2024-11-04",
-    "estado": "Michigan",
-    "etnia": "hispanic",
-    "edad": 34,
-    "sexo": "femenino",
-    "salario": 200909,
-    "estudios": "masters",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "fecha_voto": "2024-11-05",
+    "estado": "Kansas",
+    "etnia": "white",
+    "edad": 91,
+    "sexo": "masculino",
+    "salario": 71245,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

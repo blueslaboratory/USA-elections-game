@@ -1,14 +1,14 @@
 {
     "id": 319,
-    "fecha_voto": "2024-02-29",
-    "estado": "Kentucky",
-    "etnia": "asian",
-    "edad": 27,
+    "fecha_voto": "2024-03-12",
+    "estado": "Wisconsin",
+    "etnia": "black",
+    "edad": 10,
     "sexo": "masculino",
-    "salario": 46580,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "salario": 172550,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

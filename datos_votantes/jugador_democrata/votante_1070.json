@@ -1,14 +1,14 @@
 {
     "id": 1070,
-    "fecha_voto": "2024-08-05",
-    "estado": "Georgia",
-    "etnia": "illegal",
-    "edad": 22,
-    "sexo": "masculino",
-    "salario": 38453,
-    "estudios": "high school",
-    "religion": "other",
+    "fecha_voto": "2024-08-01",
+    "estado": "Michigan",
+    "etnia": "indian",
+    "edad": 30,
+    "sexo": "femenino",
+    "salario": 178485,
+    "estudios": "masters",
+    "religion": "islam",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1552,
-    "fecha_voto": "2024-11-02",
-    "estado": "North Dakota",
-    "etnia": "indian",
-    "edad": 26,
+    "fecha_voto": "2024-10-18",
+    "estado": "Vermont",
+    "etnia": "illegal",
+    "edad": 51,
     "sexo": "femenino",
-    "salario": 183471,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
+    "salario": 183133,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
     "hijos": 3,
     "voto": "democrata"
 }

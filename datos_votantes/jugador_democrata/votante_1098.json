@@ -1,14 +1,14 @@
 {
     "id": 1098,
-    "fecha_voto": "2024-07-21",
-    "estado": "Georgia",
-    "etnia": "asian",
-    "edad": 38,
-    "sexo": "masculino",
-    "salario": 76467,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
+    "fecha_voto": "2024-07-28",
+    "estado": "Illinois",
+    "etnia": "hispanic",
+    "edad": 37,
+    "sexo": "femenino",
+    "salario": 218255,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": false,
     "hijos": 1,
-    "voto": "republicano"
+    "voto": "democrata"
 }

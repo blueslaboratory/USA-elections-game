@@ -1,14 +1,14 @@
 {
     "id": 1206,
-    "fecha_voto": "2024-07-23",
-    "estado": "Minnesota",
-    "etnia": "illegal",
-    "edad": 31,
-    "sexo": "masculino",
-    "salario": 42723,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": false,
+    "fecha_voto": "2024-07-13",
+    "estado": "Nebraska",
+    "etnia": "black",
+    "edad": 26,
+    "sexo": "femenino",
+    "salario": 180282,
+    "estudios": "masters",
+    "religion": "islam",
+    "casado": true,
     "hijos": 3,
     "voto": "democrata"
 }

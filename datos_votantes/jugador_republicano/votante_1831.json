@@ -1,14 +1,14 @@
 {
     "id": 1831,
     "fecha_voto": "2024-11-05",
-    "estado": "Oklahoma",
+    "estado": "Maryland",
     "etnia": "hispanic",
-    "edad": 57,
-    "sexo": "femenino",
-    "salario": 158325,
+    "edad": 78,
+    "sexo": "masculino",
+    "salario": 105202,
     "estudios": "masters",
-    "religion": "christianism",
+    "religion": "islam",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

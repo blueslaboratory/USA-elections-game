@@ -1,14 +1,14 @@
 {
     "id": 1947,
     "fecha_voto": "2024-11-05",
-    "estado": "Wisconsin",
+    "estado": "Vermont",
     "etnia": "asian",
-    "edad": 72,
+    "edad": 40,
     "sexo": "masculino",
-    "salario": 211043,
-    "estudios": "masters",
-    "religion": "judaism",
+    "salario": 88407,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
+    "hijos": 3,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 711,
-    "fecha_voto": "2024-04-04",
-    "estado": "Oklahoma",
-    "etnia": "illegal",
-    "edad": 89,
-    "sexo": "masculino",
-    "salario": 187730,
-    "estudios": "masters",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "fecha_voto": "2024-04-14",
+    "estado": "Minnesota",
+    "etnia": "hispanic",
+    "edad": 25,
+    "sexo": "femenino",
+    "salario": 102146,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 2,
+    "voto": "democrata"
 }

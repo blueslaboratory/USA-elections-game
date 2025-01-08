@@ -1,14 +1,14 @@
 {
     "id": 813,
-    "fecha_voto": "2024-06-09",
-    "estado": "Indiana",
-    "etnia": "indian",
-    "edad": 50,
+    "fecha_voto": "2024-05-27",
+    "estado": "Maryland",
+    "etnia": "white",
+    "edad": 20,
     "sexo": "masculino",
-    "salario": 216554,
-    "estudios": "doctor",
-    "religion": "christianism",
+    "salario": 192407,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 1,
+    "hijos": 0,
     "voto": "democrata"
 }

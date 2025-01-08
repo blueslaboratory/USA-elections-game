@@ -1,14 +1,14 @@
 {
     "id": 532,
-    "fecha_voto": "2024-05-08",
-    "estado": "Maine",
-    "etnia": "hispanic",
-    "edad": 72,
-    "sexo": "femenino",
-    "salario": 105200,
-    "estudios": "high school",
-    "religion": "islam",
+    "fecha_voto": "2024-04-26",
+    "estado": "Mississippi",
+    "etnia": "indian",
+    "edad": 38,
+    "sexo": "masculino",
+    "salario": 235836,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 1,
+    "hijos": 5,
     "voto": "republicano"
 }

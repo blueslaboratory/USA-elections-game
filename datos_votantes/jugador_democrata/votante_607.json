@@ -1,14 +1,14 @@
 {
     "id": 607,
-    "fecha_voto": "2024-05-03",
-    "estado": "Kentucky",
-    "etnia": "hispanic",
-    "edad": 77,
+    "fecha_voto": "2024-05-01",
+    "estado": "Virginia",
+    "etnia": "illegal",
+    "edad": 52,
     "sexo": "femenino",
-    "salario": 57123,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 2,
+    "salario": 100520,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
     "voto": "democrata"
 }

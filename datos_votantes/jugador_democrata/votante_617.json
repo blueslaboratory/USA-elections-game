@@ -1,14 +1,14 @@
 {
     "id": 617,
-    "fecha_voto": "2024-04-24",
-    "estado": "Virginia",
-    "etnia": "illegal",
-    "edad": 41,
+    "fecha_voto": "2024-04-02",
+    "estado": "Maryland",
+    "etnia": "white",
+    "edad": 87,
     "sexo": "masculino",
-    "salario": 127566,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "salario": 172815,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "democrata"
 }

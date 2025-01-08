@@ -1,14 +1,14 @@
 {
     "id": 1793,
     "fecha_voto": "2024-11-04",
-    "estado": "Missouri",
-    "etnia": "indian",
-    "edad": 42,
+    "estado": "Kentucky",
+    "etnia": "hispanic",
+    "edad": 49,
     "sexo": "masculino",
-    "salario": 121532,
-    "estudios": "high school",
+    "salario": 170001,
+    "estudios": "masters",
     "religion": "judaism",
-    "casado": false,
-    "hijos": 1,
+    "casado": true,
+    "hijos": 2,
     "voto": "republicano"
 }

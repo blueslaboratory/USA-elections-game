@@ -1,14 +1,14 @@
 {
     "id": 987,
-    "fecha_voto": "2024-06-09",
-    "estado": "North Dakota",
+    "fecha_voto": "2024-05-15",
+    "estado": "Mississippi",
     "etnia": "white",
-    "edad": 41,
-    "sexo": "masculino",
-    "salario": 50640,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "edad": 71,
+    "sexo": "femenino",
+    "salario": 232842,
+    "estudios": "high school",
+    "religion": "other",
     "casado": true,
-    "hijos": 5,
+    "hijos": 3,
     "voto": "republicano"
 }

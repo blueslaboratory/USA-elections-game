@@ -1,14 +1,14 @@
 {
     "id": 1724,
-    "fecha_voto": "2024-10-08",
-    "estado": "Arizona",
-    "etnia": "illegal",
-    "edad": 19,
-    "sexo": "femenino",
-    "salario": 181320,
-    "estudios": "doctor",
-    "religion": "other",
+    "fecha_voto": "2024-10-19",
+    "estado": "Nevada",
+    "etnia": "hispanic",
+    "edad": 74,
+    "sexo": "masculino",
+    "salario": 214677,
+    "estudios": "masters",
+    "religion": "islam",
     "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

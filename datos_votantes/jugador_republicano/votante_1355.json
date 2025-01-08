@@ -1,14 +1,14 @@
 {
     "id": 1355,
-    "fecha_voto": "2024-08-24",
-    "estado": "Idaho",
-    "etnia": "hispanic",
-    "edad": 88,
-    "sexo": "femenino",
-    "salario": 138782,
-    "estudios": "masters",
-    "religion": "atheism",
+    "fecha_voto": "2024-08-19",
+    "estado": "Utah",
+    "etnia": "indian",
+    "edad": 34,
+    "sexo": "masculino",
+    "salario": 105942,
+    "estudios": "high school",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

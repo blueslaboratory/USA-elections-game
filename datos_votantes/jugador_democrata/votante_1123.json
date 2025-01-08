@@ -1,14 +1,14 @@
 {
     "id": 1123,
-    "fecha_voto": "2024-07-05",
-    "estado": "Florida",
-    "etnia": "illegal",
-    "edad": 27,
+    "fecha_voto": "2024-06-29",
+    "estado": "Illinois",
+    "etnia": "black",
+    "edad": 37,
     "sexo": "femenino",
-    "salario": 93098,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 4,
+    "salario": 69534,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

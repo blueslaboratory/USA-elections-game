@@ -1,14 +1,14 @@
 {
     "id": 702,
-    "fecha_voto": "2024-04-18",
-    "estado": "Minnesota",
-    "etnia": "hispanic",
-    "edad": 28,
+    "fecha_voto": "2024-04-16",
+    "estado": "West Virginia",
+    "etnia": "black",
+    "edad": 81,
     "sexo": "masculino",
-    "salario": 104643,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": true,
-    "hijos": 4,
+    "salario": 189266,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

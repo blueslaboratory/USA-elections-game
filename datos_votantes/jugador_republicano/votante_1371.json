@@ -1,14 +1,14 @@
 {
     "id": 1371,
-    "fecha_voto": "2024-08-08",
-    "estado": "Colorado",
-    "etnia": "indian",
-    "edad": 45,
+    "fecha_voto": "2024-09-19",
+    "estado": "Louisiana",
+    "etnia": "hispanic",
+    "edad": 96,
     "sexo": "masculino",
-    "salario": 96956,
-    "estudios": "high school",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 2,
+    "salario": 217586,
+    "estudios": "undergraduate",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 1,
     "voto": "republicano"
 }

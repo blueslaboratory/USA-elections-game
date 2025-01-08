@@ -1,14 +1,14 @@
 {
     "id": 1706,
-    "fecha_voto": "2024-10-09",
-    "estado": "Kentucky",
-    "etnia": "illegal",
-    "edad": 18,
+    "fecha_voto": "2024-10-03",
+    "estado": "California",
+    "etnia": "hispanic",
+    "edad": 67,
     "sexo": "femenino",
-    "salario": 102940,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": false,
+    "salario": 169129,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": true,
     "hijos": 2,
     "voto": "democrata"
 }

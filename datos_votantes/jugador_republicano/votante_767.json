@@ -1,14 +1,14 @@
 {
     "id": 767,
-    "fecha_voto": "2024-05-16",
-    "estado": "Indiana",
+    "fecha_voto": "2024-06-10",
+    "estado": "Washington",
     "etnia": "hispanic",
-    "edad": 23,
-    "sexo": "masculino",
-    "salario": 187464,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 3,
+    "edad": 54,
+    "sexo": "femenino",
+    "salario": 76373,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
     "voto": "democrata"
 }

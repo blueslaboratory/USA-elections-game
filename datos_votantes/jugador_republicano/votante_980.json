@@ -1,14 +1,14 @@
 {
     "id": 980,
-    "fecha_voto": "2024-06-13",
-    "estado": "Oregon",
-    "etnia": "illegal",
-    "edad": 39,
+    "fecha_voto": "2024-05-20",
+    "estado": "Georgia",
+    "etnia": "hispanic",
+    "edad": 90,
     "sexo": "masculino",
-    "salario": 130154,
-    "estudios": "masters",
-    "religion": "christianism",
+    "salario": 41251,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

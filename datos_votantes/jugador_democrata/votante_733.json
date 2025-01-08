@@ -1,14 +1,14 @@
 {
     "id": 733,
-    "fecha_voto": "2024-05-03",
-    "estado": "Utah",
-    "etnia": "illegal",
-    "edad": 36,
+    "fecha_voto": "2024-04-26",
+    "estado": "South Dakota",
+    "etnia": "black",
+    "edad": 27,
     "sexo": "femenino",
-    "salario": 208251,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 1,
+    "salario": 247126,
+    "estudios": "graduate",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 5,
     "voto": "democrata"
 }

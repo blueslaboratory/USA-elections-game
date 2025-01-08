@@ -1,14 +1,14 @@
 {
     "id": 1194,
-    "fecha_voto": "2024-07-10",
-    "estado": "Illinois",
-    "etnia": "white",
-    "edad": 32,
+    "fecha_voto": "2024-07-03",
+    "estado": "South Dakota",
+    "etnia": "hispanic",
+    "edad": 34,
     "sexo": "femenino",
-    "salario": 51968,
+    "salario": 54328,
     "estudios": "masters",
-    "religion": "other",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 5,
+    "hijos": 1,
     "voto": "democrata"
 }

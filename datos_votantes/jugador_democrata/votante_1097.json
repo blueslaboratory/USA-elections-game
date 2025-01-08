@@ -1,14 +1,14 @@
 {
     "id": 1097,
-    "fecha_voto": "2024-07-29",
-    "estado": "Ohio",
-    "etnia": "asian",
-    "edad": 49,
-    "sexo": "masculino",
-    "salario": 237835,
-    "estudios": "graduate",
+    "fecha_voto": "2024-07-06",
+    "estado": "Nevada",
+    "etnia": "indian",
+    "edad": 42,
+    "sexo": "femenino",
+    "salario": 181543,
+    "estudios": "undergraduate",
     "religion": "other",
-    "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 2,
+    "voto": "democrata"
 }

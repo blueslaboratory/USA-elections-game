@@ -1,14 +1,14 @@
 {
     "id": 863,
-    "fecha_voto": "2024-05-26",
-    "estado": "Alaska",
+    "fecha_voto": "2024-06-03",
+    "estado": "Missouri",
     "etnia": "hispanic",
-    "edad": 52,
+    "edad": 62,
     "sexo": "masculino",
-    "salario": 77518,
+    "salario": 63528,
     "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 4,
+    "religion": "other",
+    "casado": false,
+    "hijos": 2,
     "voto": "republicano"
 }

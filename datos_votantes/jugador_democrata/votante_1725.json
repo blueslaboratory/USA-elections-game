@@ -1,14 +1,14 @@
 {
     "id": 1725,
-    "fecha_voto": "2024-10-03",
-    "estado": "Georgia",
-    "etnia": "indian",
-    "edad": 21,
-    "sexo": "femenino",
-    "salario": 42680,
-    "estudios": "undergraduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "fecha_voto": "2024-09-26",
+    "estado": "Nevada",
+    "etnia": "illegal",
+    "edad": 45,
+    "sexo": "masculino",
+    "salario": 92139,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 313,
-    "fecha_voto": "2024-02-16",
-    "estado": "Arkansas",
-    "etnia": "white",
-    "edad": 43,
-    "sexo": "femenino",
-    "salario": 121869,
-    "estudios": "undergraduate",
-    "religion": "christianism",
+    "fecha_voto": "2024-03-15",
+    "estado": "Arizona",
+    "etnia": "indian",
+    "edad": 21,
+    "sexo": "masculino",
+    "salario": 227490,
+    "estudios": "high school",
+    "religion": "other",
     "casado": false,
-    "hijos": 0,
+    "hijos": 2,
     "voto": "republicano"
 }

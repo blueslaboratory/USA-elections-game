@@ -1,14 +1,14 @@
 {
     "id": 423,
-    "fecha_voto": "2024-03-23",
-    "estado": "Minnesota",
-    "etnia": "black",
-    "edad": 56,
-    "sexo": "masculino",
-    "salario": 226372,
+    "fecha_voto": "2024-02-17",
+    "estado": "Pennsylvania",
+    "etnia": "white",
+    "edad": 11,
+    "sexo": "femenino",
+    "salario": 45757,
     "estudios": "undergraduate",
-    "religion": "islam",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

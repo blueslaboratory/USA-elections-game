@@ -1,14 +1,14 @@
 {
     "id": 856,
-    "fecha_voto": "2024-06-02",
-    "estado": "South Carolina",
-    "etnia": "illegal",
-    "edad": 29,
+    "fecha_voto": "2024-05-22",
+    "estado": "Arizona",
+    "etnia": "white",
+    "edad": 23,
     "sexo": "masculino",
-    "salario": 94503,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "salario": 112039,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
     "hijos": 0,
-    "voto": "democrata"
+    "voto": "republicano"
 }

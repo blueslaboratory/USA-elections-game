@@ -1,14 +1,14 @@
 {
     "id": 573,
-    "fecha_voto": "2024-04-24",
-    "estado": "California",
-    "etnia": "hispanic",
-    "edad": 62,
-    "sexo": "masculino",
-    "salario": 159331,
+    "fecha_voto": "2024-04-25",
+    "estado": "Massachusetts",
+    "etnia": "illegal",
+    "edad": 32,
+    "sexo": "femenino",
+    "salario": 245530,
     "estudios": "masters",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 5,
+    "religion": "other",
+    "casado": false,
+    "hijos": 0,
     "voto": "democrata"
 }

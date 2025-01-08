@@ -1,14 +1,14 @@
 {
     "id": 1827,
     "fecha_voto": "2024-11-05",
-    "estado": "Tennessee",
-    "etnia": "asian",
-    "edad": 66,
-    "sexo": "femenino",
-    "salario": 163140,
-    "estudios": "doctor",
-    "religion": "christianism",
+    "estado": "Vermont",
+    "etnia": "black",
+    "edad": 90,
+    "sexo": "masculino",
+    "salario": 202787,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

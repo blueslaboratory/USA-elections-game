@@ -1,14 +1,14 @@
 {
     "id": 579,
-    "fecha_voto": "2024-04-19",
-    "estado": "Nebraska",
-    "etnia": "illegal",
-    "edad": 74,
-    "sexo": "masculino",
-    "salario": 55897,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "fecha_voto": "2024-04-01",
+    "estado": "California",
+    "etnia": "indian",
+    "edad": 66,
+    "sexo": "femenino",
+    "salario": 184787,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

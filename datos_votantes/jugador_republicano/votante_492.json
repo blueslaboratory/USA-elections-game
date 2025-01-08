@@ -1,14 +1,14 @@
 {
     "id": 492,
-    "fecha_voto": "2024-02-25",
-    "estado": "Wyoming",
-    "etnia": "black",
-    "edad": 38,
+    "fecha_voto": "2024-02-20",
+    "estado": "Missouri",
+    "etnia": "illegal",
+    "edad": 42,
     "sexo": "masculino",
-    "salario": 55100,
-    "estudios": "doctor",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 1,
+    "salario": 244673,
+    "estudios": "graduate",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 2,
     "voto": "republicano"
 }

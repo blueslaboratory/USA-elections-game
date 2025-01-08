@@ -1,14 +1,14 @@
 {
     "id": 1563,
-    "fecha_voto": "2024-10-01",
-    "estado": "North Dakota",
-    "etnia": "indian",
-    "edad": 19,
-    "sexo": "femenino",
-    "salario": 193989,
+    "fecha_voto": "2024-10-06",
+    "estado": "Florida",
+    "etnia": "hispanic",
+    "edad": 61,
+    "sexo": "masculino",
+    "salario": 135511,
     "estudios": "doctor",
     "religion": "atheism",
-    "casado": false,
+    "casado": true,
     "hijos": 0,
-    "voto": "democrata"
+    "voto": "republicano"
 }

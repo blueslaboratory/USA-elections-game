@@ -1,14 +1,14 @@
 {
     "id": 1153,
-    "fecha_voto": "2024-07-03",
-    "estado": "Maryland",
-    "etnia": "black",
-    "edad": 48,
-    "sexo": "masculino",
-    "salario": 229532,
+    "fecha_voto": "2024-07-28",
+    "estado": "South Dakota",
+    "etnia": "indian",
+    "edad": 28,
+    "sexo": "femenino",
+    "salario": 65312,
     "estudios": "masters",
-    "religion": "judaism",
+    "religion": "other",
     "casado": true,
-    "hijos": 0,
+    "hijos": 5,
     "voto": "democrata"
 }

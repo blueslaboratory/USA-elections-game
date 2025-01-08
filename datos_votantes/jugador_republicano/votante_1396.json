@@ -1,14 +1,14 @@
 {
     "id": 1396,
-    "fecha_voto": "2024-08-15",
-    "estado": "Missouri",
-    "etnia": "hispanic",
-    "edad": 51,
+    "fecha_voto": "2024-09-10",
+    "estado": "Florida",
+    "etnia": "black",
+    "edad": 76,
     "sexo": "masculino",
-    "salario": 72971,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 4,
+    "salario": 119631,
+    "estudios": "high school",
+    "religion": "other",
+    "casado": false,
+    "hijos": 2,
     "voto": "republicano"
 }

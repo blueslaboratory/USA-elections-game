@@ -1,14 +1,14 @@
 {
     "id": 645,
-    "fecha_voto": "2024-04-25",
+    "fecha_voto": "2024-05-04",
     "estado": "Maryland",
-    "etnia": "hispanic",
-    "edad": 82,
+    "etnia": "black",
+    "edad": 71,
     "sexo": "femenino",
-    "salario": 85729,
-    "estudios": "high school",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 1,
+    "salario": 133299,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 5,
     "voto": "democrata"
 }

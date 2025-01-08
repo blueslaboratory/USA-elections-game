@@ -1,14 +1,14 @@
 {
     "id": 358,
-    "fecha_voto": "2024-02-23",
-    "estado": "Georgia",
-    "etnia": "asian",
-    "edad": 74,
-    "sexo": "femenino",
-    "salario": 92731,
-    "estudios": "high school",
-    "religion": "hinduism",
+    "fecha_voto": "2024-02-27",
+    "estado": "Utah",
+    "etnia": "hispanic",
+    "edad": 43,
+    "sexo": "masculino",
+    "salario": 74892,
+    "estudios": "graduate",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 2,
     "voto": "republicano"
 }

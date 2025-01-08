@@ -1,14 +1,14 @@
 {
     "id": 1376,
-    "fecha_voto": "2024-09-09",
-    "estado": "Georgia",
-    "etnia": "indian",
-    "edad": 28,
+    "fecha_voto": "2024-08-29",
+    "estado": "New Hampshire",
+    "etnia": "white",
+    "edad": 53,
     "sexo": "masculino",
-    "salario": 237896,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
-    "hijos": 5,
+    "salario": 221512,
+    "estudios": "graduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 4,
     "voto": "republicano"
 }

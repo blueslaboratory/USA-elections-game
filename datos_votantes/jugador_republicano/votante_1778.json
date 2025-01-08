@@ -1,14 +1,14 @@
 {
     "id": 1778,
     "fecha_voto": "2024-11-04",
-    "estado": "Louisiana",
-    "etnia": "hispanic",
-    "edad": 47,
-    "sexo": "femenino",
-    "salario": 121272,
-    "estudios": "doctor",
-    "religion": "hinduism",
+    "estado": "Virginia",
+    "etnia": "asian",
+    "edad": 60,
+    "sexo": "masculino",
+    "salario": 188220,
+    "estudios": "high school",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

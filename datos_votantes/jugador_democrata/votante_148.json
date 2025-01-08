@@ -1,14 +1,14 @@
 {
     "id": 148,
-    "fecha_voto": "2024-02-12",
-    "estado": "Delaware",
-    "etnia": "asian",
-    "edad": 23,
-    "sexo": "c",
-    "salario": 193349,
-    "estudios": "masters",
-    "religion": "other",
+    "fecha_voto": "2024-01-01",
+    "estado": "New Hampshire",
+    "etnia": "white",
+    "edad": 67,
+    "sexo": "masculino",
+    "salario": 171766,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

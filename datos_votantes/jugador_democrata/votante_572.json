@@ -1,14 +1,14 @@
 {
     "id": 572,
-    "fecha_voto": "2024-03-29",
-    "estado": "Oregon",
-    "etnia": "hispanic",
-    "edad": 43,
-    "sexo": "masculino",
-    "salario": 127123,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "fecha_voto": "2024-04-10",
+    "estado": "Washington",
+    "etnia": "white",
+    "edad": 41,
+    "sexo": "femenino",
+    "salario": 95035,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": false,
+    "hijos": 0,
+    "voto": "democrata"
 }

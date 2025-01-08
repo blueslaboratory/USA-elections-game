@@ -1,14 +1,14 @@
 {
     "id": 930,
-    "fecha_voto": "2024-06-06",
-    "estado": "Ohio",
-    "etnia": "illegal",
-    "edad": 43,
+    "fecha_voto": "2024-06-23",
+    "estado": "Washington",
+    "etnia": "hispanic",
+    "edad": 20,
     "sexo": "masculino",
-    "salario": 158017,
-    "estudios": "high school",
-    "religion": "islam",
+    "salario": 204529,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

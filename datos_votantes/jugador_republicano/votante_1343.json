@@ -1,14 +1,14 @@
 {
     "id": 1343,
-    "fecha_voto": "2024-08-20",
-    "estado": "Arizona",
-    "etnia": "illegal",
-    "edad": 32,
-    "sexo": "femenino",
-    "salario": 88543,
+    "fecha_voto": "2024-08-13",
+    "estado": "Louisiana",
+    "etnia": "white",
+    "edad": 64,
+    "sexo": "masculino",
+    "salario": 69534,
     "estudios": "high school",
-    "religion": "judaism",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

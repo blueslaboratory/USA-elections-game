@@ -1,14 +1,14 @@
 {
     "id": 1784,
-    "fecha_voto": "2024-11-05",
-    "estado": "Arkansas",
+    "fecha_voto": "2024-11-04",
+    "estado": "Florida",
     "etnia": "illegal",
-    "edad": 98,
-    "sexo": "femenino",
-    "salario": 139963,
-    "estudios": "high school",
-    "religion": "other",
+    "edad": 91,
+    "sexo": "masculino",
+    "salario": 184832,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 4,
     "voto": "republicano"
 }

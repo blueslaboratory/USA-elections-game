@@ -1,14 +1,14 @@
 {
     "id": 637,
-    "fecha_voto": "2024-04-30",
-    "estado": "Missouri",
-    "etnia": "hispanic",
-    "edad": 71,
+    "fecha_voto": "2024-05-04",
+    "estado": "Wyoming",
+    "etnia": "white",
+    "edad": 70,
     "sexo": "masculino",
-    "salario": 38899,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": false,
-    "hijos": 1,
+    "salario": 225187,
+    "estudios": "masters",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

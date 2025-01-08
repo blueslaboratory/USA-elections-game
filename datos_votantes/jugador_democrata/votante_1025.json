@@ -1,14 +1,14 @@
 {
     "id": 1025,
-    "fecha_voto": "2024-07-07",
-    "estado": "Alabama",
+    "fecha_voto": "2024-07-10",
+    "estado": "Maryland",
     "etnia": "black",
-    "edad": 27,
-    "sexo": "masculino",
-    "salario": 128751,
-    "estudios": "masters",
-    "religion": "other",
-    "casado": true,
-    "hijos": 1,
+    "edad": 33,
+    "sexo": "femenino",
+    "salario": 164301,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 0,
     "voto": "democrata"
 }

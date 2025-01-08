@@ -1,14 +1,14 @@
 {
     "id": 568,
-    "fecha_voto": "2024-05-03",
-    "estado": "Maine",
-    "etnia": "hispanic",
-    "edad": 46,
+    "fecha_voto": "2024-04-21",
+    "estado": "Oklahoma",
+    "etnia": "asian",
+    "edad": 97,
     "sexo": "femenino",
-    "salario": 116736,
-    "estudios": "high school",
-    "religion": "atheism",
+    "salario": 118859,
+    "estudios": "doctor",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

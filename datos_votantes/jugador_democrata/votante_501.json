@@ -1,14 +1,14 @@
 {
     "id": 501,
-    "fecha_voto": "2024-04-10",
-    "estado": "California",
-    "etnia": "illegal",
-    "edad": 30,
+    "fecha_voto": "2024-05-03",
+    "estado": "North Dakota",
+    "etnia": "white",
+    "edad": 37,
     "sexo": "masculino",
-    "salario": 142005,
-    "estudios": "high school",
-    "religion": "islam",
+    "salario": 133225,
+    "estudios": "doctor",
+    "religion": "judaism",
     "casado": true,
     "hijos": 2,
-    "voto": "democrata"
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1294,
-    "fecha_voto": "2024-09-01",
-    "estado": "Iowa",
-    "etnia": "asian",
-    "edad": 47,
+    "fecha_voto": "2024-09-08",
+    "estado": "Mississippi",
+    "etnia": "hispanic",
+    "edad": 59,
     "sexo": "masculino",
-    "salario": 81877,
-    "estudios": "undergraduate",
+    "salario": 69320,
+    "estudios": "graduate",
     "religion": "islam",
-    "casado": false,
-    "hijos": 1,
+    "casado": true,
+    "hijos": 3,
     "voto": "republicano"
 }

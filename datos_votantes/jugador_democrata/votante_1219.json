@@ -1,14 +1,14 @@
 {
     "id": 1219,
-    "fecha_voto": "2024-07-01",
-    "estado": "Vermont",
+    "fecha_voto": "2024-08-04",
+    "estado": "Wisconsin",
     "etnia": "illegal",
-    "edad": 47,
+    "edad": 24,
     "sexo": "femenino",
-    "salario": 243996,
-    "estudios": "high school",
-    "religion": "christianism",
+    "salario": 50815,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 0,
+    "hijos": 4,
     "voto": "democrata"
 }

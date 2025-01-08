@@ -1,14 +1,14 @@
 {
     "id": 442,
-    "fecha_voto": "2024-02-21",
-    "estado": "West Virginia",
-    "etnia": "illegal",
-    "edad": 67,
-    "sexo": "masculino",
-    "salario": 95942,
-    "estudios": "high school",
-    "religion": "islam",
+    "fecha_voto": "2024-02-18",
+    "estado": "Massachusetts",
+    "etnia": "indian",
+    "edad": 54,
+    "sexo": "femenino",
+    "salario": 108184,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

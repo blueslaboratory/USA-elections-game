@@ -1,14 +1,14 @@
 {
     "id": 1926,
-    "fecha_voto": "2024-11-05",
+    "fecha_voto": "2024-11-04",
     "estado": "Georgia",
-    "etnia": "white",
-    "edad": 34,
-    "sexo": "femenino",
-    "salario": 166193,
-    "estudios": "graduate",
+    "etnia": "black",
+    "edad": 72,
+    "sexo": "masculino",
+    "salario": 214443,
+    "estudios": "high school",
     "religion": "hinduism",
     "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1856,
-    "fecha_voto": "2024-11-04",
-    "estado": "Louisiana",
-    "etnia": "black",
-    "edad": 74,
+    "fecha_voto": "2024-11-05",
+    "estado": "Illinois",
+    "etnia": "illegal",
+    "edad": 39,
     "sexo": "masculino",
-    "salario": 215966,
-    "estudios": "doctor",
+    "salario": 84234,
+    "estudios": "graduate",
     "religion": "islam",
-    "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
 }

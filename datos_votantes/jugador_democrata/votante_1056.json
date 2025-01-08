@@ -1,14 +1,14 @@
 {
     "id": 1056,
-    "fecha_voto": "2024-07-01",
-    "estado": "North Dakota",
-    "etnia": "hispanic",
-    "edad": 18,
-    "sexo": "masculino",
-    "salario": 96030,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
+    "fecha_voto": "2024-07-25",
+    "estado": "Arizona",
+    "etnia": "black",
+    "edad": 51,
+    "sexo": "femenino",
+    "salario": 239669,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

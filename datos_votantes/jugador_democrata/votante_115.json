@@ -1,14 +1,14 @@
 {
     "id": 115,
-    "fecha_voto": "2024-01-14",
-    "estado": "Wisconsin",
-    "etnia": "indian",
-    "edad": 83,
-    "sexo": "u",
-    "salario": 281634,
+    "fecha_voto": "2024-01-22",
+    "estado": "West Virginia",
+    "etnia": "hispanic",
+    "edad": 41,
+    "sexo": "masculino",
+    "salario": 186308,
     "estudios": "undergraduate",
-    "religion": "hinduism",
-    "casado": false,
+    "religion": "other",
+    "casado": true,
     "hijos": 5,
-    "voto": "democrata"
+    "voto": "republicano"
 }

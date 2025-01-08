@@ -1,14 +1,14 @@
 {
     "id": 1043,
-    "fecha_voto": "2024-08-04",
-    "estado": "Minnesota",
-    "etnia": "asian",
-    "edad": 44,
-    "sexo": "masculino",
-    "salario": 89221,
+    "fecha_voto": "2024-07-13",
+    "estado": "North Carolina",
+    "etnia": "black",
+    "edad": 42,
+    "sexo": "femenino",
+    "salario": 136175,
     "estudios": "graduate",
-    "religion": "other",
-    "casado": false,
+    "religion": "judaism",
+    "casado": true,
     "hijos": 4,
-    "voto": "republicano"
+    "voto": "democrata"
 }

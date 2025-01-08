@@ -1,14 +1,14 @@
 {
     "id": 284,
-    "fecha_voto": "2024-03-22",
-    "estado": "Florida",
-    "etnia": "asian",
-    "edad": 55,
+    "fecha_voto": "2024-02-15",
+    "estado": "New Hampshire",
+    "etnia": "indian",
+    "edad": 52,
     "sexo": "femenino",
-    "salario": 131461,
+    "salario": 75192,
     "estudios": "high school",
     "religion": "judaism",
-    "casado": true,
+    "casado": false,
     "hijos": 2,
     "voto": "republicano"
 }

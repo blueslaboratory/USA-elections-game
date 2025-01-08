@@ -1,14 +1,14 @@
 {
     "id": 638,
-    "fecha_voto": "2024-04-28",
-    "estado": "Alabama",
-    "etnia": "illegal",
-    "edad": 84,
+    "fecha_voto": "2024-04-25",
+    "estado": "Idaho",
+    "etnia": "black",
+    "edad": 56,
     "sexo": "femenino",
-    "salario": 43407,
-    "estudios": "undergraduate",
-    "religion": "islam",
+    "salario": 37995,
+    "estudios": "graduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 5,
     "voto": "republicano"
 }

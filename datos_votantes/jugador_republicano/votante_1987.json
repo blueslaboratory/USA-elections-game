@@ -1,14 +1,14 @@
 {
     "id": 1987,
-    "fecha_voto": "2024-11-05",
-    "estado": "Tennessee",
-    "etnia": "black",
-    "edad": 78,
-    "sexo": "femenino",
-    "salario": 86585,
+    "fecha_voto": "2024-11-04",
+    "estado": "New Mexico",
+    "etnia": "indian",
+    "edad": 96,
+    "sexo": "masculino",
+    "salario": 199582,
     "estudios": "doctor",
     "religion": "islam",
     "casado": false,
-    "hijos": 4,
+    "hijos": 2,
     "voto": "democrata"
 }

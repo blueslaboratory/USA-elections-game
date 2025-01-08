@@ -1,14 +1,14 @@
 {
     "id": 630,
-    "fecha_voto": "2024-04-04",
-    "estado": "Arizona",
-    "etnia": "illegal",
-    "edad": 87,
+    "fecha_voto": "2024-04-12",
+    "estado": "North Carolina",
+    "etnia": "hispanic",
+    "edad": 56,
     "sexo": "femenino",
-    "salario": 88126,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 5,
+    "salario": 233451,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

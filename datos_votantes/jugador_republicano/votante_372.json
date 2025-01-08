@@ -1,14 +1,14 @@
 {
     "id": 372,
-    "fecha_voto": "2024-02-26",
-    "estado": "North Carolina",
-    "etnia": "white",
-    "edad": 25,
-    "sexo": "masculino",
-    "salario": 62306,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "fecha_voto": "2024-03-12",
+    "estado": "Montana",
+    "etnia": "black",
+    "edad": 24,
+    "sexo": "femenino",
+    "salario": 185848,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

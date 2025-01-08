@@ -1,14 +1,14 @@
 {
     "id": 1201,
-    "fecha_voto": "2024-06-28",
-    "estado": "Vermont",
-    "etnia": "hispanic",
-    "edad": 40,
+    "fecha_voto": "2024-06-26",
+    "estado": "Nebraska",
+    "etnia": "asian",
+    "edad": 46,
     "sexo": "femenino",
-    "salario": 235010,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 1,
+    "salario": 131560,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

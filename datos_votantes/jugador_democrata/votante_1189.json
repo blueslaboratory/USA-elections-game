@@ -1,14 +1,14 @@
 {
     "id": 1189,
-    "fecha_voto": "2024-08-06",
-    "estado": "Arizona",
+    "fecha_voto": "2024-06-29",
+    "estado": "Nevada",
     "etnia": "illegal",
-    "edad": 45,
+    "edad": 24,
     "sexo": "femenino",
-    "salario": 165501,
-    "estudios": "high school",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "salario": 241698,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 260,
-    "fecha_voto": "2024-03-20",
-    "estado": "Florida",
-    "etnia": "black",
-    "edad": 75,
-    "sexo": "femenino",
-    "salario": 223990,
+    "fecha_voto": "2024-03-08",
+    "estado": "Alaska",
+    "etnia": "indian",
+    "edad": 39,
+    "sexo": "masculino",
+    "salario": 120091,
     "estudios": "doctor",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 0,
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

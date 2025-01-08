@@ -1,14 +1,14 @@
 {
     "id": 920,
-    "fecha_voto": "2024-06-08",
-    "estado": "Alabama",
-    "etnia": "illegal",
-    "edad": 34,
+    "fecha_voto": "2024-06-13",
+    "estado": "New Hampshire",
+    "etnia": "white",
+    "edad": 94,
     "sexo": "masculino",
-    "salario": 44150,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "salario": 96028,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

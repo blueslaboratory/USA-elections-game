@@ -1,14 +1,14 @@
 {
     "id": 1203,
-    "fecha_voto": "2024-07-19",
-    "estado": "North Dakota",
-    "etnia": "black",
+    "fecha_voto": "2024-07-13",
+    "estado": "New Jersey",
+    "etnia": "asian",
     "edad": 19,
     "sexo": "femenino",
-    "salario": 57714,
-    "estudios": "masters",
-    "religion": "islam",
+    "salario": 196393,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 0,
+    "hijos": 4,
     "voto": "democrata"
 }

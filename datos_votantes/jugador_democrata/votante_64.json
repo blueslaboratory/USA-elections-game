@@ -1,14 +1,14 @@
 {
     "id": 64,
-    "fecha_voto": "2024-01-25",
-    "estado": "Missouri",
-    "etnia": "indian",
-    "edad": 19,
-    "sexo": "u",
-    "salario": 205737,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-01-20",
+    "estado": "Mississippi",
+    "etnia": "hispanic",
+    "edad": 80,
+    "sexo": "femenino",
+    "salario": 152850,
+    "estudios": "masters",
     "religion": "other",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 92,
-    "fecha_voto": "2024-01-28",
-    "estado": "Missouri",
-    "etnia": "asian",
-    "edad": 53,
-    "sexo": "o",
-    "salario": 125773,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "fecha_voto": "2024-02-09",
+    "estado": "Colorado",
+    "etnia": "illegal",
+    "edad": 94,
+    "sexo": "femenino",
+    "salario": 193074,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

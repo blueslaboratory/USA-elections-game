@@ -1,14 +1,14 @@
 {
     "id": 776,
-    "fecha_voto": "2024-05-30",
-    "estado": "Washington",
-    "etnia": "white",
-    "edad": 29,
-    "sexo": "masculino",
-    "salario": 166645,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-06-08",
+    "estado": "Arkansas",
+    "etnia": "hispanic",
+    "edad": 26,
+    "sexo": "femenino",
+    "salario": 130061,
+    "estudios": "masters",
     "religion": "other",
     "casado": true,
-    "hijos": 4,
+    "hijos": 2,
     "voto": "democrata"
 }

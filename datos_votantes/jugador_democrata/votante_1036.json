@@ -1,14 +1,14 @@
 {
     "id": 1036,
-    "fecha_voto": "2024-08-07",
-    "estado": "Hawaii",
+    "fecha_voto": "2024-07-14",
+    "estado": "Kansas",
     "etnia": "indian",
-    "edad": 44,
+    "edad": 45,
     "sexo": "femenino",
-    "salario": 224844,
+    "salario": 231258,
     "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 0,
+    "religion": "islam",
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 622,
-    "fecha_voto": "2024-04-18",
-    "estado": "Texas",
-    "etnia": "illegal",
-    "edad": 82,
-    "sexo": "femenino",
-    "salario": 56062,
+    "fecha_voto": "2024-04-17",
+    "estado": "New Mexico",
+    "etnia": "indian",
+    "edad": 44,
+    "sexo": "masculino",
+    "salario": 48568,
     "estudios": "graduate",
-    "religion": "hinduism",
+    "religion": "islam",
     "casado": true,
-    "hijos": 4,
+    "hijos": 1,
     "voto": "republicano"
 }

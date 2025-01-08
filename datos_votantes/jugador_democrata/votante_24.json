@@ -1,14 +1,14 @@
 {
     "id": 24,
-    "fecha_voto": "2024-02-02",
-    "estado": "Louisiana",
-    "etnia": "black",
-    "edad": 22,
-    "sexo": "i",
-    "salario": 384517,
+    "fecha_voto": "2024-01-10",
+    "estado": "New Mexico",
+    "etnia": "white",
+    "edad": 36,
+    "sexo": "femenino",
+    "salario": 126501,
     "estudios": "high school",
     "religion": "atheism",
-    "casado": true,
-    "hijos": 1,
+    "casado": false,
+    "hijos": 3,
     "voto": "republicano"
 }

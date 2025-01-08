@@ -1,14 +1,14 @@
 {
     "id": 497,
-    "fecha_voto": "2024-03-17",
-    "estado": "Tennessee",
-    "etnia": "hispanic",
-    "edad": 41,
+    "fecha_voto": "2024-02-22",
+    "estado": "Wisconsin",
+    "etnia": "indian",
+    "edad": 28,
     "sexo": "masculino",
-    "salario": 111646,
-    "estudios": "masters",
-    "religion": "islam",
+    "salario": 42985,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
     "hijos": 2,
-    "voto": "republicano"
+    "voto": "democrata"
 }

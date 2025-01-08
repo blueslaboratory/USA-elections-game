@@ -1,14 +1,14 @@
 {
     "id": 1651,
-    "fecha_voto": "2024-10-26",
-    "estado": "Iowa",
-    "etnia": "indian",
-    "edad": 20,
+    "fecha_voto": "2024-10-05",
+    "estado": "New York",
+    "etnia": "hispanic",
+    "edad": 58,
     "sexo": "femenino",
-    "salario": 45827,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 3,
+    "salario": 77843,
+    "estudios": "graduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 4,
     "voto": "democrata"
 }

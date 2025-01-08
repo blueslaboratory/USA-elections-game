@@ -1,14 +1,14 @@
 {
     "id": 325,
-    "fecha_voto": "2024-02-22",
-    "estado": "West Virginia",
-    "etnia": "asian",
-    "edad": 81,
+    "fecha_voto": "2024-02-29",
+    "estado": "Michigan",
+    "etnia": "indian",
+    "edad": 30,
     "sexo": "masculino",
-    "salario": 209552,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "salario": 123596,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

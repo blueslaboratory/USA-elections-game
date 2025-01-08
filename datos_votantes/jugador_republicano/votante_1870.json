@@ -1,14 +1,14 @@
 {
     "id": 1870,
-    "fecha_voto": "2024-11-04",
-    "estado": "Idaho",
-    "etnia": "asian",
-    "edad": 19,
+    "fecha_voto": "2024-11-05",
+    "estado": "Arizona",
+    "etnia": "indian",
+    "edad": 88,
     "sexo": "masculino",
-    "salario": 237563,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
+    "salario": 177584,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "republicano"
 }

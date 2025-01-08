@@ -1,14 +1,14 @@
 {
     "id": 126,
-    "fecha_voto": "2024-01-03",
-    "estado": "Virginia",
-    "etnia": "indian",
-    "edad": 25,
-    "sexo": "s",
-    "salario": 149680,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "fecha_voto": "2024-01-18",
+    "estado": "Florida",
+    "etnia": "illegal",
+    "edad": 56,
+    "sexo": "masculino",
+    "salario": 240640,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
 }

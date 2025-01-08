@@ -1,14 +1,14 @@
 {
     "id": 1302,
-    "fecha_voto": "2024-08-31",
+    "fecha_voto": "2024-08-30",
     "estado": "New Hampshire",
-    "etnia": "illegal",
-    "edad": 22,
+    "etnia": "black",
+    "edad": 95,
     "sexo": "masculino",
-    "salario": 70366,
+    "salario": 224434,
     "estudios": "undergraduate",
-    "religion": "other",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

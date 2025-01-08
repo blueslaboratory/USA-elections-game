@@ -1,14 +1,14 @@
 {
     "id": 1033,
-    "fecha_voto": "2024-07-15",
-    "estado": "Illinois",
-    "etnia": "hispanic",
-    "edad": 40,
-    "sexo": "masculino",
-    "salario": 246531,
+    "fecha_voto": "2024-07-17",
+    "estado": "Kentucky",
+    "etnia": "illegal",
+    "edad": 51,
+    "sexo": "femenino",
+    "salario": 85620,
     "estudios": "masters",
-    "religion": "judaism",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 5,
     "voto": "democrata"
 }

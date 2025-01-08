@@ -1,14 +1,14 @@
 {
     "id": 1912,
-    "fecha_voto": "2024-11-05",
-    "estado": "Georgia",
+    "fecha_voto": "2024-11-04",
+    "estado": "Connecticut",
     "etnia": "hispanic",
-    "edad": 35,
+    "edad": 32,
     "sexo": "masculino",
-    "salario": 48391,
-    "estudios": "masters",
-    "religion": "other",
-    "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "salario": 102596,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

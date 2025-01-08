@@ -1,14 +1,14 @@
 {
     "id": 1260,
-    "fecha_voto": "2024-08-10",
-    "estado": "Louisiana",
-    "etnia": "white",
-    "edad": 79,
-    "sexo": "femenino",
-    "salario": 73371,
-    "estudios": "high school",
-    "religion": "islam",
-    "casado": true,
+    "fecha_voto": "2024-08-11",
+    "estado": "Kentucky",
+    "etnia": "hispanic",
+    "edad": 47,
+    "sexo": "masculino",
+    "salario": 202766,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": false,
     "hijos": 4,
     "voto": "republicano"
 }

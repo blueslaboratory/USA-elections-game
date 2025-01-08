@@ -1,14 +1,14 @@
 {
     "id": 38,
-    "fecha_voto": "2024-01-07",
-    "estado": "Missouri",
-    "etnia": "hispanic",
-    "edad": 63,
-    "sexo": "s",
-    "salario": 193042,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "fecha_voto": "2024-01-01",
+    "estado": "New Mexico",
+    "etnia": "illegal",
+    "edad": 93,
+    "sexo": "masculino",
+    "salario": 160531,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1209,
-    "fecha_voto": "2024-07-16",
-    "estado": "New Mexico",
-    "etnia": "white",
-    "edad": 43,
+    "fecha_voto": "2024-07-02",
+    "estado": "Nevada",
+    "etnia": "asian",
+    "edad": 51,
     "sexo": "femenino",
-    "salario": 102206,
-    "estudios": "doctor",
-    "religion": "christianism",
+    "salario": 206784,
+    "estudios": "high school",
+    "religion": "islam",
     "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

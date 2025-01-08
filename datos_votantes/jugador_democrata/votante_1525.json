@@ -1,14 +1,14 @@
 {
     "id": 1525,
-    "fecha_voto": "2024-09-30",
-    "estado": "Iowa",
-    "etnia": "white",
-    "edad": 28,
+    "fecha_voto": "2024-10-10",
+    "estado": "Mississippi",
+    "etnia": "illegal",
+    "edad": 89,
     "sexo": "femenino",
-    "salario": 160317,
-    "estudios": "doctor",
-    "religion": "islam",
+    "salario": 186783,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1110,
-    "fecha_voto": "2024-07-19",
-    "estado": "Nevada",
-    "etnia": "asian",
-    "edad": 19,
-    "sexo": "masculino",
-    "salario": 214076,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "fecha_voto": "2024-07-23",
+    "estado": "New Mexico",
+    "etnia": "illegal",
+    "edad": 47,
+    "sexo": "femenino",
+    "salario": 172887,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
 }

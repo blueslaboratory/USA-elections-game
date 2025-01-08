@@ -1,14 +1,14 @@
 {
     "id": 1388,
-    "fecha_voto": "2024-08-18",
-    "estado": "South Dakota",
-    "etnia": "illegal",
-    "edad": 80,
+    "fecha_voto": "2024-09-15",
+    "estado": "Kentucky",
+    "etnia": "white",
+    "edad": 93,
     "sexo": "masculino",
-    "salario": 243800,
-    "estudios": "masters",
-    "religion": "other",
+    "salario": 170694,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 99,
-    "fecha_voto": "2024-02-11",
-    "estado": "Montana",
-    "etnia": "illegal",
-    "edad": 89,
-    "sexo": "n",
-    "salario": 215950,
-    "estudios": "doctor",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "fecha_voto": "2024-02-09",
+    "estado": "Pennsylvania",
+    "etnia": "black",
+    "edad": 75,
+    "sexo": "femenino",
+    "salario": 77526,
+    "estudios": "high school",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

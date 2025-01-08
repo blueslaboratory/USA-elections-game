@@ -1,14 +1,14 @@
 {
     "id": 1205,
-    "fecha_voto": "2024-07-31",
-    "estado": "Massachusetts",
-    "etnia": "indian",
-    "edad": 44,
-    "sexo": "masculino",
-    "salario": 233858,
-    "estudios": "graduate",
-    "religion": "islam",
+    "fecha_voto": "2024-07-29",
+    "estado": "Utah",
+    "etnia": "black",
+    "edad": 35,
+    "sexo": "femenino",
+    "salario": 40025,
+    "estudios": "high school",
+    "religion": "other",
     "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

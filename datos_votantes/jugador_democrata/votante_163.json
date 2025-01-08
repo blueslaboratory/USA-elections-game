@@ -1,14 +1,14 @@
 {
     "id": 163,
-    "fecha_voto": "2024-01-08",
-    "estado": "Oregon",
-    "etnia": "white",
-    "edad": 37,
-    "sexo": "l",
-    "salario": 143585,
+    "fecha_voto": "2024-02-02",
+    "estado": "Colorado",
+    "etnia": "hispanic",
+    "edad": 66,
+    "sexo": "femenino",
+    "salario": 46706,
     "estudios": "doctor",
     "religion": "hinduism",
-    "casado": true,
-    "hijos": 2,
+    "casado": false,
+    "hijos": 1,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 705,
-    "fecha_voto": "2024-04-12",
-    "estado": "Kentucky",
-    "etnia": "illegal",
-    "edad": 98,
-    "sexo": "femenino",
-    "salario": 151709,
+    "fecha_voto": "2024-04-11",
+    "estado": "Georgia",
+    "etnia": "white",
+    "edad": 66,
+    "sexo": "masculino",
+    "salario": 59388,
     "estudios": "masters",
-    "religion": "christianism",
-    "casado": true,
+    "religion": "judaism",
+    "casado": false,
     "hijos": 5,
-    "voto": "democrata"
+    "voto": "republicano"
 }

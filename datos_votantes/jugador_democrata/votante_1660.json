@@ -1,14 +1,14 @@
 {
     "id": 1660,
-    "fecha_voto": "2024-10-22",
+    "fecha_voto": "2024-10-26",
     "estado": "Wisconsin",
-    "etnia": "hispanic",
-    "edad": 20,
-    "sexo": "femenino",
-    "salario": 67854,
+    "etnia": "illegal",
+    "edad": 26,
+    "sexo": "masculino",
+    "salario": 240033,
     "estudios": "undergraduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 3,
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

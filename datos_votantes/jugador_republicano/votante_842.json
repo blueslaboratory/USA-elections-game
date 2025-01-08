@@ -1,14 +1,14 @@
 {
     "id": 842,
-    "fecha_voto": "2024-06-04",
-    "estado": "Rhode Island",
-    "etnia": "illegal",
-    "edad": 24,
+    "fecha_voto": "2024-06-06",
+    "estado": "West Virginia",
+    "etnia": "white",
+    "edad": 41,
     "sexo": "masculino",
-    "salario": 243541,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": false,
+    "salario": 142409,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
     "hijos": 0,
     "voto": "republicano"
 }

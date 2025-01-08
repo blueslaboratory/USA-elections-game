@@ -1,14 +1,14 @@
 {
     "id": 1438,
-    "fecha_voto": "2024-08-31",
-    "estado": "Alabama",
-    "etnia": "hispanic",
-    "edad": 85,
-    "sexo": "masculino",
-    "salario": 227155,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "fecha_voto": "2024-08-30",
+    "estado": "Montana",
+    "etnia": "illegal",
+    "edad": 66,
+    "sexo": "femenino",
+    "salario": 96975,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
 }

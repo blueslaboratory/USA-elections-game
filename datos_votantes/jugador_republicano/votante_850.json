@@ -1,14 +1,14 @@
 {
     "id": 850,
-    "fecha_voto": "2024-06-20",
-    "estado": "Vermont",
-    "etnia": "illegal",
-    "edad": 42,
+    "fecha_voto": "2024-05-15",
+    "estado": "New Jersey",
+    "etnia": "hispanic",
+    "edad": 79,
     "sexo": "masculino",
-    "salario": 235238,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "salario": 48565,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

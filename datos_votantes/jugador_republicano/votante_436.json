@@ -1,14 +1,14 @@
 {
     "id": 436,
-    "fecha_voto": "2024-03-21",
-    "estado": "Idaho",
-    "etnia": "white",
-    "edad": 53,
-    "sexo": "femenino",
-    "salario": 204094,
-    "estudios": "doctor",
+    "fecha_voto": "2024-02-28",
+    "estado": "West Virginia",
+    "etnia": "hispanic",
+    "edad": 50,
+    "sexo": "masculino",
+    "salario": 209708,
+    "estudios": "high school",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 5,
+    "casado": true,
+    "hijos": 2,
     "voto": "republicano"
 }

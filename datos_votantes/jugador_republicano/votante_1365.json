@@ -1,14 +1,14 @@
 {
     "id": 1365,
-    "fecha_voto": "2024-09-08",
+    "fecha_voto": "2024-08-22",
     "estado": "Colorado",
-    "etnia": "illegal",
-    "edad": 19,
-    "sexo": "masculino",
-    "salario": 87499,
+    "etnia": "white",
+    "edad": 84,
+    "sexo": "femenino",
+    "salario": 208114,
     "estudios": "masters",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 5,
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

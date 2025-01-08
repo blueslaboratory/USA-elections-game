@@ -1,14 +1,14 @@
 {
     "id": 1534,
-    "fecha_voto": "2024-10-11",
-    "estado": "Louisiana",
-    "etnia": "illegal",
-    "edad": 34,
-    "sexo": "femenino",
-    "salario": 91057,
-    "estudios": "masters",
+    "fecha_voto": "2024-10-01",
+    "estado": "New Jersey",
+    "etnia": "hispanic",
+    "edad": 54,
+    "sexo": "masculino",
+    "salario": 94410,
+    "estudios": "graduate",
     "religion": "christianism",
     "casado": true,
     "hijos": 4,
-    "voto": "democrata"
+    "voto": "republicano"
 }

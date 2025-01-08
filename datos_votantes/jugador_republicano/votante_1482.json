@@ -1,14 +1,14 @@
 {
     "id": 1482,
-    "fecha_voto": "2024-09-20",
-    "estado": "Virginia",
-    "etnia": "illegal",
-    "edad": 35,
-    "sexo": "masculino",
-    "salario": 211996,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "fecha_voto": "2024-09-03",
+    "estado": "Utah",
+    "etnia": "hispanic",
+    "edad": 46,
+    "sexo": "femenino",
+    "salario": 177609,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 161,
-    "fecha_voto": "2024-02-06",
-    "estado": "New Mexico",
-    "etnia": "asian",
-    "edad": 40,
-    "sexo": "c",
-    "salario": 100774,
-    "estudios": "masters",
-    "religion": "christianism",
+    "fecha_voto": "2024-01-23",
+    "estado": "New Hampshire",
+    "etnia": "hispanic",
+    "edad": 44,
+    "sexo": "masculino",
+    "salario": 195183,
+    "estudios": "high school",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

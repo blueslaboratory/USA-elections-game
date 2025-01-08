@@ -1,14 +1,14 @@
 {
     "id": 689,
-    "fecha_voto": "2024-04-23",
-    "estado": "Delaware",
-    "etnia": "hispanic",
-    "edad": 74,
-    "sexo": "masculino",
-    "salario": 135614,
+    "fecha_voto": "2024-04-12",
+    "estado": "Mississippi",
+    "etnia": "black",
+    "edad": 25,
+    "sexo": "femenino",
+    "salario": 125140,
     "estudios": "masters",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 1,
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 3,
     "voto": "democrata"
 }

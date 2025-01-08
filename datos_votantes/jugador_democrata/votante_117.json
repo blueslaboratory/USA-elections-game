@@ -1,14 +1,14 @@
 {
     "id": 117,
-    "fecha_voto": "2024-02-02",
-    "estado": "Arizona",
+    "fecha_voto": "2024-01-01",
+    "estado": "Nebraska",
     "etnia": "black",
-    "edad": 84,
-    "sexo": "i",
-    "salario": 398824,
+    "edad": 42,
+    "sexo": "masculino",
+    "salario": 194808,
     "estudios": "masters",
-    "religion": "other",
+    "religion": "islam",
     "casado": true,
-    "hijos": 5,
+    "hijos": 4,
     "voto": "democrata"
 }

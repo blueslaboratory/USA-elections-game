@@ -1,14 +1,14 @@
 {
     "id": 1456,
-    "fecha_voto": "2024-09-02",
-    "estado": "Nebraska",
-    "etnia": "white",
-    "edad": 30,
+    "fecha_voto": "2024-09-15",
+    "estado": "South Dakota",
+    "etnia": "asian",
+    "edad": 41,
     "sexo": "femenino",
-    "salario": 214739,
-    "estudios": "undergraduate",
+    "salario": 99609,
+    "estudios": "masters",
     "religion": "christianism",
-    "casado": true,
+    "casado": false,
     "hijos": 5,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 742,
-    "fecha_voto": "2024-04-15",
-    "estado": "North Dakota",
+    "fecha_voto": "2024-04-22",
+    "estado": "Hawaii",
     "etnia": "illegal",
-    "edad": 90,
+    "edad": 20,
     "sexo": "masculino",
-    "salario": 204939,
-    "estudios": "high school",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "salario": 173210,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

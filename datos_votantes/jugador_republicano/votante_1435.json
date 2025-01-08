@@ -1,14 +1,14 @@
 {
     "id": 1435,
-    "fecha_voto": "2024-08-20",
-    "estado": "New Hampshire",
-    "etnia": "indian",
-    "edad": 73,
-    "sexo": "femenino",
-    "salario": 161813,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
+    "fecha_voto": "2024-08-30",
+    "estado": "Missouri",
+    "etnia": "hispanic",
+    "edad": 25,
+    "sexo": "masculino",
+    "salario": 117828,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": true,
     "hijos": 3,
     "voto": "democrata"
 }

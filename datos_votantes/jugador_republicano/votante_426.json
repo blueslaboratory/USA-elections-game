@@ -1,14 +1,14 @@
 {
     "id": 426,
-    "fecha_voto": "2024-03-04",
-    "estado": "Nebraska",
-    "etnia": "indian",
-    "edad": 81,
+    "fecha_voto": "2024-03-03",
+    "estado": "Montana",
+    "etnia": "hispanic",
+    "edad": 37,
     "sexo": "femenino",
-    "salario": 59357,
-    "estudios": "masters",
-    "religion": "islam",
+    "salario": 242421,
+    "estudios": "graduate",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "democrata"
 }

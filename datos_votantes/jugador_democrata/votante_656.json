@@ -1,14 +1,14 @@
 {
     "id": 656,
-    "fecha_voto": "2024-04-12",
-    "estado": "New Hampshire",
-    "etnia": "illegal",
-    "edad": 66,
+    "fecha_voto": "2024-04-04",
+    "estado": "Oklahoma",
+    "etnia": "hispanic",
+    "edad": 34,
     "sexo": "masculino",
-    "salario": 122505,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": true,
-    "hijos": 0,
+    "salario": 48154,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
     "voto": "republicano"
 }

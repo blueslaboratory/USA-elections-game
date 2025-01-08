@@ -1,14 +1,14 @@
 {
     "id": 1596,
-    "fecha_voto": "2024-10-09",
-    "estado": "Michigan",
+    "fecha_voto": "2024-09-24",
+    "estado": "Massachusetts",
     "etnia": "illegal",
-    "edad": 31,
+    "edad": 63,
     "sexo": "femenino",
-    "salario": 162299,
-    "estudios": "graduate",
-    "religion": "islam",
+    "salario": 231953,
+    "estudios": "high school",
+    "religion": "other",
     "casado": false,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "democrata"
 }

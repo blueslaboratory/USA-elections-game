@@ -1,14 +1,14 @@
 {
     "id": 1486,
-    "fecha_voto": "2024-08-18",
-    "estado": "Kentucky",
-    "etnia": "hispanic",
-    "edad": 66,
+    "fecha_voto": "2024-09-14",
+    "estado": "Texas",
+    "etnia": "indian",
+    "edad": 33,
     "sexo": "femenino",
-    "salario": 101710,
-    "estudios": "graduate",
-    "religion": "hinduism",
+    "salario": 219514,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": false,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "democrata"
 }

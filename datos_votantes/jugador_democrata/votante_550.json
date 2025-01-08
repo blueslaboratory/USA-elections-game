@@ -1,14 +1,14 @@
 {
     "id": 550,
-    "fecha_voto": "2024-05-03",
-    "estado": "Oklahoma",
-    "etnia": "hispanic",
-    "edad": 39,
+    "fecha_voto": "2024-04-10",
+    "estado": "Wyoming",
+    "etnia": "white",
+    "edad": 60,
     "sexo": "femenino",
-    "salario": 49429,
-    "estudios": "graduate",
-    "religion": "islam",
+    "salario": 160383,
+    "estudios": "masters",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 1,
+    "hijos": 4,
     "voto": "republicano"
 }

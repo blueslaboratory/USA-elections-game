@@ -1,14 +1,14 @@
 {
     "id": 342,
-    "fecha_voto": "2024-03-17",
-    "estado": "Colorado",
-    "etnia": "illegal",
-    "edad": 71,
+    "fecha_voto": "2024-02-24",
+    "estado": "New York",
+    "etnia": "asian",
+    "edad": 45,
     "sexo": "masculino",
-    "salario": 247477,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "salario": 169638,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

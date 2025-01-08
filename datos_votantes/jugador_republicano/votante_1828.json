@@ -1,14 +1,14 @@
 {
     "id": 1828,
     "fecha_voto": "2024-11-04",
-    "estado": "Florida",
-    "etnia": "white",
-    "edad": 48,
+    "estado": "West Virginia",
+    "etnia": "hispanic",
+    "edad": 60,
     "sexo": "masculino",
-    "salario": 167840,
-    "estudios": "graduate",
+    "salario": 232241,
+    "estudios": "masters",
     "religion": "atheism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 1,
     "voto": "republicano"
 }

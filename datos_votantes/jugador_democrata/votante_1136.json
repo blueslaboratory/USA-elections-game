@@ -1,14 +1,14 @@
 {
     "id": 1136,
-    "fecha_voto": "2024-08-04",
-    "estado": "Montana",
-    "etnia": "white",
-    "edad": 32,
+    "fecha_voto": "2024-08-07",
+    "estado": "Kentucky",
+    "etnia": "indian",
+    "edad": 42,
     "sexo": "femenino",
-    "salario": 47310,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
+    "salario": 85263,
+    "estudios": "doctor",
+    "religion": "judaism",
+    "casado": false,
     "hijos": 0,
     "voto": "democrata"
 }

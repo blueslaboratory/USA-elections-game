@@ -1,14 +1,14 @@
 {
     "id": 195,
-    "fecha_voto": "2024-01-28",
-    "estado": "Arizona",
+    "fecha_voto": "2024-02-09",
+    "estado": "Florida",
     "etnia": "black",
-    "edad": 64,
-    "sexo": "m",
-    "salario": 356410,
-    "estudios": "doctor",
-    "religion": "islam",
+    "edad": 81,
+    "sexo": "femenino",
+    "salario": 185296,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

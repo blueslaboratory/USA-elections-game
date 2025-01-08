@@ -1,14 +1,14 @@
 {
     "id": 1335,
-    "fecha_voto": "2024-08-20",
-    "estado": "Alabama",
-    "etnia": "indian",
-    "edad": 44,
+    "fecha_voto": "2024-09-02",
+    "estado": "Kentucky",
+    "etnia": "asian",
+    "edad": 51,
     "sexo": "femenino",
-    "salario": 240979,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 3,
+    "salario": 68434,
+    "estudios": "high school",
+    "religion": "other",
+    "casado": true,
+    "hijos": 0,
     "voto": "republicano"
 }

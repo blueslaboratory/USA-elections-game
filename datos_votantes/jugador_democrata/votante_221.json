@@ -1,14 +1,14 @@
 {
     "id": 221,
-    "fecha_voto": "2024-02-02",
-    "estado": "Wisconsin",
+    "fecha_voto": "2024-01-11",
+    "estado": "Pennsylvania",
     "etnia": "black",
-    "edad": 22,
-    "sexo": "o",
-    "salario": 154752,
-    "estudios": "undergraduate",
-    "religion": "atheism",
+    "edad": 51,
+    "sexo": "masculino",
+    "salario": 133329,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

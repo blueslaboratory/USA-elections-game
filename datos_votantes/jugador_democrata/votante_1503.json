@@ -1,14 +1,14 @@
 {
     "id": 1503,
-    "fecha_voto": "2024-09-28",
-    "estado": "Florida",
-    "etnia": "white",
-    "edad": 24,
+    "fecha_voto": "2024-10-07",
+    "estado": "Nevada",
+    "etnia": "illegal",
+    "edad": 78,
     "sexo": "femenino",
-    "salario": 181912,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "salario": 183482,
+    "estudios": "masters",
+    "religion": "other",
     "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

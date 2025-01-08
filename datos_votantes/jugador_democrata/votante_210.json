@@ -1,14 +1,14 @@
 {
     "id": 210,
-    "fecha_voto": "2024-01-22",
-    "estado": "Maryland",
+    "fecha_voto": "2024-01-15",
+    "estado": "Pennsylvania",
     "etnia": "black",
-    "edad": 82,
-    "sexo": "m",
-    "salario": 384192,
+    "edad": 84,
+    "sexo": "masculino",
+    "salario": 199485,
     "estudios": "undergraduate",
-    "religion": "judaism",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 427,
-    "fecha_voto": "2024-02-17",
-    "estado": "Utah",
-    "etnia": "illegal",
-    "edad": 57,
+    "fecha_voto": "2024-02-23",
+    "estado": "Michigan",
+    "etnia": "black",
+    "edad": 30,
     "sexo": "femenino",
-    "salario": 123675,
-    "estudios": "high school",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "salario": 85723,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
 }

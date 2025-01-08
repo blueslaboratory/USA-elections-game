@@ -1,14 +1,14 @@
 {
     "id": 107,
-    "fecha_voto": "2024-01-13",
-    "estado": "Nevada",
-    "etnia": "illegal",
-    "edad": 80,
-    "sexo": "u",
-    "salario": 228701,
-    "estudios": "high school",
-    "religion": "christianism",
+    "fecha_voto": "2024-02-06",
+    "estado": "Nebraska",
+    "etnia": "black",
+    "edad": 73,
+    "sexo": "femenino",
+    "salario": 197861,
+    "estudios": "masters",
+    "religion": "islam",
     "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

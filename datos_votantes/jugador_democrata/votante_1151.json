@@ -1,14 +1,14 @@
 {
     "id": 1151,
-    "fecha_voto": "2024-07-25",
-    "estado": "Washington",
-    "etnia": "hispanic",
-    "edad": 35,
+    "fecha_voto": "2024-08-01",
+    "estado": "Oregon",
+    "etnia": "white",
+    "edad": 36,
     "sexo": "femenino",
-    "salario": 188737,
-    "estudios": "undergraduate",
-    "religion": "christianism",
+    "salario": 108129,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
+    "hijos": 4,
     "voto": "democrata"
 }

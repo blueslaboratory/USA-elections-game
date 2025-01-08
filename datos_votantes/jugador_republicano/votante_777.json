@@ -1,14 +1,14 @@
 {
     "id": 777,
-    "fecha_voto": "2024-05-26",
-    "estado": "Delaware",
+    "fecha_voto": "2024-06-08",
+    "estado": "Virginia",
     "etnia": "white",
-    "edad": 49,
-    "sexo": "masculino",
-    "salario": 200473,
-    "estudios": "high school",
+    "edad": 93,
+    "sexo": "femenino",
+    "salario": 97703,
+    "estudios": "undergraduate",
     "religion": "other",
     "casado": false,
-    "hijos": 4,
+    "hijos": 5,
     "voto": "republicano"
 }

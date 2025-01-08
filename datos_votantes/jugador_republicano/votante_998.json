@@ -1,14 +1,14 @@
 {
     "id": 998,
-    "fecha_voto": "2024-06-24",
-    "estado": "Rhode Island",
-    "etnia": "indian",
-    "edad": 53,
+    "fecha_voto": "2024-06-07",
+    "estado": "Utah",
+    "etnia": "hispanic",
+    "edad": 78,
     "sexo": "masculino",
-    "salario": 112008,
+    "salario": 200053,
     "estudios": "masters",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

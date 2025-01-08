@@ -1,14 +1,14 @@
 {
     "id": 1663,
-    "fecha_voto": "2024-10-14",
-    "estado": "Pennsylvania",
-    "etnia": "illegal",
-    "edad": 30,
+    "fecha_voto": "2024-10-05",
+    "estado": "Alabama",
+    "etnia": "hispanic",
+    "edad": 39,
     "sexo": "femenino",
-    "salario": 49491,
-    "estudios": "graduate",
-    "religion": "islam",
+    "salario": 175692,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 644,
-    "fecha_voto": "2024-04-05",
-    "estado": "Tennessee",
+    "fecha_voto": "2024-05-05",
+    "estado": "Oklahoma",
     "etnia": "hispanic",
-    "edad": 70,
-    "sexo": "femenino",
-    "salario": 223462,
-    "estudios": "high school",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
+    "edad": 75,
+    "sexo": "masculino",
+    "salario": 60316,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

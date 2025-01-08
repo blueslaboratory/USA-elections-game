@@ -1,14 +1,14 @@
 {
     "id": 1170,
-    "fecha_voto": "2024-07-06",
-    "estado": "Louisiana",
-    "etnia": "asian",
-    "edad": 18,
+    "fecha_voto": "2024-07-09",
+    "estado": "Florida",
+    "etnia": "indian",
+    "edad": 37,
     "sexo": "femenino",
-    "salario": 230185,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "salario": 149232,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

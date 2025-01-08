@@ -1,14 +1,14 @@
 {
     "id": 180,
-    "fecha_voto": "2024-01-15",
-    "estado": "Minnesota",
-    "etnia": "indian",
-    "edad": 94,
-    "sexo": "i",
-    "salario": 230519,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-02-09",
+    "estado": "Arkansas",
+    "etnia": "hispanic",
+    "edad": 90,
+    "sexo": "femenino",
+    "salario": 69471,
+    "estudios": "high school",
     "religion": "other",
     "casado": false,
-    "hijos": 4,
+    "hijos": 1,
     "voto": "republicano"
 }

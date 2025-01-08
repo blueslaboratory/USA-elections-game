@@ -1,14 +1,14 @@
 {
     "id": 1551,
-    "fecha_voto": "2024-09-29",
-    "estado": "New Mexico",
-    "etnia": "white",
-    "edad": 26,
+    "fecha_voto": "2024-10-30",
+    "estado": "Pennsylvania",
+    "etnia": "illegal",
+    "edad": 31,
     "sexo": "femenino",
-    "salario": 144401,
-    "estudios": "undergraduate",
+    "salario": 204649,
+    "estudios": "doctor",
     "religion": "other",
-    "casado": false,
-    "hijos": 4,
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

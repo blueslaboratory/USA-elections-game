@@ -1,14 +1,14 @@
 {
     "id": 461,
-    "fecha_voto": "2024-03-05",
-    "estado": "Alaska",
-    "etnia": "indian",
-    "edad": 85,
+    "fecha_voto": "2024-03-07",
+    "estado": "Indiana",
+    "etnia": "asian",
+    "edad": 47,
     "sexo": "femenino",
-    "salario": 155783,
+    "salario": 186972,
     "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 2,
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

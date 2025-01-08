@@ -1,14 +1,14 @@
 {
     "id": 991,
-    "fecha_voto": "2024-06-18",
-    "estado": "Maine",
-    "etnia": "illegal",
-    "edad": 47,
-    "sexo": "masculino",
-    "salario": 181438,
-    "estudios": "high school",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "fecha_voto": "2024-05-25",
+    "estado": "North Carolina",
+    "etnia": "hispanic",
+    "edad": 93,
+    "sexo": "femenino",
+    "salario": 124536,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
 }

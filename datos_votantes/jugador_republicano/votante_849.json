@@ -1,14 +1,14 @@
 {
     "id": 849,
-    "fecha_voto": "2024-06-01",
-    "estado": "Alabama",
-    "etnia": "illegal",
-    "edad": 23,
+    "fecha_voto": "2024-06-11",
+    "estado": "Illinois",
+    "etnia": "hispanic",
+    "edad": 27,
     "sexo": "masculino",
-    "salario": 205066,
+    "salario": 71785,
     "estudios": "doctor",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 1,
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 2,
     "voto": "democrata"
 }

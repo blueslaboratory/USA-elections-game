@@ -1,14 +1,14 @@
 {
     "id": 1014,
-    "fecha_voto": "2024-06-28",
-    "estado": "Oregon",
-    "etnia": "indian",
-    "edad": 21,
+    "fecha_voto": "2024-07-30",
+    "estado": "Michigan",
+    "etnia": "illegal",
+    "edad": 37,
     "sexo": "femenino",
-    "salario": 50354,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 4,
+    "salario": 228668,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

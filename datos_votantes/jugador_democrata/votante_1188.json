@@ -1,14 +1,14 @@
 {
     "id": 1188,
-    "fecha_voto": "2024-07-01",
-    "estado": "West Virginia",
-    "etnia": "hispanic",
-    "edad": 39,
+    "fecha_voto": "2024-07-31",
+    "estado": "Kansas",
+    "etnia": "white",
+    "edad": 35,
     "sexo": "femenino",
-    "salario": 93961,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "salario": 202272,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
 }

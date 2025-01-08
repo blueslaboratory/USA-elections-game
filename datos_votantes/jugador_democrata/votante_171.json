@@ -1,14 +1,14 @@
 {
     "id": 171,
     "fecha_voto": "2024-01-11",
-    "estado": "Nebraska",
-    "etnia": "white",
-    "edad": 49,
-    "sexo": "l",
-    "salario": 223302,
-    "estudios": "doctor",
+    "estado": "New Hampshire",
+    "etnia": "illegal",
+    "edad": 87,
+    "sexo": "femenino",
+    "salario": 182375,
+    "estudios": "masters",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

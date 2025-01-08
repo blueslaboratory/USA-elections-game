@@ -1,14 +1,14 @@
 {
     "id": 1109,
-    "fecha_voto": "2024-06-29",
-    "estado": "Rhode Island",
+    "fecha_voto": "2024-07-25",
+    "estado": "Maine",
     "etnia": "black",
-    "edad": 31,
-    "sexo": "masculino",
-    "salario": 165604,
+    "edad": 43,
+    "sexo": "femenino",
+    "salario": 172044,
     "estudios": "masters",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 3,
+    "religion": "other",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

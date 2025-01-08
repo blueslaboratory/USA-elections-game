@@ -1,14 +1,14 @@
 {
     "id": 1585,
-    "fecha_voto": "2024-11-02",
-    "estado": "Tennessee",
-    "etnia": "indian",
-    "edad": 20,
+    "fecha_voto": "2024-10-07",
+    "estado": "Hawaii",
+    "etnia": "illegal",
+    "edad": 54,
     "sexo": "femenino",
-    "salario": 161996,
-    "estudios": "high school",
+    "salario": 249323,
+    "estudios": "masters",
     "religion": "atheism",
-    "casado": true,
-    "hijos": 5,
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

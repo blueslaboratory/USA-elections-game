@@ -1,14 +1,14 @@
 {
     "id": 249,
-    "fecha_voto": "2024-01-24",
-    "estado": "Nebraska",
-    "etnia": "black",
-    "edad": 40,
-    "sexo": "s",
-    "salario": 181535,
+    "fecha_voto": "2024-01-30",
+    "estado": "West Virginia",
+    "etnia": "illegal",
+    "edad": 58,
+    "sexo": "masculino",
+    "salario": 193000,
     "estudios": "high school",
-    "religion": "other",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "republicano"
 }

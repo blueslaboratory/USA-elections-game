@@ -1,14 +1,14 @@
 {
     "id": 1093,
-    "fecha_voto": "2024-07-07",
-    "estado": "Pennsylvania",
+    "fecha_voto": "2024-07-12",
+    "estado": "Wyoming",
     "etnia": "white",
-    "edad": 24,
-    "sexo": "masculino",
-    "salario": 125532,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "edad": 30,
+    "sexo": "femenino",
+    "salario": 157791,
+    "estudios": "high school",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 1,
+    "hijos": 4,
     "voto": "republicano"
 }

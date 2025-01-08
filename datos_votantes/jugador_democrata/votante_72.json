@@ -1,14 +1,14 @@
 {
     "id": 72,
-    "fecha_voto": "2024-02-05",
-    "estado": "Oregon",
-    "etnia": "white",
-    "edad": 52,
-    "sexo": "i",
-    "salario": 151041,
+    "fecha_voto": "2024-01-22",
+    "estado": "Nevada",
+    "etnia": "illegal",
+    "edad": 77,
+    "sexo": "masculino",
+    "salario": 73693,
     "estudios": "masters",
-    "religion": "atheism",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "democrata"
 }

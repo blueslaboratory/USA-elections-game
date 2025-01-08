@@ -1,14 +1,14 @@
 {
     "id": 1509,
-    "fecha_voto": "2024-10-12",
-    "estado": "Idaho",
-    "etnia": "hispanic",
-    "edad": 31,
-    "sexo": "femenino",
-    "salario": 184025,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "fecha_voto": "2024-09-22",
+    "estado": "New Mexico",
+    "etnia": "illegal",
+    "edad": 86,
+    "sexo": "masculino",
+    "salario": 103539,
+    "estudios": "masters",
+    "religion": "other",
     "casado": false,
-    "hijos": 5,
+    "hijos": 0,
     "voto": "democrata"
 }

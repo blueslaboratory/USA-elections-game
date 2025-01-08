@@ -1,14 +1,14 @@
 {
     "id": 1215,
-    "fecha_voto": "2024-07-01",
-    "estado": "Indiana",
-    "etnia": "hispanic",
-    "edad": 26,
+    "fecha_voto": "2024-06-28",
+    "estado": "Maine",
+    "etnia": "illegal",
+    "edad": 43,
     "sexo": "femenino",
-    "salario": 140722,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
+    "salario": 233225,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": false,
     "hijos": 1,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1074,
-    "fecha_voto": "2024-07-24",
-    "estado": "Virginia",
+    "fecha_voto": "2024-07-22",
+    "estado": "Wisconsin",
     "etnia": "illegal",
-    "edad": 24,
+    "edad": 50,
     "sexo": "femenino",
-    "salario": 44537,
-    "estudios": "undergraduate",
+    "salario": 229630,
+    "estudios": "doctor",
     "religion": "atheism",
-    "casado": true,
+    "casado": false,
     "hijos": 1,
     "voto": "democrata"
 }

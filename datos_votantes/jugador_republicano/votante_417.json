@@ -1,14 +1,14 @@
 {
     "id": 417,
-    "fecha_voto": "2024-03-24",
-    "estado": "Missouri",
-    "etnia": "indian",
-    "edad": 50,
+    "fecha_voto": "2024-02-15",
+    "estado": "Nevada",
+    "etnia": "illegal",
+    "edad": 43,
     "sexo": "masculino",
-    "salario": 133994,
+    "salario": 83443,
     "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 3,
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 0,
     "voto": "republicano"
 }

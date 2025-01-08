@@ -1,14 +1,14 @@
 {
     "id": 254,
-    "fecha_voto": "2024-03-08",
-    "estado": "Michigan",
-    "etnia": "hispanic",
-    "edad": 43,
+    "fecha_voto": "2024-02-20",
+    "estado": "Rhode Island",
+    "etnia": "black",
+    "edad": 47,
     "sexo": "femenino",
-    "salario": 66572,
+    "salario": 127990,
     "estudios": "undergraduate",
-    "religion": "christianism",
+    "religion": "islam",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

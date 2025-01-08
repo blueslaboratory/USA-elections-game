@@ -1,14 +1,14 @@
 {
     "id": 750,
-    "fecha_voto": "2024-04-12",
-    "estado": "Montana",
-    "etnia": "hispanic",
-    "edad": 68,
-    "sexo": "masculino",
-    "salario": 62225,
-    "estudios": "doctor",
-    "religion": "islam",
-    "casado": true,
+    "fecha_voto": "2024-04-20",
+    "estado": "Utah",
+    "etnia": "white",
+    "edad": 43,
+    "sexo": "femenino",
+    "salario": 218969,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": false,
     "hijos": 1,
     "voto": "republicano"
 }

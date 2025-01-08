@@ -1,14 +1,14 @@
 {
     "id": 247,
-    "fecha_voto": "2024-01-27",
-    "estado": "Georgia",
-    "etnia": "illegal",
-    "edad": 94,
-    "sexo": "o",
-    "salario": 141114,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "fecha_voto": "2024-02-01",
+    "estado": "Idaho",
+    "etnia": "black",
+    "edad": 45,
+    "sexo": "masculino",
+    "salario": 189174,
+    "estudios": "masters",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 335,
-    "fecha_voto": "2024-03-25",
-    "estado": "Indiana",
-    "etnia": "hispanic",
-    "edad": 61,
+    "fecha_voto": "2024-03-21",
+    "estado": "Hawaii",
+    "etnia": "black",
+    "edad": 41,
     "sexo": "femenino",
-    "salario": 189901,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "salario": 102441,
+    "estudios": "graduate",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 0,
+    "hijos": 4,
     "voto": "democrata"
 }

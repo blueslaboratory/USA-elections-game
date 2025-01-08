@@ -1,14 +1,14 @@
 {
     "id": 1993,
     "fecha_voto": "2024-11-04",
-    "estado": "Alabama",
-    "etnia": "white",
-    "edad": 91,
-    "sexo": "femenino",
-    "salario": 91667,
-    "estudios": "undergraduate",
+    "estado": "Iowa",
+    "etnia": "black",
+    "edad": 42,
+    "sexo": "masculino",
+    "salario": 243411,
+    "estudios": "masters",
     "religion": "islam",
-    "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

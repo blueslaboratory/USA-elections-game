@@ -1,14 +1,14 @@
 {
     "id": 1261,
-    "fecha_voto": "2024-08-11",
-    "estado": "Utah",
-    "etnia": "asian",
-    "edad": 63,
-    "sexo": "femenino",
-    "salario": 166246,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "fecha_voto": "2024-09-14",
+    "estado": "New Hampshire",
+    "etnia": "indian",
+    "edad": 46,
+    "sexo": "masculino",
+    "salario": 192062,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

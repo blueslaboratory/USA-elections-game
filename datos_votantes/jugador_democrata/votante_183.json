@@ -1,14 +1,14 @@
 {
     "id": 183,
-    "fecha_voto": "2024-02-08",
-    "estado": "Texas",
-    "etnia": "asian",
-    "edad": 96,
-    "sexo": "l",
-    "salario": 271741,
-    "estudios": "doctor",
+    "fecha_voto": "2024-01-30",
+    "estado": "Georgia",
+    "etnia": "hispanic",
+    "edad": 76,
+    "sexo": "masculino",
+    "salario": 63204,
+    "estudios": "masters",
     "religion": "other",
     "casado": false,
-    "hijos": 0,
+    "hijos": 3,
     "voto": "republicano"
 }

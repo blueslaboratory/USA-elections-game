@@ -1,14 +1,14 @@
 {
     "id": 543,
-    "fecha_voto": "2024-04-06",
-    "estado": "Oklahoma",
+    "fecha_voto": "2024-04-17",
+    "estado": "Virginia",
     "etnia": "illegal",
-    "edad": 44,
+    "edad": 57,
     "sexo": "masculino",
-    "salario": 109024,
+    "salario": 57823,
     "estudios": "doctor",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
 }

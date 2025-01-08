@@ -1,14 +1,14 @@
 {
     "id": 1076,
-    "fecha_voto": "2024-07-10",
-    "estado": "Montana",
-    "etnia": "indian",
-    "edad": 31,
+    "fecha_voto": "2024-07-06",
+    "estado": "Nevada",
+    "etnia": "hispanic",
+    "edad": 35,
     "sexo": "femenino",
-    "salario": 101705,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": false,
-    "hijos": 1,
+    "salario": 100101,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 2,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 376,
-    "fecha_voto": "2024-03-16",
-    "estado": "Texas",
-    "etnia": "black",
-    "edad": 56,
+    "fecha_voto": "2024-03-05",
+    "estado": "Minnesota",
+    "etnia": "white",
+    "edad": 47,
     "sexo": "femenino",
-    "salario": 221925,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
+    "salario": 59180,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": false,
     "hijos": 1,
     "voto": "republicano"
 }

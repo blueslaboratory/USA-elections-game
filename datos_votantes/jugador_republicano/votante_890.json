@@ -1,14 +1,14 @@
 {
     "id": 890,
-    "fecha_voto": "2024-06-11",
-    "estado": "Florida",
-    "etnia": "hispanic",
-    "edad": 19,
+    "fecha_voto": "2024-06-01",
+    "estado": "Idaho",
+    "etnia": "white",
+    "edad": 42,
     "sexo": "masculino",
-    "salario": 183097,
-    "estudios": "masters",
-    "religion": "other",
+    "salario": 172290,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "republicano"
 }

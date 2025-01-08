@@ -1,14 +1,14 @@
 {
     "id": 308,
-    "fecha_voto": "2024-02-14",
-    "estado": "South Carolina",
-    "etnia": "black",
-    "edad": 23,
+    "fecha_voto": "2024-03-21",
+    "estado": "Missouri",
+    "etnia": "illegal",
+    "edad": 48,
     "sexo": "femenino",
-    "salario": 242632,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 0,
+    "salario": 79903,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

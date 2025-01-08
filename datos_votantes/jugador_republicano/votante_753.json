@@ -1,14 +1,14 @@
 {
     "id": 753,
-    "fecha_voto": "2024-06-11",
-    "estado": "California",
-    "etnia": "illegal",
-    "edad": 52,
-    "sexo": "masculino",
-    "salario": 216324,
-    "estudios": "doctor",
-    "religion": "islam",
+    "fecha_voto": "2024-06-04",
+    "estado": "New Jersey",
+    "etnia": "hispanic",
+    "edad": 45,
+    "sexo": "femenino",
+    "salario": 56902,
+    "estudios": "high school",
+    "religion": "other",
     "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

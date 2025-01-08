@@ -1,14 +1,14 @@
 {
     "id": 1295,
-    "fecha_voto": "2024-09-02",
-    "estado": "Kentucky",
-    "etnia": "hispanic",
-    "edad": 55,
-    "sexo": "femenino",
-    "salario": 45154,
-    "estudios": "doctor",
+    "fecha_voto": "2024-09-15",
+    "estado": "Florida",
+    "etnia": "asian",
+    "edad": 83,
+    "sexo": "masculino",
+    "salario": 194385,
+    "estudios": "masters",
     "religion": "christianism",
     "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

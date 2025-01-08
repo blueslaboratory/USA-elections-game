@@ -1,14 +1,14 @@
 {
     "id": 1369,
-    "fecha_voto": "2024-08-14",
-    "estado": "Alabama",
-    "etnia": "white",
-    "edad": 33,
-    "sexo": "masculino",
-    "salario": 179146,
+    "fecha_voto": "2024-08-13",
+    "estado": "Michigan",
+    "etnia": "indian",
+    "edad": 89,
+    "sexo": "femenino",
+    "salario": 174065,
     "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "religion": "other",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
 }

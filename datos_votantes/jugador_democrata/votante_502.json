@@ -1,14 +1,14 @@
 {
     "id": 502,
-    "fecha_voto": "2024-05-05",
-    "estado": "Washington",
-    "etnia": "illegal",
-    "edad": 58,
-    "sexo": "femenino",
-    "salario": 183829,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
+    "fecha_voto": "2024-05-04",
+    "estado": "Texas",
+    "etnia": "indian",
+    "edad": 60,
+    "sexo": "masculino",
+    "salario": 188672,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": false,
     "hijos": 4,
-    "voto": "democrata"
+    "voto": "republicano"
 }

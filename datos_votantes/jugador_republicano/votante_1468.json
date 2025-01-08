@@ -1,14 +1,14 @@
 {
     "id": 1468,
-    "fecha_voto": "2024-09-17",
-    "estado": "Idaho",
+    "fecha_voto": "2024-08-16",
+    "estado": "Nevada",
     "etnia": "white",
-    "edad": 86,
-    "sexo": "femenino",
-    "salario": 206954,
+    "edad": 66,
+    "sexo": "masculino",
+    "salario": 244164,
     "estudios": "undergraduate",
-    "religion": "other",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 1,
+    "hijos": 5,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1735,
-    "fecha_voto": "2024-11-01",
-    "estado": "Georgia",
-    "etnia": "asian",
-    "edad": 24,
-    "sexo": "femenino",
-    "salario": 233806,
+    "fecha_voto": "2024-10-29",
+    "estado": "South Carolina",
+    "etnia": "hispanic",
+    "edad": 86,
+    "sexo": "masculino",
+    "salario": 235849,
     "estudios": "masters",
     "religion": "judaism",
     "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

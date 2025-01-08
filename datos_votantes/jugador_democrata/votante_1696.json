@@ -1,14 +1,14 @@
 {
     "id": 1696,
-    "fecha_voto": "2024-10-25",
-    "estado": "Ohio",
-    "etnia": "indian",
-    "edad": 18,
+    "fecha_voto": "2024-10-13",
+    "estado": "Maryland",
+    "etnia": "illegal",
+    "edad": 78,
     "sexo": "femenino",
-    "salario": 216924,
+    "salario": 229143,
     "estudios": "high school",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
+    "religion": "islam",
+    "casado": true,
+    "hijos": 4,
     "voto": "democrata"
 }

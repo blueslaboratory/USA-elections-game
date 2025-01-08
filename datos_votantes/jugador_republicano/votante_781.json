@@ -1,14 +1,14 @@
 {
     "id": 781,
-    "fecha_voto": "2024-06-09",
-    "estado": "Florida",
-    "etnia": "illegal",
-    "edad": 26,
+    "fecha_voto": "2024-05-27",
+    "estado": "Wyoming",
+    "etnia": "hispanic",
+    "edad": 54,
     "sexo": "masculino",
-    "salario": 87849,
-    "estudios": "undergraduate",
-    "religion": "islam",
+    "salario": 102017,
+    "estudios": "masters",
+    "religion": "other",
     "casado": false,
-    "hijos": 1,
+    "hijos": 5,
     "voto": "republicano"
 }

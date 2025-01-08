@@ -1,14 +1,14 @@
 {
     "id": 1861,
     "fecha_voto": "2024-11-04",
-    "estado": "Maine",
+    "estado": "Pennsylvania",
     "etnia": "illegal",
-    "edad": 75,
+    "edad": 36,
     "sexo": "masculino",
-    "salario": 121411,
-    "estudios": "graduate",
-    "religion": "islam",
+    "salario": 145423,
+    "estudios": "undergraduate",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 2,
     "voto": "republicano"
 }

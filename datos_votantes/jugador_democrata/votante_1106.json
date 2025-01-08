@@ -1,14 +1,14 @@
 {
     "id": 1106,
-    "fecha_voto": "2024-07-27",
-    "estado": "California",
-    "etnia": "hispanic",
-    "edad": 47,
+    "fecha_voto": "2024-06-26",
+    "estado": "Kansas",
+    "etnia": "white",
+    "edad": 32,
     "sexo": "femenino",
-    "salario": 156333,
+    "salario": 205318,
     "estudios": "high school",
-    "religion": "christianism",
+    "religion": "other",
     "casado": false,
     "hijos": 0,
-    "voto": "democrata"
+    "voto": "republicano"
 }

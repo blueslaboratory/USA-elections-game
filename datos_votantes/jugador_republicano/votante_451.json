@@ -1,14 +1,14 @@
 {
     "id": 451,
-    "fecha_voto": "2024-03-08",
-    "estado": "Alaska",
+    "fecha_voto": "2024-02-27",
+    "estado": "Utah",
     "etnia": "black",
-    "edad": 30,
-    "sexo": "femenino",
-    "salario": 231208,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": true,
-    "hijos": 4,
+    "edad": 24,
+    "sexo": "masculino",
+    "salario": 232887,
+    "estudios": "graduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

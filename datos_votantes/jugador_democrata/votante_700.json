@@ -1,14 +1,14 @@
 {
     "id": 700,
-    "fecha_voto": "2024-04-20",
-    "estado": "Kentucky",
-    "etnia": "illegal",
-    "edad": 57,
+    "fecha_voto": "2024-04-06",
+    "estado": "Wisconsin",
+    "etnia": "hispanic",
+    "edad": 22,
     "sexo": "femenino",
-    "salario": 176755,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 0,
+    "salario": 192851,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
     "voto": "democrata"
 }

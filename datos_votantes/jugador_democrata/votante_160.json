@@ -1,14 +1,14 @@
 {
     "id": 160,
-    "fecha_voto": "2024-02-01",
-    "estado": "California",
+    "fecha_voto": "2024-02-07",
+    "estado": "Colorado",
     "etnia": "illegal",
-    "edad": 68,
-    "sexo": "m",
-    "salario": 316283,
-    "estudios": "graduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "edad": 66,
+    "sexo": "femenino",
+    "salario": 110012,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
 }

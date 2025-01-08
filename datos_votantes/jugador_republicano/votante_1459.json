@@ -1,14 +1,14 @@
 {
     "id": 1459,
-    "fecha_voto": "2024-09-14",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-09-05",
+    "estado": "North Dakota",
     "etnia": "indian",
-    "edad": 62,
-    "sexo": "masculino",
-    "salario": 158606,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "edad": 47,
+    "sexo": "femenino",
+    "salario": 130955,
+    "estudios": "masters",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

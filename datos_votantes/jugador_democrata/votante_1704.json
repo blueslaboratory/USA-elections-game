@@ -1,14 +1,14 @@
 {
     "id": 1704,
-    "fecha_voto": "2024-10-19",
-    "estado": "Iowa",
-    "etnia": "white",
-    "edad": 21,
+    "fecha_voto": "2024-09-26",
+    "estado": "Pennsylvania",
+    "etnia": "illegal",
+    "edad": 36,
     "sexo": "femenino",
-    "salario": 45754,
-    "estudios": "high school",
+    "salario": 189707,
+    "estudios": "undergraduate",
     "religion": "atheism",
-    "casado": false,
+    "casado": true,
     "hijos": 4,
-    "voto": "republicano"
+    "voto": "democrata"
 }

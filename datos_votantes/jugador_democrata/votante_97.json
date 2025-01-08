@@ -1,14 +1,14 @@
 {
     "id": 97,
-    "fecha_voto": "2024-02-06",
-    "estado": "Wisconsin",
-    "etnia": "illegal",
-    "edad": 61,
-    "sexo": "i",
-    "salario": 138991,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
+    "fecha_voto": "2024-01-01",
+    "estado": "Texas",
+    "etnia": "hispanic",
+    "edad": 91,
+    "sexo": "masculino",
+    "salario": 103713,
+    "estudios": "graduate",
+    "religion": "islam",
     "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

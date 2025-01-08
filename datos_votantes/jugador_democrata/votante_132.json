@@ -1,14 +1,14 @@
 {
     "id": 132,
-    "fecha_voto": "2024-01-28",
-    "estado": "Louisiana",
+    "fecha_voto": "2024-01-10",
+    "estado": "Wisconsin",
     "etnia": "white",
-    "edad": 94,
-    "sexo": "m",
-    "salario": 356806,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 1,
+    "edad": 65,
+    "sexo": "femenino",
+    "salario": 70824,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 2,
     "voto": "republicano"
 }

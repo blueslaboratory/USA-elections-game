@@ -1,14 +1,14 @@
 {
     "id": 1776,
-    "fecha_voto": "2024-11-04",
-    "estado": "Louisiana",
-    "etnia": "hispanic",
-    "edad": 88,
+    "fecha_voto": "2024-11-05",
+    "estado": "Arizona",
+    "etnia": "asian",
+    "edad": 89,
     "sexo": "masculino",
-    "salario": 99833,
-    "estudios": "high school",
-    "religion": "judaism",
+    "salario": 50879,
+    "estudios": "doctor",
+    "religion": "islam",
     "casado": true,
-    "hijos": 0,
+    "hijos": 5,
     "voto": "republicano"
 }

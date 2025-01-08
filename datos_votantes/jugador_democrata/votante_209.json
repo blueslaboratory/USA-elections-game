@@ -1,14 +1,14 @@
 {
     "id": 209,
-    "fecha_voto": "2024-01-25",
-    "estado": "Kansas",
-    "etnia": "asian",
-    "edad": 45,
-    "sexo": "l",
-    "salario": 397012,
+    "fecha_voto": "2024-02-11",
+    "estado": "Indiana",
+    "etnia": "black",
+    "edad": 83,
+    "sexo": "femenino",
+    "salario": 39732,
     "estudios": "masters",
-    "religion": "other",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "democrata"
 }

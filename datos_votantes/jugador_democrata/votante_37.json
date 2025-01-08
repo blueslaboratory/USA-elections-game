@@ -1,14 +1,14 @@
 {
     "id": 37,
-    "fecha_voto": "2024-01-09",
-    "estado": "Indiana",
+    "fecha_voto": "2024-02-09",
+    "estado": "New Hampshire",
     "etnia": "hispanic",
-    "edad": 97,
-    "sexo": "c",
-    "salario": 365343,
+    "edad": 66,
+    "sexo": "femenino",
+    "salario": 134515,
     "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 2,
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 4,
     "voto": "republicano"
 }

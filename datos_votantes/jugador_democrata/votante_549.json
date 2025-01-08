@@ -1,14 +1,14 @@
 {
     "id": 549,
     "fecha_voto": "2024-04-22",
-    "estado": "Alabama",
-    "etnia": "illegal",
-    "edad": 30,
-    "sexo": "femenino",
-    "salario": 82042,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "estado": "Colorado",
+    "etnia": "hispanic",
+    "edad": 66,
+    "sexo": "masculino",
+    "salario": 30686,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1707,
-    "fecha_voto": "2024-10-05",
-    "estado": "Tennessee",
-    "etnia": "black",
-    "edad": 34,
+    "fecha_voto": "2024-09-29",
+    "estado": "Louisiana",
+    "etnia": "illegal",
+    "edad": 82,
     "sexo": "femenino",
-    "salario": 86698,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 3,
+    "salario": 31217,
+    "estudios": "masters",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1900,
-    "fecha_voto": "2024-11-04",
-    "estado": "Virginia",
-    "etnia": "illegal",
-    "edad": 46,
+    "fecha_voto": "2024-11-05",
+    "estado": "Idaho",
+    "etnia": "white",
+    "edad": 36,
     "sexo": "masculino",
-    "salario": 186678,
-    "estudios": "doctor",
-    "religion": "hinduism",
+    "salario": 149756,
+    "estudios": "high school",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

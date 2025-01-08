@@ -1,14 +1,14 @@
 {
     "id": 1670,
-    "fecha_voto": "2024-10-26",
-    "estado": "Connecticut",
+    "fecha_voto": "2024-11-01",
+    "estado": "Kentucky",
     "etnia": "illegal",
-    "edad": 26,
+    "edad": 38,
     "sexo": "femenino",
-    "salario": 245334,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
+    "salario": 188344,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 4,
     "voto": "democrata"
 }

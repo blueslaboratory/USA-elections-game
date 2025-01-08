@@ -1,14 +1,14 @@
 {
     "id": 621,
     "fecha_voto": "2024-04-09",
-    "estado": "Kansas",
-    "etnia": "hispanic",
-    "edad": 73,
+    "estado": "Alabama",
+    "etnia": "asian",
+    "edad": 24,
     "sexo": "femenino",
-    "salario": 126379,
-    "estudios": "doctor",
-    "religion": "islam",
+    "salario": 206620,
+    "estudios": "masters",
+    "religion": "other",
     "casado": false,
-    "hijos": 2,
+    "hijos": 5,
     "voto": "democrata"
 }

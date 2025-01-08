@@ -1,14 +1,14 @@
 {
     "id": 192,
-    "fecha_voto": "2024-02-13",
-    "estado": "Texas",
+    "fecha_voto": "2024-01-26",
+    "estado": "Nebraska",
     "etnia": "white",
-    "edad": 79,
-    "sexo": "u",
-    "salario": 272683,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
-    "hijos": 3,
+    "edad": 35,
+    "sexo": "masculino",
+    "salario": 104926,
+    "estudios": "graduate",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 0,
     "voto": "republicano"
 }

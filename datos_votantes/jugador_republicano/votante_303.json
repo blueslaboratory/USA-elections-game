@@ -1,14 +1,14 @@
 {
     "id": 303,
-    "fecha_voto": "2024-02-20",
-    "estado": "North Dakota",
-    "etnia": "asian",
-    "edad": 95,
+    "fecha_voto": "2024-03-22",
+    "estado": "Virginia",
+    "etnia": "white",
+    "edad": 11,
     "sexo": "masculino",
-    "salario": 149367,
-    "estudios": "high school",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 3,
+    "salario": 146682,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 0,
     "voto": "republicano"
 }

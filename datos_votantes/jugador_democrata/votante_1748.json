@@ -1,14 +1,14 @@
 {
     "id": 1748,
-    "fecha_voto": "2024-10-07",
-    "estado": "Illinois",
-    "etnia": "black",
-    "edad": 20,
+    "fecha_voto": "2024-10-22",
+    "estado": "New Mexico",
+    "etnia": "hispanic",
+    "edad": 38,
     "sexo": "femenino",
-    "salario": 126498,
-    "estudios": "graduate",
+    "salario": 80404,
+    "estudios": "high school",
     "religion": "christianism",
-    "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 2,
+    "voto": "republicano"
 }

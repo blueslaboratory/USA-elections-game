@@ -1,14 +1,14 @@
 {
     "id": 1283,
-    "fecha_voto": "2024-08-26",
-    "estado": "Tennessee",
-    "etnia": "hispanic",
-    "edad": 66,
-    "sexo": "masculino",
-    "salario": 33488,
-    "estudios": "doctor",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "fecha_voto": "2024-09-20",
+    "estado": "Wyoming",
+    "etnia": "black",
+    "edad": 59,
+    "sexo": "femenino",
+    "salario": 41276,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "democrata"
 }

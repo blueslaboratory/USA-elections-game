@@ -1,14 +1,14 @@
 {
     "id": 181,
-    "fecha_voto": "2024-01-12",
-    "estado": "Kansas",
-    "etnia": "white",
-    "edad": 96,
-    "sexo": "u",
-    "salario": 306271,
+    "fecha_voto": "2024-01-03",
+    "estado": "West Virginia",
+    "etnia": "hispanic",
+    "edad": 92,
+    "sexo": "masculino",
+    "salario": 143986,
     "estudios": "doctor",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 3,
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

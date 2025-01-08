@@ -1,14 +1,14 @@
 {
     "id": 891,
-    "fecha_voto": "2024-06-16",
-    "estado": "Connecticut",
+    "fecha_voto": "2024-06-04",
+    "estado": "West Virginia",
     "etnia": "hispanic",
-    "edad": 35,
-    "sexo": "masculino",
-    "salario": 67428,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "edad": 28,
+    "sexo": "femenino",
+    "salario": 34049,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

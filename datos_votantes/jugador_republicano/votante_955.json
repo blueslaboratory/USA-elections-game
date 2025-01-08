@@ -1,14 +1,14 @@
 {
     "id": 955,
-    "fecha_voto": "2024-05-15",
-    "estado": "Hawaii",
+    "fecha_voto": "2024-06-15",
+    "estado": "New Hampshire",
     "etnia": "white",
-    "edad": 41,
+    "edad": 27,
     "sexo": "masculino",
-    "salario": 203293,
-    "estudios": "graduate",
-    "religion": "atheism",
+    "salario": 157735,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 5,
+    "hijos": 4,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 397,
-    "fecha_voto": "2024-03-09",
-    "estado": "Alaska",
-    "etnia": "hispanic",
-    "edad": 62,
+    "fecha_voto": "2024-02-20",
+    "estado": "Hawaii",
+    "etnia": "indian",
+    "edad": 32,
     "sexo": "masculino",
-    "salario": 52622,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "salario": 198203,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
 }

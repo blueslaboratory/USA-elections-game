@@ -1,14 +1,14 @@
 {
     "id": 405,
-    "fecha_voto": "2024-03-19",
-    "estado": "Wisconsin",
-    "etnia": "indian",
-    "edad": 80,
+    "fecha_voto": "2024-03-11",
+    "estado": "Washington",
+    "etnia": "hispanic",
+    "edad": 39,
     "sexo": "femenino",
-    "salario": 51543,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": false,
-    "hijos": 4,
+    "salario": 145546,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 2,
     "voto": "democrata"
 }

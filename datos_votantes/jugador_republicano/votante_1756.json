@@ -1,14 +1,14 @@
 {
     "id": 1756,
     "fecha_voto": "2024-11-05",
-    "estado": "Mississippi",
-    "etnia": "black",
-    "edad": 77,
-    "sexo": "femenino",
-    "salario": 141678,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "estado": "Connecticut",
+    "etnia": "asian",
+    "edad": 85,
+    "sexo": "masculino",
+    "salario": 151078,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 596,
     "fecha_voto": "2024-04-13",
-    "estado": "Indiana",
-    "etnia": "hispanic",
-    "edad": 58,
+    "estado": "New Hampshire",
+    "etnia": "asian",
+    "edad": 28,
     "sexo": "femenino",
-    "salario": 115433,
+    "salario": 117196,
     "estudios": "masters",
-    "religion": "christianism",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
+    "hijos": 0,
     "voto": "democrata"
 }

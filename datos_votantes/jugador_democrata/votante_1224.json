@@ -1,14 +1,14 @@
 {
     "id": 1224,
-    "fecha_voto": "2024-07-17",
-    "estado": "Massachusetts",
-    "etnia": "illegal",
-    "edad": 26,
+    "fecha_voto": "2024-07-15",
+    "estado": "Connecticut",
+    "etnia": "black",
+    "edad": 44,
     "sexo": "femenino",
-    "salario": 204534,
-    "estudios": "masters",
-    "religion": "islam",
+    "salario": 165456,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 5,
     "voto": "democrata"
 }

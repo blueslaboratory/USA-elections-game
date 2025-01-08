@@ -1,14 +1,14 @@
 {
     "id": 327,
-    "fecha_voto": "2024-03-20",
-    "estado": "Iowa",
+    "fecha_voto": "2024-02-20",
+    "estado": "Wisconsin",
     "etnia": "indian",
-    "edad": 82,
-    "sexo": "masculino",
-    "salario": 164032,
-    "estudios": "high school",
+    "edad": 48,
+    "sexo": "femenino",
+    "salario": 230925,
+    "estudios": "doctor",
     "religion": "judaism",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

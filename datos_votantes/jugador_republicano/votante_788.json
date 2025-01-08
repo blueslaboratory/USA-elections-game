@@ -1,14 +1,14 @@
 {
     "id": 788,
-    "fecha_voto": "2024-05-19",
-    "estado": "Louisiana",
-    "etnia": "hispanic",
-    "edad": 27,
+    "fecha_voto": "2024-06-18",
+    "estado": "New Hampshire",
+    "etnia": "white",
+    "edad": 46,
     "sexo": "masculino",
-    "salario": 182301,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 3,
+    "salario": 89594,
+    "estudios": "high school",
+    "religion": "other",
+    "casado": true,
+    "hijos": 5,
     "voto": "republicano"
 }

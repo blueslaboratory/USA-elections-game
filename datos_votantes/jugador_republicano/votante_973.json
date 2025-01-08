@@ -1,14 +1,14 @@
 {
     "id": 973,
-    "fecha_voto": "2024-05-27",
-    "estado": "Idaho",
-    "etnia": "black",
-    "edad": 26,
-    "sexo": "masculino",
-    "salario": 173026,
-    "estudios": "high school",
-    "religion": "islam",
+    "fecha_voto": "2024-06-17",
+    "estado": "Montana",
+    "etnia": "white",
+    "edad": 64,
+    "sexo": "femenino",
+    "salario": 179563,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

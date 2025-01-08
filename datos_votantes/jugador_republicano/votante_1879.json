@@ -1,14 +1,14 @@
 {
     "id": 1879,
-    "fecha_voto": "2024-11-04",
-    "estado": "Arizona",
-    "etnia": "asian",
-    "edad": 81,
-    "sexo": "femenino",
-    "salario": 63042,
-    "estudios": "masters",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "fecha_voto": "2024-11-05",
+    "estado": "Michigan",
+    "etnia": "white",
+    "edad": 67,
+    "sexo": "masculino",
+    "salario": 41622,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
 }

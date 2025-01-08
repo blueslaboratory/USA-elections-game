@@ -1,14 +1,14 @@
 {
     "id": 1389,
-    "fecha_voto": "2024-09-07",
-    "estado": "Alabama",
-    "etnia": "hispanic",
-    "edad": 19,
+    "fecha_voto": "2024-09-14",
+    "estado": "Ohio",
+    "etnia": "white",
+    "edad": 49,
     "sexo": "masculino",
-    "salario": 36431,
-    "estudios": "doctor",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "salario": 182183,
+    "estudios": "graduate",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

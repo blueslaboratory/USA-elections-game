@@ -1,14 +1,14 @@
 {
     "id": 267,
-    "fecha_voto": "2024-03-28",
-    "estado": "Ohio",
-    "etnia": "illegal",
-    "edad": 77,
-    "sexo": "femenino",
-    "salario": 244406,
-    "estudios": "undergraduate",
-    "religion": "atheism",
+    "fecha_voto": "2024-03-13",
+    "estado": "Iowa",
+    "etnia": "hispanic",
+    "edad": 12,
+    "sexo": "masculino",
+    "salario": 204047,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

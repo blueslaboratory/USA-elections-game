@@ -1,14 +1,14 @@
 {
     "id": 71,
-    "fecha_voto": "2024-01-10",
-    "estado": "Louisiana",
-    "etnia": "black",
-    "edad": 87,
-    "sexo": "l",
-    "salario": 119194,
-    "estudios": "high school",
-    "religion": "judaism",
-    "casado": true,
+    "fecha_voto": "2024-01-28",
+    "estado": "New Hampshire",
+    "etnia": "white",
+    "edad": 70,
+    "sexo": "femenino",
+    "salario": 194684,
+    "estudios": "graduate",
+    "religion": "islam",
+    "casado": false,
     "hijos": 1,
     "voto": "republicano"
 }

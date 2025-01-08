@@ -1,14 +1,14 @@
 {
     "id": 910,
-    "fecha_voto": "2024-05-22",
-    "estado": "Missouri",
-    "etnia": "asian",
-    "edad": 20,
-    "sexo": "masculino",
-    "salario": 202501,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "fecha_voto": "2024-06-04",
+    "estado": "Minnesota",
+    "etnia": "hispanic",
+    "edad": 75,
+    "sexo": "femenino",
+    "salario": 196415,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

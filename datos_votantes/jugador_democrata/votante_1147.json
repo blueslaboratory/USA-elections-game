@@ -1,14 +1,14 @@
 {
     "id": 1147,
-    "fecha_voto": "2024-07-01",
-    "estado": "Idaho",
+    "fecha_voto": "2024-07-09",
+    "estado": "Washington",
     "etnia": "black",
-    "edad": 41,
+    "edad": 48,
     "sexo": "femenino",
-    "salario": 191027,
-    "estudios": "doctor",
+    "salario": 204389,
+    "estudios": "high school",
     "religion": "islam",
-    "casado": false,
-    "hijos": 5,
+    "casado": true,
+    "hijos": 3,
     "voto": "democrata"
 }

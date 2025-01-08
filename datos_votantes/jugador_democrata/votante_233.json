@@ -1,14 +1,14 @@
 {
     "id": 233,
-    "fecha_voto": "2024-02-12",
+    "fecha_voto": "2024-02-04",
     "estado": "Rhode Island",
-    "etnia": "white",
-    "edad": 27,
-    "sexo": "u",
-    "salario": 382610,
+    "etnia": "hispanic",
+    "edad": 89,
+    "sexo": "femenino",
+    "salario": 157815,
     "estudios": "masters",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 3,
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

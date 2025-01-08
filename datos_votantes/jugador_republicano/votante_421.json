@@ -1,14 +1,14 @@
 {
     "id": 421,
-    "fecha_voto": "2024-02-23",
-    "estado": "Kansas",
-    "etnia": "hispanic",
-    "edad": 56,
+    "fecha_voto": "2024-02-18",
+    "estado": "Nebraska",
+    "etnia": "white",
+    "edad": 44,
     "sexo": "masculino",
-    "salario": 160922,
+    "salario": 202275,
     "estudios": "doctor",
-    "religion": "atheism",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 3,
+    "hijos": 4,
     "voto": "republicano"
 }

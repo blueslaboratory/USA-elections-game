@@ -1,14 +1,14 @@
 {
     "id": 576,
-    "fecha_voto": "2024-04-16",
-    "estado": "Wyoming",
-    "etnia": "illegal",
-    "edad": 26,
-    "sexo": "masculino",
-    "salario": 83610,
+    "fecha_voto": "2024-04-26",
+    "estado": "Idaho",
+    "etnia": "asian",
+    "edad": 21,
+    "sexo": "femenino",
+    "salario": 162216,
     "estudios": "masters",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 4,
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

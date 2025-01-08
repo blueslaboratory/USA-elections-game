@@ -1,14 +1,14 @@
 {
     "id": 516,
     "fecha_voto": "2024-04-29",
-    "estado": "Tennessee",
-    "etnia": "illegal",
-    "edad": 49,
-    "sexo": "femenino",
-    "salario": 246550,
-    "estudios": "masters",
+    "estado": "Alaska",
+    "etnia": "hispanic",
+    "edad": 86,
+    "sexo": "masculino",
+    "salario": 206403,
+    "estudios": "doctor",
     "religion": "other",
-    "casado": true,
-    "hijos": 5,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

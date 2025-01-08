@@ -1,14 +1,14 @@
 {
     "id": 834,
-    "fecha_voto": "2024-05-14",
-    "estado": "Tennessee",
-    "etnia": "hispanic",
-    "edad": 38,
-    "sexo": "masculino",
-    "salario": 165669,
-    "estudios": "high school",
+    "fecha_voto": "2024-05-19",
+    "estado": "Pennsylvania",
+    "etnia": "white",
+    "edad": 91,
+    "sexo": "femenino",
+    "salario": 209260,
+    "estudios": "doctor",
     "religion": "other",
-    "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 0,
+    "voto": "democrata"
 }

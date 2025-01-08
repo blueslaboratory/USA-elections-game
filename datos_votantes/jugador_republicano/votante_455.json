@@ -1,14 +1,14 @@
 {
     "id": 455,
-    "fecha_voto": "2024-03-25",
-    "estado": "Texas",
-    "etnia": "indian",
-    "edad": 94,
-    "sexo": "masculino",
-    "salario": 63294,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "fecha_voto": "2024-02-28",
+    "estado": "California",
+    "etnia": "white",
+    "edad": 47,
+    "sexo": "femenino",
+    "salario": 151638,
+    "estudios": "masters",
+    "religion": "other",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

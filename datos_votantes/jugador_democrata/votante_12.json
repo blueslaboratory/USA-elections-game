@@ -1,14 +1,14 @@
 {
     "id": 12,
-    "fecha_voto": "2024-01-21",
-    "estado": "Michigan",
-    "etnia": "illegal",
-    "edad": 90,
-    "sexo": "m",
-    "salario": 198486,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "fecha_voto": "2024-01-31",
+    "estado": "Mississippi",
+    "etnia": "hispanic",
+    "edad": 73,
+    "sexo": "masculino",
+    "salario": 180879,
+    "estudios": "graduate",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "republicano"
 }

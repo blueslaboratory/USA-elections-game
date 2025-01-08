@@ -1,14 +1,14 @@
 {
     "id": 535,
-    "fecha_voto": "2024-04-29",
-    "estado": "New Hampshire",
-    "etnia": "hispanic",
-    "edad": 55,
+    "fecha_voto": "2024-04-18",
+    "estado": "Virginia",
+    "etnia": "asian",
+    "edad": 65,
     "sexo": "femenino",
-    "salario": 221717,
-    "estudios": "masters",
-    "religion": "other",
+    "salario": 135561,
+    "estudios": "graduate",
+    "religion": "islam",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

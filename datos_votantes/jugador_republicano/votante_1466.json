@@ -1,14 +1,14 @@
 {
     "id": 1466,
-    "fecha_voto": "2024-08-30",
-    "estado": "New Hampshire",
-    "etnia": "hispanic",
-    "edad": 61,
+    "fecha_voto": "2024-08-16",
+    "estado": "Arkansas",
+    "etnia": "white",
+    "edad": 98,
     "sexo": "masculino",
-    "salario": 93792,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 2,
+    "salario": 78247,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

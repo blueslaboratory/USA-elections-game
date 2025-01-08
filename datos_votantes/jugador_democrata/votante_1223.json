@@ -1,14 +1,14 @@
 {
     "id": 1223,
-    "fecha_voto": "2024-07-22",
-    "estado": "South Dakota",
+    "fecha_voto": "2024-07-12",
+    "estado": "Minnesota",
     "etnia": "asian",
-    "edad": 45,
+    "edad": 46,
     "sexo": "femenino",
-    "salario": 43075,
-    "estudios": "graduate",
-    "religion": "other",
+    "salario": 111321,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

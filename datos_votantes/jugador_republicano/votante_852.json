@@ -1,14 +1,14 @@
 {
     "id": 852,
-    "fecha_voto": "2024-06-16",
-    "estado": "Nebraska",
-    "etnia": "hispanic",
-    "edad": 42,
+    "fecha_voto": "2024-06-06",
+    "estado": "Virginia",
+    "etnia": "white",
+    "edad": 78,
     "sexo": "masculino",
-    "salario": 211876,
-    "estudios": "doctor",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 2,
+    "salario": 81371,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 3,
     "voto": "republicano"
 }

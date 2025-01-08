@@ -1,14 +1,14 @@
 {
     "id": 871,
-    "fecha_voto": "2024-06-01",
-    "estado": "Montana",
-    "etnia": "asian",
-    "edad": 48,
+    "fecha_voto": "2024-06-03",
+    "estado": "Hawaii",
+    "etnia": "hispanic",
+    "edad": 68,
     "sexo": "masculino",
-    "salario": 212306,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 0,
+    "salario": 56315,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 885,
-    "fecha_voto": "2024-05-25",
-    "estado": "Nevada",
+    "fecha_voto": "2024-06-15",
+    "estado": "Washington",
     "etnia": "hispanic",
-    "edad": 37,
+    "edad": 24,
     "sexo": "masculino",
-    "salario": 85250,
-    "estudios": "doctor",
-    "religion": "other",
+    "salario": 86043,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

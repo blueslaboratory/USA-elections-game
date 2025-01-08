@@ -1,14 +1,14 @@
 {
     "id": 1873,
-    "fecha_voto": "2024-11-05",
-    "estado": "Texas",
-    "etnia": "illegal",
-    "edad": 58,
+    "fecha_voto": "2024-11-04",
+    "estado": "Arkansas",
+    "etnia": "hispanic",
+    "edad": 96,
     "sexo": "masculino",
-    "salario": 38821,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": false,
+    "salario": 58719,
+    "estudios": "high school",
+    "religion": "other",
+    "casado": true,
     "hijos": 2,
     "voto": "republicano"
 }

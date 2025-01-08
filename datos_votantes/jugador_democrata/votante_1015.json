@@ -1,14 +1,14 @@
 {
     "id": 1015,
-    "fecha_voto": "2024-07-17",
-    "estado": "Georgia",
-    "etnia": "black",
-    "edad": 25,
-    "sexo": "masculino",
-    "salario": 219952,
-    "estudios": "masters",
-    "religion": "christianism",
-    "casado": false,
+    "fecha_voto": "2024-07-18",
+    "estado": "Alabama",
+    "etnia": "white",
+    "edad": 44,
+    "sexo": "femenino",
+    "salario": 164321,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": true,
     "hijos": 4,
-    "voto": "democrata"
+    "voto": "republicano"
 }

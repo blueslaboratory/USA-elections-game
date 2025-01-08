@@ -1,14 +1,14 @@
 {
     "id": 279,
-    "fecha_voto": "2024-02-17",
-    "estado": "Georgia",
-    "etnia": "asian",
-    "edad": 36,
+    "fecha_voto": "2024-03-02",
+    "estado": "Iowa",
+    "etnia": "hispanic",
+    "edad": 13,
     "sexo": "masculino",
-    "salario": 81369,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "salario": 227927,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 2,
+    "voto": "democrata"
 }

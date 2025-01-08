@@ -1,14 +1,14 @@
 {
     "id": 1469,
-    "fecha_voto": "2024-09-17",
-    "estado": "Colorado",
-    "etnia": "indian",
-    "edad": 98,
-    "sexo": "femenino",
-    "salario": 126825,
-    "estudios": "graduate",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "fecha_voto": "2024-09-08",
+    "estado": "North Dakota",
+    "etnia": "black",
+    "edad": 87,
+    "sexo": "masculino",
+    "salario": 216549,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

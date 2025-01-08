@@ -1,14 +1,14 @@
 {
     "id": 1695,
-    "fecha_voto": "2024-11-03",
-    "estado": "Texas",
-    "etnia": "hispanic",
-    "edad": 25,
+    "fecha_voto": "2024-10-19",
+    "estado": "Montana",
+    "etnia": "illegal",
+    "edad": 77,
     "sexo": "femenino",
-    "salario": 240625,
+    "salario": 68378,
     "estudios": "high school",
-    "religion": "other",
-    "casado": false,
-    "hijos": 4,
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 0,
     "voto": "republicano"
 }

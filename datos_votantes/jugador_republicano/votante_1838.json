@@ -1,14 +1,14 @@
 {
     "id": 1838,
     "fecha_voto": "2024-11-05",
-    "estado": "New Hampshire",
-    "etnia": "illegal",
-    "edad": 92,
-    "sexo": "femenino",
-    "salario": 217390,
+    "estado": "Maryland",
+    "etnia": "white",
+    "edad": 60,
+    "sexo": "masculino",
+    "salario": 115099,
     "estudios": "doctor",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

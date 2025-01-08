@@ -1,14 +1,14 @@
 {
     "id": 1432,
-    "fecha_voto": "2024-08-14",
-    "estado": "Louisiana",
-    "etnia": "indian",
-    "edad": 92,
+    "fecha_voto": "2024-08-09",
+    "estado": "Alabama",
+    "etnia": "black",
+    "edad": 98,
     "sexo": "masculino",
-    "salario": 163520,
-    "estudios": "undergraduate",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
+    "salario": 194295,
+    "estudios": "high school",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 5,
     "voto": "republicano"
 }

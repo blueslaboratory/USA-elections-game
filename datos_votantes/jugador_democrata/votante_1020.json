@@ -1,14 +1,14 @@
 {
     "id": 1020,
-    "fecha_voto": "2024-07-28",
-    "estado": "Washington",
-    "etnia": "white",
-    "edad": 31,
-    "sexo": "masculino",
-    "salario": 235058,
-    "estudios": "doctor",
+    "fecha_voto": "2024-08-05",
+    "estado": "Hawaii",
+    "etnia": "asian",
+    "edad": 48,
+    "sexo": "femenino",
+    "salario": 46765,
+    "estudios": "graduate",
     "religion": "islam",
     "casado": false,
-    "hijos": 2,
+    "hijos": 0,
     "voto": "democrata"
 }

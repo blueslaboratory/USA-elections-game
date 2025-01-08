@@ -1,14 +1,14 @@
 {
     "id": 1163,
-    "fecha_voto": "2024-07-22",
-    "estado": "Nevada",
+    "fecha_voto": "2024-07-12",
+    "estado": "Georgia",
     "etnia": "white",
-    "edad": 36,
-    "sexo": "masculino",
-    "salario": 236511,
-    "estudios": "masters",
-    "religion": "atheism",
+    "edad": 18,
+    "sexo": "femenino",
+    "salario": 200900,
+    "estudios": "undergraduate",
+    "religion": "islam",
     "casado": true,
     "hijos": 1,
-    "voto": "republicano"
+    "voto": "democrata"
 }

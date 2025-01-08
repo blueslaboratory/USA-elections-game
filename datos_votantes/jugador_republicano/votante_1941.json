@@ -1,14 +1,14 @@
 {
     "id": 1941,
     "fecha_voto": "2024-11-05",
-    "estado": "Virginia",
-    "etnia": "illegal",
-    "edad": 20,
+    "estado": "Wyoming",
+    "etnia": "white",
+    "edad": 52,
     "sexo": "masculino",
-    "salario": 105764,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": false,
-    "hijos": 0,
+    "salario": 70141,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 3,
     "voto": "republicano"
 }

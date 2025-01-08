@@ -1,14 +1,14 @@
 {
     "id": 915,
-    "fecha_voto": "2024-06-20",
-    "estado": "Oklahoma",
+    "fecha_voto": "2024-06-12",
+    "estado": "Wyoming",
     "etnia": "white",
-    "edad": 53,
+    "edad": 97,
     "sexo": "masculino",
-    "salario": 168299,
-    "estudios": "masters",
-    "religion": "atheism",
+    "salario": 241660,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 1,
     "voto": "republicano"
 }

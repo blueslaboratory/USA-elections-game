@@ -1,14 +1,14 @@
 {
     "id": 993,
-    "fecha_voto": "2024-05-23",
-    "estado": "Illinois",
+    "fecha_voto": "2024-06-19",
+    "estado": "Nebraska",
     "etnia": "white",
-    "edad": 23,
-    "sexo": "masculino",
-    "salario": 231264,
-    "estudios": "undergraduate",
-    "religion": "christianism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "edad": 77,
+    "sexo": "femenino",
+    "salario": 222497,
+    "estudios": "graduate",
+    "religion": "other",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

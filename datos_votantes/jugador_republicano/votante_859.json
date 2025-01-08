@@ -1,14 +1,14 @@
 {
     "id": 859,
-    "fecha_voto": "2024-06-22",
-    "estado": "Idaho",
-    "etnia": "illegal",
-    "edad": 31,
+    "fecha_voto": "2024-06-07",
+    "estado": "Wisconsin",
+    "etnia": "hispanic",
+    "edad": 67,
     "sexo": "masculino",
-    "salario": 36862,
-    "estudios": "graduate",
-    "religion": "hinduism",
+    "salario": 193542,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 2,
     "voto": "republicano"
 }

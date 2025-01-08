@@ -1,14 +1,14 @@
 {
     "id": 406,
-    "fecha_voto": "2024-02-16",
-    "estado": "Wisconsin",
-    "etnia": "white",
-    "edad": 73,
-    "sexo": "femenino",
-    "salario": 90772,
-    "estudios": "high school",
-    "religion": "atheism",
+    "fecha_voto": "2024-03-09",
+    "estado": "Rhode Island",
+    "etnia": "black",
+    "edad": 21,
+    "sexo": "masculino",
+    "salario": 220676,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 389,
-    "fecha_voto": "2024-02-27",
-    "estado": "Pennsylvania",
-    "etnia": "white",
-    "edad": 77,
+    "fecha_voto": "2024-02-19",
+    "estado": "Utah",
+    "etnia": "illegal",
+    "edad": 26,
     "sexo": "femenino",
-    "salario": 187749,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": false,
+    "salario": 63582,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": true,
     "hijos": 5,
-    "voto": "republicano"
+    "voto": "democrata"
 }

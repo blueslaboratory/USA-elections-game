@@ -1,14 +1,14 @@
 {
     "id": 55,
-    "fecha_voto": "2024-01-27",
-    "estado": "Arkansas",
+    "fecha_voto": "2024-01-26",
+    "estado": "Utah",
     "etnia": "white",
-    "edad": 50,
-    "sexo": "s",
-    "salario": 244444,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "edad": 94,
+    "sexo": "masculino",
+    "salario": 191517,
+    "estudios": "doctor",
+    "religion": "islam",
     "casado": false,
-    "hijos": 4,
+    "hijos": 2,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 892,
-    "fecha_voto": "2024-05-14",
-    "estado": "New Hampshire",
+    "fecha_voto": "2024-05-25",
+    "estado": "Montana",
     "etnia": "white",
-    "edad": 26,
-    "sexo": "masculino",
-    "salario": 91711,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": true,
-    "hijos": 2,
+    "edad": 95,
+    "sexo": "femenino",
+    "salario": 116955,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

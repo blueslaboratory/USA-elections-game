@@ -1,14 +1,14 @@
 {
     "id": 1234,
-    "fecha_voto": "2024-06-27",
-    "estado": "Mississippi",
-    "etnia": "hispanic",
-    "edad": 39,
+    "fecha_voto": "2024-07-06",
+    "estado": "Oklahoma",
+    "etnia": "illegal",
+    "edad": 27,
     "sexo": "femenino",
-    "salario": 194495,
+    "salario": 82401,
     "estudios": "masters",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 5,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1719,
-    "fecha_voto": "2024-10-03",
-    "estado": "California",
-    "etnia": "black",
-    "edad": 19,
+    "fecha_voto": "2024-10-05",
+    "estado": "Georgia",
+    "etnia": "illegal",
+    "edad": 77,
     "sexo": "femenino",
-    "salario": 32149,
-    "estudios": "doctor",
+    "salario": 102100,
+    "estudios": "high school",
     "religion": "other",
-    "casado": true,
+    "casado": false,
     "hijos": 4,
-    "voto": "democrata"
+    "voto": "republicano"
 }

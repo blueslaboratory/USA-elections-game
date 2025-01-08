@@ -1,14 +1,14 @@
 {
     "id": 448,
-    "fecha_voto": "2024-03-15",
-    "estado": "Oklahoma",
-    "etnia": "black",
-    "edad": 93,
+    "fecha_voto": "2024-02-29",
+    "estado": "Colorado",
+    "etnia": "illegal",
+    "edad": 20,
     "sexo": "femenino",
-    "salario": 82426,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "salario": 226710,
+    "estudios": "high school",
+    "religion": "other",
     "casado": true,
-    "hijos": 0,
+    "hijos": 4,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1536,
-    "fecha_voto": "2024-11-01",
-    "estado": "New Jersey",
-    "etnia": "illegal",
-    "edad": 25,
+    "fecha_voto": "2024-09-30",
+    "estado": "Connecticut",
+    "etnia": "hispanic",
+    "edad": 74,
     "sexo": "femenino",
-    "salario": 56573,
+    "salario": 119376,
     "estudios": "masters",
     "religion": "judaism",
-    "casado": false,
-    "hijos": 2,
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

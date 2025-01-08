@@ -1,14 +1,14 @@
 {
     "id": 1574,
-    "fecha_voto": "2024-10-22",
-    "estado": "Maryland",
-    "etnia": "black",
-    "edad": 22,
-    "sexo": "femenino",
-    "salario": 83934,
+    "fecha_voto": "2024-10-20",
+    "estado": "Vermont",
+    "etnia": "illegal",
+    "edad": 31,
+    "sexo": "masculino",
+    "salario": 234820,
     "estudios": "high school",
-    "religion": "islam",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 1,
+    "hijos": 4,
     "voto": "democrata"
 }

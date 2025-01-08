@@ -1,14 +1,14 @@
 {
     "id": 785,
-    "fecha_voto": "2024-05-13",
-    "estado": "South Carolina",
+    "fecha_voto": "2024-05-29",
+    "estado": "Texas",
     "etnia": "white",
-    "edad": 19,
+    "edad": 66,
     "sexo": "masculino",
-    "salario": 90520,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 5,
+    "salario": 133496,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": true,
+    "hijos": 2,
     "voto": "republicano"
 }

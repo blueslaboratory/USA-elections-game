@@ -1,14 +1,14 @@
 {
     "id": 714,
-    "fecha_voto": "2024-05-04",
-    "estado": "Delaware",
-    "etnia": "hispanic",
-    "edad": 60,
+    "fecha_voto": "2024-04-08",
+    "estado": "California",
+    "etnia": "black",
+    "edad": 20,
     "sexo": "femenino",
-    "salario": 237258,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 5,
+    "salario": 96502,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

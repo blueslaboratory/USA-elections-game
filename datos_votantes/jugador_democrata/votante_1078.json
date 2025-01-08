@@ -1,14 +1,14 @@
 {
     "id": 1078,
-    "fecha_voto": "2024-06-26",
-    "estado": "Mississippi",
-    "etnia": "white",
-    "edad": 18,
+    "fecha_voto": "2024-07-27",
+    "estado": "Connecticut",
+    "etnia": "indian",
+    "edad": 51,
     "sexo": "femenino",
-    "salario": 187830,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "salario": 248220,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 2,
+    "voto": "democrata"
 }

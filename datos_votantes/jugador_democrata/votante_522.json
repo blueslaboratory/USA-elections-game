@@ -1,14 +1,14 @@
 {
     "id": 522,
-    "fecha_voto": "2024-05-05",
-    "estado": "Oregon",
-    "etnia": "hispanic",
-    "edad": 67,
+    "fecha_voto": "2024-03-29",
+    "estado": "Nebraska",
+    "etnia": "asian",
+    "edad": 34,
     "sexo": "masculino",
-    "salario": 123704,
+    "salario": 36955,
     "estudios": "graduate",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 2,
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 0,
     "voto": "republicano"
 }

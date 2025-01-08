@@ -1,14 +1,14 @@
 {
     "id": 290,
-    "fecha_voto": "2024-03-21",
-    "estado": "Oklahoma",
+    "fecha_voto": "2024-02-29",
+    "estado": "Washington",
     "etnia": "asian",
-    "edad": 92,
+    "edad": 12,
     "sexo": "masculino",
-    "salario": 67400,
+    "salario": 41222,
     "estudios": "undergraduate",
     "religion": "hinduism",
-    "casado": true,
-    "hijos": 5,
-    "voto": "republicano"
+    "casado": false,
+    "hijos": 1,
+    "voto": "democrata"
 }

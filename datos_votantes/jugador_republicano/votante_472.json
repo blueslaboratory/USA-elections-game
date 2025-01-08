@@ -1,14 +1,14 @@
 {
     "id": 472,
-    "fecha_voto": "2024-02-14",
-    "estado": "Alaska",
+    "fecha_voto": "2024-03-03",
+    "estado": "Pennsylvania",
     "etnia": "white",
-    "edad": 48,
-    "sexo": "masculino",
-    "salario": 45732,
-    "estudios": "high school",
-    "religion": "islam",
+    "edad": 35,
+    "sexo": "femenino",
+    "salario": 200686,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 0,
+    "hijos": 2,
     "voto": "republicano"
 }

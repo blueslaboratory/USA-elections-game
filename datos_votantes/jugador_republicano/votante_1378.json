@@ -1,14 +1,14 @@
 {
     "id": 1378,
-    "fecha_voto": "2024-08-16",
-    "estado": "Maine",
-    "etnia": "asian",
-    "edad": 35,
+    "fecha_voto": "2024-08-15",
+    "estado": "North Carolina",
+    "etnia": "hispanic",
+    "edad": 82,
     "sexo": "femenino",
-    "salario": 102991,
-    "estudios": "high school",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "salario": 102845,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "democrata"
 }

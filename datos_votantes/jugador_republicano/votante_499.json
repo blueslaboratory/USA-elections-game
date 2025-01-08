@@ -1,14 +1,14 @@
 {
     "id": 499,
-    "fecha_voto": "2024-03-25",
-    "estado": "Colorado",
-    "etnia": "indian",
-    "edad": 34,
+    "fecha_voto": "2024-02-23",
+    "estado": "Maryland",
+    "etnia": "hispanic",
+    "edad": 22,
     "sexo": "femenino",
-    "salario": 231287,
-    "estudios": "masters",
+    "salario": 167777,
+    "estudios": "graduate",
     "religion": "judaism",
-    "casado": true,
-    "hijos": 2,
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

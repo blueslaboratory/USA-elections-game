@@ -1,14 +1,14 @@
 {
     "id": 1254,
-    "fecha_voto": "2024-09-18",
-    "estado": "Michigan",
-    "etnia": "hispanic",
-    "edad": 91,
+    "fecha_voto": "2024-08-11",
+    "estado": "North Carolina",
+    "etnia": "black",
+    "edad": 84,
     "sexo": "femenino",
-    "salario": 207062,
-    "estudios": "doctor",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 4,
+    "salario": 191200,
+    "estudios": "masters",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 5,
     "voto": "democrata"
 }

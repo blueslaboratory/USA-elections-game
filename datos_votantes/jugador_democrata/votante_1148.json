@@ -1,14 +1,14 @@
 {
     "id": 1148,
-    "fecha_voto": "2024-07-29",
-    "estado": "Kentucky",
-    "etnia": "white",
-    "edad": 24,
-    "sexo": "masculino",
-    "salario": 39587,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "fecha_voto": "2024-07-09",
+    "estado": "Massachusetts",
+    "etnia": "hispanic",
+    "edad": 35,
+    "sexo": "femenino",
+    "salario": 175481,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 3,
+    "hijos": 5,
     "voto": "democrata"
 }

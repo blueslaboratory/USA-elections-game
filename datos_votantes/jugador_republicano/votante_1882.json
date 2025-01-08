@@ -1,14 +1,14 @@
 {
     "id": 1882,
-    "fecha_voto": "2024-11-05",
-    "estado": "New Mexico",
-    "etnia": "illegal",
-    "edad": 91,
-    "sexo": "femenino",
-    "salario": 62525,
-    "estudios": "high school",
-    "religion": "other",
+    "fecha_voto": "2024-11-04",
+    "estado": "Oregon",
+    "etnia": "asian",
+    "edad": 70,
+    "sexo": "masculino",
+    "salario": 61669,
+    "estudios": "graduate",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 1,
+    "hijos": 4,
     "voto": "republicano"
 }

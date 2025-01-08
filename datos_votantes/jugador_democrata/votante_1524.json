@@ -1,14 +1,14 @@
 {
     "id": 1524,
-    "fecha_voto": "2024-10-08",
-    "estado": "New Hampshire",
-    "etnia": "white",
-    "edad": 23,
-    "sexo": "femenino",
-    "salario": 171063,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": true,
+    "fecha_voto": "2024-10-11",
+    "estado": "Georgia",
+    "etnia": "hispanic",
+    "edad": 49,
+    "sexo": "masculino",
+    "salario": 32426,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": false,
     "hijos": 4,
-    "voto": "democrata"
+    "voto": "republicano"
 }

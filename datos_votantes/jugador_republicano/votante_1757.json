@@ -1,14 +1,14 @@
 {
     "id": 1757,
-    "fecha_voto": "2024-11-04",
-    "estado": "New Hampshire",
-    "etnia": "hispanic",
-    "edad": 22,
-    "sexo": "femenino",
-    "salario": 98356,
-    "estudios": "doctor",
-    "religion": "other",
+    "fecha_voto": "2024-11-05",
+    "estado": "Maryland",
+    "etnia": "black",
+    "edad": 52,
+    "sexo": "masculino",
+    "salario": 232322,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 3,
+    "hijos": 1,
     "voto": "democrata"
 }

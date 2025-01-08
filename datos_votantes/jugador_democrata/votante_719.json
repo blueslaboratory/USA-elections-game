@@ -1,14 +1,14 @@
 {
     "id": 719,
-    "fecha_voto": "2024-04-04",
-    "estado": "Oregon",
+    "fecha_voto": "2024-04-19",
+    "estado": "Virginia",
     "etnia": "illegal",
-    "edad": 70,
-    "sexo": "masculino",
-    "salario": 67543,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "edad": 56,
+    "sexo": "femenino",
+    "salario": 126534,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 2,
+    "voto": "democrata"
 }

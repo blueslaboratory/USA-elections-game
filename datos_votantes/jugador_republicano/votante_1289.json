@@ -1,14 +1,14 @@
 {
     "id": 1289,
-    "fecha_voto": "2024-08-28",
-    "estado": "Minnesota",
-    "etnia": "illegal",
-    "edad": 22,
+    "fecha_voto": "2024-09-19",
+    "estado": "Texas",
+    "etnia": "asian",
+    "edad": 67,
     "sexo": "femenino",
-    "salario": 235315,
-    "estudios": "high school",
-    "religion": "judaism",
+    "salario": 84398,
+    "estudios": "graduate",
+    "religion": "hinduism",
     "casado": true,
     "hijos": 2,
-    "voto": "democrata"
+    "voto": "republicano"
 }

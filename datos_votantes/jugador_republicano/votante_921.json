@@ -1,14 +1,14 @@
 {
     "id": 921,
-    "fecha_voto": "2024-06-23",
-    "estado": "Virginia",
-    "etnia": "illegal",
-    "edad": 33,
-    "sexo": "masculino",
-    "salario": 107907,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "fecha_voto": "2024-05-21",
+    "estado": "Maryland",
+    "etnia": "white",
+    "edad": 69,
+    "sexo": "femenino",
+    "salario": 162914,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 2,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 56,
-    "fecha_voto": "2024-02-13",
-    "estado": "New Mexico",
+    "fecha_voto": "2024-01-13",
+    "estado": "Idaho",
     "etnia": "illegal",
-    "edad": 64,
-    "sexo": "n",
-    "salario": 239128,
+    "edad": 52,
+    "sexo": "femenino",
+    "salario": 88590,
     "estudios": "graduate",
-    "religion": "judaism",
+    "religion": "islam",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

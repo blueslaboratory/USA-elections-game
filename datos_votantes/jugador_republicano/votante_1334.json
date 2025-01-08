@@ -1,14 +1,14 @@
 {
     "id": 1334,
-    "fecha_voto": "2024-09-09",
-    "estado": "Mississippi",
-    "etnia": "hispanic",
-    "edad": 46,
+    "fecha_voto": "2024-09-19",
+    "estado": "Florida",
+    "etnia": "indian",
+    "edad": 72,
     "sexo": "masculino",
-    "salario": 48930,
-    "estudios": "undergraduate",
+    "salario": 42421,
+    "estudios": "doctor",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 5,
+    "casado": true,
+    "hijos": 1,
     "voto": "republicano"
 }

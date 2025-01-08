@@ -1,14 +1,14 @@
 {
     "id": 1575,
-    "fecha_voto": "2024-10-25",
-    "estado": "New Mexico",
+    "fecha_voto": "2024-10-01",
+    "estado": "Kentucky",
     "etnia": "illegal",
-    "edad": 27,
-    "sexo": "femenino",
-    "salario": 84672,
-    "estudios": "graduate",
+    "edad": 24,
+    "sexo": "masculino",
+    "salario": 176363,
+    "estudios": "high school",
     "religion": "christianism",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

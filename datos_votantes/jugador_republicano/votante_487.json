@@ -1,14 +1,14 @@
 {
     "id": 487,
-    "fecha_voto": "2024-03-15",
-    "estado": "Virginia",
+    "fecha_voto": "2024-02-26",
+    "estado": "North Carolina",
     "etnia": "illegal",
-    "edad": 59,
-    "sexo": "masculino",
-    "salario": 162677,
+    "edad": 22,
+    "sexo": "femenino",
+    "salario": 187294,
     "estudios": "doctor",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 1,
+    "religion": "islam",
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

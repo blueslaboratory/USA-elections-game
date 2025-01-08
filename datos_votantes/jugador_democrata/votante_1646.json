@@ -1,14 +1,14 @@
 {
     "id": 1646,
-    "fecha_voto": "2024-10-24",
-    "estado": "New Mexico",
+    "fecha_voto": "2024-10-20",
+    "estado": "Minnesota",
     "etnia": "illegal",
-    "edad": 32,
-    "sexo": "femenino",
-    "salario": 142224,
-    "estudios": "masters",
+    "edad": 95,
+    "sexo": "masculino",
+    "salario": 94434,
+    "estudios": "high school",
     "religion": "hinduism",
     "casado": true,
     "hijos": 2,
-    "voto": "democrata"
+    "voto": "republicano"
 }

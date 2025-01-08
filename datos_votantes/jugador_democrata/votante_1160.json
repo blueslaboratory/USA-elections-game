@@ -1,14 +1,14 @@
 {
     "id": 1160,
-    "fecha_voto": "2024-07-02",
-    "estado": "Vermont",
-    "etnia": "illegal",
-    "edad": 29,
+    "fecha_voto": "2024-07-05",
+    "estado": "Missouri",
+    "etnia": "hispanic",
+    "edad": 48,
     "sexo": "femenino",
-    "salario": 244048,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 5,
+    "salario": 111828,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 223,
-    "fecha_voto": "2024-01-02",
-    "estado": "Nevada",
-    "etnia": "black",
+    "fecha_voto": "2024-01-11",
+    "estado": "New Mexico",
+    "etnia": "hispanic",
     "edad": 94,
-    "sexo": "n",
-    "salario": 165179,
-    "estudios": "high school",
-    "religion": "atheism",
+    "sexo": "masculino",
+    "salario": 153289,
+    "estudios": "graduate",
+    "religion": "islam",
     "casado": false,
-    "hijos": 5,
+    "hijos": 0,
     "voto": "republicano"
 }

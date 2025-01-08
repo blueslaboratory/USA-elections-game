@@ -1,14 +1,14 @@
 {
     "id": 222,
-    "fecha_voto": "2024-01-18",
-    "estado": "Massachusetts",
-    "etnia": "indian",
-    "edad": 29,
-    "sexo": "n",
-    "salario": 319539,
-    "estudios": "masters",
-    "religion": "christianism",
+    "fecha_voto": "2024-02-02",
+    "estado": "Minnesota",
+    "etnia": "illegal",
+    "edad": 98,
+    "sexo": "masculino",
+    "salario": 67426,
+    "estudios": "graduate",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

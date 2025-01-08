@@ -1,14 +1,14 @@
 {
     "id": 109,
-    "fecha_voto": "2024-02-11",
-    "estado": "Vermont",
-    "etnia": "indian",
-    "edad": 68,
-    "sexo": "c",
-    "salario": 244262,
+    "fecha_voto": "2024-01-26",
+    "estado": "Maine",
+    "etnia": "white",
+    "edad": 31,
+    "sexo": "femenino",
+    "salario": 87624,
     "estudios": "high school",
-    "religion": "other",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 0,
     "voto": "republicano"
 }

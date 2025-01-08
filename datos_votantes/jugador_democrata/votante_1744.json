@@ -1,14 +1,14 @@
 {
     "id": 1744,
-    "fecha_voto": "2024-10-09",
+    "fecha_voto": "2024-10-01",
     "estado": "Tennessee",
-    "etnia": "asian",
-    "edad": 20,
+    "etnia": "illegal",
+    "edad": 45,
     "sexo": "femenino",
-    "salario": 129797,
-    "estudios": "graduate",
+    "salario": 223793,
+    "estudios": "undergraduate",
     "religion": "judaism",
     "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1460,
-    "fecha_voto": "2024-09-05",
-    "estado": "Ohio",
-    "etnia": "white",
-    "edad": 80,
-    "sexo": "masculino",
-    "salario": 32007,
+    "fecha_voto": "2024-08-21",
+    "estado": "Tennessee",
+    "etnia": "black",
+    "edad": 67,
+    "sexo": "femenino",
+    "salario": 50106,
     "estudios": "high school",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 3,
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 0,
     "voto": "republicano"
 }

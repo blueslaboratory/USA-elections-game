@@ -1,14 +1,14 @@
 {
     "id": 1781,
     "fecha_voto": "2024-11-05",
-    "estado": "West Virginia",
+    "estado": "Maryland",
     "etnia": "black",
-    "edad": 44,
-    "sexo": "femenino",
-    "salario": 101398,
-    "estudios": "graduate",
+    "edad": 88,
+    "sexo": "masculino",
+    "salario": 110490,
+    "estudios": "undergraduate",
     "religion": "christianism",
-    "casado": true,
+    "casado": false,
     "hijos": 4,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 779,
-    "fecha_voto": "2024-06-17",
-    "estado": "Nebraska",
-    "etnia": "asian",
-    "edad": 30,
+    "fecha_voto": "2024-06-20",
+    "estado": "Maine",
+    "etnia": "white",
+    "edad": 44,
     "sexo": "masculino",
-    "salario": 115323,
-    "estudios": "doctor",
+    "salario": 205601,
+    "estudios": "undergraduate",
     "religion": "other",
     "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

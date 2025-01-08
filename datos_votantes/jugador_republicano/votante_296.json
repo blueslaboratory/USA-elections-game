@@ -1,14 +1,14 @@
 {
     "id": 296,
-    "fecha_voto": "2024-03-05",
-    "estado": "Nevada",
-    "etnia": "indian",
-    "edad": 93,
-    "sexo": "masculino",
-    "salario": 208306,
+    "fecha_voto": "2024-03-26",
+    "estado": "Montana",
+    "etnia": "black",
+    "edad": 54,
+    "sexo": "femenino",
+    "salario": 115114,
     "estudios": "graduate",
-    "religion": "islam",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

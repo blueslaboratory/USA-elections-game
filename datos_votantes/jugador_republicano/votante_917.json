@@ -1,14 +1,14 @@
 {
     "id": 917,
-    "fecha_voto": "2024-05-19",
-    "estado": "Ohio",
-    "etnia": "asian",
-    "edad": 30,
+    "fecha_voto": "2024-05-15",
+    "estado": "Michigan",
+    "etnia": "white",
+    "edad": 43,
     "sexo": "masculino",
-    "salario": 196943,
-    "estudios": "high school",
-    "religion": "atheism",
+    "salario": 97803,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 3,
+    "hijos": 1,
     "voto": "republicano"
 }

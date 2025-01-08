@@ -1,14 +1,14 @@
 {
     "id": 354,
-    "fecha_voto": "2024-02-22",
-    "estado": "Nebraska",
-    "etnia": "asian",
-    "edad": 65,
-    "sexo": "femenino",
-    "salario": 136606,
-    "estudios": "high school",
-    "religion": "other",
+    "fecha_voto": "2024-03-19",
+    "estado": "New York",
+    "etnia": "indian",
+    "edad": 27,
+    "sexo": "masculino",
+    "salario": 96621,
+    "estudios": "graduate",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

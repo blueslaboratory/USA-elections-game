@@ -1,14 +1,14 @@
 {
     "id": 1507,
-    "fecha_voto": "2024-09-26",
-    "estado": "Vermont",
-    "etnia": "white",
-    "edad": 25,
+    "fecha_voto": "2024-10-13",
+    "estado": "Minnesota",
+    "etnia": "illegal",
+    "edad": 80,
     "sexo": "femenino",
-    "salario": 195869,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 5,
+    "salario": 108995,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 907,
-    "fecha_voto": "2024-06-12",
-    "estado": "Massachusetts",
-    "etnia": "indian",
-    "edad": 48,
+    "fecha_voto": "2024-06-02",
+    "estado": "Michigan",
+    "etnia": "white",
+    "edad": 60,
     "sexo": "masculino",
-    "salario": 242262,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "salario": 32321,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": true,
     "hijos": 2,
-    "voto": "democrata"
+    "voto": "republicano"
 }

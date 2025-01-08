@@ -1,14 +1,14 @@
 {
     "id": 251,
-    "fecha_voto": "2024-02-15",
-    "estado": "Colorado",
+    "fecha_voto": "2024-02-21",
+    "estado": "Ohio",
     "etnia": "white",
-    "edad": 75,
+    "edad": 36,
     "sexo": "femenino",
-    "salario": 197148,
-    "estudios": "doctor",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 1,
+    "salario": 127371,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

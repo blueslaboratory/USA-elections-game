@@ -1,14 +1,14 @@
 {
     "id": 400,
-    "fecha_voto": "2024-03-12",
-    "estado": "Pennsylvania",
-    "etnia": "illegal",
-    "edad": 79,
+    "fecha_voto": "2024-02-14",
+    "estado": "Maryland",
+    "etnia": "white",
+    "edad": 28,
     "sexo": "femenino",
-    "salario": 50702,
-    "estudios": "high school",
-    "religion": "judaism",
+    "salario": 72310,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

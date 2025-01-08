@@ -1,14 +1,14 @@
 {
     "id": 558,
-    "fecha_voto": "2024-04-04",
+    "fecha_voto": "2024-05-03",
     "estado": "Pennsylvania",
-    "etnia": "illegal",
-    "edad": 54,
+    "etnia": "asian",
+    "edad": 95,
     "sexo": "femenino",
-    "salario": 180199,
-    "estudios": "graduate",
+    "salario": 31271,
+    "estudios": "doctor",
     "religion": "other",
-    "casado": true,
-    "hijos": 1,
+    "casado": false,
+    "hijos": 2,
     "voto": "democrata"
 }

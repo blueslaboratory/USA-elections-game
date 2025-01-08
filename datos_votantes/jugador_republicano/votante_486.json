@@ -1,14 +1,14 @@
 {
     "id": 486,
-    "fecha_voto": "2024-03-01",
-    "estado": "Tennessee",
-    "etnia": "indian",
-    "edad": 47,
+    "fecha_voto": "2024-03-03",
+    "estado": "Ohio",
+    "etnia": "hispanic",
+    "edad": 41,
     "sexo": "femenino",
-    "salario": 170691,
-    "estudios": "graduate",
-    "religion": "atheism",
+    "salario": 182903,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 5,
     "voto": "republicano"
 }

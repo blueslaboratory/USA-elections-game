@@ -1,14 +1,14 @@
 {
     "id": 695,
-    "fecha_voto": "2024-04-01",
-    "estado": "Pennsylvania",
-    "etnia": "hispanic",
-    "edad": 30,
+    "fecha_voto": "2024-04-12",
+    "estado": "Texas",
+    "etnia": "asian",
+    "edad": 79,
     "sexo": "masculino",
-    "salario": 61844,
+    "salario": 203673,
     "estudios": "graduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 4,
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 3,
     "voto": "republicano"
 }

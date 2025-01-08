@@ -1,14 +1,14 @@
 {
     "id": 1240,
-    "fecha_voto": "2024-07-04",
-    "estado": "Montana",
-    "etnia": "hispanic",
-    "edad": 48,
+    "fecha_voto": "2024-07-17",
+    "estado": "Arkansas",
+    "etnia": "white",
+    "edad": 53,
     "sexo": "femenino",
-    "salario": 103785,
-    "estudios": "masters",
-    "religion": "atheism",
+    "salario": 204199,
+    "estudios": "doctor",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

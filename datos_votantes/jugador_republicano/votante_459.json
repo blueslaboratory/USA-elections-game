@@ -1,14 +1,14 @@
 {
     "id": 459,
-    "fecha_voto": "2024-03-20",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-03-04",
+    "estado": "Colorado",
     "etnia": "asian",
-    "edad": 45,
-    "sexo": "masculino",
-    "salario": 192698,
+    "edad": 48,
+    "sexo": "femenino",
+    "salario": 74546,
     "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 4,
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 1,
     "voto": "republicano"
 }

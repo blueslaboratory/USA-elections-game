@@ -1,14 +1,14 @@
 {
     "id": 438,
-    "fecha_voto": "2024-03-06",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-03-26",
+    "estado": "Connecticut",
     "etnia": "black",
-    "edad": 21,
-    "sexo": "femenino",
-    "salario": 208033,
-    "estudios": "doctor",
+    "edad": 37,
+    "sexo": "masculino",
+    "salario": 78745,
+    "estudios": "masters",
     "religion": "christianism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 4,
     "voto": "democrata"
 }

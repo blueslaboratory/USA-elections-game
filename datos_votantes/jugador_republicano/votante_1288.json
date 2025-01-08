@@ -1,14 +1,14 @@
 {
     "id": 1288,
-    "fecha_voto": "2024-08-21",
-    "estado": "Iowa",
-    "etnia": "illegal",
-    "edad": 71,
-    "sexo": "masculino",
-    "salario": 123715,
-    "estudios": "doctor",
+    "fecha_voto": "2024-09-19",
+    "estado": "Nevada",
+    "etnia": "black",
+    "edad": 62,
+    "sexo": "femenino",
+    "salario": 89819,
+    "estudios": "high school",
     "religion": "christianism",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

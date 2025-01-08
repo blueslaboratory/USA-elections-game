@@ -1,14 +1,14 @@
 {
     "id": 1236,
-    "fecha_voto": "2024-07-17",
-    "estado": "Alaska",
-    "etnia": "asian",
-    "edad": 42,
-    "sexo": "masculino",
-    "salario": 145513,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-07-16",
+    "estado": "South Dakota",
+    "etnia": "black",
+    "edad": 23,
+    "sexo": "femenino",
+    "salario": 135900,
+    "estudios": "graduate",
     "religion": "other",
-    "casado": false,
+    "casado": true,
     "hijos": 1,
-    "voto": "republicano"
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1075,
-    "fecha_voto": "2024-06-28",
-    "estado": "Idaho",
-    "etnia": "hispanic",
-    "edad": 31,
+    "fecha_voto": "2024-08-03",
+    "estado": "Missouri",
+    "etnia": "indian",
+    "edad": 21,
     "sexo": "femenino",
-    "salario": 233735,
-    "estudios": "high school",
-    "religion": "christianism",
+    "salario": 61798,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

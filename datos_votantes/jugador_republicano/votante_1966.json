@@ -1,14 +1,14 @@
 {
     "id": 1966,
-    "fecha_voto": "2024-11-05",
-    "estado": "Alabama",
+    "fecha_voto": "2024-11-04",
+    "estado": "Hawaii",
     "etnia": "indian",
-    "edad": 75,
-    "sexo": "femenino",
-    "salario": 161568,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "edad": 86,
+    "sexo": "masculino",
+    "salario": 236264,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

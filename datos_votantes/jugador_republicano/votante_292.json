@@ -1,14 +1,14 @@
 {
     "id": 292,
-    "fecha_voto": "2024-03-18",
-    "estado": "Louisiana",
-    "etnia": "hispanic",
-    "edad": 32,
+    "fecha_voto": "2024-03-14",
+    "estado": "Minnesota",
+    "etnia": "indian",
+    "edad": 22,
     "sexo": "femenino",
-    "salario": 130837,
-    "estudios": "high school",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "salario": 191799,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
 }

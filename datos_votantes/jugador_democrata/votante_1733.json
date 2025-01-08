@@ -1,14 +1,14 @@
 {
     "id": 1733,
-    "fecha_voto": "2024-10-07",
-    "estado": "Kentucky",
-    "etnia": "black",
-    "edad": 21,
+    "fecha_voto": "2024-11-02",
+    "estado": "Utah",
+    "etnia": "illegal",
+    "edad": 97,
     "sexo": "femenino",
-    "salario": 75750,
-    "estudios": "doctor",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 1,
+    "salario": 156633,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

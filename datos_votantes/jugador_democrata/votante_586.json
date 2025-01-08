@@ -1,14 +1,14 @@
 {
     "id": 586,
-    "fecha_voto": "2024-04-25",
-    "estado": "Iowa",
-    "etnia": "hispanic",
-    "edad": 89,
+    "fecha_voto": "2024-03-29",
+    "estado": "Washington",
+    "etnia": "indian",
+    "edad": 98,
     "sexo": "masculino",
-    "salario": 224581,
+    "salario": 66344,
     "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

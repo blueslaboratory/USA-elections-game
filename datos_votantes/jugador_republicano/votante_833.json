@@ -1,14 +1,14 @@
 {
     "id": 833,
-    "fecha_voto": "2024-06-04",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-05-27",
+    "estado": "New Mexico",
     "etnia": "hispanic",
-    "edad": 37,
+    "edad": 53,
     "sexo": "masculino",
-    "salario": 90638,
+    "salario": 132712,
     "estudios": "masters",
     "religion": "christianism",
-    "casado": true,
-    "hijos": 5,
+    "casado": false,
+    "hijos": 1,
     "voto": "republicano"
 }

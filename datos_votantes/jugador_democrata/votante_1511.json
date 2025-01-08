@@ -1,14 +1,14 @@
 {
     "id": 1511,
-    "fecha_voto": "2024-09-23",
-    "estado": "Wyoming",
-    "etnia": "white",
-    "edad": 30,
+    "fecha_voto": "2024-10-12",
+    "estado": "North Carolina",
+    "etnia": "hispanic",
+    "edad": 85,
     "sexo": "femenino",
-    "salario": 64596,
-    "estudios": "undergraduate",
-    "religion": "islam",
+    "salario": 157063,
+    "estudios": "high school",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "republicano"
 }

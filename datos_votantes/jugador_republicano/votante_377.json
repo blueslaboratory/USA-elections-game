@@ -1,14 +1,14 @@
 {
     "id": 377,
-    "fecha_voto": "2024-03-25",
-    "estado": "Indiana",
-    "etnia": "asian",
-    "edad": 87,
+    "fecha_voto": "2024-03-16",
+    "estado": "Virginia",
+    "etnia": "white",
+    "edad": 26,
     "sexo": "femenino",
-    "salario": 170356,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 4,
+    "salario": 153825,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

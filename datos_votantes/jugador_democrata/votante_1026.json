@@ -1,14 +1,14 @@
 {
     "id": 1026,
-    "fecha_voto": "2024-07-14",
-    "estado": "Maine",
-    "etnia": "hispanic",
-    "edad": 34,
+    "fecha_voto": "2024-07-12",
+    "estado": "Oklahoma",
+    "etnia": "illegal",
+    "edad": 37,
     "sexo": "femenino",
-    "salario": 113863,
-    "estudios": "doctor",
-    "religion": "christianism",
+    "salario": 87666,
+    "estudios": "high school",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

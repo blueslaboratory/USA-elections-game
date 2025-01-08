@@ -1,14 +1,14 @@
 {
     "id": 1470,
-    "fecha_voto": "2024-09-14",
-    "estado": "Idaho",
-    "etnia": "hispanic",
-    "edad": 67,
+    "fecha_voto": "2024-09-16",
+    "estado": "Ohio",
+    "etnia": "white",
+    "edad": 26,
     "sexo": "masculino",
-    "salario": 216086,
-    "estudios": "doctor",
+    "salario": 81848,
+    "estudios": "high school",
     "religion": "hinduism",
-    "casado": true,
-    "hijos": 1,
+    "casado": false,
+    "hijos": 2,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 662,
-    "fecha_voto": "2024-05-03",
-    "estado": "Washington",
-    "etnia": "illegal",
-    "edad": 43,
+    "fecha_voto": "2024-03-30",
+    "estado": "Missouri",
+    "etnia": "white",
+    "edad": 90,
     "sexo": "femenino",
-    "salario": 136358,
-    "estudios": "high school",
-    "religion": "atheism",
+    "salario": 127631,
+    "estudios": "masters",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 1,
     "voto": "democrata"
 }

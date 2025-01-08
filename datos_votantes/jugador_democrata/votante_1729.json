@@ -1,14 +1,14 @@
 {
     "id": 1729,
-    "fecha_voto": "2024-10-26",
-    "estado": "Louisiana",
+    "fecha_voto": "2024-10-16",
+    "estado": "South Carolina",
     "etnia": "hispanic",
-    "edad": 34,
-    "sexo": "femenino",
-    "salario": 222867,
-    "estudios": "undergraduate",
-    "religion": "islam",
+    "edad": 66,
+    "sexo": "masculino",
+    "salario": 96069,
+    "estudios": "masters",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

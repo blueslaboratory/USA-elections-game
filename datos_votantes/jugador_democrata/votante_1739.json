@@ -1,14 +1,14 @@
 {
     "id": 1739,
-    "fecha_voto": "2024-09-26",
-    "estado": "New Mexico",
-    "etnia": "black",
-    "edad": 26,
+    "fecha_voto": "2024-10-31",
+    "estado": "Maryland",
+    "etnia": "hispanic",
+    "edad": 91,
     "sexo": "femenino",
-    "salario": 215790,
-    "estudios": "graduate",
-    "religion": "hinduism",
+    "salario": 39273,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "democrata"
 }

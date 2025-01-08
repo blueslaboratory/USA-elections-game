@@ -1,14 +1,14 @@
 {
     "id": 766,
-    "fecha_voto": "2024-06-13",
-    "estado": "Hawaii",
-    "etnia": "indian",
-    "edad": 43,
+    "fecha_voto": "2024-05-29",
+    "estado": "Oregon",
+    "etnia": "white",
+    "edad": 46,
     "sexo": "masculino",
-    "salario": 193606,
-    "estudios": "high school",
-    "religion": "atheism",
+    "salario": 211157,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 1,
+    "hijos": 4,
     "voto": "republicano"
 }

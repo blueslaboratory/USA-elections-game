@@ -1,14 +1,14 @@
 {
     "id": 1946,
     "fecha_voto": "2024-11-05",
-    "estado": "Montana",
-    "etnia": "hispanic",
-    "edad": 85,
-    "sexo": "femenino",
-    "salario": 83345,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "estado": "Vermont",
+    "etnia": "white",
+    "edad": 90,
+    "sexo": "masculino",
+    "salario": 48683,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
 }

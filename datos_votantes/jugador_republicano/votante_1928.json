@@ -1,14 +1,14 @@
 {
     "id": 1928,
     "fecha_voto": "2024-11-04",
-    "estado": "Idaho",
+    "estado": "Arizona",
     "etnia": "white",
-    "edad": 19,
-    "sexo": "femenino",
-    "salario": 174486,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 3,
+    "edad": 31,
+    "sexo": "masculino",
+    "salario": 219804,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
     "voto": "democrata"
 }

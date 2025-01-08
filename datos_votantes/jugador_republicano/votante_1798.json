@@ -1,14 +1,14 @@
 {
     "id": 1798,
     "fecha_voto": "2024-11-04",
-    "estado": "Arizona",
-    "etnia": "indian",
+    "estado": "Nevada",
+    "etnia": "illegal",
     "edad": 49,
     "sexo": "masculino",
-    "salario": 141793,
-    "estudios": "doctor",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "salario": 199901,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
 }

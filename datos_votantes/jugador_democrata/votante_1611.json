@@ -1,14 +1,14 @@
 {
     "id": 1611,
-    "fecha_voto": "2024-09-29",
-    "estado": "Utah",
+    "fecha_voto": "2024-10-05",
+    "estado": "Rhode Island",
     "etnia": "illegal",
-    "edad": 34,
-    "sexo": "femenino",
-    "salario": 43801,
-    "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 4,
-    "voto": "democrata"
+    "edad": 48,
+    "sexo": "masculino",
+    "salario": 79261,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

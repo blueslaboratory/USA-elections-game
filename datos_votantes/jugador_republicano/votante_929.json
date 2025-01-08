@@ -1,14 +1,14 @@
 {
     "id": 929,
-    "fecha_voto": "2024-05-22",
-    "estado": "Wyoming",
-    "etnia": "indian",
-    "edad": 31,
+    "fecha_voto": "2024-05-15",
+    "estado": "Tennessee",
+    "etnia": "white",
+    "edad": 56,
     "sexo": "masculino",
-    "salario": 36500,
+    "salario": 90242,
     "estudios": "high school",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 3,
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

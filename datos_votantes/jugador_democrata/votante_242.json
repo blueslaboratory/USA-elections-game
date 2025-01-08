@@ -1,14 +1,14 @@
 {
     "id": 242,
-    "fecha_voto": "2024-01-09",
-    "estado": "Nebraska",
-    "etnia": "hispanic",
-    "edad": 70,
-    "sexo": "c",
-    "salario": 243045,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "fecha_voto": "2024-01-28",
+    "estado": "New Mexico",
+    "etnia": "white",
+    "edad": 57,
+    "sexo": "femenino",
+    "salario": 143667,
+    "estudios": "masters",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
 }

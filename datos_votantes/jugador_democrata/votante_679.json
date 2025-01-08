@@ -1,14 +1,14 @@
 {
     "id": 679,
-    "fecha_voto": "2024-04-12",
-    "estado": "Florida",
-    "etnia": "illegal",
-    "edad": 35,
-    "sexo": "masculino",
-    "salario": 160245,
-    "estudios": "high school",
+    "fecha_voto": "2024-05-09",
+    "estado": "Washington",
+    "etnia": "indian",
+    "edad": 86,
+    "sexo": "femenino",
+    "salario": 111977,
+    "estudios": "masters",
     "religion": "atheism",
-    "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "casado": false,
+    "hijos": 4,
+    "voto": "democrata"
 }

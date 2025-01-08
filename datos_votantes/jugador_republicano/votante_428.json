@@ -1,14 +1,14 @@
 {
     "id": 428,
-    "fecha_voto": "2024-03-04",
-    "estado": "Tennessee",
-    "etnia": "asian",
-    "edad": 38,
+    "fecha_voto": "2024-03-21",
+    "estado": "New Jersey",
+    "etnia": "illegal",
+    "edad": 52,
     "sexo": "femenino",
-    "salario": 55007,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "salario": 53720,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

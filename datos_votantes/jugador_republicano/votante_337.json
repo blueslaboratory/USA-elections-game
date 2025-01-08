@@ -1,14 +1,14 @@
 {
     "id": 337,
-    "fecha_voto": "2024-03-14",
-    "estado": "Virginia",
-    "etnia": "illegal",
-    "edad": 25,
-    "sexo": "femenino",
-    "salario": 167375,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "fecha_voto": "2024-02-26",
+    "estado": "Kansas",
+    "etnia": "black",
+    "edad": 36,
+    "sexo": "masculino",
+    "salario": 127539,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 0,
+    "hijos": 4,
     "voto": "democrata"
 }

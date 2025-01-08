@@ -1,14 +1,14 @@
 {
     "id": 84,
-    "fecha_voto": "2024-01-05",
-    "estado": "Kentucky",
-    "etnia": "asian",
-    "edad": 55,
-    "sexo": "c",
-    "salario": 389350,
+    "fecha_voto": "2024-02-09",
+    "estado": "Nebraska",
+    "etnia": "hispanic",
+    "edad": 37,
+    "sexo": "femenino",
+    "salario": 74500,
     "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 1,
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

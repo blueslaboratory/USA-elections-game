@@ -1,14 +1,14 @@
 {
     "id": 491,
-    "fecha_voto": "2024-03-03",
-    "estado": "Pennsylvania",
+    "fecha_voto": "2024-03-20",
+    "estado": "Colorado",
     "etnia": "indian",
-    "edad": 20,
+    "edad": 39,
     "sexo": "masculino",
-    "salario": 204924,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": true,
+    "salario": 212705,
+    "estudios": "masters",
+    "religion": "christianism",
+    "casado": false,
     "hijos": 5,
     "voto": "democrata"
 }

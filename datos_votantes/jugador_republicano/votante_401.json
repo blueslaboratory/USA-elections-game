@@ -1,14 +1,14 @@
 {
     "id": 401,
-    "fecha_voto": "2024-03-18",
-    "estado": "Florida",
+    "fecha_voto": "2024-03-24",
+    "estado": "New Jersey",
     "etnia": "hispanic",
-    "edad": 46,
+    "edad": 32,
     "sexo": "femenino",
-    "salario": 79950,
-    "estudios": "doctor",
-    "religion": "hinduism",
+    "salario": 153380,
+    "estudios": "high school",
+    "religion": "islam",
     "casado": false,
-    "hijos": 5,
+    "hijos": 1,
     "voto": "democrata"
 }

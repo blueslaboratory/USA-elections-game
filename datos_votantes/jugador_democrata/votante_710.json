@@ -1,14 +1,14 @@
 {
     "id": 710,
     "fecha_voto": "2024-05-02",
-    "estado": "Oregon",
-    "etnia": "hispanic",
-    "edad": 28,
-    "sexo": "masculino",
-    "salario": 145630,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 2,
+    "estado": "New Hampshire",
+    "etnia": "illegal",
+    "edad": 30,
+    "sexo": "femenino",
+    "salario": 30075,
+    "estudios": "doctor",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
     "voto": "democrata"
 }

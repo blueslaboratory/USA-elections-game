@@ -1,14 +1,14 @@
 {
     "id": 1871,
-    "fecha_voto": "2024-11-05",
-    "estado": "North Carolina",
-    "etnia": "hispanic",
-    "edad": 72,
-    "sexo": "femenino",
-    "salario": 190461,
+    "fecha_voto": "2024-11-04",
+    "estado": "Alaska",
+    "etnia": "indian",
+    "edad": 40,
+    "sexo": "masculino",
+    "salario": 75329,
     "estudios": "high school",
-    "religion": "other",
-    "casado": true,
-    "hijos": 4,
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 1,
     "voto": "republicano"
 }

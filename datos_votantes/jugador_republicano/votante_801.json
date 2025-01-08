@@ -1,14 +1,14 @@
 {
     "id": 801,
-    "fecha_voto": "2024-05-24",
-    "estado": "Missouri",
-    "etnia": "indian",
-    "edad": 45,
+    "fecha_voto": "2024-05-31",
+    "estado": "New York",
+    "etnia": "hispanic",
+    "edad": 18,
     "sexo": "masculino",
-    "salario": 111982,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": true,
-    "hijos": 2,
+    "salario": 30867,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

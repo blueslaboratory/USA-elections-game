@@ -1,14 +1,14 @@
 {
     "id": 739,
-    "fecha_voto": "2024-05-09",
-    "estado": "California",
-    "etnia": "hispanic",
-    "edad": 73,
+    "fecha_voto": "2024-04-27",
+    "estado": "Connecticut",
+    "etnia": "asian",
+    "edad": 94,
     "sexo": "masculino",
-    "salario": 31241,
-    "estudios": "doctor",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 1,
+    "salario": 214699,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

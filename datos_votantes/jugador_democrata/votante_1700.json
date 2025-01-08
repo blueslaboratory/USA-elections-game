@@ -1,14 +1,14 @@
 {
     "id": 1700,
-    "fecha_voto": "2024-09-21",
-    "estado": "Ohio",
-    "etnia": "hispanic",
-    "edad": 26,
+    "fecha_voto": "2024-10-24",
+    "estado": "West Virginia",
+    "etnia": "illegal",
+    "edad": 57,
     "sexo": "femenino",
-    "salario": 47856,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 4,
+    "salario": 122457,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 3,
     "voto": "democrata"
 }

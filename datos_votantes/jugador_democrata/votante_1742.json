@@ -1,14 +1,14 @@
 {
     "id": 1742,
-    "fecha_voto": "2024-10-09",
-    "estado": "Montana",
-    "etnia": "indian",
-    "edad": 34,
-    "sexo": "femenino",
-    "salario": 246792,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
+    "fecha_voto": "2024-09-21",
+    "estado": "Missouri",
+    "etnia": "hispanic",
+    "edad": 55,
+    "sexo": "masculino",
+    "salario": 196773,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": false,
     "hijos": 5,
-    "voto": "democrata"
+    "voto": "republicano"
 }

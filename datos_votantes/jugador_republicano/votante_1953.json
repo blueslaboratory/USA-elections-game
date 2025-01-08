@@ -1,14 +1,14 @@
 {
     "id": 1953,
-    "fecha_voto": "2024-11-05",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-11-04",
+    "estado": "Wisconsin",
     "etnia": "white",
-    "edad": 95,
+    "edad": 71,
     "sexo": "masculino",
-    "salario": 247348,
-    "estudios": "high school",
+    "salario": 114348,
+    "estudios": "undergraduate",
     "religion": "judaism",
-    "casado": true,
-    "hijos": 2,
+    "casado": false,
+    "hijos": 4,
     "voto": "republicano"
 }

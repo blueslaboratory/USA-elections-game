@@ -1,14 +1,14 @@
 {
     "id": 261,
-    "fecha_voto": "2024-03-11",
-    "estado": "Pennsylvania",
+    "fecha_voto": "2024-03-05",
+    "estado": "Hawaii",
     "etnia": "white",
-    "edad": 30,
+    "edad": 22,
     "sexo": "masculino",
-    "salario": 110039,
+    "salario": 195260,
     "estudios": "doctor",
-    "religion": "judaism",
+    "religion": "other",
     "casado": false,
-    "hijos": 2,
+    "hijos": 1,
     "voto": "democrata"
 }

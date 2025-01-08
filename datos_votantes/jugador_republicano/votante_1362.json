@@ -1,14 +1,14 @@
 {
     "id": 1362,
-    "fecha_voto": "2024-09-01",
-    "estado": "Michigan",
+    "fecha_voto": "2024-08-17",
+    "estado": "Ohio",
     "etnia": "hispanic",
-    "edad": 85,
-    "sexo": "femenino",
-    "salario": 96886,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 0,
+    "edad": 45,
+    "sexo": "masculino",
+    "salario": 118259,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

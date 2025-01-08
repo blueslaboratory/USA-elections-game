@@ -1,14 +1,14 @@
 {
     "id": 1305,
-    "fecha_voto": "2024-09-10",
-    "estado": "Virginia",
-    "etnia": "black",
-    "edad": 78,
-    "sexo": "femenino",
-    "salario": 95568,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-08-22",
+    "estado": "Indiana",
+    "etnia": "asian",
+    "edad": 93,
+    "sexo": "masculino",
+    "salario": 76871,
+    "estudios": "masters",
     "religion": "judaism",
     "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 1,
+    "voto": "republicano"
 }

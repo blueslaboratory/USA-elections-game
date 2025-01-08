@@ -1,14 +1,14 @@
 {
     "id": 10,
-    "fecha_voto": "2024-01-02",
-    "estado": "Kansas",
-    "etnia": "indian",
-    "edad": 51,
-    "sexo": "s",
-    "salario": 191066,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "fecha_voto": "2024-01-29",
+    "estado": "Alabama",
+    "etnia": "illegal",
+    "edad": 83,
+    "sexo": "masculino",
+    "salario": 68584,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

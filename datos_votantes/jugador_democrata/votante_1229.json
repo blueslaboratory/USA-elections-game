@@ -1,14 +1,14 @@
 {
     "id": 1229,
-    "fecha_voto": "2024-08-04",
-    "estado": "Wyoming",
-    "etnia": "white",
-    "edad": 40,
+    "fecha_voto": "2024-07-26",
+    "estado": "Alaska",
+    "etnia": "illegal",
+    "edad": 30,
     "sexo": "femenino",
-    "salario": 169652,
-    "estudios": "masters",
-    "religion": "other",
+    "salario": 73416,
+    "estudios": "undergraduate",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

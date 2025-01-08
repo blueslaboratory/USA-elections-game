@@ -1,14 +1,14 @@
 {
     "id": 294,
-    "fecha_voto": "2024-02-29",
-    "estado": "Indiana",
-    "etnia": "illegal",
-    "edad": 24,
+    "fecha_voto": "2024-03-23",
+    "estado": "Nevada",
+    "etnia": "black",
+    "edad": 31,
     "sexo": "masculino",
-    "salario": 120187,
-    "estudios": "masters",
-    "religion": "islam",
+    "salario": 67564,
+    "estudios": "undergraduate",
+    "religion": "other",
     "casado": false,
-    "hijos": 3,
+    "hijos": 0,
     "voto": "democrata"
 }

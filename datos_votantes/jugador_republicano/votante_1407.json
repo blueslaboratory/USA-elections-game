@@ -1,14 +1,14 @@
 {
     "id": 1407,
-    "fecha_voto": "2024-08-26",
+    "fecha_voto": "2024-09-03",
     "estado": "Nevada",
     "etnia": "black",
-    "edad": 76,
-    "sexo": "masculino",
-    "salario": 235563,
-    "estudios": "masters",
-    "religion": "judaism",
+    "edad": 54,
+    "sexo": "femenino",
+    "salario": 31110,
+    "estudios": "high school",
+    "religion": "other",
     "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

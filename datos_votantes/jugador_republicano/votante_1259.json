@@ -1,14 +1,14 @@
 {
     "id": 1259,
-    "fecha_voto": "2024-09-17",
-    "estado": "Georgia",
-    "etnia": "illegal",
-    "edad": 83,
+    "fecha_voto": "2024-08-31",
+    "estado": "Texas",
+    "etnia": "white",
+    "edad": 34,
     "sexo": "masculino",
-    "salario": 126709,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": false,
+    "salario": 244416,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": true,
     "hijos": 4,
-    "voto": "democrata"
+    "voto": "republicano"
 }

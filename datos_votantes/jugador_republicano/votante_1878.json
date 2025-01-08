@@ -1,14 +1,14 @@
 {
     "id": 1878,
     "fecha_voto": "2024-11-05",
-    "estado": "Kentucky",
-    "etnia": "hispanic",
-    "edad": 53,
-    "sexo": "femenino",
-    "salario": 117283,
+    "estado": "Nevada",
+    "etnia": "white",
+    "edad": 37,
+    "sexo": "masculino",
+    "salario": 188818,
     "estudios": "doctor",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "casado": true,
+    "hijos": 0,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 778,
-    "fecha_voto": "2024-05-12",
-    "estado": "Wisconsin",
-    "etnia": "asian",
-    "edad": 30,
-    "sexo": "masculino",
-    "salario": 91920,
-    "estudios": "high school",
-    "religion": "islam",
+    "fecha_voto": "2024-06-14",
+    "estado": "Nevada",
+    "etnia": "hispanic",
+    "edad": 79,
+    "sexo": "femenino",
+    "salario": 107001,
+    "estudios": "masters",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

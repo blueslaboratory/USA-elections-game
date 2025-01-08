@@ -1,14 +1,14 @@
 {
     "id": 252,
-    "fecha_voto": "2024-02-18",
-    "estado": "Utah",
-    "etnia": "black",
-    "edad": 19,
+    "fecha_voto": "2024-03-15",
+    "estado": "Rhode Island",
+    "etnia": "asian",
+    "edad": 34,
     "sexo": "masculino",
-    "salario": 108698,
+    "salario": 246027,
     "estudios": "graduate",
-    "religion": "hinduism",
+    "religion": "islam",
     "casado": true,
     "hijos": 2,
-    "voto": "democrata"
+    "voto": "republicano"
 }

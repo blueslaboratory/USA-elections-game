@@ -1,14 +1,14 @@
 {
     "id": 1572,
-    "fecha_voto": "2024-09-30",
-    "estado": "Colorado",
-    "etnia": "black",
-    "edad": 28,
+    "fecha_voto": "2024-10-05",
+    "estado": "Georgia",
+    "etnia": "illegal",
+    "edad": 33,
     "sexo": "femenino",
-    "salario": 212756,
+    "salario": 192706,
     "estudios": "graduate",
-    "religion": "other",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1249,
-    "fecha_voto": "2024-07-19",
-    "estado": "Rhode Island",
-    "etnia": "black",
-    "edad": 18,
+    "fecha_voto": "2024-08-05",
+    "estado": "Arizona",
+    "etnia": "indian",
+    "edad": 44,
     "sexo": "femenino",
-    "salario": 183964,
-    "estudios": "masters",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 1,
+    "salario": 78409,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

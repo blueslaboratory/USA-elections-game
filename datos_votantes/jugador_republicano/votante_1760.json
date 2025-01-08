@@ -1,14 +1,14 @@
 {
     "id": 1760,
     "fecha_voto": "2024-11-05",
-    "estado": "Pennsylvania",
-    "etnia": "white",
-    "edad": 24,
+    "estado": "Hawaii",
+    "etnia": "illegal",
+    "edad": 61,
     "sexo": "masculino",
-    "salario": 244539,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "salario": 84900,
+    "estudios": "graduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
 }

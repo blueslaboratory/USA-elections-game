@@ -1,14 +1,14 @@
 {
     "id": 678,
-    "fecha_voto": "2024-04-05",
-    "estado": "Mississippi",
-    "etnia": "hispanic",
-    "edad": 85,
+    "fecha_voto": "2024-05-03",
+    "estado": "Connecticut",
+    "etnia": "white",
+    "edad": 66,
     "sexo": "femenino",
-    "salario": 87974,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
+    "salario": 75690,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": false,
     "hijos": 5,
     "voto": "democrata"
 }

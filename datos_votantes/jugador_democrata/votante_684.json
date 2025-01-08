@@ -1,14 +1,14 @@
 {
     "id": 684,
-    "fecha_voto": "2024-03-31",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-04-10",
+    "estado": "Montana",
     "etnia": "illegal",
-    "edad": 25,
-    "sexo": "femenino",
-    "salario": 234589,
-    "estudios": "undergraduate",
-    "religion": "christianism",
+    "edad": 79,
+    "sexo": "masculino",
+    "salario": 233761,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 4,
+    "hijos": 1,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 110,
-    "fecha_voto": "2024-02-02",
-    "estado": "Delaware",
-    "etnia": "asian",
-    "edad": 71,
-    "sexo": "n",
-    "salario": 243789,
-    "estudios": "graduate",
-    "religion": "atheism",
+    "fecha_voto": "2024-02-06",
+    "estado": "Idaho",
+    "etnia": "white",
+    "edad": 42,
+    "sexo": "masculino",
+    "salario": 185963,
+    "estudios": "undergraduate",
+    "religion": "islam",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

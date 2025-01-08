@@ -1,14 +1,14 @@
 {
     "id": 846,
-    "fecha_voto": "2024-06-24",
+    "fecha_voto": "2024-05-26",
     "estado": "Louisiana",
-    "etnia": "illegal",
-    "edad": 21,
-    "sexo": "masculino",
-    "salario": 224478,
+    "etnia": "white",
+    "edad": 69,
+    "sexo": "femenino",
+    "salario": 160839,
     "estudios": "high school",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 1,
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
     "voto": "republicano"
 }

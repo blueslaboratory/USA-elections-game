@@ -1,14 +1,14 @@
 {
     "id": 76,
-    "fecha_voto": "2024-01-16",
-    "estado": "Indiana",
-    "etnia": "white",
-    "edad": 27,
-    "sexo": "s",
-    "salario": 129057,
-    "estudios": "masters",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "fecha_voto": "2024-01-28",
+    "estado": "Oklahoma",
+    "etnia": "black",
+    "edad": 37,
+    "sexo": "masculino",
+    "salario": 39354,
+    "estudios": "undergraduate",
+    "religion": "islam",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

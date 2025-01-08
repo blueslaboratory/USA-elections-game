@@ -1,14 +1,14 @@
 {
     "id": 1898,
-    "fecha_voto": "2024-11-04",
-    "estado": "North Carolina",
+    "fecha_voto": "2024-11-05",
+    "estado": "Ohio",
     "etnia": "illegal",
-    "edad": 40,
-    "sexo": "femenino",
-    "salario": 98071,
-    "estudios": "undergraduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 3,
-    "voto": "democrata"
+    "edad": 51,
+    "sexo": "masculino",
+    "salario": 55264,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 1,
+    "voto": "republicano"
 }

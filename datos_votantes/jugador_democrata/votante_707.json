@@ -1,14 +1,14 @@
 {
     "id": 707,
-    "fecha_voto": "2024-04-25",
-    "estado": "Wisconsin",
-    "etnia": "hispanic",
-    "edad": 42,
+    "fecha_voto": "2024-04-17",
+    "estado": "Texas",
+    "etnia": "asian",
+    "edad": 52,
     "sexo": "femenino",
-    "salario": 226309,
-    "estudios": "undergraduate",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "salario": 130116,
+    "estudios": "masters",
+    "religion": "other",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
 }

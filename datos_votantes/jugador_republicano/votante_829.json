@@ -1,14 +1,14 @@
 {
     "id": 829,
-    "fecha_voto": "2024-05-19",
-    "estado": "Wyoming",
+    "fecha_voto": "2024-06-23",
+    "estado": "Alaska",
     "etnia": "white",
-    "edad": 33,
-    "sexo": "masculino",
-    "salario": 131764,
-    "estudios": "masters",
-    "religion": "islam",
+    "edad": 47,
+    "sexo": "femenino",
+    "salario": 96657,
+    "estudios": "graduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 5,
+    "hijos": 2,
     "voto": "republicano"
 }

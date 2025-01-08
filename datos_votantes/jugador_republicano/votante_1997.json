@@ -1,14 +1,14 @@
 {
     "id": 1997,
-    "fecha_voto": "2024-11-05",
-    "estado": "New Mexico",
-    "etnia": "hispanic",
-    "edad": 22,
+    "fecha_voto": "2024-11-04",
+    "estado": "Hawaii",
+    "etnia": "white",
+    "edad": 70,
     "sexo": "masculino",
-    "salario": 197373,
+    "salario": 237698,
     "estudios": "graduate",
-    "religion": "christianism",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "republicano"
 }

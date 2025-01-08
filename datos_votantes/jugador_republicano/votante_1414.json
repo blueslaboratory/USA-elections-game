@@ -1,14 +1,14 @@
 {
     "id": 1414,
-    "fecha_voto": "2024-09-11",
-    "estado": "New Mexico",
-    "etnia": "asian",
-    "edad": 94,
-    "sexo": "femenino",
-    "salario": 33147,
-    "estudios": "high school",
-    "religion": "hinduism",
+    "fecha_voto": "2024-08-28",
+    "estado": "Arizona",
+    "etnia": "black",
+    "edad": 51,
+    "sexo": "masculino",
+    "salario": 43698,
+    "estudios": "graduate",
+    "religion": "islam",
     "casado": true,
-    "hijos": 3,
+    "hijos": 1,
     "voto": "republicano"
 }

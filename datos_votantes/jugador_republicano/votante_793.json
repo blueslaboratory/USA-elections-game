@@ -1,14 +1,14 @@
 {
     "id": 793,
-    "fecha_voto": "2024-05-26",
-    "estado": "Michigan",
-    "etnia": "indian",
-    "edad": 42,
+    "fecha_voto": "2024-06-18",
+    "estado": "Missouri",
+    "etnia": "hispanic",
+    "edad": 26,
     "sexo": "masculino",
-    "salario": 162468,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "salario": 191711,
+    "estudios": "high school",
+    "religion": "other",
     "casado": true,
-    "hijos": 4,
+    "hijos": 3,
     "voto": "republicano"
 }

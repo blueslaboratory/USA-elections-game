@@ -1,14 +1,14 @@
 {
     "id": 1017,
-    "fecha_voto": "2024-07-01",
-    "estado": "South Dakota",
-    "etnia": "indian",
-    "edad": 48,
+    "fecha_voto": "2024-06-27",
+    "estado": "Tennessee",
+    "etnia": "asian",
+    "edad": 25,
     "sexo": "femenino",
-    "salario": 242299,
-    "estudios": "graduate",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 5,
+    "salario": 232712,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
     "voto": "democrata"
 }

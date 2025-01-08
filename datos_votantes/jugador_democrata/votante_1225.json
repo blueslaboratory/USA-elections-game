@@ -1,14 +1,14 @@
 {
     "id": 1225,
-    "fecha_voto": "2024-07-30",
-    "estado": "Alaska",
+    "fecha_voto": "2024-07-14",
+    "estado": "Nevada",
     "etnia": "black",
-    "edad": 40,
+    "edad": 41,
     "sexo": "femenino",
-    "salario": 60637,
-    "estudios": "masters",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 5,
+    "salario": 133455,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

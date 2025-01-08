@@ -1,14 +1,14 @@
 {
     "id": 454,
-    "fecha_voto": "2024-03-14",
-    "estado": "Alabama",
-    "etnia": "hispanic",
-    "edad": 75,
-    "sexo": "femenino",
-    "salario": 139581,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-03-09",
+    "estado": "Oregon",
+    "etnia": "asian",
+    "edad": 42,
+    "sexo": "masculino",
+    "salario": 230438,
+    "estudios": "graduate",
     "religion": "christianism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 4,
     "voto": "republicano"
 }

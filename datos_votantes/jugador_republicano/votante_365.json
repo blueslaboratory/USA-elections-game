@@ -1,14 +1,14 @@
 {
     "id": 365,
-    "fecha_voto": "2024-02-24",
-    "estado": "North Dakota",
-    "etnia": "hispanic",
-    "edad": 48,
-    "sexo": "masculino",
-    "salario": 227528,
-    "estudios": "undergraduate",
-    "religion": "atheism",
+    "fecha_voto": "2024-03-03",
+    "estado": "Virginia",
+    "etnia": "asian",
+    "edad": 26,
+    "sexo": "femenino",
+    "salario": 141026,
+    "estudios": "graduate",
+    "religion": "islam",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

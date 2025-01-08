@@ -1,14 +1,14 @@
 {
     "id": 520,
-    "fecha_voto": "2024-04-14",
-    "estado": "Idaho",
-    "etnia": "illegal",
-    "edad": 40,
+    "fecha_voto": "2024-04-27",
+    "estado": "Kansas",
+    "etnia": "black",
+    "edad": 32,
     "sexo": "femenino",
-    "salario": 175186,
-    "estudios": "undergraduate",
+    "salario": 123642,
+    "estudios": "masters",
     "religion": "atheism",
-    "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

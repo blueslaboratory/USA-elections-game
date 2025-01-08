@@ -1,14 +1,14 @@
 {
     "id": 1876,
     "fecha_voto": "2024-11-05",
-    "estado": "Georgia",
-    "etnia": "hispanic",
-    "edad": 96,
-    "sexo": "femenino",
-    "salario": 55607,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "estado": "Arizona",
+    "etnia": "white",
+    "edad": 84,
+    "sexo": "masculino",
+    "salario": 228574,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 0,
+    "hijos": 5,
     "voto": "republicano"
 }

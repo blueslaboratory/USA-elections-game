@@ -1,14 +1,14 @@
 {
     "id": 173,
     "fecha_voto": "2024-02-12",
-    "estado": "New York",
-    "etnia": "indian",
-    "edad": 92,
-    "sexo": "c",
-    "salario": 149680,
-    "estudios": "masters",
-    "religion": "christianism",
+    "estado": "South Carolina",
+    "etnia": "white",
+    "edad": 60,
+    "sexo": "masculino",
+    "salario": 159357,
+    "estudios": "undergraduate",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

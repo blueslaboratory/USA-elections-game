@@ -1,14 +1,14 @@
 {
     "id": 1174,
-    "fecha_voto": "2024-07-21",
-    "estado": "Ohio",
-    "etnia": "hispanic",
-    "edad": 32,
+    "fecha_voto": "2024-07-04",
+    "estado": "New Mexico",
+    "etnia": "black",
+    "edad": 43,
     "sexo": "femenino",
-    "salario": 144992,
+    "salario": 59776,
     "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 4,
+    "religion": "islam",
+    "casado": true,
+    "hijos": 0,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1654,
-    "fecha_voto": "2024-10-25",
-    "estado": "Nebraska",
+    "fecha_voto": "2024-10-18",
+    "estado": "Arizona",
     "etnia": "illegal",
-    "edad": 26,
+    "edad": 18,
     "sexo": "femenino",
-    "salario": 163551,
-    "estudios": "undergraduate",
-    "religion": "other",
-    "casado": true,
-    "hijos": 5,
+    "salario": 199291,
+    "estudios": "graduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
     "voto": "democrata"
 }

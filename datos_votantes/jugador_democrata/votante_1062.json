@@ -1,14 +1,14 @@
 {
     "id": 1062,
-    "fecha_voto": "2024-07-09",
-    "estado": "West Virginia",
+    "fecha_voto": "2024-07-24",
+    "estado": "Tennessee",
     "etnia": "hispanic",
-    "edad": 47,
+    "edad": 32,
     "sexo": "femenino",
-    "salario": 107845,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "salario": 71715,
+    "estudios": "graduate",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

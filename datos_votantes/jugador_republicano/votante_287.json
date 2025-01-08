@@ -1,14 +1,14 @@
 {
     "id": 287,
-    "fecha_voto": "2024-03-04",
-    "estado": "Iowa",
-    "etnia": "illegal",
-    "edad": 48,
-    "sexo": "masculino",
-    "salario": 176463,
+    "fecha_voto": "2024-03-15",
+    "estado": "Michigan",
+    "etnia": "black",
+    "edad": 41,
+    "sexo": "femenino",
+    "salario": 84730,
     "estudios": "masters",
-    "religion": "christianism",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 1,
+    "hijos": 3,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1826,
-    "fecha_voto": "2024-11-04",
-    "estado": "Utah",
-    "etnia": "indian",
-    "edad": 61,
-    "sexo": "femenino",
-    "salario": 100649,
-    "estudios": "high school",
+    "fecha_voto": "2024-11-05",
+    "estado": "Tennessee",
+    "etnia": "hispanic",
+    "edad": 36,
+    "sexo": "masculino",
+    "salario": 232243,
+    "estudios": "doctor",
     "religion": "christianism",
     "casado": false,
-    "hijos": 5,
+    "hijos": 0,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1950,
-    "fecha_voto": "2024-11-04",
-    "estado": "South Carolina",
-    "etnia": "indian",
-    "edad": 82,
-    "sexo": "femenino",
-    "salario": 53250,
-    "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
+    "fecha_voto": "2024-11-05",
+    "estado": "Maine",
+    "etnia": "asian",
+    "edad": 56,
+    "sexo": "masculino",
+    "salario": 115880,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": false,
     "hijos": 3,
     "voto": "republicano"
 }

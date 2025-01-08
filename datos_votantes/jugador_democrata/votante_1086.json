@@ -1,14 +1,14 @@
 {
     "id": 1086,
-    "fecha_voto": "2024-07-07",
-    "estado": "Ohio",
-    "etnia": "white",
-    "edad": 39,
-    "sexo": "masculino",
-    "salario": 99120,
-    "estudios": "graduate",
-    "religion": "islam",
+    "fecha_voto": "2024-07-13",
+    "estado": "Texas",
+    "etnia": "indian",
+    "edad": 22,
+    "sexo": "femenino",
+    "salario": 101091,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

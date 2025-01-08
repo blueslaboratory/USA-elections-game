@@ -1,14 +1,14 @@
 {
     "id": 218,
-    "fecha_voto": "2024-01-06",
-    "estado": "Colorado",
-    "etnia": "white",
-    "edad": 74,
-    "sexo": "i",
-    "salario": 394094,
-    "estudios": "undergraduate",
-    "religion": "other",
-    "casado": true,
+    "fecha_voto": "2024-02-04",
+    "estado": "Alabama",
+    "etnia": "hispanic",
+    "edad": 96,
+    "sexo": "femenino",
+    "salario": 202501,
+    "estudios": "graduate",
+    "religion": "hinduism",
+    "casado": false,
     "hijos": 3,
     "voto": "republicano"
 }

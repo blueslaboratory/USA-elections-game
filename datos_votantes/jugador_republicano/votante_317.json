@@ -1,14 +1,14 @@
 {
     "id": 317,
-    "fecha_voto": "2024-03-08",
-    "estado": "North Dakota",
-    "etnia": "white",
-    "edad": 26,
-    "sexo": "femenino",
-    "salario": 151722,
+    "fecha_voto": "2024-03-17",
+    "estado": "West Virginia",
+    "etnia": "black",
+    "edad": 10,
+    "sexo": "masculino",
+    "salario": 38310,
     "estudios": "masters",
-    "religion": "islam",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 5,
+    "hijos": 3,
     "voto": "democrata"
 }

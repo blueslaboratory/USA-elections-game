@@ -1,14 +1,14 @@
 {
     "id": 765,
-    "fecha_voto": "2024-06-11",
-    "estado": "New Hampshire",
-    "etnia": "black",
-    "edad": 20,
+    "fecha_voto": "2024-05-23",
+    "estado": "Alaska",
+    "etnia": "hispanic",
+    "edad": 85,
     "sexo": "masculino",
-    "salario": 227829,
-    "estudios": "doctor",
-    "religion": "other",
+    "salario": 173413,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": false,
     "hijos": 0,
-    "voto": "democrata"
+    "voto": "republicano"
 }

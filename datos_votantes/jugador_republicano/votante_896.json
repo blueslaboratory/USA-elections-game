@@ -1,14 +1,14 @@
 {
     "id": 896,
-    "fecha_voto": "2024-06-11",
-    "estado": "Nevada",
-    "etnia": "asian",
-    "edad": 19,
-    "sexo": "masculino",
-    "salario": 200312,
-    "estudios": "high school",
+    "fecha_voto": "2024-05-31",
+    "estado": "Utah",
+    "etnia": "hispanic",
+    "edad": 37,
+    "sexo": "femenino",
+    "salario": 137938,
+    "estudios": "undergraduate",
     "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
+    "casado": true,
+    "hijos": 1,
     "voto": "republicano"
 }

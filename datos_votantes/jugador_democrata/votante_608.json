@@ -1,14 +1,14 @@
 {
     "id": 608,
-    "fecha_voto": "2024-04-22",
-    "estado": "South Carolina",
-    "etnia": "hispanic",
-    "edad": 47,
+    "fecha_voto": "2024-04-04",
+    "estado": "West Virginia",
+    "etnia": "black",
+    "edad": 50,
     "sexo": "femenino",
-    "salario": 225024,
-    "estudios": "high school",
+    "salario": 210313,
+    "estudios": "doctor",
     "religion": "other",
-    "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "casado": false,
+    "hijos": 3,
+    "voto": "democrata"
 }

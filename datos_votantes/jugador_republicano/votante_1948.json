@@ -1,14 +1,14 @@
 {
     "id": 1948,
-    "fecha_voto": "2024-11-05",
-    "estado": "Ohio",
+    "fecha_voto": "2024-11-04",
+    "estado": "South Dakota",
     "etnia": "hispanic",
-    "edad": 23,
+    "edad": 60,
     "sexo": "masculino",
-    "salario": 81952,
-    "estudios": "doctor",
-    "religion": "atheism",
+    "salario": 229366,
+    "estudios": "undergraduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

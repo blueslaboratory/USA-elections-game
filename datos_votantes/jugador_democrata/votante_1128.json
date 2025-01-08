@@ -1,14 +1,14 @@
 {
     "id": 1128,
-    "fecha_voto": "2024-07-09",
-    "estado": "Ohio",
+    "fecha_voto": "2024-07-31",
+    "estado": "New York",
     "etnia": "black",
-    "edad": 40,
+    "edad": 46,
     "sexo": "femenino",
-    "salario": 78421,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": true,
+    "salario": 247320,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": false,
     "hijos": 0,
     "voto": "democrata"
 }

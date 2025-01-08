@@ -1,14 +1,14 @@
 {
     "id": 413,
-    "fecha_voto": "2024-03-03",
-    "estado": "Oklahoma",
-    "etnia": "black",
-    "edad": 25,
+    "fecha_voto": "2024-03-19",
+    "estado": "Indiana",
+    "etnia": "indian",
+    "edad": 46,
     "sexo": "femenino",
-    "salario": 195241,
-    "estudios": "undergraduate",
+    "salario": 131149,
+    "estudios": "masters",
     "religion": "islam",
     "casado": true,
-    "hijos": 2,
+    "hijos": 0,
     "voto": "democrata"
 }

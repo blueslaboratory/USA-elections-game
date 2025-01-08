@@ -1,14 +1,14 @@
 {
     "id": 1121,
-    "fecha_voto": "2024-07-07",
-    "estado": "Wyoming",
-    "etnia": "white",
-    "edad": 34,
-    "sexo": "masculino",
-    "salario": 42136,
+    "fecha_voto": "2024-06-27",
+    "estado": "Kentucky",
+    "etnia": "black",
+    "edad": 45,
+    "sexo": "femenino",
+    "salario": 171292,
     "estudios": "doctor",
-    "religion": "islam",
+    "religion": "judaism",
     "casado": true,
     "hijos": 3,
-    "voto": "republicano"
+    "voto": "democrata"
 }

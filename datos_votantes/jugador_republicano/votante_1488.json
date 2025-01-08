@@ -1,14 +1,14 @@
 {
     "id": 1488,
-    "fecha_voto": "2024-09-17",
-    "estado": "Nevada",
-    "etnia": "illegal",
-    "edad": 62,
+    "fecha_voto": "2024-08-24",
+    "estado": "Wisconsin",
+    "etnia": "indian",
+    "edad": 48,
     "sexo": "masculino",
-    "salario": 30016,
-    "estudios": "doctor",
+    "salario": 199998,
+    "estudios": "graduate",
     "religion": "other",
-    "casado": true,
-    "hijos": 2,
-    "voto": "democrata"
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
 }

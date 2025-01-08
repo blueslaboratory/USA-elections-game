@@ -1,14 +1,14 @@
 {
     "id": 61,
-    "fecha_voto": "2024-01-05",
-    "estado": "Kentucky",
-    "etnia": "indian",
-    "edad": 48,
-    "sexo": "i",
-    "salario": 238073,
-    "estudios": "doctor",
+    "fecha_voto": "2024-02-02",
+    "estado": "South Dakota",
+    "etnia": "illegal",
+    "edad": 79,
+    "sexo": "masculino",
+    "salario": 147724,
+    "estudios": "undergraduate",
     "religion": "islam",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 0,
+    "voto": "republicano"
 }

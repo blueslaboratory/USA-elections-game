@@ -1,14 +1,14 @@
 {
     "id": 1276,
-    "fecha_voto": "2024-08-23",
-    "estado": "New Hampshire",
+    "fecha_voto": "2024-08-29",
+    "estado": "Kansas",
     "etnia": "asian",
-    "edad": 59,
-    "sexo": "femenino",
-    "salario": 54027,
-    "estudios": "masters",
-    "religion": "hinduism",
+    "edad": 37,
+    "sexo": "masculino",
+    "salario": 195052,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "hijos": 2,
+    "voto": "republicano"
 }

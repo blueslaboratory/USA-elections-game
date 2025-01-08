@@ -1,14 +1,14 @@
 {
     "id": 189,
-    "fecha_voto": "2024-01-21",
-    "estado": "Vermont",
-    "etnia": "indian",
-    "edad": 56,
-    "sexo": "o",
-    "salario": 348810,
-    "estudios": "masters",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "fecha_voto": "2024-01-23",
+    "estado": "South Carolina",
+    "etnia": "white",
+    "edad": 73,
+    "sexo": "masculino",
+    "salario": 228131,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": false,
+    "hijos": 5,
+    "voto": "republicano"
 }

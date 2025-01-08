@@ -1,14 +1,14 @@
 {
     "id": 1736,
-    "fecha_voto": "2024-10-17",
-    "estado": "Washington",
-    "etnia": "black",
-    "edad": 25,
+    "fecha_voto": "2024-11-01",
+    "estado": "Utah",
+    "etnia": "illegal",
+    "edad": 54,
     "sexo": "femenino",
-    "salario": 229982,
+    "salario": 139500,
     "estudios": "doctor",
     "religion": "atheism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 2,
     "voto": "democrata"
 }

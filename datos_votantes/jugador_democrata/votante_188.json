@@ -1,14 +1,14 @@
 {
     "id": 188,
-    "fecha_voto": "2024-02-09",
-    "estado": "Oklahoma",
-    "etnia": "black",
-    "edad": 87,
-    "sexo": "i",
-    "salario": 285579,
+    "fecha_voto": "2024-01-04",
+    "estado": "Texas",
+    "etnia": "hispanic",
+    "edad": 49,
+    "sexo": "masculino",
+    "salario": 146363,
     "estudios": "undergraduate",
-    "religion": "islam",
-    "casado": true,
-    "hijos": 2,
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 4,
     "voto": "republicano"
 }

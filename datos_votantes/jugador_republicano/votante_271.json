@@ -1,14 +1,14 @@
 {
     "id": 271,
-    "fecha_voto": "2024-02-28",
-    "estado": "Maine",
-    "etnia": "indian",
-    "edad": 63,
-    "sexo": "masculino",
-    "salario": 55997,
+    "fecha_voto": "2024-02-16",
+    "estado": "California",
+    "etnia": "illegal",
+    "edad": 39,
+    "sexo": "femenino",
+    "salario": 161378,
     "estudios": "high school",
-    "religion": "christianism",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

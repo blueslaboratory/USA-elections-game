@@ -1,14 +1,14 @@
 {
     "id": 677,
-    "fecha_voto": "2024-03-29",
-    "estado": "Florida",
-    "etnia": "hispanic",
-    "edad": 48,
-    "sexo": "masculino",
-    "salario": 171485,
-    "estudios": "undergraduate",
-    "religion": "hinduism",
+    "fecha_voto": "2024-04-22",
+    "estado": "North Carolina",
+    "etnia": "illegal",
+    "edad": 55,
+    "sexo": "femenino",
+    "salario": 80224,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": false,
-    "hijos": 4,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

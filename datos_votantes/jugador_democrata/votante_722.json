@@ -1,14 +1,14 @@
 {
     "id": 722,
-    "fecha_voto": "2024-05-11",
-    "estado": "Nebraska",
-    "etnia": "illegal",
-    "edad": 46,
-    "sexo": "femenino",
-    "salario": 161892,
-    "estudios": "undergraduate",
+    "fecha_voto": "2024-04-17",
+    "estado": "Pennsylvania",
+    "etnia": "hispanic",
+    "edad": 37,
+    "sexo": "masculino",
+    "salario": 53640,
+    "estudios": "graduate",
     "religion": "islam",
-    "casado": false,
+    "casado": true,
     "hijos": 0,
-    "voto": "democrata"
+    "voto": "republicano"
 }

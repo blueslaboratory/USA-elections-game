@@ -1,14 +1,14 @@
 {
     "id": 422,
-    "fecha_voto": "2024-02-29",
-    "estado": "Utah",
+    "fecha_voto": "2024-03-05",
+    "estado": "Arizona",
     "etnia": "illegal",
-    "edad": 43,
+    "edad": 29,
     "sexo": "femenino",
-    "salario": 141220,
-    "estudios": "doctor",
-    "religion": "judaism",
+    "salario": 112020,
+    "estudios": "undergraduate",
+    "religion": "islam",
     "casado": true,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "democrata"
 }

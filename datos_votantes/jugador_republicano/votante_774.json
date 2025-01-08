@@ -1,14 +1,14 @@
 {
     "id": 774,
-    "fecha_voto": "2024-06-08",
-    "estado": "Mississippi",
+    "fecha_voto": "2024-05-27",
+    "estado": "Virginia",
     "etnia": "white",
-    "edad": 45,
-    "sexo": "masculino",
-    "salario": 184440,
-    "estudios": "graduate",
+    "edad": 30,
+    "sexo": "femenino",
+    "salario": 156022,
+    "estudios": "high school",
     "religion": "other",
-    "casado": false,
-    "hijos": 4,
+    "casado": true,
+    "hijos": 5,
     "voto": "republicano"
 }

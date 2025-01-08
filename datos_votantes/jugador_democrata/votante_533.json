@@ -1,14 +1,14 @@
 {
     "id": 533,
-    "fecha_voto": "2024-04-05",
-    "estado": "New Mexico",
-    "etnia": "hispanic",
-    "edad": 90,
-    "sexo": "masculino",
-    "salario": 120025,
+    "fecha_voto": "2024-03-30",
+    "estado": "Kentucky",
+    "etnia": "illegal",
+    "edad": 44,
+    "sexo": "femenino",
+    "salario": 42630,
     "estudios": "doctor",
-    "religion": "atheism",
+    "religion": "islam",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

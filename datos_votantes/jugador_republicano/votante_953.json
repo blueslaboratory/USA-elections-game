@@ -1,14 +1,14 @@
 {
     "id": 953,
-    "fecha_voto": "2024-06-22",
-    "estado": "Alabama",
-    "etnia": "asian",
-    "edad": 30,
+    "fecha_voto": "2024-05-15",
+    "estado": "North Carolina",
+    "etnia": "white",
+    "edad": 59,
     "sexo": "masculino",
-    "salario": 154521,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "salario": 61335,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 4,
+    "hijos": 1,
     "voto": "republicano"
 }

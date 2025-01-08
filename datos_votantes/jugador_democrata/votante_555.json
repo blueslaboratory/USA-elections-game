@@ -1,14 +1,14 @@
 {
     "id": 555,
-    "fecha_voto": "2024-04-10",
-    "estado": "Ohio",
+    "fecha_voto": "2024-05-01",
+    "estado": "Connecticut",
     "etnia": "hispanic",
-    "edad": 64,
+    "edad": 72,
     "sexo": "masculino",
-    "salario": 186215,
-    "estudios": "graduate",
-    "religion": "other",
+    "salario": 234429,
+    "estudios": "doctor",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 3,
+    "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1374,
-    "fecha_voto": "2024-08-10",
-    "estado": "Kansas",
-    "etnia": "asian",
-    "edad": 73,
-    "sexo": "femenino",
-    "salario": 164613,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
+    "fecha_voto": "2024-09-10",
+    "estado": "Tennessee",
+    "etnia": "black",
+    "edad": 92,
+    "sexo": "masculino",
+    "salario": 105972,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": true,
     "hijos": 0,
-    "voto": "democrata"
+    "voto": "republicano"
 }

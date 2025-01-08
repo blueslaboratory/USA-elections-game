@@ -1,14 +1,14 @@
 {
     "id": 860,
-    "fecha_voto": "2024-05-13",
-    "estado": "Kansas",
-    "etnia": "asian",
-    "edad": 35,
-    "sexo": "masculino",
-    "salario": 217803,
-    "estudios": "undergraduate",
-    "religion": "islam",
+    "fecha_voto": "2024-06-13",
+    "estado": "Missouri",
+    "etnia": "white",
+    "edad": 21,
+    "sexo": "femenino",
+    "salario": 128069,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 4,
+    "voto": "democrata"
 }

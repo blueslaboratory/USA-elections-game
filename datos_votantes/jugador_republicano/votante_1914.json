@@ -1,14 +1,14 @@
 {
     "id": 1914,
-    "fecha_voto": "2024-11-05",
-    "estado": "Michigan",
-    "etnia": "white",
-    "edad": 62,
+    "fecha_voto": "2024-11-04",
+    "estado": "Pennsylvania",
+    "etnia": "asian",
+    "edad": 38,
     "sexo": "masculino",
-    "salario": 51156,
-    "estudios": "masters",
-    "religion": "islam",
-    "casado": true,
+    "salario": 242565,
+    "estudios": "undergraduate",
+    "religion": "judaism",
+    "casado": false,
     "hijos": 3,
     "voto": "republicano"
 }

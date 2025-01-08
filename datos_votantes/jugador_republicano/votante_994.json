@@ -1,14 +1,14 @@
 {
     "id": 994,
-    "fecha_voto": "2024-06-14",
-    "estado": "Texas",
-    "etnia": "asian",
-    "edad": 32,
+    "fecha_voto": "2024-06-01",
+    "estado": "Minnesota",
+    "etnia": "white",
+    "edad": 46,
     "sexo": "masculino",
-    "salario": 132233,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 1,
+    "salario": 167257,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 5,
     "voto": "republicano"
 }

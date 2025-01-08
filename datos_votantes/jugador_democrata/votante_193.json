@@ -1,14 +1,14 @@
 {
     "id": 193,
-    "fecha_voto": "2024-01-13",
-    "estado": "South Dakota",
-    "etnia": "indian",
+    "fecha_voto": "2024-01-12",
+    "estado": "Ohio",
+    "etnia": "white",
     "edad": 78,
-    "sexo": "s",
-    "salario": 318288,
-    "estudios": "high school",
-    "religion": "other",
-    "casado": true,
+    "sexo": "femenino",
+    "salario": 232793,
+    "estudios": "doctor",
+    "religion": "hinduism",
+    "casado": false,
     "hijos": 1,
-    "voto": "republicano"
+    "voto": "democrata"
 }

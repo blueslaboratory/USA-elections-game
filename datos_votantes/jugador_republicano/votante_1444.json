@@ -1,14 +1,14 @@
 {
     "id": 1444,
-    "fecha_voto": "2024-08-18",
-    "estado": "Wyoming",
-    "etnia": "illegal",
-    "edad": 61,
-    "sexo": "masculino",
-    "salario": 32454,
+    "fecha_voto": "2024-09-07",
+    "estado": "South Carolina",
+    "etnia": "indian",
+    "edad": 69,
+    "sexo": "femenino",
+    "salario": 104691,
     "estudios": "high school",
     "religion": "atheism",
-    "casado": true,
-    "hijos": 4,
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

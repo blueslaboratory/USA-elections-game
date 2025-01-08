@@ -1,14 +1,14 @@
 {
     "id": 1570,
-    "fecha_voto": "2024-09-21",
-    "estado": "West Virginia",
+    "fecha_voto": "2024-10-31",
+    "estado": "Hawaii",
     "etnia": "illegal",
-    "edad": 33,
-    "sexo": "femenino",
-    "salario": 133218,
-    "estudios": "masters",
+    "edad": 58,
+    "sexo": "masculino",
+    "salario": 119761,
+    "estudios": "undergraduate",
     "religion": "hinduism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 2,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1403,
-    "fecha_voto": "2024-08-15",
-    "estado": "Pennsylvania",
-    "etnia": "asian",
-    "edad": 40,
+    "fecha_voto": "2024-09-08",
+    "estado": "Texas",
+    "etnia": "illegal",
+    "edad": 44,
     "sexo": "femenino",
-    "salario": 221156,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": false,
-    "hijos": 3,
+    "salario": 143895,
+    "estudios": "undergraduate",
+    "religion": "atheism",
+    "casado": true,
+    "hijos": 4,
     "voto": "republicano"
 }

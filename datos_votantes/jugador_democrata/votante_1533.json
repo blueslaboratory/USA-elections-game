@@ -1,14 +1,14 @@
 {
     "id": 1533,
-    "fecha_voto": "2024-10-07",
-    "estado": "Rhode Island",
-    "etnia": "indian",
-    "edad": 26,
-    "sexo": "femenino",
-    "salario": 110790,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": false,
+    "fecha_voto": "2024-10-29",
+    "estado": "North Dakota",
+    "etnia": "hispanic",
+    "edad": 93,
+    "sexo": "masculino",
+    "salario": 127694,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
     "hijos": 1,
-    "voto": "democrata"
+    "voto": "republicano"
 }

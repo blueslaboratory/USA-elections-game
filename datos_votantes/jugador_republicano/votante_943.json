@@ -1,14 +1,14 @@
 {
     "id": 943,
-    "fecha_voto": "2024-05-14",
-    "estado": "New Hampshire",
-    "etnia": "illegal",
-    "edad": 26,
-    "sexo": "masculino",
-    "salario": 110762,
-    "estudios": "high school",
-    "religion": "atheism",
+    "fecha_voto": "2024-06-11",
+    "estado": "Maine",
+    "etnia": "white",
+    "edad": 20,
+    "sexo": "femenino",
+    "salario": 116067,
+    "estudios": "doctor",
+    "religion": "other",
     "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

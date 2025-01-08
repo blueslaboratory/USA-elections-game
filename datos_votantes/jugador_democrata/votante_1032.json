@@ -1,14 +1,14 @@
 {
     "id": 1032,
-    "fecha_voto": "2024-07-19",
-    "estado": "West Virginia",
+    "fecha_voto": "2024-07-13",
+    "estado": "Nebraska",
     "etnia": "asian",
-    "edad": 47,
-    "sexo": "masculino",
-    "salario": 199602,
+    "edad": 31,
+    "sexo": "femenino",
+    "salario": 201633,
     "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
 }

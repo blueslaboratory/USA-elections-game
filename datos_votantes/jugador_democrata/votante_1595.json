@@ -1,14 +1,14 @@
 {
     "id": 1595,
-    "fecha_voto": "2024-09-26",
-    "estado": "Kentucky",
-    "etnia": "asian",
-    "edad": 28,
+    "fecha_voto": "2024-10-04",
+    "estado": "Colorado",
+    "etnia": "illegal",
+    "edad": 70,
     "sexo": "femenino",
-    "salario": 44030,
+    "salario": 210897,
     "estudios": "high school",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 4,
-    "voto": "democrata"
+    "religion": "islam",
+    "casado": true,
+    "hijos": 3,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 911,
-    "fecha_voto": "2024-05-16",
-    "estado": "California",
+    "fecha_voto": "2024-05-15",
+    "estado": "Minnesota",
     "etnia": "white",
-    "edad": 32,
+    "edad": 86,
     "sexo": "masculino",
-    "salario": 108292,
-    "estudios": "graduate",
-    "religion": "hinduism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "salario": 57618,
+    "estudios": "high school",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 0,
+    "voto": "republicano"
 }

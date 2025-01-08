@@ -1,14 +1,14 @@
 {
     "id": 262,
-    "fecha_voto": "2024-02-24",
-    "estado": "Maine",
-    "etnia": "illegal",
-    "edad": 68,
+    "fecha_voto": "2024-02-15",
+    "estado": "Indiana",
+    "etnia": "hispanic",
+    "edad": 20,
     "sexo": "masculino",
-    "salario": 219053,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "salario": 201034,
+    "estudios": "high school",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 2,
+    "hijos": 5,
     "voto": "republicano"
 }

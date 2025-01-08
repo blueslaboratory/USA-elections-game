@@ -1,14 +1,14 @@
 {
     "id": 919,
-    "fecha_voto": "2024-05-20",
-    "estado": "Vermont",
-    "etnia": "indian",
-    "edad": 42,
+    "fecha_voto": "2024-05-30",
+    "estado": "West Virginia",
+    "etnia": "white",
+    "edad": 38,
     "sexo": "masculino",
-    "salario": 33982,
-    "estudios": "graduate",
-    "religion": "islam",
+    "salario": 160858,
+    "estudios": "masters",
+    "religion": "other",
     "casado": false,
     "hijos": 5,
-    "voto": "democrata"
+    "voto": "republicano"
 }

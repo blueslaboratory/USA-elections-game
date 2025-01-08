@@ -1,14 +1,14 @@
 {
     "id": 1481,
-    "fecha_voto": "2024-08-25",
-    "estado": "West Virginia",
-    "etnia": "indian",
-    "edad": 40,
+    "fecha_voto": "2024-08-11",
+    "estado": "Arkansas",
+    "etnia": "hispanic",
+    "edad": 91,
     "sexo": "femenino",
-    "salario": 144716,
-    "estudios": "masters",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "democrata"
+    "salario": 51970,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": true,
+    "hijos": 4,
+    "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1975,
-    "fecha_voto": "2024-11-05",
-    "estado": "Rhode Island",
-    "etnia": "white",
-    "edad": 96,
-    "sexo": "femenino",
-    "salario": 245032,
-    "estudios": "graduate",
-    "religion": "atheism",
-    "casado": false,
-    "hijos": 1,
-    "voto": "republicano"
+    "fecha_voto": "2024-11-04",
+    "estado": "Connecticut",
+    "etnia": "indian",
+    "edad": 47,
+    "sexo": "masculino",
+    "salario": 122502,
+    "estudios": "undergraduate",
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

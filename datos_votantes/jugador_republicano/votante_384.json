@@ -1,14 +1,14 @@
 {
     "id": 384,
-    "fecha_voto": "2024-02-25",
-    "estado": "North Dakota",
-    "etnia": "illegal",
-    "edad": 58,
-    "sexo": "masculino",
-    "salario": 208853,
+    "fecha_voto": "2024-02-26",
+    "estado": "Kentucky",
+    "etnia": "indian",
+    "edad": 12,
+    "sexo": "femenino",
+    "salario": 60523,
     "estudios": "high school",
-    "religion": "christianism",
+    "religion": "judaism",
     "casado": true,
-    "hijos": 0,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

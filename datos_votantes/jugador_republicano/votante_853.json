@@ -1,14 +1,14 @@
 {
     "id": 853,
-    "fecha_voto": "2024-06-13",
-    "estado": "North Carolina",
-    "etnia": "hispanic",
-    "edad": 47,
+    "fecha_voto": "2024-05-12",
+    "estado": "Utah",
+    "etnia": "white",
+    "edad": 59,
     "sexo": "masculino",
-    "salario": 227895,
-    "estudios": "high school",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 1,
+    "salario": 97863,
+    "estudios": "undergraduate",
+    "religion": "christianism",
+    "casado": false,
+    "hijos": 5,
     "voto": "republicano"
 }

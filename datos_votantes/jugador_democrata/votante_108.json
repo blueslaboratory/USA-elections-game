@@ -1,14 +1,14 @@
 {
     "id": 108,
-    "fecha_voto": "2024-01-31",
-    "estado": "New Mexico",
+    "fecha_voto": "2024-01-14",
+    "estado": "Iowa",
     "etnia": "hispanic",
-    "edad": 70,
-    "sexo": "i",
-    "salario": 342800,
-    "estudios": "masters",
-    "religion": "atheism",
+    "edad": 39,
+    "sexo": "masculino",
+    "salario": 72848,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 5,
-    "voto": "democrata"
+    "hijos": 3,
+    "voto": "republicano"
 }

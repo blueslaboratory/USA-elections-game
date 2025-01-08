@@ -1,14 +1,14 @@
 {
     "id": 152,
-    "fecha_voto": "2024-01-23",
-    "estado": "Connecticut",
-    "etnia": "hispanic",
-    "edad": 26,
-    "sexo": "l",
-    "salario": 307665,
-    "estudios": "doctor",
-    "religion": "islam",
+    "fecha_voto": "2024-01-27",
+    "estado": "Colorado",
+    "etnia": "white",
+    "edad": 30,
+    "sexo": "masculino",
+    "salario": 147579,
+    "estudios": "high school",
+    "religion": "atheism",
     "casado": false,
-    "hijos": 0,
-    "voto": "democrata"
+    "hijos": 5,
+    "voto": "republicano"
 }

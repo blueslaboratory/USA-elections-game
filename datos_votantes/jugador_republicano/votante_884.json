@@ -1,14 +1,14 @@
 {
     "id": 884,
-    "fecha_voto": "2024-06-03",
-    "estado": "Arizona",
-    "etnia": "illegal",
-    "edad": 35,
-    "sexo": "masculino",
-    "salario": 159824,
-    "estudios": "graduate",
-    "religion": "islam",
-    "casado": false,
-    "hijos": 0,
-    "voto": "republicano"
+    "fecha_voto": "2024-05-19",
+    "estado": "Oklahoma",
+    "etnia": "white",
+    "edad": 19,
+    "sexo": "femenino",
+    "salario": 232708,
+    "estudios": "doctor",
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
+    "voto": "democrata"
 }

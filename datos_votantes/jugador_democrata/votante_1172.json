@@ -1,14 +1,14 @@
 {
     "id": 1172,
-    "fecha_voto": "2024-07-09",
-    "estado": "West Virginia",
-    "etnia": "white",
-    "edad": 21,
-    "sexo": "masculino",
-    "salario": 170190,
-    "estudios": "doctor",
-    "religion": "judaism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "fecha_voto": "2024-07-07",
+    "estado": "Utah",
+    "etnia": "hispanic",
+    "edad": 43,
+    "sexo": "femenino",
+    "salario": 93283,
+    "estudios": "high school",
+    "religion": "hinduism",
+    "casado": false,
+    "hijos": 4,
+    "voto": "republicano"
 }

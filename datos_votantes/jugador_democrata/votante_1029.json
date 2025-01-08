@@ -1,14 +1,14 @@
 {
     "id": 1029,
-    "fecha_voto": "2024-06-27",
-    "estado": "Wyoming",
+    "fecha_voto": "2024-07-23",
+    "estado": "Tennessee",
     "etnia": "hispanic",
-    "edad": 37,
+    "edad": 44,
     "sexo": "femenino",
-    "salario": 249440,
-    "estudios": "masters",
-    "religion": "hinduism",
-    "casado": false,
+    "salario": 221439,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": true,
     "hijos": 2,
     "voto": "democrata"
 }

@@ -1,14 +1,14 @@
 {
     "id": 1278,
-    "fecha_voto": "2024-08-15",
-    "estado": "Mississippi",
-    "etnia": "white",
-    "edad": 97,
-    "sexo": "femenino",
-    "salario": 133920,
+    "fecha_voto": "2024-09-08",
+    "estado": "Louisiana",
+    "etnia": "asian",
+    "edad": 20,
+    "sexo": "masculino",
+    "salario": 161027,
     "estudios": "doctor",
     "religion": "judaism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "republicano"
+    "casado": true,
+    "hijos": 4,
+    "voto": "democrata"
 }

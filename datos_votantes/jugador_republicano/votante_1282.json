@@ -1,14 +1,14 @@
 {
     "id": 1282,
-    "fecha_voto": "2024-09-09",
-    "estado": "Arizona",
-    "etnia": "white",
-    "edad": 49,
-    "sexo": "masculino",
-    "salario": 57022,
+    "fecha_voto": "2024-08-20",
+    "estado": "North Carolina",
+    "etnia": "hispanic",
+    "edad": 44,
+    "sexo": "femenino",
+    "salario": 220603,
     "estudios": "undergraduate",
-    "religion": "hinduism",
+    "religion": "atheism",
     "casado": false,
     "hijos": 5,
-    "voto": "republicano"
+    "voto": "democrata"
 }

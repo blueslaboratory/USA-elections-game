@@ -1,14 +1,14 @@
 {
     "id": 334,
-    "fecha_voto": "2024-02-16",
-    "estado": "Kansas",
-    "etnia": "indian",
-    "edad": 61,
+    "fecha_voto": "2024-03-15",
+    "estado": "California",
+    "etnia": "white",
+    "edad": 19,
     "sexo": "femenino",
-    "salario": 136292,
-    "estudios": "undergraduate",
-    "religion": "judaism",
+    "salario": 136033,
+    "estudios": "masters",
+    "religion": "hinduism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 4,
     "voto": "democrata"
 }

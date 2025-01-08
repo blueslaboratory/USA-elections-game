@@ -1,14 +1,14 @@
 {
     "id": 1535,
-    "fecha_voto": "2024-10-31",
-    "estado": "Kansas",
-    "etnia": "asian",
-    "edad": 28,
-    "sexo": "femenino",
-    "salario": 169581,
+    "fecha_voto": "2024-10-11",
+    "estado": "Michigan",
+    "etnia": "illegal",
+    "edad": 41,
+    "sexo": "masculino",
+    "salario": 152184,
     "estudios": "high school",
-    "religion": "christianism",
-    "casado": false,
-    "hijos": 2,
-    "voto": "democrata"
+    "religion": "other",
+    "casado": true,
+    "hijos": 1,
+    "voto": "republicano"
 }

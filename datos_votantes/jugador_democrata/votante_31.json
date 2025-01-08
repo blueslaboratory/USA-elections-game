@@ -1,14 +1,14 @@
 {
     "id": 31,
-    "fecha_voto": "2024-02-05",
-    "estado": "Illinois",
-    "etnia": "indian",
-    "edad": 30,
-    "sexo": "s",
-    "salario": 220358,
+    "fecha_voto": "2024-01-07",
+    "estado": "South Carolina",
+    "etnia": "white",
+    "edad": 66,
+    "sexo": "femenino",
+    "salario": 240583,
     "estudios": "undergraduate",
-    "religion": "other",
-    "casado": true,
+    "religion": "judaism",
+    "casado": false,
     "hijos": 0,
-    "voto": "democrata"
+    "voto": "republicano"
 }

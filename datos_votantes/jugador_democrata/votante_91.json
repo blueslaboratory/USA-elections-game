@@ -1,14 +1,14 @@
 {
     "id": 91,
-    "fecha_voto": "2024-01-27",
-    "estado": "Louisiana",
-    "etnia": "illegal",
-    "edad": 46,
-    "sexo": "o",
-    "salario": 175595,
-    "estudios": "graduate",
-    "religion": "christianism",
+    "fecha_voto": "2024-01-06",
+    "estado": "Nevada",
+    "etnia": "black",
+    "edad": 42,
+    "sexo": "masculino",
+    "salario": 208401,
+    "estudios": "masters",
+    "religion": "judaism",
     "casado": false,
-    "hijos": 5,
-    "voto": "republicano"
+    "hijos": 2,
+    "voto": "democrata"
 }

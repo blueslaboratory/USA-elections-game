@@ -1,14 +1,14 @@
 {
     "id": 945,
-    "fecha_voto": "2024-05-21",
-    "estado": "Rhode Island",
-    "etnia": "black",
-    "edad": 34,
+    "fecha_voto": "2024-06-09",
+    "estado": "Kentucky",
+    "etnia": "white",
+    "edad": 73,
     "sexo": "masculino",
-    "salario": 62244,
+    "salario": 55204,
     "estudios": "doctor",
-    "religion": "judaism",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 3,
-    "voto": "democrata"
+    "hijos": 4,
+    "voto": "republicano"
 }

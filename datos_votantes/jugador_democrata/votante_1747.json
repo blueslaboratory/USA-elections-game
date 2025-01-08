@@ -1,14 +1,14 @@
 {
     "id": 1747,
-    "fecha_voto": "2024-10-28",
-    "estado": "West Virginia",
-    "etnia": "indian",
-    "edad": 25,
+    "fecha_voto": "2024-09-22",
+    "estado": "Montana",
+    "etnia": "illegal",
+    "edad": 37,
     "sexo": "femenino",
-    "salario": 86412,
-    "estudios": "undergraduate",
-    "religion": "atheism",
-    "casado": true,
-    "hijos": 1,
-    "voto": "democrata"
+    "salario": 54880,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": false,
+    "hijos": 3,
+    "voto": "republicano"
 }

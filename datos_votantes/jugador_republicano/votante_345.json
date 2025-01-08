@@ -1,14 +1,14 @@
 {
     "id": 345,
-    "fecha_voto": "2024-03-23",
-    "estado": "Arkansas",
-    "etnia": "black",
-    "edad": 83,
+    "fecha_voto": "2024-03-13",
+    "estado": "California",
+    "etnia": "white",
+    "edad": 21,
     "sexo": "masculino",
-    "salario": 192601,
-    "estudios": "high school",
-    "religion": "islam",
+    "salario": 175700,
+    "estudios": "graduate",
+    "religion": "atheism",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 1,
+    "voto": "democrata"
 }

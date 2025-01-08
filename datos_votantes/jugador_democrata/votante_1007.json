@@ -1,14 +1,14 @@
 {
     "id": 1007,
-    "fecha_voto": "2024-07-25",
-    "estado": "Tennessee",
-    "etnia": "illegal",
-    "edad": 35,
+    "fecha_voto": "2024-08-01",
+    "estado": "Illinois",
+    "etnia": "white",
+    "edad": 20,
     "sexo": "femenino",
-    "salario": 201172,
-    "estudios": "graduate",
-    "religion": "christianism",
-    "casado": false,
+    "salario": 150230,
+    "estudios": "high school",
+    "religion": "judaism",
+    "casado": true,
     "hijos": 1,
-    "voto": "republicano"
+    "voto": "democrata"
 }

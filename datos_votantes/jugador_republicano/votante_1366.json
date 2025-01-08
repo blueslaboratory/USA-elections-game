@@ -1,14 +1,14 @@
 {
     "id": 1366,
-    "fecha_voto": "2024-08-31",
-    "estado": "Montana",
-    "etnia": "indian",
-    "edad": 19,
-    "sexo": "femenino",
-    "salario": 33652,
-    "estudios": "undergraduate",
-    "religion": "other",
+    "fecha_voto": "2024-09-19",
+    "estado": "Alaska",
+    "etnia": "white",
+    "edad": 33,
+    "sexo": "masculino",
+    "salario": 36370,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 1,
+    "hijos": 5,
     "voto": "democrata"
 }

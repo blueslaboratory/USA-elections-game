@@ -1,14 +1,14 @@
 {
     "id": 798,
-    "fecha_voto": "2024-06-15",
-    "estado": "West Virginia",
-    "etnia": "hispanic",
-    "edad": 47,
-    "sexo": "masculino",
-    "salario": 94822,
-    "estudios": "high school",
-    "religion": "islam",
+    "fecha_voto": "2024-06-06",
+    "estado": "Oklahoma",
+    "etnia": "white",
+    "edad": 38,
+    "sexo": "femenino",
+    "salario": 183116,
+    "estudios": "undergraduate",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 5,
+    "hijos": 0,
     "voto": "republicano"
 }

@@ -1,14 +1,14 @@
 {
     "id": 307,
-    "fecha_voto": "2024-03-16",
-    "estado": "Wyoming",
+    "fecha_voto": "2024-03-28",
+    "estado": "Massachusetts",
     "etnia": "illegal",
-    "edad": 43,
-    "sexo": "masculino",
-    "salario": 64606,
-    "estudios": "graduate",
-    "religion": "judaism",
+    "edad": 54,
+    "sexo": "femenino",
+    "salario": 83874,
+    "estudios": "high school",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

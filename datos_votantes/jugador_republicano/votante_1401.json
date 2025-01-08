@@ -1,14 +1,14 @@
 {
     "id": 1401,
-    "fecha_voto": "2024-08-16",
-    "estado": "Alaska",
-    "etnia": "illegal",
-    "edad": 67,
+    "fecha_voto": "2024-08-11",
+    "estado": "West Virginia",
+    "etnia": "asian",
+    "edad": 82,
     "sexo": "femenino",
-    "salario": 127334,
+    "salario": 172784,
     "estudios": "masters",
-    "religion": "other",
-    "casado": false,
-    "hijos": 3,
+    "religion": "islam",
+    "casado": true,
+    "hijos": 1,
     "voto": "democrata"
 }

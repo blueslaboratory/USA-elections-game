@@ -1,14 +1,14 @@
 {
     "id": 1243,
-    "fecha_voto": "2024-07-18",
-    "estado": "Pennsylvania",
-    "etnia": "asian",
-    "edad": 33,
+    "fecha_voto": "2024-07-20",
+    "estado": "New Hampshire",
+    "etnia": "black",
+    "edad": 22,
     "sexo": "femenino",
-    "salario": 126286,
-    "estudios": "undergraduate",
+    "salario": 211827,
+    "estudios": "high school",
     "religion": "hinduism",
-    "casado": true,
-    "hijos": 2,
+    "casado": false,
+    "hijos": 5,
     "voto": "democrata"
 }

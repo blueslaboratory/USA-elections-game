@@ -1,14 +1,14 @@
 {
     "id": 1938,
-    "fecha_voto": "2024-11-04",
-    "estado": "Arkansas",
-    "etnia": "white",
-    "edad": 33,
-    "sexo": "femenino",
-    "salario": 93505,
+    "fecha_voto": "2024-11-05",
+    "estado": "New York",
+    "etnia": "indian",
+    "edad": 52,
+    "sexo": "masculino",
+    "salario": 59227,
     "estudios": "masters",
-    "religion": "judaism",
-    "casado": false,
-    "hijos": 0,
+    "religion": "other",
+    "casado": true,
+    "hijos": 3,
     "voto": "democrata"
 }

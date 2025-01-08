@@ -1,14 +1,14 @@
 {
     "id": 396,
-    "fecha_voto": "2024-03-17",
-    "estado": "Texas",
-    "etnia": "asian",
-    "edad": 81,
+    "fecha_voto": "2024-03-12",
+    "estado": "Kentucky",
+    "etnia": "hispanic",
+    "edad": 53,
     "sexo": "masculino",
-    "salario": 166521,
-    "estudios": "high school",
-    "religion": "hinduism",
-    "casado": true,
+    "salario": 139799,
+    "estudios": "doctor",
+    "religion": "islam",
+    "casado": false,
     "hijos": 5,
     "voto": "republicano"
 }

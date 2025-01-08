@@ -1,14 +1,14 @@
 {
     "id": 949,
-    "fecha_voto": "2024-05-12",
-    "estado": "Arizona",
-    "etnia": "indian",
-    "edad": 44,
-    "sexo": "masculino",
-    "salario": 232682,
-    "estudios": "high school",
-    "religion": "islam",
+    "fecha_voto": "2024-06-09",
+    "estado": "Idaho",
+    "etnia": "hispanic",
+    "edad": 28,
+    "sexo": "femenino",
+    "salario": 162577,
+    "estudios": "doctor",
+    "religion": "christianism",
     "casado": false,
-    "hijos": 3,
-    "voto": "republicano"
+    "hijos": 5,
+    "voto": "democrata"
 }

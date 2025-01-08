@@ -1,14 +1,14 @@
 {
     "id": 1250,
-    "fecha_voto": "2024-07-19",
-    "estado": "Indiana",
-    "etnia": "indian",
-    "edad": 46,
-    "sexo": "masculino",
-    "salario": 127486,
-    "estudios": "masters",
-    "religion": "judaism",
+    "fecha_voto": "2024-07-07",
+    "estado": "Vermont",
+    "etnia": "black",
+    "edad": 39,
+    "sexo": "femenino",
+    "salario": 245653,
+    "estudios": "graduate",
+    "religion": "hinduism",
     "casado": false,
-    "hijos": 2,
+    "hijos": 3,
     "voto": "democrata"
 }

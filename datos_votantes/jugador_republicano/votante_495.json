@@ -1,14 +1,14 @@
 {
     "id": 495,
-    "fecha_voto": "2024-02-26",
-    "estado": "Nebraska",
+    "fecha_voto": "2024-03-13",
+    "estado": "New Hampshire",
     "etnia": "asian",
-    "edad": 90,
+    "edad": 10,
     "sexo": "femenino",
-    "salario": 87863,
-    "estudios": "high school",
-    "religion": "christianism",
+    "salario": 82028,
+    "estudios": "graduate",
+    "religion": "other",
     "casado": true,
-    "hijos": 2,
-    "voto": "republicano"
+    "hijos": 0,
+    "voto": "democrata"
 }

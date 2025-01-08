@@ -1,14 +1,14 @@
 {
     "id": 208,
-    "fecha_voto": "2024-01-15",
-    "estado": "Nevada",
-    "etnia": "asian",
-    "edad": 79,
-    "sexo": "l",
-    "salario": 199604,
-    "estudios": "graduate",
-    "religion": "other",
+    "fecha_voto": "2024-01-24",
+    "estado": "South Carolina",
+    "etnia": "black",
+    "edad": 42,
+    "sexo": "femenino",
+    "salario": 157089,
+    "estudios": "masters",
+    "religion": "atheism",
     "casado": false,
     "hijos": 3,
-    "voto": "republicano"
+    "voto": "democrata"
 }

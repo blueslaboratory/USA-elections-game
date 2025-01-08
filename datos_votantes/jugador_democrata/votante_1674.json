@@ -1,14 +1,14 @@
 {
     "id": 1674,
-    "fecha_voto": "2024-10-20",
+    "fecha_voto": "2024-09-22",
     "estado": "Minnesota",
     "etnia": "illegal",
-    "edad": 32,
+    "edad": 66,
     "sexo": "femenino",
-    "salario": 218957,
-    "estudios": "doctor",
-    "religion": "islam",
+    "salario": 86241,
+    "estudios": "masters",
+    "religion": "christianism",
     "casado": true,
-    "hijos": 3,
+    "hijos": 2,
     "voto": "democrata"
 }

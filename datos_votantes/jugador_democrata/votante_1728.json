@@ -1,14 +1,14 @@
 {
     "id": 1728,
-    "fecha_voto": "2024-10-28",
-    "estado": "Alaska",
-    "etnia": "asian",
-    "edad": 25,
+    "fecha_voto": "2024-10-16",
+    "estado": "Nevada",
+    "etnia": "hispanic",
+    "edad": 71,
     "sexo": "femenino",
-    "salario": 50573,
-    "estudios": "graduate",
-    "religion": "other",
-    "casado": true,
-    "hijos": 5,
+    "salario": 151423,
+    "estudios": "doctor",
+    "religion": "atheism",
+    "casado": false,
+    "hijos": 4,
     "voto": "democrata"
 }

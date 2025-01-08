@@ -1,14 +1,14 @@
 {
     "id": 1982,
-    "fecha_voto": "2024-11-04",
-    "estado": "Montana",
-    "etnia": "white",
-    "edad": 24,
+    "fecha_voto": "2024-11-05",
+    "estado": "South Carolina",
+    "etnia": "black",
+    "edad": 67,
     "sexo": "masculino",
-    "salario": 33842,
-    "estudios": "graduate",
-    "religion": "atheism",
+    "salario": 155447,
+    "estudios": "undergraduate",
+    "religion": "islam",
     "casado": false,
-    "hijos": 5,
+    "hijos": 3,
     "voto": "republicano"
 }

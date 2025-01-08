@@ -1,14 +1,14 @@
 {
     "id": 734,
-    "fecha_voto": "2024-04-05",
-    "estado": "Maryland",
-    "etnia": "hispanic",
-    "edad": 24,
+    "fecha_voto": "2024-05-11",
+    "estado": "Iowa",
+    "etnia": "indian",
+    "edad": 70,
     "sexo": "femenino",
-    "salario": 214156,
-    "estudios": "doctor",
-    "religion": "other",
-    "casado": false,
-    "hijos": 0,
+    "salario": 192444,
+    "estudios": "graduate",
+    "religion": "judaism",
+    "casado": true,
+    "hijos": 2,
     "voto": "democrata"
 }
